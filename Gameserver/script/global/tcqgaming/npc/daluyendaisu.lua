@@ -432,14 +432,15 @@ function tbYanLianDaShi:huychuong()
 	local szMsg = "Ngươi gặp ta hỏi gì ?<color>";
 	-- local szMsg = "Chọn loại bạn muốn nhận";
 	local tbOpt = {
-		-- {"<color=yellow>Đổi Sao Chiến Tích",self.doisaone,self};
+		{"<color=yellow>Đổi Sao Chiến Tích",self.doisaone,self};
 		{"<color=gold>Nhận Huy Chương - Hắc Thiết",self.nhanhuychuong,self};
 		{"Hiện tại ta chưa muốn"},
 	};
 	Dialog:Say(szMsg, tbOpt);
 end
 function tbYanLianDaShi:doisaone()
-	local szMsg = "Công thức đổi Sao Chiến Tích\n1 <color=yellow>Huyền Tinh Cấp 6<color=green>\n(2 Sao Chiến Tích)<color>\n1 Huyền Tinh Cấp 7 <color=green>\n(6 Sao Chiến Tích)<color>\n1 Huyền Tinh Cấp 8 <color=green>\n(18 Sao Chiến Tích)<color>\n1 Huyền Tinh Cấp 9 <color=green>\n(54 Sao Chiến Tích)\n<color>1 Huyền Tinh Cấp 10 <color=green>\n(162 Sao Chiến Tích)<color>\n1 Huyền Tinh Cấp 11 <color=green>\n(486 Sao Chiến Tích)<color>\n1 Huyền Tinh Cấp 12 <color=green>\n(1458 Sao Chiến Tích)<color>";
+	-- local szMsg = "Công thức đổi Sao Chiến Tích\n1 <color=yellow>Huyền Tinh Cấp 6<color=green>\n(2 Sao Chiến Tích)<color>\n1 Huyền Tinh Cấp 7 <color=green>\n(6 Sao Chiến Tích)<color>\n1 Huyền Tinh Cấp 8 <color=green>\n(18 Sao Chiến Tích)<color>\n1 Huyền Tinh Cấp 9 <color=green>\n(54 Sao Chiến Tích)\n<color>1 Huyền Tinh Cấp 10 <color=green>\n(162 Sao Chiến Tích)<color>\n1 Huyền Tinh Cấp 11 <color=green>\n(486 Sao Chiến Tích)<color>\n1 Huyền Tinh Cấp 12 <color=green>\n(1458 Sao Chiến Tích)<color>";
+	local szMsg = "Công thức đổi Sao Chiến Tích\n1 <color=yellow>Rương Vừa Đẹp Vừa Cao Quý<color=green>\n(10 Sao Chiến Tích)<color>";
 	-- local szMsg = "Chọn loại bạn muốn nhận";
 	local tbOpt = {
 		{"<color=yellow>Đồng Ý",self.doisaothoi,self};
@@ -450,17 +451,41 @@ end
 function tbYanLianDaShi:doisaothoi()
 	local szMsg = "Ta muốn đổi :"
 	local tbOpt = {
-		{"<color=yellow>Đổi hết huyền tinh 6",self.doisaoht6,self};
-		{"<color=yellow>Đổi hết huyền tinh 7",self.doisaoht7,self};
-		{"<color=yellow>Đổi hết huyền tinh 8",self.doisaoht8,self};
-		{"<color=yellow>Đổi hết huyền tinh 9",self.doisaoht9,self};
-		{"<color=yellow>Đổi hết huyền tinh 10",self.doisaoht10,self};
-		{"<color=yellow>Đổi hết huyền tinh 11",self.doisaoht11,self};
-		{"<color=yellow>Đổi hết huyền tinh 12",self.doisaoht12,self};
+		{"<color=yellow>Đổi hết rương 6677 thành sao",self.doisao6677,self};
+		-- {"<color=yellow>Đổi hết huyền tinh 6",self.doisaoht6,self};
+		-- {"<color=yellow>Đổi hết huyền tinh 7",self.doisaoht7,self};
+		-- {"<color=yellow>Đổi hết huyền tinh 8",self.doisaoht8,self};
+		-- {"<color=yellow>Đổi hết huyền tinh 9",self.doisaoht9,self};
+		-- {"<color=yellow>Đổi hết huyền tinh 10",self.doisaoht10,self};
+		-- {"<color=yellow>Đổi hết huyền tinh 11",self.doisaoht11,self};
+		-- {"<color=yellow>Đổi hết huyền tinh 12",self.doisaoht12,self};
 		{"Hiện tại ta chưa muốn"},
 	};
 	Dialog:Say(szMsg, tbOpt);
 end
+
+function tbYanLianDaShi:doisao6677()
+local tbHuyenTinh	= {18,1,324,1}; -- 6677
+
+local nSoLuong6677 = me.GetItemCountInBags(18,1,324,1) -- 6677
+
+local tbItemInfo = {bForceBind=1,};
+    if me.CountFreeBagCell() < 1 then
+        local szAnnouce = "Cần chuẩn bị <color=purple> 1 ô trống<color> hành trang";
+        Dialog:Say(szAnnouce);
+        return 0;    
+    end
+	if (nSoLuong6677 < 1)  then 
+		Dialog:Say("<color=yellow>Bạn không mang theo Rương vừa đẹp vừa cao quý rồi xin hãy kiểm tra lại"); 
+	return 0;
+	end
+
+local nSoSao = nSoLuong6677*10
+Task:DelItem(me, tbHuyenTinh, nSoLuong6677);
+    me.AddStackItem(18,1,2028,7,tbItemInfo,nSoSao);
+	me.Msg("Đổi thành công <color=purple>"..nSoSao.." Sao Chiến Tích<color>, tiêu hao <color=purple>"..nSoLuong6677.." Rương vừa đẹp vừa cao quý<color><color>");
+end
+
 function tbYanLianDaShi:doisaoht6()
 local tbHuyenTinh	= {18,1,114,6}; -- Huyền Tinh 7
 local tbHuyenTinh1	= {18,1,1,6}; -- Huyền Tinh 7
