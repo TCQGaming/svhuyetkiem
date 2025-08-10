@@ -705,9 +705,9 @@ if (me.GetTask(9154, 1) < 1) then -- task thong bao
 		me.SetTask(9154,2, nCount  + nCoin)
 		local nTichLuySo = me.GetTask(9189,3)
 		me.SetTask(9189,3, nTichLuySo  + nCoin)
-		local szThongBaoTheGioi = string.format("<color=green>"..me.szName.."<color>đã dùng<color=green> "
-					..nCoin.."<color> sò cho Bách Bảo Rương tổng tích lũy đã quay hiện nay "..nTichLuySo.." sò");
-			KDialog.MsgToGlobal(szThongBaoTheGioi);
+		-- local szThongBaoTheGioi = string.format("<color=green>"..me.szName.."<color>đã dùng<color=green> "
+					-- ..nCoin.."<color> sò cho Bách Bảo Rương tổng tích lũy đã quay hiện nay "..nTichLuySo.." sò");
+			-- KDialog.MsgToGlobal(szThongBaoTheGioi);
 else
 	-- me.SetTask(9154,2, nCount  + nCoin)
 	self:GetResult(me, nCoin)
