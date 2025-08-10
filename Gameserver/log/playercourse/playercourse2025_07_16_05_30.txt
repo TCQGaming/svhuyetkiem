@@ -1,0 +1,31 @@
+16-05:30:44	TCQGaming	login 24
+16-05:30:45	TCQGaming	xboyhd	192.168.1.100:33430	LoginHwId_4087821177	639324413
+16-05:30:45	TCQGaming	xboyhd	4087821177	1677830336	SetForbitCode0
+16-05:30:45	TCQGaming	Exchange 8
+16-05:30:48	TCQGaming	login 24
+16-05:30:48	TCQGaming	xboyhd	192.168.1.100:33942	LoginHwId_4087821177	639324413
+16-05:31:07	TCQGaming	dialog Chủ Thương Hội
+16-05:31:29	TCQGaming	dialog Chủ Thương Hội
+16-05:31:33	TCQGaming	UseItem	Túi Tân Thủ
+16-05:31:37	TCQGaming	UseItem	Thẻ GM
+16-05:31:44	TCQGaming	UseItem	Thẻ GM
+16-05:31:51	TCQGaming	UseItem	Thẻ GM
+16-05:31:56	TCQGaming	UseItem	Thẻ GM
+16-05:32:02	TCQGaming	dialog Chủ Thương Hội
+16-05:32:05	TCQGaming	UseItem	Thẻ GM
+16-05:32:11	TCQGaming	UseItem	Thẻ GM
+16-05:32:23	TCQGaming	dialog Chủ Thương Hội
+16-05:32:25	TCQGaming	UseItem	Thẻ GM
+16-05:32:40	TCQGaming	dialog Chủ Thương Hội
+16-05:32:43	TCQGaming	dialog Chủ Thương Hội
+16-05:32:47	TCQGaming	dialog Chủ Thương Hội
+16-05:33:01	TCQGaming	UseItem	Lệnh bài Thương hội (Phó tướng Tống Kim)
+16-05:33:02	TCQGaming	dialog Chủ Thương Hội
+16-05:33:04	TCQGaming	UseItem	Hộp thu thập lệnh bài Thương hội
+16-05:33:08	TCQGaming	dialog Chủ Thương Hội
+16-05:33:12	TCQGaming	dialog Chủ Thương Hội
+16-05:33:17	TCQGaming	AddBindMoney	AddWay107	Count	1500000
+16-05:33:17	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1752618362)	Way104	Value783641
+16-05:34:05	TCQGaming	dialog Chủ Thương Hội
+16-05:34:20	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+16-05:34:22	TCQGaming	Exchange 8

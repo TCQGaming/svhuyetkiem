@@ -1,0 +1,7 @@
+20250324-231015<INFO :000000BC>: [Bishop] Begin to start ... ...
+20250324-231015<INFO :000000BC>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20250324-231018<INFO :000000BC>: [Paysys] Login() Connect to (127.0.0.1 : 8000) SocketStream = 00000000
+20250324-231018<DEBUG:000000BC>: KGLOG_PROCESS_ERROR(piSocketStream) at line 395 in KG_BishopPaySys::Login
+20250324-231018<INFO :000000BC>: [Paysys] Login() nResult = 0
+20250324-231018<DEBUG:000000BC>: KGLOG_PROCESS_ERROR(nRetCode) at line 80 in KG_BishopPaySys::Init
+20250324-231018<DEBUG:000000BC>: KGLOG_PROCESS_ERROR(nRetCode) at line 339 in KG_Bishop::Init

@@ -1,0 +1,27 @@
+20250720-143810<DEBUG:00005EF0>: [PrevInitCore]:1, start tickers = 1101095482692533
+20250720-143811<DEBUG:00005EF0>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3494036618
+20250720-143812<ERROR:00005EF0>: GetInteger(38, 1) failed !
+20250720-143822<DEBUG:00005EF0>: KGLOG_PROCESS_ERROR(dwLockCode == m_dwLockCode) at line 3927 in KPlayer::UnlockAction
+20250720-143826<INFO :00005EF0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-143836<INFO :00005EF0>: [Player]TCQGaming Excute Save Data
+20250720-143921<INFO :00005EF0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-143926<INFO :00005EF0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-143937<INFO :00005EF0>: [Player]TCQGaming Excute Save Data
+20250720-145330<INFO :00005EF0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-145332<INFO :00005EF0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-145335<INFO :00005EF0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-145345<INFO :00005EF0>: [Player]TCQGaming Excute Save Data
+20250720-145401<INFO :00005EF0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-145411<INFO :00005EF0>: [Player]TCQGaming Excute Save Data
+20250720-152411<INFO :00005EF0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250720-152422<INFO :00005EF0>: [Player]TCQGaming Excute Save Data
+20250720-153029<INFO :00005EF0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153039<INFO :00005EF0>: [Player]TCQGaming Excute Save Data
+20250720-153108<INFO :00005EF0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153116<INFO :00005EF0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153126<INFO :00005EF0>: [Player]TCQGaming Excute Save Data
+20250720-153129<INFO :00005EF0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153136<INFO :00005EF0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153146<INFO :00005EF0>: [Player]TCQGaming Excute Save Data
+20250720-154705<DEBUG:00005EF0>: nSocket = 812, nSendFlag = 0, Error = 10054
+20250720-154705<DEBUG:00005EF0>: main thread exit

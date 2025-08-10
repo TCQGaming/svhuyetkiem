@@ -1,0 +1,9 @@
+ID vật phẩm	Miêu tả vật phẩm
+35	Thùng rượu (5 bình)
+36	Thùng rượu (50 bình)
+37	Càn Khôn Phù (10)
+98	Lệnh bài chúc phúc (Trung)
+999	Rương Hồn Thạch (1000 cái)
+29	Tu Luyện Đơn
+322	9 Chuyển
+28	ốc đại

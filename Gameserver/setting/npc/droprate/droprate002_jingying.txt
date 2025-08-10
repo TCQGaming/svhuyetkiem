@@ -1,0 +1,23 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	300					250000		
+		1	3	2	2	20000		tỏa tử giáp 
+		1	3	3	2	20000		thích khách trang 
+		1	3	4	2	20000		dật hiệp trang 
+		1	3	6	2	10000		bạch nhung giáp 
+		1	3	7	2	10000		linh vận trang 
+		1	3	8	2	10000		tươi đẹp sam 
+		1	4	1	2	60000		thiếu hiệp chi giới 
+		1	6	1	2	60000		lả lướt phù 
+		1	7	1	2	60000		ô cách giày 
+		1	7	2	2	30000		Kim xỉ giày 
+		1	8	1	2	60000		chuế giáp đai lưng 
+		1	8	2	2	30000		cung nữ đai lưng 
+		1	9	2	2	20000		tinh thiết buộc tóc 
+		1	9	3	2	20000		đầy tháng lạp 
+		1	9	4	2	20000		Tiêu Dao khăn 
+		1	9	6	2	10000		xanh biếc điệp ngọc đái 
+		1	9	7	2	10000		xanh biếc ngọc dây cột tóc 
+		1	9	8	2	10000		chuông bạc sai 
+		1	11	1	2	40000		lá sen bội 
+		1	11	2	2	20000		cây hoa nhài hương nang 
+		18	1	80	1	40000		phúc túi 

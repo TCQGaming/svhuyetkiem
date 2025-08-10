@@ -1,0 +1,24 @@
+20250719-192832<ERROR:00003628>: [Goddess Server 08] There are no data arrive during 86045 second, auto disconnect!
+20250719-192832<ERROR:00001658>: [Goddess Server 02] There are no data arrive during 86048 second, auto disconnect!
+20250719-192832<ERROR:00001EF0>: [Goddess Server 04] There are no data arrive during 86047 second, auto disconnect!
+20250719-192832<ERROR:00003524>: [Goddess Server 03] There are no data arrive during 86047 second, auto disconnect!
+20250719-192832<ERROR:000037C8>: [Goddess Server 05] There are no data arrive during 86047 second, auto disconnect!
+20250719-192832<ERROR:00003484>: [Goddess Server 07] There are no data arrive during 86043 second, auto disconnect!
+20250719-192832<ERROR:00004638>: [Goddess Server 00] There are no data arrive during 86054 second, auto disconnect!
+20250719-192832<ERROR:00003E58>: [Goddess Server 06] There are no data arrive during 86038 second, auto disconnect!
+20250719-192832<ERROR:00001130>: [Goddess Server 01] There are no data arrive during 86043 second, auto disconnect!
+20250719-192832<INFO :00003628>: [Goddess Server 08] Stopped
+20250719-192832<INFO :00001658>: [Goddess Server 02] Stopped
+20250719-192832<INFO :00001EF0>: [Goddess Server 04] Stopped
+20250719-192832<INFO :00003524>: [Goddess Server 03] Stopped
+20250719-192832<INFO :000037C8>: [Goddess Server 05] Stopped
+20250719-192832<INFO :00003484>: [Goddess Server 07] Stopped
+20250719-192832<INFO :00004638>: [Goddess Server 00] Stopped
+20250719-192832<INFO :00003E58>: [Goddess Server 06] Stopped
+20250719-192832<INFO :00000520>: [ServerManager] Accept from (127.0.0.1: 51188) SocketStream = 01087540
+20250719-192832<INFO :00001130>: [Goddess Server 01] Stopped
+20250719-192832<INFO :00003CF8>: [Goddess Server 09] Started, service for 127.0.0.1:51188
+20250719-192832<DEBUG:00003CF8>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250719-192832<INFO :00000520>: [ServerManager] Accept from (127.0.0.1: 51190) SocketStream = 010872B8
+20250719-192832<INFO :000022EC>: [Goddess Server 10] Started, service for 127.0.0.1:51190
+20250719-192832<DEBUG:000022EC>: [KGD] Success connect to localhost:3306, character set switch to latin1

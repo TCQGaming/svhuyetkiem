@@ -1,0 +1,82 @@
+18-19:30:04	TCQGaming	login 241
+18-19:30:04	TCQGaming	xboyhd	192.168.1.100:56519	LoginHwId_2539837046	639324413
+18-19:30:04	TCQGaming	NewWorld 241
+18-19:30:20	TCQGaming	dialog Quan Ghi Danh
+18-19:30:31	TCQGaming	dialog Quan Ghi Danh
+18-19:30:03	TCQGaming	login 241
+18-19:30:04	TCQGaming	xboyhd	192.168.1.100:37602	LoginHwId_2539837046	639324413
+18-19:30:04	TCQGaming	NewWorld 241
+18-19:31:11	TCQGaming	dialog Quan Ghi Danh
+18-19:33:03	TCQGaming	UseItem	Thẻ GM
+18-19:33:11	TCQGaming	UseItem	Thẻ GM
+18-19:33:12	TCQGaming	UseItem	Thẻ GM
+18-19:33:14	TCQGaming	dialog Quan Ghi Danh
+18-19:33:15	TCQGaming	NewWorld 9
+18-19:33:17	TCQGaming	dialog Huyền Từ
+18-19:33:18	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:33:23	TCQGaming	Exchange 22
+18-19:30:07	TCQGaming	login 241
+18-19:30:07	TCQGaming	xboyhd	192.168.1.100:30691	LoginHwId_2539837046	639324413
+18-19:30:07	TCQGaming	NewWorld 241
+18-19:31:21	TCQGaming	dialog Quan Ghi Danh
+18-19:31:29	TCQGaming	dialog Quan Ghi Danh
+18-19:31:33	TCQGaming	NewWorld 9
+18-19:31:34	TCQGaming	dialog Huyền Từ
+18-19:31:36	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:31:43	TCQGaming	Exchange 22
+18-19:31:57	TCQGaming	login 241
+18-19:31:57	TCQGaming	xboyhd	192.168.1.100:31971	LoginHwId_2539837046	639324413
+18-19:31:57	TCQGaming	NewWorld 241
+18-19:33:23	testttt	login 10
+18-19:33:23	testttt	xboyhd2	192.168.1.100:33251	LoginHwId_1513724674	639324413
+18-19:33:50	testttt	dialog Hoàn Nhan Tương
+18-19:33:52	testttt	NewWorld 241
+18-19:33:52	testttt	NewWorld 241
+18-19:30:07	TCQGaming	login 241
+18-19:30:08	TCQGaming	xboyhd	192.168.1.100:33509	LoginHwId_2539837046	639324413
+18-19:30:08	TCQGaming	NewWorld 241
+18-19:30:08	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:30:08	TCQGaming	Exchange 8
+18-19:30:08	testttt	login 10
+18-19:30:08	testttt	xboyhd2	192.168.1.100:33765	LoginHwId_1513724674	639324413
+18-19:30:08	testttt	xboyhd2	1513724674	1677830336	SetForbitCode0
+18-19:30:08	testttt	Exchange 8
+18-19:30:08	TCQGaming	login 8
+18-19:30:08	testttt	login 8
+18-19:30:08	TCQGaming	xboyhd	192.168.1.100:34021	LoginHwId_2539837046	639324413
+18-19:30:08	testttt	xboyhd2	192.168.1.100:34277	LoginHwId_1513724674	639324413
+18-19:30:35	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:38	TCQGaming	NewWorld 22
+18-19:30:48	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:52	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:55	TCQGaming	Exchange 241
+18-19:30:55	TCQGaming	login 241
+18-19:30:56	TCQGaming	xboyhd	192.168.1.100:35813	LoginHwId_2539837046	639324413
+18-19:30:56	TCQGaming	NewWorld 241
+18-19:31:23	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:31:26	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:31:28	testttt	NewWorld 22
+18-19:31:38	testttt	dialog Dương Thiết Tâm
+18-19:31:39	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:31:42	testttt	Exchange 10
+18-19:32:19	testttt	login 10
+18-19:32:19	testttt	xboyhd2	192.168.1.100:36581	LoginHwId_1513724674	639324413
+18-19:32:21	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:32:49	testttt	dialog Hoàn Nhan Tương
+18-19:32:52	testttt	NewWorld 241
+18-19:32:52	testttt	NewWorld 241
+18-19:30:06	testttt	login 10
+18-19:30:06	testttt	xboyhd2	192.168.1.100:36583	LoginHwId_1513724674	639324413
+18-19:30:06	testttt	xboyhd2	1513724674	1677830336	SetForbitCode0
+18-19:30:06	testttt	Exchange 8
+18-19:30:12	testttt	login 10
+18-19:30:12	testttt	xboyhd2	192.168.1.100:37095	LoginHwId_1513724674	639324413
+18-19:30:16	thieulamne	login 9
+18-19:30:16	thieulamne	xboyhd5	192.168.1.100:37351	LoginHwId_2520388098	639324413
+18-19:30:16	thieulamne	xboyhd5	2520388098	1677830336	SetForbitCode0
+18-19:30:16	thieulamne	Exchange 8
+18-19:30:54	thieulamne	login 9
+18-19:30:54	thieulamne	xboyhd5	192.168.1.100:38375	LoginHwId_2520388098	639324413
+18-19:31:04	thieulamne	dialog Huyền Từ
+18-19:31:06	thieulamne	NewWorld 241
+18-19:31:06	thieulamne	NewWorld 241

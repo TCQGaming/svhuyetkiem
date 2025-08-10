@@ -1,0 +1,15 @@
+[2025-07-18 19:30:04]	INFO	Login AddCharacter: Account[xboyhd2], Role[testttt]
+[2025-07-18 19:30:06]	INFO	xboyhd2(testttt) login
+[2025-07-18 19:30:06]	INFO	LoadPlayerData OK: Account[xboyhd2], RoleName[testttt], CRC[83BD52E7], LastSaveTime[2025-07-18 19:29:58]
+[2025-07-18 19:30:06]	INFO	SendPlayerSave OK: Account[xboyhd2], RoleName[testttt], CRC[F8497111]
+[2025-07-18 19:30:06]	INFO	xboyhd2(testttt) transfer
+[2025-07-18 19:30:12]	INFO	Exchange AddCharacter Account[xboyhd2], Role[testttt]
+[2025-07-18 19:30:12]	INFO	xboyhd2(testttt) login
+[2025-07-18 19:30:12]	INFO	LoadPlayerData OK: Account[xboyhd2], RoleName[testttt], CRC[6B467438], LastSaveTime[2025-07-18 19:30:12]
+[2025-07-18 19:30:15]	INFO	Login AddCharacter: Account[xboyhd5], Role[thieulamne]
+[2025-07-18 19:30:16]	INFO	xboyhd5(thieulamne) login
+[2025-07-18 19:30:16]	INFO	LoadPlayerData OK: Account[xboyhd5], RoleName[thieulamne], CRC[C7DEAEFD], LastSaveTime[2025-07-18 19:32:09]
+[2025-07-18 19:30:16]	INFO	SendPlayerSave OK: Account[xboyhd5], RoleName[thieulamne], CRC[8C60F2CB]
+[2025-07-18 19:30:16]	INFO	xboyhd5(thieulamne) transfer
+[2025-07-18 19:30:54]	INFO	Exchange AddCharacter Account[xboyhd5], Role[thieulamne]
+[2025-07-18 19:30:54]	INFO	xboyhd5(thieulamne) login

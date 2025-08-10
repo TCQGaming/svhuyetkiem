@@ -1,0 +1,21 @@
+Name	Value	Desc
+IVER_nOpenDaily	0	Nhật báo Kiếm Thế
+IVER_nReciveNews	1	Tin mới nhất
+IVER_szLockAccount	"Mỗi lần đăng nhập, nhấn "Mở khóa" và nhập mật mã mới sử dụng được.<color=yellow>Nếu quên mật mã, nhấn "Trợ giúp mở khóa".<color>"	
+IVER_szTelNote	"hãy nhớ liên hệ bộ phận khách hàng khi có lỗi game"	
+IVER_szTelNum	"<enter><enter><color=yellow>Đường dây nóng: hotro.vuakiemthe.net<color>"	
+IVER_szLogo	"loginbg\\ver_2\\logo.spr"	Đăng nhập logo1
+IVER_szLogo2	"loginbg\\logo_kingsoft.spr"	Đăng nhập logo2
+IVER_nMgrCharType	0	Cách xử lý ký tự không nhìn thấy
+IVER_szVnSpr	.spr	Hậu tố spr
+IVER_szLogoTitle	""	Đăng nhập tiêu đề logo
+IVER_nMsgBoardNameSplitType	0	Loại hình phân chia cụm máy lưu tin nhắn GM
+IVER_nSideBarTouch	1	Gửi tin nhắn có hiệu quả không
+IVER_nPhraseOpen	0	Có phải đã đóng một vài biểu cảm
+IVER_nBattleReport	1	Bội số độ dài các ký tự thông tin chiến sự quân Tống
+IVER_nPlayerPanelRepute	60	Khoảng cách danh vọng
+IVER_szBgAccountImageA	loginbg\\a_bg_accounts_201001.spr	Base map bản A
+IVER_szBgAccountImageB	loginbg\\b_bg_accounts_201001.spr	Base map bản B
+IVER_szBgAccountImageC	loginbg\\c_bg_accounts_201001.spr	Base map bản C
+IVER_JXDAILY_OPEN_URL	"http://kiemthe.zing.vn/nhat-bao/"	Nhật báo Kiếm Thế
+IVER_JXDAILY_OPEN_HIDE	"http://kiemthe.zing.vn/nhat-bao/"	Nhật báo Kiếm Thế

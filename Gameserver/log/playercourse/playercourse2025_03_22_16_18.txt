@@ -1,0 +1,170 @@
+22-16:18:09	TCQGaming	login 8
+22-16:18:09	TCQGaming	xboyhd	192.168.1.100:1739	LoginHwId_1344417453	639324413
+22-16:18:09	TCQGaming	xboyhd	1344417453	1677830336	SetForbitCode0
+22-16:18:09	TCQGaming	NewWorld 8
+22-16:19:00	aaaaaâ	login 8
+22-16:19:01	aaaaaâ	aducbva	192.168.1.100:3019	LoginHwId_1344417453	639324413
+22-16:19:01	aaaaaâ	NewWorld 8
+22-16:19:01	aaaaaâ	AddItem	Túi Tân Thủ(1742635141)	Way100	Value2821109
+22-16:19:01	aaaaaâ	LevelUp	2
+22-16:19:01	aaaaaâ	LevelUp	3
+22-16:19:01	aaaaaâ	LevelUp	4
+22-16:19:01	aaaaaâ	LevelUp	5
+22-16:19:01	aaaaaâ	LevelUp	6
+22-16:19:01	aaaaaâ	LevelUp	7
+22-16:19:01	aaaaaâ	LevelUp	8
+22-16:19:01	aaaaaâ	LevelUp	9
+22-16:19:01	aaaaaâ	LevelUp	10
+22-16:19:01	aaaaaâ	LevelUp	11
+22-16:19:01	aaaaaâ	LevelUp	12
+22-16:19:01	aaaaaâ	LevelUp	13
+22-16:19:01	aaaaaâ	LevelUp	14
+22-16:19:01	aaaaaâ	LevelUp	15
+22-16:19:01	aaaaaâ	LevelUp	16
+22-16:19:01	aaaaaâ	LevelUp	17
+22-16:19:01	aaaaaâ	LevelUp	18
+22-16:19:01	aaaaaâ	LevelUp	19
+22-16:19:01	aaaaaâ	LevelUp	20
+22-16:19:01	aaaaaâ	LevelUp	21
+22-16:19:01	aaaaaâ	LevelUp	22
+22-16:19:01	aaaaaâ	LevelUp	23
+22-16:19:01	aaaaaâ	LevelUp	24
+22-16:19:01	aaaaaâ	LevelUp	25
+22-16:19:01	aaaaaâ	LevelUp	26
+22-16:19:01	aaaaaâ	LevelUp	27
+22-16:19:01	aaaaaâ	LevelUp	28
+22-16:19:01	aaaaaâ	LevelUp	29
+22-16:19:01	aaaaaâ	LevelUp	30
+22-16:19:01	aaaaaâ	LevelUp	31
+22-16:19:01	aaaaaâ	LevelUp	32
+22-16:19:01	aaaaaâ	LevelUp	33
+22-16:19:01	aaaaaâ	LevelUp	34
+22-16:19:01	aaaaaâ	LevelUp	35
+22-16:19:01	aaaaaâ	LevelUp	36
+22-16:19:01	aaaaaâ	LevelUp	37
+22-16:19:01	aaaaaâ	LevelUp	38
+22-16:19:01	aaaaaâ	LevelUp	39
+22-16:19:01	aaaaaâ	LevelUp	40
+22-16:19:01	aaaaaâ	LevelUp	41
+22-16:19:01	aaaaaâ	LevelUp	42
+22-16:19:01	aaaaaâ	LevelUp	43
+22-16:19:01	aaaaaâ	LevelUp	44
+22-16:19:01	aaaaaâ	LevelUp	45
+22-16:19:01	aaaaaâ	LevelUp	46
+22-16:19:01	aaaaaâ	LevelUp	47
+22-16:19:01	aaaaaâ	LevelUp	48
+22-16:19:01	aaaaaâ	LevelUp	49
+22-16:19:01	aaaaaâ	LevelUp	50
+22-16:19:01	aaaaaâ	LevelUp	51
+22-16:19:01	aaaaaâ	LevelUp	52
+22-16:19:01	aaaaaâ	LevelUp	53
+22-16:19:01	aaaaaâ	LevelUp	54
+22-16:19:01	aaaaaâ	LevelUp	55
+22-16:19:01	aaaaaâ	LevelUp	56
+22-16:19:01	aaaaaâ	LevelUp	57
+22-16:19:01	aaaaaâ	LevelUp	58
+22-16:19:01	aaaaaâ	LevelUp	59
+22-16:19:01	aaaaaâ	LevelUp	60
+22-16:19:01	aaaaaâ	LevelUp	61
+22-16:19:01	aaaaaâ	LevelUp	62
+22-16:19:01	aaaaaâ	LevelUp	63
+22-16:19:01	aaaaaâ	LevelUp	64
+22-16:19:01	aaaaaâ	LevelUp	65
+22-16:19:01	aaaaaâ	LevelUp	66
+22-16:19:01	aaaaaâ	LevelUp	67
+22-16:19:01	aaaaaâ	LevelUp	68
+22-16:19:01	aaaaaâ	LevelUp	69
+22-16:19:01	aaaaaâ	LevelUp	70
+22-16:19:01	aaaaaâ	LevelUp	71
+22-16:19:01	aaaaaâ	LevelUp	72
+22-16:19:01	aaaaaâ	LevelUp	73
+22-16:19:01	aaaaaâ	LevelUp	74
+22-16:19:01	aaaaaâ	LevelUp	75
+22-16:19:01	aaaaaâ	LevelUp	76
+22-16:19:01	aaaaaâ	LevelUp	77
+22-16:19:01	aaaaaâ	LevelUp	78
+22-16:19:01	aaaaaâ	LevelUp	79
+22-16:19:01	aaaaaâ	LevelUp	80
+22-16:19:01	aaaaaâ	LevelUp	81
+22-16:19:01	aaaaaâ	LevelUp	82
+22-16:19:01	aaaaaâ	LevelUp	83
+22-16:19:01	aaaaaâ	LevelUp	84
+22-16:19:01	aaaaaâ	LevelUp	85
+22-16:19:01	aaaaaâ	LevelUp	86
+22-16:19:01	aaaaaâ	LevelUp	87
+22-16:19:01	aaaaaâ	LevelUp	88
+22-16:19:01	aaaaaâ	LevelUp	89
+22-16:19:01	aaaaaâ	LevelUp	90
+22-16:19:01	aaaaaâ	LevelUp	91
+22-16:19:01	aaaaaâ	LevelUp	92
+22-16:19:01	aaaaaâ	LevelUp	93
+22-16:19:01	aaaaaâ	LevelUp	94
+22-16:19:01	aaaaaâ	LevelUp	95
+22-16:19:01	aaaaaâ	LevelUp	96
+22-16:19:01	aaaaaâ	LevelUp	97
+22-16:19:01	aaaaaâ	LevelUp	98
+22-16:19:01	aaaaaâ	LevelUp	99
+22-16:19:01	aaaaaâ	LevelUp	100
+22-16:19:01	aaaaaâ	LevelUp	101
+22-16:19:01	aaaaaâ	LevelUp	102
+22-16:19:01	aaaaaâ	LevelUp	103
+22-16:19:01	aaaaaâ	LevelUp	104
+22-16:19:01	aaaaaâ	LevelUp	105
+22-16:19:01	aaaaaâ	LevelUp	106
+22-16:19:01	aaaaaâ	LevelUp	107
+22-16:19:01	aaaaaâ	LevelUp	108
+22-16:19:01	aaaaaâ	LevelUp	109
+22-16:19:01	aaaaaâ	LevelUp	110
+22-16:19:01	aaaaaâ	AddItem	Túi Khởi La(1742635141)	Way100	Value1050000
+22-16:19:01	aaaaaâ	AddItem	Túi Khởi La(1742635141)	Way100	Value1050000
+22-16:19:01	aaaaaâ	AddItem	Lệnh bài Uy danh giang hồ(1742635141)	Way100	Value100000
+22-16:19:01	aaaaaâ	AddItem	Huyền Tinh Cấp 5(1742635141)	Way100	Value67184
+22-16:19:01	aaaaaâ	AddItem	Ngọc Trúc Mai Hoa (tháng)(1742635141)	Way100	Value100000
+22-16:19:01	aaaaaâ	aducbva	1344417453	1677830336	SetForbitCode0
+22-16:19:01	aaaaaâ	NewWorld 8
+22-16:19:04	aaaaaâ	UseItem	Ngọc Trúc Mai Hoa (tháng)
+22-16:19:04	aaaaaâ	RemoveItem	Ngọc Trúc Mai Hoa (tháng)(1742635141)	Way5	Value100000
+22-16:19:04	aaaaaâ	UseItem	Táo Hồng
+22-16:19:06	aaaaaâ	dialog Cổ Phong Hà
+22-16:19:09	aaaaaâ	UseItem	Túi Tân Thủ
+22-16:19:13	aaaaaâ	UseItem	Túi Tân Thủ
+22-16:19:14	aaaaaâ	AddItem	Ma Đao Thạch (cấp 6)(1742635154)	Way100	Value0
+22-16:19:14	aaaaaâ	AddItem	Hộ Giáp Phiến (cấp 6)(1742635154)	Way100	Value0
+22-16:19:14	aaaaaâ	AddItem	Ngũ Hành Thạch (cấp 6)(1742635154)	Way100	Value0
+22-16:19:14	aaaaaâ	AddItem	Chiến Thư-Mật Thất Du Long(1742635154)	Way100	Value50000
+22-16:19:14	aaaaaâ	AddItem	Chiến Thư-Mật Thất Du Long(1742635154)	Way100	Value700000
+22-16:19:15	aaaaaâ	UseItem	Túi Tân Thủ
+22-16:19:17	aaaaaâ	AddItem	Rương trang bị Tân Thủ(1742635157)	Way100	Value100000
+22-16:19:30	aaaaaâ	UseItem	Rương trang bị Tân Thủ
+22-16:19:30	aaaaaâ	AddItem	Thiên Ngoại Phi Tiên-Ô Sương(1742635170)	Way100	Value21211532
+22-16:19:30	aaaaaâ	AddItem	Thiên Nhẫn Bí Trang-Việt Quang(1742635170)	Way100	Value5129060
+22-16:19:30	aaaaaâ	AddItem	Tu La Phát Kết-Cự Mộc(1742635170)	Way100	Value5113980
+22-16:19:30	aaaaaâ	AddItem	Võ Hầu Thúc Đái-Chu Thiềm(1742635170)	Way100	Value5111048
+22-16:19:30	aaaaaâ	AddItem	Thiên Tàm Ngoa-Thiên Sơn(1742635170)	Way100	Value5241698
+22-16:19:30	aaaaaâ	AddItem	Thiên Tàm Hộ Uyển-Nghịch Thủy(1742635170)	Way100	Value5127235
+22-16:19:30	aaaaaâ	AddItem	Triều Lộ Liên-Việt Quang(1742635170)	Way100	Value7726654
+22-16:19:30	aaaaaâ	AddItem	Ứng Long Giới-Chu Thiềm(1742635170)	Way100	Value7722687
+22-16:19:30	aaaaaâ	AddItem	Bắc Minh Bội-Nghịch Thủy(1742635170)	Way100	Value7669233
+22-16:19:30	aaaaaâ	AddItem	Tiên Duyên Phù-Hoàng Quang(1742635170)	Way100	Value7828279
+22-16:19:30	aaaaaâ	RemoveItem	Rương trang bị Tân Thủ(1742635157)	Way100	Value100000
+22-16:19:32	aaaaaâ	UseItem	Thiên Ngoại Phi Tiên-Ô Sương
+22-16:19:32	aaaaaâ	UseItem	Thiên Nhẫn Bí Trang-Việt Quang
+22-16:19:32	aaaaaâ	UseItem	Tu La Phát Kết-Cự Mộc
+22-16:19:33	aaaaaâ	UseItem	Võ Hầu Thúc Đái-Chu Thiềm
+22-16:19:33	aaaaaâ	UseItem	Bắc Minh Bội-Nghịch Thủy
+22-16:19:33	aaaaaâ	UseItem	Triều Lộ Liên-Việt Quang
+22-16:19:33	aaaaaâ	UseItem	Thiên Tàm Ngoa-Thiên Sơn
+22-16:19:34	aaaaaâ	UseItem	Tiên Duyên Phù-Hoàng Quang
+22-16:19:34	aaaaaâ	UseItem	Thiên Tàm Hộ Uyển-Nghịch Thủy
+22-16:19:34	aaaaaâ	UseItem	Ứng Long Giới-Chu Thiềm
+22-16:19:36	aaaaaâ	UseItem	Túi Tân Thủ
+22-16:19:39	aaaaaâ	UseItem	Túi Tân Thủ
+22-16:19:44	aaaaaâ	AddItem	Vô Hạn Truyền Tống Phù(1742635184)	Way100	Value150000
+22-16:19:45	aaaaaâ	UseItem	Vô Hạn Truyền Tống Phù
+22-16:19:47	aaaaaâ	Exchange 30
+22-16:19:50	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+22-16:19:52	TCQGaming	Exchange 30
+22-16:21:12	aaaaaâ	login 8
+22-16:21:12	aaaaaâ	aducbva	192.168.1.100:6859	LoginHwId_1344417453	639324413
+22-16:21:56	aaaaaâ	UseItem	Vô Hạn Truyền Tống Phù
+22-16:21:58	aaaaaâ	Exchange 30

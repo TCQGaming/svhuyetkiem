@@ -1,0 +1,27 @@
+20250322-161752<DEBUG:000028C8>: [PrevInitCore]:1, start tickers = 1261785027661737
+20250322-161753<DEBUG:00008E18>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3926914529
+20250322-161753<DEBUG:00005598>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3785875447
+20250322-161753<DEBUG:000028C8>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3902391339
+20250322-161754<ERROR:00008E18>: GetInteger(38, 1) failed !
+20250322-161754<ERROR:00005598>: GetInteger(38, 1) failed !
+20250322-161754<ERROR:000028C8>: GetInteger(38, 1) failed !
+20250322-161801<WARN :000028C8>: LostFps: 106 (+106)
+20250322-161801<WARN :000028C8>: LostFps: 60 (-46)
+20250322-161802<WARN :000028C8>: LostFps: 12 (-48)
+20250322-161803<WARN :000028C8>: LostFps: 0 (-12)
+20250322-161901<DEBUG:000028C8>: KGLOG_PROCESS_ERROR(dwLockCode == m_dwLockCode) at line 3927 in KPlayer::UnlockAction
+20250322-161914<INFO :000028C8>: [Player]aaaaaâ Apply Save Data By Reason Value
+20250322-161924<INFO :000028C8>: [Player]aaaaaâ Excute Save Data
+20250322-161930<INFO :000028C8>: [Player]aaaaaâ Apply Save Data By Reason Value
+20250322-161940<INFO :000028C8>: [Player]aaaaaâ Excute Save Data
+20250322-161944<INFO :000028C8>: [Player]aaaaaâ Apply Save Data By Reason Value
+20250322-172932<DEBUG:00005598>: nSocket = 828, nSendFlag = 0, Error = 10054
+20250322-172932<DEBUG:00008E18>: nSocket = 860, nSendFlag = 0, Error = 10054
+20250322-172932<ERROR:00008E18>: Gamecenter Disconnect!!
+20250322-172932<DEBUG:000028C8>: KGLOG_PROCESS_ERROR(DatabaseIsGood()) at line 2239 in KSwordOnLineSever::SendSavePlayerData
+20250322-172932<DEBUG:00005598>: KGLOG_PROCESS_ERROR(DatabaseIsGood()) at line 2239 in KSwordOnLineSever::SendSavePlayerData
+20250322-172932<DEBUG:00008E18>: nSocket = 856, nSendFlag = 0, Error = 10054
+20250322-172932<DEBUG:000028C8>: main thread exit
+20250322-172932<DEBUG:00005598>: main thread exit
+20250322-172932<DEBUG:00008E18>: KGLOG_PROCESS_ERROR(DatabaseIsGood()) at line 2239 in KSwordOnLineSever::SendSavePlayerData
+20250322-172932<DEBUG:00008E18>: main thread exit

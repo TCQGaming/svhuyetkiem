@@ -1,0 +1,48 @@
+[2025-07-19 03:51:38]	INFO	linkid:0 connect, free linkid count:998
+[2025-07-19 03:51:38]	INFO	Send syncend OK: Account[xboyhd1], Role[tessssssst], linkid:0, PlayerIndex:1
+[2025-07-19 03:52:08]	INFO	linkid:1 connect, free linkid count:997
+[2025-07-19 03:52:08]	INFO	Send syncend OK: Account[xboyhd], Role[TCQGaming], linkid:1, PlayerIndex:2
+[2025-07-19 03:56:13]	INFO	shutdown linkid:0, game status:2
+[2025-07-19 03:56:13]	INFO	xboyhd1(tessssssst) linkid:0, disconnect: Normal
+[2025-07-19 03:56:13]	INFO	linkid:0 disconnect, free linkid count:998
+[2025-07-19 03:56:19]	INFO	shutdown linkid:1, game status:2
+[2025-07-19 03:56:19]	INFO	xboyhd(TCQGaming) linkid:1, disconnect: Normal
+[2025-07-19 03:56:19]	INFO	linkid:1 disconnect, free linkid count:999
+[2025-07-19 03:56:38]	INFO	linkid:1 connect, free linkid count:998
+[2025-07-19 03:56:38]	INFO	Send syncend OK: Account[xboyhd], Role[TCQGaming], linkid:1, PlayerIndex:2
+[2025-07-19 03:56:53]	INFO	linkid:0 connect, free linkid count:997
+[2025-07-19 03:56:53]	INFO	Send syncend OK: Account[xboyhd1], Role[tessssssst], linkid:0, PlayerIndex:1
+[2025-07-19 03:58:05]	INFO	linkid:2 connect, free linkid count:996
+[2025-07-19 03:58:05]	INFO	Send syncend OK: Account[xboyhd2], Role[testttt], linkid:2, PlayerIndex:3
+[2025-07-19 04:00:54]	INFO	linkid:3 connect, free linkid count:995
+[2025-07-19 04:00:54]	INFO	Send syncend OK: Account[sanbox], Role[TVCSanBox], linkid:3, PlayerIndex:4
+[2025-07-19 04:01:59]	INFO	shutdown linkid:2, game status:2
+[2025-07-19 04:01:59]	INFO	Send data error, connection(2)
+
+[2025-07-19 04:01:59]	INFO	Send data error, connection(2)
+
+[2025-07-19 04:01:59]	INFO	Send data error, connection(2)
+
+[2025-07-19 04:01:59]	INFO	Send data error, connection(2)
+
+[2025-07-19 04:01:59]	INFO	Send data error, connection(2)
+
+[2025-07-19 04:01:59]	INFO	xboyhd2(testttt) linkid:2, disconnect: Normal
+[2025-07-19 04:01:59]	INFO	linkid:2 disconnect, free linkid count:996
+[2025-07-19 04:09:21]	INFO	shutdown linkid:3, game status:2
+[2025-07-19 04:09:21]	INFO	sanbox(TVCSanBox) linkid:3, disconnect: Normal
+[2025-07-19 04:09:21]	INFO	linkid:3 disconnect, free linkid count:997
+[2025-07-19 04:10:01]	INFO	linkid:3 connect, free linkid count:996
+[2025-07-19 04:10:01]	INFO	Send syncend OK: Account[sanbox], Role[TVCSanBox], linkid:3, PlayerIndex:4
+[2025-07-19 06:26:00]	INFO	shutdown linkid:3, game status:2
+[2025-07-19 06:26:00]	INFO	Send data error, connection(3)
+
+[2025-07-19 06:26:00]	INFO	Send data error, connection(3)
+
+[2025-07-19 06:26:00]	INFO	sanbox(TVCSanBox) linkid:3, disconnect: Normal
+[2025-07-19 06:26:00]	INFO	linkid:3 disconnect, free linkid count:997
+[2025-07-19 11:26:00]	INFO	shutdown linkid:0, game status:2
+[2025-07-19 11:26:00]	INFO	xboyhd1(tessssssst) linkid:0, disconnect: Normal
+[2025-07-19 11:26:00]	INFO	linkid:0 disconnect, free linkid count:998
+[2025-07-19 11:26:00]	INFO	shutdown linkid:1, game status:2
+[2025-07-19 11:26:00]	INFO	xboyhd(TCQGaming) linkid:1, disconnect: Normal

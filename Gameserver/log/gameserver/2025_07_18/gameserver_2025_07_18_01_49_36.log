@@ -1,0 +1,21 @@
+20250718-014936<DEBUG:00004818>: [PrevInitCore]:1, start tickers = 291931577059241
+20250718-014936<DEBUG:00004D18>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3875000054
+20250718-014936<DEBUG:00004818>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 4093457863
+20250718-014936<ERROR:00004D18>: GetInteger(38, 1) failed !
+20250718-014936<ERROR:00004818>: GetInteger(38, 1) failed !
+20250718-014941<WARN :00004818>: LostFps: 107 (+107)
+20250718-014941<WARN :00004D18>: LostFps: 80 (+80)
+20250718-014942<WARN :00004818>: LostFps: 62 (-45)
+20250718-014943<WARN :00004818>: LostFps: 16 (-46)
+20250718-014943<WARN :00004D18>: LostFps: 0 (-37)
+20250718-014944<WARN :00004818>: LostFps: 0 (-16)
+20250718-014946<DEBUG:00004818>: KGLOG_PROCESS_ERROR(dwLockCode == m_dwLockCode) at line 3927 in KPlayer::UnlockAction
+20250718-015306<INFO :00004818>: [Player]TCQGaming Apply Save Data By Reason Value
+20250718-015316<INFO :00004818>: [Player]TCQGaming Excute Save Data
+20250718-020219<INFO :00004818>: [Player]TCQGaming Apply Save Data By Reason Value
+20250718-020229<INFO :00004818>: [Player]TCQGaming Excute Save Data
+20250718-020241<INFO :00004818>: [Player]TCQGaming Apply Save Data By Reason Value
+20250718-020244<INFO :00004818>: [Player]TCQGaming Apply Save Data By Reason Value
+20250718-020254<INFO :00004818>: [Player]TCQGaming Excute Save Data
+20250718-023254<INFO :00004818>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250718-023304<INFO :00004818>: [Player]TCQGaming Excute Save Data

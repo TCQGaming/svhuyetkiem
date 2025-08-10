@@ -1,0 +1,43 @@
+20250717-051631<DEBUG:00003E0C>: [Player 78] ThreadFunction() Accept from (192.168.1.100 : 50448) SocketStream = 00DE71E0
+20250717-051632<DEBUG:00003E0C>: [Player 78] Account xboyhd login bishop ... ... [OK]
+20250717-051632<DEBUG:00003E0C>: [InterlockedAccountStateTable] xboyhd, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250717-051632<DEBUG:00002868>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 1
+20250717-051632<DEBUG:00002868>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 1
+20250717-051633<DEBUG:00003E0C>: [Player 78] ProcessRoleList() RoleCount = 1!
+20250717-051633<DEBUG:00003E0C>: [Player 78] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250717-051633<DEBUG:00002868>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 2
+20250717-051633<DEBUG:00002868>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 2
+20250717-051634<DEBUG:00003E0C>: [Player 78] QueryRoleListInZone() Role Count In Zone = 1!
+20250717-051638<DEBUG:00003E0C>: [Player 78] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250717-051638<DEBUG:00003E0C>: [Player 78] EnterGame_QueryRoleData() RoleName = TCQGaming
+20250717-051638<DEBUG:00002868>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 20; Key = 3
+20250717-051638<DEBUG:00002868>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 1771; Key = 3
+20250717-051639<DEBUG:00003E0C>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20250717-051639<DEBUG:00003E0C>: [Player 78] Request enter game: ask for permission, account = xboyhd, role name = TCQGaming ... ... [OK]
+20250717-051639<DEBUG:000048A0>: [GameServer 11] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 1903; Key = 1
+20250717-051639<DEBUG:000048A0>: [GameServer 11] g2b_player_login_permission() , Account = xboyhd, Role = TCQGaming, Permit = true
+20250717-051640<DEBUG:00003E0C>: [Player 78] Notify player login game: ip = 255.255.255.255, port = 6047, account = xboyhd, role = TCQGaming
+20250717-051640<DEBUG:000048A0>: [GameServer 11] g2b_player_enter_game() AccountName = xboyhd
+20250717-051731<DEBUG:000048A0>: nSocket = 16944, nSendFlag = 0, Error = 10054
+20250717-051731<DEBUG:000048A0>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250717-051731<DEBUG:000048A0>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250717-051731<INFO :000048A0>: [GameServer 11]  === End ===
+20250717-051731<DEBUG:000048A0>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20250717-051731<DEBUG:000048A0>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20250717-051731<INFO :000048A0>: [GameServer 11] unlock No.0 accounts in game server : [xboyhd] ... ... [OK]
+20250717-051731<DEBUG:00004828>: nSocket = 16876, nSendFlag = 0, Error = 10054
+20250717-051731<DEBUG:00004828>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250717-051731<DEBUG:00004828>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250717-051731<INFO :00004828>: [GameServer 13]  === End ===
+20250717-051732<DEBUG:00002B64>: nSocket = 16888, nSendFlag = 0, Error = 10054
+20250717-051732<DEBUG:00002B64>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250717-051732<DEBUG:00002B64>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250717-051732<INFO :00002B64>: [GameServer 12]  === End ===
+20250717-051732<DEBUG:000048F4>: nSocket = 16896, nSendFlag = 0, Error = 10054
+20250717-051732<DEBUG:000048F4>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250717-051732<DEBUG:000048F4>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250717-051732<INFO :000048F4>: [GameServer 10]  === End ===
+20250717-051732<DEBUG:00004AD8>: nSocket = 17000, nSendFlag = 0, Error = 10054
+20250717-051732<DEBUG:00004AD8>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250717-051732<DEBUG:00004AD8>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250717-051732<INFO :00004AD8>: [GameServer 9]  === End ===

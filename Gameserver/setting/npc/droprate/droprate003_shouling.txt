@@ -1,0 +1,33 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	375					250000		
+		1	1	1	3	5000		quyền tông gay go 
+		1	1	2	3	5000		thất xích kiếm 
+		1	1	3	3	5000		Trảm mã đao 
+		1	1	4	3	5000		tứ bình côn 
+		1	1	5	3	5000		điểm thép thương 
+		1	1	6	3	5000		năm sao chuy 
+		1	2	2	3	2500		xé gió đao 
+		1	2	3	3	2500		hồng nhạn tiến 
+		1	3	2	3	15000		lưỡng đang khải 
+		1	3	3	3	15000		cá nhẫn trang 
+		1	3	4	3	15000		thanh sương bào 
+		1	3	6	3	7500		võ luyện giáp 
+		1	3	7	3	7500		tử trang phục 
+		1	3	8	3	7500		tâm ấn sam 
+		1	5	1	3	45000		bông tuyết hạng liên 
+		1	6	1	3	45000		bách cẩm phù 
+		1	8	1	3	45000		thanh thú đai lưng 
+		1	8	2	3	22500		mâm Hoa đai lưng 
+		1	9	2	3	15000		song mặt khôi 
+		1	9	3	3	15000		huyền sa cân 
+		1	9	4	3	15000		gió thu quan 
+		1	9	6	3	7500		chim trả trâm 
+		1	9	7	3	7500		ích Thủy dây cột tóc 
+		1	9	8	3	7500		thú cốt sai 
+		1	10	1	3	45000		cức tường bao cổ tay 
+		1	10	2	3	22500		lả lướt thủ trạc 
+		1	11	1	3	30000		Hươu văn bội 
+		1	11	2	3	15000		cây hương trầm hương nang 
+		18	1	114	4	15000		4cấp huyền tinh 
+		18	1	114	5	1000		5cấp huyền tinh 
+		18	1	80	1	40000		phúc túi 

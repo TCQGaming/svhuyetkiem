@@ -1,0 +1,19 @@
+[2025-03-22 16:07:58]	INFO	linkid:0 connect, free linkid count:600
+[2025-03-22 16:07:58]	INFO	Send syncend OK: Account[xboyhd], Role[TCQGaming], linkid:0, PlayerIndex:1
+[2025-03-22 16:09:22]	INFO	() linkid:0, disconnect: Normal
+[2025-03-22 16:09:22]	INFO	linkid:0 disconnect, free linkid count:601
+[2025-03-22 16:15:49]	INFO	linkid:0 connect, free linkid count:600
+[2025-03-22 16:15:49]	INFO	Send syncend OK: Account[xboyhd], Role[TCQGaming], linkid:0, PlayerIndex:1
+[2025-03-22 16:17:01]	INFO	shutdown linkid:0, game status:2
+[2025-03-22 16:17:01]	INFO	xboyhd(TCQGaming) linkid:0, disconnect: Normal
+5:09]	INFO	Send data error, connection(0)
+
+[2025-03-22 16:15:09]	INFO	Send data error, connection(0)
+
+[2025-03-22 16:15:09]	INFO	Send data error, connection(0)
+
+[2025-03-22 16:15:09]	INFO	xboyhd(TCQGaming) linkid:0, disconnect: Normal
+[2025-03-22 16:15:09]	INFO	linkid:0 disconnect, free linkid count:999
+[2025-03-22 16:15:48]	INFO	linkid:0 connect, free linkid count:998
+[2025-03-22 16:15:48]	INFO	Send syncend OK: Account[xboyhd], Role[TCQGaming], linkid:0, PlayerIndex:1
+[2025-03-22 16:15:49]	INFO	() linkid:0, disconnect: Normal

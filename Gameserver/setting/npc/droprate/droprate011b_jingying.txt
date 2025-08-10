@@ -1,0 +1,31 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	900					250000		
+		1	1	1	10	3200		10cấp gay go 
+		1	1	2	10	3200		10cấp kiếm 
+		1	1	3	10	3200		10cấp đao 
+		1	1	4	10	3200		10cấp côn 
+		1	1	5	10	3200		10cấp thương 
+		1	1	6	10	3200		10cấp chuy 
+		1	2	2	10	1600		10cấp phi đao 
+		1	2	3	10	1600		10cấp tên nỏ 
+		1	3	2	10	10000		10cấp nam giáp y 
+		1	3	3	10	10000		10cấp nam áo da 
+		1	3	4	10	10000		10cấp nam bố y 
+		1	3	6	10	5000		10cấp nữ giáp y 
+		1	3	7	10	5000		10cấp nữ áo da 
+		1	3	8	10	5000		10cấp nữ bố y 
+		1	4	1	10	30000		10cấp nhẫn 
+		1	5	1	10	30000		10cấp hạng liên 
+		1	7	1	10	30000		10cấp nam giày 
+		1	7	2	10	15000		10cấp nữ giày 
+		1	9	2	10	10000		10cấp nam giáp mạo 
+		1	9	3	10	10000		10cấp nam da mạo 
+		1	9	4	10	10000		10cấp nam bố mạo 
+		1	9	6	10	5000		10cấp nữ giáp mạo 
+		1	9	7	10	5000		10cấp nữ da mạo 
+		1	9	8	10	5000		10cấp nữ bố mạo 
+		1	10	1	10	30000		10cấp bao cổ tay 
+		1	10	2	10	15000		10cấp thủ trạc 
+		1	11	1	10	20000		10cấp ngọc bội 
+		1	11	2	10	10000		10cấp hương nang 
+		18	1	80	1	40000		phúc túi 

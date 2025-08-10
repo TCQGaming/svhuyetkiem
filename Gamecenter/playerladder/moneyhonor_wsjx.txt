@@ -1,0 +1,101 @@
+Rank	GateWay	Account	PlayerName	Faction	Route	Level	Sex	KinName	TongName	MoneyHonor	2025-02-08 03:00:01
+1	wsjx	aducbva	Phoenix	 Đường Môn	 Tụ Tiễn	107	Nữ	ChimLửa	Immortal	184595
+2	wsjx	anhhieua	PằngAChíu	 Minh Giáo	 Kiếm Minh	108	Nam	MEIMEI	Tuyệt	184266
+3	wsjx	nguyenvanhuy	huhuhu	 Ngũ Độc	 Chưởng Độc	107	Nam	huhuhuhi	Tuyệt	181805
+4	wsjx	cuocdoi	LiễuNhưYên	 Côn Lôn	 Côn Lôn	99	Nữ	TuyetNe	Tuyệt	174587
+5	wsjx	kemangtamsu	KẻMangTâmSự	Đoàn Thị	 Khí Đoàn	109	Nam	DongXuong	Immortal	152977
+6	wsjx	phamhanhd	phamhanh85	Đoàn Thị	 Khí Đoàn	105	Nam	Important	Immortal	150082
+7	wsjx	sauthienthu	SaoMai	 Ngũ Độc	 Đao Độc	103	Nam	ChimLửa	Immortal	126186
+8	wsjx	duagang	Guanjun	 Đường Môn	 Tụ Tiễn	106	Nam	TuyetClone	Tuyệt	108706
+9	wsjx	anhhieub	SùngALú	 Ngũ Độc	 Đao Độc	106	Nam	MEIMEI	Tuyệt	102502
+10	wsjx	anhhieuc	GiàngAPáo	 Đường Môn	 Tụ Tiễn	107	Nam	MEIMEI	Tuyệt	102243
+11	wsjx	anhhieue	LừaXongPhắn	 Thiên Nhẫn	 Ma Nhẫn	107	Nam	MEIMEI	Tuyệt	102206
+12	wsjx	anhhieud	GiàngALử	 Thúy Yên	 Kiếm Thúy	106	Nam	MEIMEI	Tuyệt	92480
+13	wsjx	nhankien	Coffee	 Ngũ Độc	 Chưởng Độc	105	Nữ	Important	Immortal	85424
+14	wsjx	anhhieuf	SùngThịTẹt	 Nga My	 Phụ Trợ	106	Nữ	MEIMEI	Tuyệt	84305
+15	wsjx	cuocdoic	DạMa	 Thiên Nhẫn	 Thiên Nhẫn	99	Nam	TuyetNe	Tuyệt	81877
+16	wsjx	anmaya	KHUNGLONG	 Ngũ Độc	 Chưởng Độc	101	Nam	MEIMEI	Tuyệt	81196
+17	wsjx	cuocdoid	HạoThiênChày	 Minh Giáo	 Minh Giáo	99	Nam	TuyetNe	Tuyệt	80474
+18	wsjx	cuocdoib	MộcUyển	 Đường Môn	 Đường Môn	99	Nữ	TuyetNe	Tuyệt	79242
+19	wsjx	phamhanha	zXznuquaizXz	 Thúy Yên	 Kiếm Thúy	104	Nữ	Important	Immortal	75120
+20	wsjx	cuocdoie	ThiênKiếm	 Minh Giáo	 Minh Giáo	99	Nam	TuyetNe	Tuyệt	71574
+21	wsjx	suebabya	ZzBạchLongzZ	 Ngũ Độc	 Chưởng Độc	109	Nữ	DongXuong	Immortal	68424
+22	wsjx	aducbvf	IceBird	 Nga My	 Phụ Trợ	106	Nữ	ChimLửa	Immortal	62151
+23	wsjx	aducbvb	GoldenBird	 Ngũ Độc	 Đao Độc	105	Nam	ChimLửa	Immortal	61765
+24	wsjx	kemangtamsuc	BéNghéMoon	 Võ Đang	 Khí Võ	109	Nam	DongXuong	Immortal	61666
+25	wsjx	kemangtamsud	BéMoonNghé	 Thiên Nhẫn	 Ma Nhẫn	108	Nam	DongXuong	Immortal	61250
+26	wsjx	aducbvd	IronBird	 Minh Giáo	 Chùy Minh	105	Nam	ChimLửa	Immortal	60754
+27	wsjx	kemangtamsub	BéMoon	 Đường Môn	 Tụ Tiễn	108	Nam	DongXuong	Immortal	60637
+28	wsjx	aducbvc	FireBird	 Thiên Nhẫn	 Ma Nhẫn	105	Nam	ChimLửa	Immortal	60599
+29	wsjx	xiguac	Lixunhuan	 Ngũ Độc	 Chưởng Độc	105	Nam	TuyetClone	Tuyệt	60141
+30	wsjx	aducbve	LightningBird	 Thúy Yên	 Kiếm Thúy	105	Nam	ChimLửa	Immortal	59691
+31	wsjx	cuocdoia	TrácKiếmThi	 Nga My	 Nga My	99	Nữ	TuyetNe	Tuyệt	56173
+32	wsjx	minhhieu	LamTinh	Đoàn Thị	Đoàn Thị	100	Nam	MEIMEI	Tuyệt	48982
+33	wsjx	nguyenvanw	karema	 Nga My	 Phụ Trợ	104	Nữ	huhuhuhi	Tuyệt	48882
+34	wsjx	nguyenvanq	cocainit	 Đường Môn	 Tụ Tiễn	104	Nam	huhuhuhi	Tuyệt	47722
+35	wsjx	nguyenvan	caremtram	 Thiên Nhẫn	 Ma Nhẫn	103	Nam	huhuhuhi	Tuyệt	47429
+36	wsjx	nguyenvane	caremdd	 Côn Lôn	 Đao Côn	104	Nam	huhuhuhi	Tuyệt	47089
+37	wsjx	nguyenvanr	caeeaas	 Minh Giáo	 Chùy Minh	104	Nam	MEIMEI	Tuyệt	44500
+38	wsjx	kemangtamsua	BéNghé	 Ngũ Độc	 Đao Độc	108	Nam	DongXuong	Immortal	40710
+39	wsjx	xiguaa	KimJisoo	 Nga My	 Phụ Trợ	105	Nữ	TuyetClone	Tuyệt	38666
+40	wsjx	vantungpvbn	zBaKichz	 Thiên Nhẫn	 Ma Nhẫn	109	Nam	XanhChín	Immortal	38324
+41	wsjx	kemangtamsue	Sueeeeee	 Nga My	 Phụ Trợ	107	Nam	DongXuong	Immortal	37461
+42	wsjx	suebabyaaa	BạchHổ	 Đường Môn	 Tụ Tiễn	107	Nữ	DongXuong	Immortal	37461
+43	wsjx	xeluamot	KiếmHồn	Đoàn Thị	 Khí Đoàn	108	Nam	XanhChín	Immortal	36836
+44	wsjx	tungbn	ThuyKiem	 Thúy Yên	 Kiếm Thúy	109	Nữ	XanhChín	Immortal	36151
+45	wsjx	phamhanh	zXzphamhanhzXz	 Ngũ Độc	 Đao Độc	103	Nam	Important	Immortal	35951
+46	wsjx	xiguad	Erlangshen	 Côn Lôn	 Đao Côn	105	Nam	TuyetClone	Tuyệt	35723
+47	wsjx	buibienc	SaoHỏa	 Thiên Nhẫn	 Ma Nhẫn	102	Nam	ChimLửa	Immortal	35657
+48	wsjx	phamhanhe	thiennhan85	 Thiên Nhẫn	 Ma Nhẫn	103	Nữ	Important	Immortal	35089
+49	wsjx	phamvantung	SpLine	 Minh Giáo	 Chùy Minh	109	Nam	XanhChín	Immortal	34489
+50	wsjx	phamhanhb	o0ogaihuo0o	 Đường Môn	 Tụ Tiễn	103	Nữ	Important	Immortal	34117
+51	wsjx	suebabyaaaaa	HuyềnVũ	 Thiên Nhẫn	 Ma Nhẫn	106	Nữ	DongXuong	Immortal	34096
+52	wsjx	vantungpv	DoatMenh	 Đường Môn	 Tụ Tiễn	108	Nam	XanhChín	Immortal	33879
+53	wsjx	xiguae	Shenjian	 Minh Giáo	 Kiếm Minh	105	Nam	TuyetClone	Tuyệt	33860
+54	wsjx	buibiena	SaoMộc	 Đường Môn	 Tụ Tiễn	102	Nam	ChimLửa	Immortal	33684
+55	wsjx	xeluahai	ThầnLôi	 Thúy Yên	 Kiếm Thúy	107	Nam	XanhChín	Immortal	33591
+56	wsjx	xiguab	Huoshen	 Thiên Nhẫn	 Ma Nhẫn	105	Nam	TuyetClone	Tuyệt	33441
+57	wsjx	suebabyaa	ThanhLong	 Thiếu Lâm	 Đao Thiếu	106	Nữ	DongXuong	Immortal	32828
+58	wsjx	suebabyaaaa	ChuTước	 Minh Giáo	 Kiếm Minh	107	Nữ	DongXuong	Immortal	32506
+59	wsjx	buibiene	SaoKim	 Thiên Nhẫn	 Ma Nhẫn	102	Nam	ChimLửa	Immortal	32089
+60	wsjx	buibienmm	SaoTho	 Ngũ Độc	 Đao Độc	101	Nam	ChimLửa	Immortal	31431
+61	wsjx	suebabyb	TiểuLongNữ	 Thiên Nhẫn	 Ma Nhẫn	102	Nữ	Không gia tộc	Không bang hội	31125
+62	wsjx	nhankienq	ĐenĐá	 Ngũ Độc	 Đao Độc	105	Nữ	Important	Immortal	30919
+63	wsjx	nhankient	KemMuối	 Minh Giáo	 Kiếm Minh	104	Nam	Important	Immortal	30627
+64	wsjx	suebabyc	HoàngDung	 Thiên Nhẫn	 Thiên Nhẫn	101	Nữ	Không gia tộc	Không bang hội	30593
+65	wsjx	nhankienr	KemTrứng	 Thiên Nhẫn	 Ma Nhẫn	105	Nam	Important	Immortal	30532
+66	wsjx	suebabycc	HoàngDunga	 Thiên Nhẫn	 Ma Nhẫn	101	Nữ	Không gia tộc	Không bang hội	30363
+67	wsjx	suebabybb	TiểuLongNữa	 Thiên Nhẫn	 Ma Nhẫn	101	Nam	Không gia tộc	Không bang hội	30327
+68	wsjx	buibiend	SaoThủy	 Nga My	 Phụ Trợ	102	Nữ	ChimLửa	Immortal	30264
+69	wsjx	suebabybbb	TiểuLongNữb	 Thiên Nhẫn	 Ma Nhẫn	101	Nữ	Không gia tộc	Không bang hội	30248
+70	wsjx	nhankienw	NâuĐá	 Đường Môn	 Tụ Tiễn	105	Nam	Important	Immortal	30205
+71	wsjx	suebabyaaaaaa	Cave500Ngàn	 Nga My	 Phụ Trợ	106	Nữ	DongXuong	Immortal	30183
+72	wsjx	xesamhai	XeLửaB	 Thiên Nhẫn	 Ma Nhẫn	101	Nam	Không gia tộc	Không bang hội	30063
+73	wsjx	pvtung	OhOooo	 Nga My	 Phụ Trợ	108	Nữ	XanhChín	Immortal	29588
+74	wsjx	xeluasau	ThầnGió	 Ngũ Độc	 Đao Độc	107	Nữ	XanhChín	Immortal	29499
+75	wsjx	suebabybbbbb	TiểuLongNữd	 Thiên Nhẫn	 Ma Nhẫn	101	Nữ	Không gia tộc	Không bang hội	29408
+76	wsjx	nhankiene	BạcSỉu	 Nga My	 Phụ Trợ	105	Nữ	Important	Immortal	29406
+77	wsjx	suebabyccc	HoàngDungb	 Thiên Nhẫn	 Ma Nhẫn	101	Nữ	Không gia tộc	Không bang hội	29277
+78	wsjx	suebabycccc	HoàngDungc	 Thiên Nhẫn	 Thiên Nhẫn	101	Nữ	Không gia tộc	Không bang hội	29156
+79	wsjx	tungpv	HoiUcKT	 Ngũ Độc	 Chưởng Độc	109	Nam	XanhChín	Immortal	28977
+80	wsjx	xeluanam	ThầnHỏa	 Thiên Nhẫn	 Ma Nhẫn	107	Nữ	XanhChín	Immortal	28775
+81	wsjx	phamhanhc	tieumuoi	 Minh Giáo	 Kiếm Minh	102	Nữ	Important	Immortal	28639
+82	wsjx	suebabycccccc	HoàngDunge	 Thiên Nhẫn	 Thiên Nhẫn	101	Nữ	Không gia tộc	Không bang hội	28583
+83	wsjx	xeluabon	ThầnMộc	 Đường Môn	 Tụ Tiễn	107	Nữ	XanhChín	Immortal	27986
+84	wsjx	suebabybbbb	TiểuLongNữc	 Thiên Nhẫn	 Ma Nhẫn	101	Nữ	Không gia tộc	Không bang hội	26148
+85	wsjx	xeluaba	ThầnThủy	 Nga My	 Phụ Trợ	106	Nữ	XanhChín	Immortal	21248
+86	wsjx	kecodonjjjjjj	Cavechua6	 Côn Lôn	 Côn Lôn	105	Nam	Không gia tộc	Không bang hội	20225
+87	wsjx	xesammot	XeLửaA	 Thiên Nhẫn	 Ma Nhẫn	102	Nam	Không gia tộc	Không bang hội	19844
+88	wsjx	conmua	XeLiễuKey	 Thúy Yên	 Thúy Yên	96	Nữ	TuyetClone	Tuyệt	19528
+89	wsjx	suebabybbbbbb	TiểuLongNữe	 Thiên Nhẫn	 Ma Nhẫn	102	Nữ	Không gia tộc	Không bang hội	18720
+90	wsjx	phamhanhac	phamhanh2	 Ngũ Độc	 Đao Độc	106	Nữ	Important	Immortal	17834
+91	wsjx	phamhanhae	phamhanh4	 Minh Giáo	 Kiếm Minh	106	Nữ	Important	Immortal	17829
+92	wsjx	phamhanhad	phamhanh3	 Ngũ Độc	 Ngũ Độc	105	Nữ	Important	Immortal	17773
+93	wsjx	phamhanhaf	phamhanh5	 Thiên Nhẫn	 Ma Nhẫn	106	Nữ	Important	Immortal	17432
+94	wsjx	phamhanhaa	acchinhkeoxe	 Ngũ Độc	 Chưởng Độc	106	Nam	Important	Immortal	17432
+95	wsjx	suebabyccccc	HoàngDungd	 Thiên Nhẫn	 Thiên Nhẫn	101	Nữ	Không gia tộc	Không bang hội	17291
+96	wsjx	phamhanhag	phamhanh6	 Nga My	 Phụ Trợ	106	Nữ	Important	Immortal	17029
+97	wsjx	nhankiemnd	SaoChổi	 Ngũ Độc	 Chưởng Độc	102	Nam	Important	Immortal	16691
+98	wsjx	phamhanhab	phamhanh03	 Đường Môn	 Tụ Tiễn	104	Nữ	Important	Immortal	16437
+99	wsjx	bducbv	ThầnLửa	 Thiên Nhẫn	 Ma Nhẫn	102	Nam	ChimLửa	Immortal	16333
+100	wsjx	nhankiemdm	SaoMộcĐức	 Đường Môn	 Tụ Tiễn	102	Nữ	Important	Immortal	16281

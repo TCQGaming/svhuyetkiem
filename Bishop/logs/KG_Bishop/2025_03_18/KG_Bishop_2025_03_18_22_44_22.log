@@ -1,0 +1,8 @@
+20250318-224422<INFO :0000474C>: [Bishop] Begin to start ... ...
+20250318-224422<INFO :0000474C>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20250318-224422<INFO :0000474C>: [Paysys] Login() Connect to (127.0.0.1 : 8000) SocketStream = 00CC7390
+20250318-224422<INFO :0000474C>: [machine info for paysys] MatchMacAddress: 00-00-00-00-00-00, MatchIPAddress: 0.0.0.0
+20250318-224422<DEBUG:0000474C>: [Paysys] Login() Send Login Information to PaySys nRetCode = 1
+20250318-224422<DEBUG:0000474C>: [Paysys] Login() Recv Verify Information From PaySys nRetCode = 1
+20250318-224422<INFO :0000474C>: [Paysys] Login() Paysys Verify , RetCode  = 1 ... ... [OK]
+20250318-224422<INFO :0000474C>: [Paysys] Login() nResult = 1

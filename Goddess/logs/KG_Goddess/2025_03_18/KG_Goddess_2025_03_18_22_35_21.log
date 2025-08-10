@@ -1,0 +1,11 @@
+20250318-223521<INFO :000048A8>: [KG_Goddess] starting ...
+20250318-223521<INFO :000048A8>: [KG_Goddess] Loading kg_goddess.ini
+20250318-223521<INFO :000048A8>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20250318-223521<INFO :000048A8>: [KG_Goddess] Initializing role database ...
+20250318-223521<DEBUG:000048A8>: [KGD] KGD_ERROR_DATABASE_ENGINE_ERROR at line 1254 in (0x00EC8038)->KGD_MySQL_Database::Connect(), "Access denied for user 'root'@'localhost' (using password: YES)", "mysql_real_connect()"
+20250318-223521<DEBUG:000048A8>: [KGD] (0x00EC8038)->KGD_MySQL_Database::Connect("127.0.0.1", 3306, "root", 0x0019F588("***"), "(null)")
+20250318-223521<DEBUG:000048A8>: [KGD] KGD_Connect(0, "127.0.0.1", 3306, "root", 0x0019F588("***"), "(null)")
+20250318-223521<DEBUG:000048A8>: KGLOG_PROCESS_ERROR(piDatabase) at line 39 in KG_InitRoleDatabase
+20250318-223521<DEBUG:000048A8>: KGLOG_PROCESS_ERROR(nRetCode) at line 362 in KG_Goddess::StartServiceA
+20250318-223521<INFO :000048A8>: [KG_Goddess] Start failed
+20250318-223521<DEBUG:000048A8>: KGLOG_PROCESS_ERROR(nRetCode) at line 224 in main

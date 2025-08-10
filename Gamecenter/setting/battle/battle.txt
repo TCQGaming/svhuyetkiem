@@ -1,0 +1,2 @@
+ID	NAME	ROUND_FILE	MAPPATTERN_FILE	RULE_FILE	MAPID_FILE	MAPNAME_FILE	REMARK
+1	ËÎ½ð´óÕ½	\setting\battle\songjin\round.txt	\setting\battle\songjin\mappattern.txt	\setting\battle\songjin\rule.txt	\setting\battle\songjin\mapid.txt	\setting\battle\songjin\mapname.txt	

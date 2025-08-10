@@ -1,0 +1,29 @@
+20250724-165508<DEBUG:00003F5C>: [PrevInitCore]:1, start tickers = 36536181199276
+20250724-165508<DEBUG:00003EA4>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3548871458
+20250724-165509<DEBUG:00003F00>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3306590097
+20250724-165509<DEBUG:00003F5C>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3167374903
+20250724-165510<ERROR:00003EA4>: GetInteger(38, 1) failed !
+20250724-165510<ERROR:00003F00>: GetInteger(38, 1) failed !
+20250724-165510<ERROR:00003F5C>: GetInteger(38, 1) failed !
+20250724-165514<WARN :00003F00>: LostFps: 90 (+90)
+20250724-165515<WARN :00003F00>: LostFps: 45 (-45)
+20250724-165516<WARN :00003F00>: LostFps: 0 (-45)
+20250724-165551<INFO :00003F5C>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-165601<INFO :00003F5C>: [Player]TCQGaming Excute Save Data
+20250724-165602<INFO :00003F5C>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-165612<INFO :00003F5C>: [Player]TCQGaming Excute Save Data
+20250724-165906<INFO :00003F5C>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-165916<INFO :00003F5C>: [Player]TCQGaming Excute Save Data
+20250724-165917<INFO :00003F5C>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-165927<INFO :00003F5C>: [Player]TCQGaming Excute Save Data
+20250724-170125<INFO :00003F5C>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-170135<INFO :00003F5C>: [Player]TCQGaming Excute Save Data
+20250724-170759<INFO :00003F5C>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-170805<INFO :00003F5C>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-170815<INFO :00003F5C>: [Player]TCQGaming Excute Save Data
+20250724-170821<INFO :00003F5C>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-170823<INFO :00003F5C>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-170833<INFO :00003F5C>: [Player]TCQGaming Excute Save Data
+20250724-171105<INFO :00003F5C>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-171109<INFO :00003F5C>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-171119<INFO :00003F5C>: [Player]TCQGaming Excute Save Data

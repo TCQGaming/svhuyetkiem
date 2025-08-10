@@ -1,0 +1,9 @@
+ID loại thương phẩm	Tên loại thương phẩm	Miêu tả loại thương phẩm
+0	Đạo cụ ẩn	Đạo cụ ẩn
+1	Vật phẩm mới	Vật phẩm mới
+2	Khuyến mãi	Khuyến mãi
+101	Huyền Tinh	Huyền Tinh
+102	Thường dùng	Thường dùng
+103	Đạo cụ	Đạo cụ
+104	Mua gần đây	Mua gần đây
+105	Bán chạy ở server	Bán chạy ở server

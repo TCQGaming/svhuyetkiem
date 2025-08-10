@@ -1,0 +1,10 @@
+20250724-165459<INFO :000025EC>: [KG_CSLogServer] starting ...
+20250724-165459<INFO :000025EC>: [KG_CSLogServer] Loading KG_CSLogServer.ini
+20250724-165459<INFO :000025EC>: [KG_CSLogServer] Init Socket thread ...
+20250724-165459<INFO :000025EC>: start listen on 127.0.0.1:5101
+20250724-165459<INFO :000025EC>: [KG_CSLogServer] Init Log thread ...
+20250724-165459<INFO :000025EC>: [Database] character set switch to latin1
+20250724-165459<INFO :000025EC>: [KG_CSLogServer] start success
+20250724-165500<DEBUG:000025EC>: nSocket = 728, nSendFlag = 0, Error = 10054
+20250724-165503<INFO :00001CE4>: [1] (127.0.0.1:29124) Connected
+20250724-165503<INFO :00001B4C>: [1] PacketID:1, Gateway "wsjx" Login, Result = 1

@@ -1,0 +1,1732 @@
+22:38:43	**********************   ∞Ê  »®  …˘  √˜   ************************
+22:38:43	
+22:38:43	                  °æΩ£ ¿…Ω◊Ø°øΩ£œ¿ ¿ΩÁ∑˛ŒÒ∂À
+22:38:43	
+22:38:43	ºº ıΩª¡˜£∫http://www.web-jx.com
+22:38:43	
+22:38:43	    ±æœµ¡–≥Ã–Ú÷ª◊˜—ßœ∞Ωª¡˜ π”√£¨Ωˆπ©∏ˆ»À—–æø÷Æ”√£¨«Î∞≤◊∞∫Û‘⁄24–° ±ƒ⁄…æ≥˝£¨«ÎŒ”√”⁄…Ã“µ“‘º∞∑«∑®”√Õæ£¨»Á”…¥À“˝∆µƒœ‡πÿ∑®¬…∑®πÊ‘»Œ£¨”ÎŒ“√«Œﬁπÿ£°
+22:38:43	
+22:38:43	–ﬁ∏ƒƒ⁄»›£∫
+22:38:43	1°¢‘ˆº”Ω±“ªÒ»°Ω≈±æAddJbCoin(d),eg:AddJbCoin(10000)‘ˆº”1ÕÚΩ±“°£
+22:38:43	2°¢–ﬁ∏ƒ…Ã≥«Ω±“Ω”ø⁄£¨ µœ÷ π”√Ω±“π∫¬Ú…Ã≥«µ¿æﬂ°£
+22:38:43	3°¢±æ∂À”¶∏√÷ß≥÷120ººƒ‹£¨»Á≤‚ ‘Õ®π˝œ£Õ˚ø…“‘¡¨Õ¨ƒ˙µƒººƒ‹Ω≈±æ…œ¥´µΩŒ“√«¬€Ã≥£¨π©¥Ûº“—–æø°£
+22:38:43	4°¢±æ∂À√ª”–»Œ∫Œπ¶ƒ‹œﬁ÷∆°£
+22:38:43	********************** GameCenter Startup ************************
+22:38:43	OS Time: 03/18/25 22:38:43
+22:38:43	Game Init ..
+22:38:43	[GCError] KGC_MySqlDatabase::DBConnect(87) Access denied for user 'root'@'localhost' (using password: YES)
+22:38:43	[GCError] KStatLog_GC::Init(218) 
+22:38:43	Loading Script...
+22:38:43	Begin load script files...
+22:38:43	begin load vfactory.lua
+22:38:43	Preload gc script files...
+22:38:43	21 loaded!
+22:38:43	Loading Scripts In Path \script\
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:43	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:43	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:43	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:43	[GCError] KStatLog_GC::AddTable(268) 
+22:38:43	308 loaded!
+22:38:43	[GCError] KGC_MySqlDatabase::DBConnect(87) Access denied for user 'root'@'localhost' (using password: YES)
+22:38:43	[GCError] KGC_DBManager::InitDBManager(83) 
+22:38:43	Game Init Failed£°Quit...
+22:38:43	GCEvent:OnGCUnit
+22:38:44	**********************   ∞Ê  »®  …˘  √˜   ************************
+22:38:44	
+22:38:44	                  °æΩ£ ¿…Ω◊Ø°øΩ£œ¿ ¿ΩÁ∑˛ŒÒ∂À
+22:38:44	
+22:38:44	ºº ıΩª¡˜£∫http://www.web-jx.com
+22:38:44	
+22:38:44	    ±æœµ¡–≥Ã–Ú÷ª◊˜—ßœ∞Ωª¡˜ π”√£¨Ωˆπ©∏ˆ»À—–æø÷Æ”√£¨«Î∞≤◊∞∫Û‘⁄24–° ±ƒ⁄…æ≥˝£¨«ÎŒ”√”⁄…Ã“µ“‘º∞∑«∑®”√Õæ£¨»Á”…¥À“˝∆µƒœ‡πÿ∑®¬…∑®πÊ‘»Œ£¨”ÎŒ“√«Œﬁπÿ£°
+22:38:44	
+22:38:44	–ﬁ∏ƒƒ⁄»›£∫
+22:38:44	1°¢‘ˆº”Ω±“ªÒ»°Ω≈±æAddJbCoin(d),eg:AddJbCoin(10000)‘ˆº”1ÕÚΩ±“°£
+22:38:44	2°¢–ﬁ∏ƒ…Ã≥«Ω±“Ω”ø⁄£¨ µœ÷ π”√Ω±“π∫¬Ú…Ã≥«µ¿æﬂ°£
+22:38:44	3°¢±æ∂À”¶∏√÷ß≥÷120ººƒ‹£¨»Á≤‚ ‘Õ®π˝œ£Õ˚ø…“‘¡¨Õ¨ƒ˙µƒººƒ‹Ω≈±æ…œ¥´µΩŒ“√«¬€Ã≥£¨π©¥Ûº“—–æø°£
+22:38:44	4°¢±æ∂À√ª”–»Œ∫Œπ¶ƒ‹œﬁ÷∆°£
+22:38:44	********************** GameCenter Startup ************************
+22:38:44	OS Time: 03/18/25 22:38:44
+22:38:44	Game Init ..
+22:38:44	[GCError] KGC_MySqlDatabase::DBConnect(87) Access denied for user 'root'@'localhost' (using password: YES)
+22:38:44	[GCError] KStatLog_GC::Init(218) 
+22:38:44	Loading Script...
+22:38:44	Begin load script files...
+22:38:44	begin load vfactory.lua
+22:38:44	Preload gc script files...
+22:38:44	21 loaded!
+22:38:44	Loading Scripts In Path \script\
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:38:44	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:38:44	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:38:44	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:38:44	[GCError] KStatLog_GC::AddTable(268) 
+22:38:44	308 loaded!
+22:38:44	[GCError] KGC_MySqlDatabase::DBConnect(87) Access denied for user 'root'@'localhost' (using password: YES)
+22:38:44	[GCError] KGC_DBManager::InitDBManager(83) 
+22:38:44	Game Init Failed£°Quit...
+22:38:44	GCEvent:OnGCUnit
+22:43:19	**********************   ∞Ê  »®  …˘  √˜   ************************
+22:43:19	
+22:43:19	                  °æΩ£ ¿…Ω◊Ø°øΩ£œ¿ ¿ΩÁ∑˛ŒÒ∂À
+22:43:19	
+22:43:19	ºº ıΩª¡˜£∫http://www.web-jx.com
+22:43:19	
+22:43:19	    ±æœµ¡–≥Ã–Ú÷ª◊˜—ßœ∞Ωª¡˜ π”√£¨Ωˆπ©∏ˆ»À—–æø÷Æ”√£¨«Î∞≤◊∞∫Û‘⁄24–° ±ƒ⁄…æ≥˝£¨«ÎŒ”√”⁄…Ã“µ“‘º∞∑«∑®”√Õæ£¨»Á”…¥À“˝∆µƒœ‡πÿ∑®¬…∑®πÊ‘»Œ£¨”ÎŒ“√«Œﬁπÿ£°
+22:43:19	
+22:43:19	–ﬁ∏ƒƒ⁄»›£∫
+22:43:19	1°¢‘ˆº”Ω±“ªÒ»°Ω≈±æAddJbCoin(d),eg:AddJbCoin(10000)‘ˆº”1ÕÚΩ±“°£
+22:43:19	2°¢–ﬁ∏ƒ…Ã≥«Ω±“Ω”ø⁄£¨ µœ÷ π”√Ω±“π∫¬Ú…Ã≥«µ¿æﬂ°£
+22:43:19	3°¢±æ∂À”¶∏√÷ß≥÷120ººƒ‹£¨»Á≤‚ ‘Õ®π˝œ£Õ˚ø…“‘¡¨Õ¨ƒ˙µƒººƒ‹Ω≈±æ…œ¥´µΩŒ“√«¬€Ã≥£¨π©¥Ûº“—–æø°£
+22:43:19	4°¢±æ∂À√ª”–»Œ∫Œπ¶ƒ‹œﬁ÷∆°£
+22:43:19	********************** GameCenter Startup ************************
+22:43:19	OS Time: 03/18/25 22:43:19
+22:43:19	Game Init ..
+22:43:19	[GCError] KGC_MySqlDatabase::DBConnect(87) Access denied for user 'root'@'localhost' (using password: YES)
+22:43:19	[GCError] KStatLog_GC::Init(218) 
+22:43:19	Loading Script...
+22:43:19	Begin load script files...
+22:43:19	begin load vfactory.lua
+22:43:19	Preload gc script files...
+22:43:19	21 loaded!
+22:43:19	Loading Scripts In Path \script\
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(211) Connection lost, try reconnect.
+22:43:20	[GCError] KGC_MySqlDatabase::_DoQuery(221) 
+22:43:20	[GCError] KGC_MySqlDatabase::GetQueryResult(343) MySQL server has gone away
+22:43:20	[GCError] KStatLog_GC::GetFieldIdName(543) 
+22:43:20	[GCError] KStatLog_GC::AddTable(268) 
+22:43:20	308 loaded!
+22:43:20	[GCError] KGC_MySqlDatabase::DBConnect(87) Access denied for user 'root'@'localhost' (using password: YES)
+22:43:20	[GCError] KGC_DBManager::InitDBManager(83) 
+22:43:20	Game Init Failed£°Quit...
+22:43:20	GCEvent:OnGCUnit
+22:59:16	**********************   ∞Ê  »®  …˘  √˜   ************************
+22:59:16	
+22:59:16	                  °æΩ£ ¿…Ω◊Ø°øΩ£œ¿ ¿ΩÁ∑˛ŒÒ∂À
+22:59:16	
+22:59:16	ºº ıΩª¡˜£∫http://www.web-jx.com
+22:59:16	
+22:59:16	    ±æœµ¡–≥Ã–Ú÷ª◊˜—ßœ∞Ωª¡˜ π”√£¨Ωˆπ©∏ˆ»À—–æø÷Æ”√£¨«Î∞≤◊∞∫Û‘⁄24–° ±ƒ⁄…æ≥˝£¨«ÎŒ”√”⁄…Ã“µ“‘º∞∑«∑®”√Õæ£¨»Á”…¥À“˝∆µƒœ‡πÿ∑®¬…∑®πÊ‘»Œ£¨”ÎŒ“√«Œﬁπÿ£°
+22:59:16	
+22:59:16	–ﬁ∏ƒƒ⁄»›£∫
+22:59:16	1°¢‘ˆº”Ω±“ªÒ»°Ω≈±æAddJbCoin(d),eg:AddJbCoin(10000)‘ˆº”1ÕÚΩ±“°£
+22:59:16	2°¢–ﬁ∏ƒ…Ã≥«Ω±“Ω”ø⁄£¨ µœ÷ π”√Ω±“π∫¬Ú…Ã≥«µ¿æﬂ°£
+22:59:16	3°¢±æ∂À”¶∏√÷ß≥÷120ººƒ‹£¨»Á≤‚ ‘Õ®π˝œ£Õ˚ø…“‘¡¨Õ¨ƒ˙µƒººƒ‹Ω≈±æ…œ¥´µΩŒ“√«¬€Ã≥£¨π©¥Ûº“—–æø°£
+22:59:16	4°¢±æ∂À√ª”–»Œ∫Œπ¶ƒ‹œﬁ÷∆°£
+22:59:16	********************** GameCenter Startup ************************
+22:59:16	OS Time: 03/18/25 22:59:16
+22:59:16	Game Init ..
+22:59:16	Loading Script...
+22:59:16	Begin load script files...
+22:59:16	begin load vfactory.lua
+22:59:16	Preload gc script files...
+22:59:16	21 loaded!
+22:59:16	Loading Scripts In Path \script\
+22:59:16	308 loaded!
+22:59:16	Create DBShare Table
+22:59:16	LoadDBShare...
+22:59:16	Current Data Version : 5
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[GBLVALUE]	ModuleInit..
+22:59:16	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+22:59:16	Create RDS Table: tblGblValueSet
+22:59:16	Create RDS Table: tblGblVIntInt
+22:59:16	Create RDS Table: tblGblVIntBuf
+22:59:16	Create RDS Table: tblGblVStrInt
+22:59:16	Create RDS Table: tblGblVStrBuf
+22:59:16	[GBLVALUE]	Base Data Init, Create RootTree...
+22:59:16	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+22:59:16	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+22:59:16	[GBLVALUE]	Base Data Init, Create RootTree...
+22:59:16	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+22:59:16	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+22:59:16	[GBLVALUE]	Base Data Init, Create RootTree...
+22:59:16	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+22:59:16	Create SaveBuffer DB Table
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[TRANSFER]	ModuleInit..
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[TimerTask]	ModuleInit..
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[ScheduleTask]	ModuleInit..
+22:59:16	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+22:59:16	[ScheduleTask]	Schedule Task Loaded, Task Count = 55
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[LEAGUE]	ModuleInit..
+22:59:16	[LEAGUE]	Base Data Init, Root Branch ID: 11
+22:59:16	Create RDS Table: tblLeagueSet
+22:59:16	Create RDS Table: tblMemberLea
+22:59:16	Create RDS Table: tblLeague
+22:59:16	Create RDS Table: tblLeagueTask
+22:59:16	Create RDS Table: tblLeagueMember
+22:59:16	Create RDS Table: tblLeaMemberTask
+22:59:16	[LEAGUE]	Base Data Init, Create RootTree...
+22:59:16	[LEAGUE]	Base Data Init, Create DataTree Completed!
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[KIN]	ModuleInit..
+22:59:16	[KIN]	Base Data Init, Root Branch ID: 17
+22:59:16	Create RDS Table: tblKin
+22:59:16	Create RDS Table: tblKinTask
+22:59:16	Create RDS Table: tblKinBufTask
+22:59:16	Create RDS Table: tblKinMember
+22:59:16	Create RDS Table: tblKinMemberTask
+22:59:16	[KIN]	Base Data Init, Create RootTree...
+22:59:16	[KIN]	Base Data Init, Create DataTree Completed!
+22:59:16	Create Player Kin-Tong DB Table
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[TONG]	ModuleInit..
+22:59:16	[TONG]	Base Data Init, Root Branch ID: 19
+22:59:16	Create RDS Table: tblTong
+22:59:16	Create RDS Table: tblTongTask
+22:59:16	Create RDS Table: tblTongBufTask
+22:59:16	Create RDS Table: tblTongKin
+22:59:16	Create RDS Table: tblTongDomain
+22:59:16	Create RDS Table: tblTongDomainTask
+22:59:16	Create RDS Table: tblTongDomainTaskBuf
+22:59:16	[TONG]	Base Data Init, Create RootTree...
+22:59:16	[TONG]	Base Data Init, Create DataTree Completed!
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[UNION]	ModuleInit..
+22:59:16	[UNION]	Base Data Init, Root Branch ID: 21
+22:59:16	Create RDS Table: tblUnion
+22:59:16	Create RDS Table: tblUnionTask
+22:59:16	Create RDS Table: tblUnionBufTask
+22:59:16	Create RDS Table: tblUnionTong
+22:59:16	Create RDS Table: tblUnionDomain
+22:59:16	[UNION]	Base Data Init, Create RootTree...
+22:59:16	[UNION]	Base Data Init, Create DataTree Completed!
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[PLAYERMAN]	ModuleInit..
+22:59:16	LoadCoZoneSubPlayerNameId TimeOut Del
+22:59:16	Create Player Data DB Table
+22:59:16	Loading All Players ...
+22:59:16	Referenced Players in <PlayerData> Table: 1
+22:59:16	<PlayerData> Table: Simple Player Count[0], Normal Player Count [1].
+22:59:16	Loading Players Kin Info in <PlayerKin> Table ...
+22:59:16	Referenced Players in <PlayerKin> Table: 0
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[TEAM]	ModuleInit..
+22:59:16	[TEAM]	Base Data Init, Root Branch ID: 23
+22:59:16	[TEAM]	Base Data Init, Create RootTree...
+22:59:16	[TEAM]	Base Data Init, Create DataTree Completed!
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[Map]	ModuleInit..
+22:59:16	Loading World Setting...
+22:59:16	Gameserver Count = 3
+22:59:16	[Gameserver0]
+22:59:16	ID = 1
+22:59:16	MapCount = 251
+22:59:16	[Gameserver1]
+22:59:16	ID = 2
+22:59:16	MapCount = 253
+22:59:16	[Gameserver2]
+22:59:16	ID = 3
+22:59:16	MapCount = 239
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[CHAT]	ModuleInit..
+22:59:16	Create OfflineMsg DB Table
+22:59:16	Load All OfflineMsg
+22:59:16	Referenced OfflineMsg 0
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[RELATION]	ModuleInit..
+22:59:16	Create Player Relay DB Table
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[MAIL]	ModuleInit..
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[IBSHOP]	ModuleInit..
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[GMBOARD]	ModuleInit..
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[JBEXCHANGE]	ModuleInit..
+22:59:16	[JBEXCHANGE]	Base Data Init, Root Branch ID: 25
+22:59:16	Create RDS Table: tblJbExchangeBill
+22:59:16	Create RDS Table: tblJbExchangeTask
+22:59:16	[JBEXCHANGE]	Base Data Init, Create RootTree...
+22:59:16	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[LADDER]	ModuleInit..
+22:59:16	[LADDER]	Base Data Init, Root Branch ID: 27
+22:59:16	Create RDS Table: tblLadder
+22:59:16	Create RDS Table: tblPlayerLadder
+22:59:16	Create RDS Table: tblAllTotalLadder
+22:59:16	Create RDS Table: tblTotalLadder
+22:59:16	[LADDER]	Base Data Init, Create RootTree...
+22:59:16	[LADDER]	Base Data Init, Create DataTree Completed!
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[GBLBUF]	ModuleInit..
+22:59:16	[GBLBUF]	Base Data Init, Root Branch ID: 72
+22:59:16	Create RDS Table: tblGblBufSet
+22:59:16	Create RDS Table: tblGblBuf
+22:59:16	[GBLBUF]	Base Data Init, Create RootTree...
+22:59:16	[GBLBUF]	Base Data Init, Create DataTree Completed!
+22:59:16	[GBLBUF]	Base Data Init, Root Branch ID: 79
+22:59:16	Create RDS Table: tblGblBufSet
+22:59:16	Create RDS Table: tblGblBuf
+22:59:16	[GBLBUF]	Base Data Init, Create RootTree...
+22:59:16	[GBLBUF]	Base Data Init, Create DataTree Completed!
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[PROFILE]	ModuleInit..
+22:59:16	[PROFILE]	Base Data Init, Root Branch ID: 86
+22:59:16	Create RDS Table: tblProfile
+22:59:16	Create RDS Table: tblProfileTask
+22:59:16	Create RDS Table: tblProfileBuff
+22:59:16	[PROFILE]	Base Data Init, Create RootTree...
+22:59:16	[PROFILE]	Base Data Init, Create DataTree Completed!
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[AUCTION]	ModuleInit..
+22:59:16	Create Auction Table
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[NORMAL]	ModuleInit..
+22:59:16	-------------------------------------------------------------------------------
+22:59:16	[SPORT]	ModuleInit..
+22:59:16	[SPORT]	Base Data Init, Root Branch ID: 87
+22:59:16	Create RDS Table: tblSportPlayer
+22:59:16	[SPORT]	Base Data Init, Create RootTree...
+22:59:16	[SPORT]	Base Data Init, Create DataTree Completed!
+22:59:16	[LOG]	2	[Player]	Cap cao nhat 99
+22:59:17	Xep hang danh sach
+22:59:17	Hoan Thanh Xep Hang
+22:59:17	[LOG]	2	[SpecialEvent.CollectCard]	ÁõõÂ§èÊ¥ªÂä®Âç°Êî∂ÈõÜ	SetLuckCardNews03Êúà18Êó•ÂõΩÂ∫ÜÊ¥ªÂä®Âπ∏ËøêÂç°Ê∞ëÊóè03Êúà18Êó•ËíôÂè§Êóè    
+22:59:17	Den Bu Online qua thoi gian thanh tru	So Luong thanh tru:	0
+22:59:17	Khong Co So Lieu ,Tu Tra Ve
+22:59:17	Connect to logserver(127.0.0.1:5100) OK!
+22:59:17	Connect to Goddess(127.0.0.1:5001) OK!
+22:59:17	Connect Gateway....
+22:59:17	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09D01A98
+22:59:17	Game Startup Completed!
+22:59:24	[CenServer] Accept from 127.0.0.1 Port = 42130
+22:59:24	Connection Created! Connection ID = 1
+22:59:24	Domain	Statuary	tbStatuary:OnRecConnectEvent	1
+22:59:24	[CenServer] Accept from 127.0.0.1 Port = 43666
+22:59:24	Connection Created! Connection ID = 2
+22:59:24	Domain	Statuary	tbStatuary:OnRecConnectEvent	2
+22:59:24	[CenServer] Accept from 127.0.0.1 Port = 44946
+22:59:24	Connection Created! Connection ID = 3
+22:59:24	Domain	Statuary	tbStatuary:OnRecConnectEvent	3
+22:59:25	[CenServer] Accept from 127.0.0.1 Port = 46226
+22:59:25	Connection Created! Connection ID = 4
+22:59:25	Domain	Statuary	tbStatuary:OnRecConnectEvent	4
+22:59:25	[GCError] KMapArrangeCentre::RegisterHost(111) 4
+22:59:25	OnGCExcute	Map:GCUpdateForbidenInfo
+22:59:25	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+22:59:25	So den khong co ban dau hoa, truc tiep tro ve
+22:59:25	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	4
+22:59:26	[CenServer] Accept from 127.0.0.1 Port = 49298
+22:59:26	Connection Created! Connection ID = 5
+22:59:26	Domain	Statuary	tbStatuary:OnRecConnectEvent	5
+22:59:26	[GCError] KMapArrangeCentre::RegisterHost(111) 7
+22:59:26	OnGCExcute	Map:GCUpdateForbidenInfo
+22:59:26	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+22:59:26	So den khong co ban dau hoa, truc tiep tro ve
+22:59:26	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	7
+22:59:27	[CenServer] Accept from 127.0.0.1 Port = 50066
+22:59:27	Connection Created! Connection ID = 6
+22:59:27	Domain	Statuary	tbStatuary:OnRecConnectEvent	6
+22:59:27	[GCError] KMapArrangeCentre::RegisterHost(111) 5
+22:59:27	OnGCExcute	Map:GCUpdateForbidenInfo
+22:59:27	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+22:59:27	So den khong co ban dau hoa, truc tiep tro ve
+22:59:27	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	5
+22:59:27	[CenServer] Accept from 127.0.0.1 Port = 50578
+22:59:27	Connection Created! Connection ID = 7
+22:59:27	Domain	Statuary	tbStatuary:OnRecConnectEvent	7
+22:59:27	[GCError] KMapArrangeCentre::RegisterHost(111) 6
+22:59:28	OnGCExcute	Map:GCUpdateForbidenInfo
+22:59:28	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+22:59:28	So den khong co ban dau hoa, truc tiep tro ve
+22:59:28	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	6
+22:59:31	Do Daily Backup 17
+22:59:31	Drop Old Backup Table armycamp_20250216
+22:59:31	Drop Old Backup Table armycamp_20250222
+22:59:31	Drop Old Backup Table bindcoin_20250216
+22:59:31	Drop Old Backup Table bindcoin_20250222
+22:59:31	Drop Old Backup Table bindjxb_20250216
+22:59:31	Drop Old Backup Table bindjxb_20250222
+22:59:31	Drop Old Backup Table coin_20250216
+22:59:31	Drop Old Backup Table coin_20250222
+22:59:31	Drop Old Backup Table ibitem_20250216
+22:59:31	Drop Old Backup Table ibitem_20250222
+22:59:31	Drop Old Backup Table ibshop_20250216
+22:59:31	Drop Old Backup Table ibshop_20250222
+22:59:31	Drop Old Backup Table jxb_20250216
+22:59:31	Drop Old Backup Table jxb_20250222
+22:59:31	Drop Old Backup Table mixstat_20250216
+22:59:31	Drop Old Backup Table mixstat_20250222
+22:59:31	Drop Old Backup Table playercount_20250216
+22:59:31	Drop Old Backup Table playercount_20250222
+22:59:31	Drop Old Backup Table roleinfo_20250216
+22:59:31	Drop Old Backup Table roleinfo_20250222
+22:59:31	Drop Old Backup Table wlls_20250216
+22:59:31	Drop Old Backup Table wlls_20250222
+22:59:31	Drop Old Backup Table xoyogame_20250216
+22:59:31	Drop Old Backup Table xoyogame_20250222
+22:59:32	OnGCExcute	Map:GCUpdateForbidenInfo
+22:59:32	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+22:59:32	So den khong co ban dau hoa, truc tiep tro ve
+22:59:32	OnGCExcute	XoyoGame:CreateManager_GC	342
+22:59:32	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+22:59:32	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	2
+22:59:33	OnGCExcute	Map:GCUpdateForbidenInfo
+22:59:33	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+22:59:33	So den khong co ban dau hoa, truc tiep tro ve
+22:59:33	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+22:59:33	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	3
+22:59:33	OnGCExcute	Map:GCUpdateForbidenInfo
+22:59:33	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+22:59:33	So den khong co ban dau hoa, truc tiep tro ve
+22:59:33	OnGCExcute	XoyoGame:CreateManager_GC	341
+22:59:33	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+22:59:33	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+23:00:01	[ScheduleTask]	Execute Task: Dai Hoi Vo Lam Thi Dau Vong Tron [Hang Ngay]
+23:00:01	[ScheduleTask]	Execute Task: Dai Hoi Vo Lam Thi Dau Vong Tron [Hang Tuan]
+23:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+23:00:01	[ScheduleTask]	Execute Task: Pho ban quan doanh
+23:00:01	[ScheduleTask]	Execute Task: Bat Dau PK Bach Ho Duong 
+23:00:01	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+23:00:01	[ScheduleTask]	Execute Task: lien dau 1
+23:00:01	[ScheduleTask]	Execute Task: lien dau 3
+23:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+23:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+23:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+23:01:21	[CenServer] Accept from 127.0.0.1 Port = 55954
+23:01:21	Connection Created! Connection ID = 8
+23:01:21	Domain	Statuary	tbStatuary:OnRecConnectEvent	8
+23:01:21	[GCError] KMapArrangeCentre::RegisterHost(111) 8
+23:01:21	OnGCExcute	Map:GCUpdateForbidenInfo
+23:01:21	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:01:21	So den khong co ban dau hoa, truc tiep tro ve
+23:01:21	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	8
+23:01:23	[CenServer] Receive packet failed!
+23:01:23	Connection Lost:127.0.0.1 ID = 8
+23:01:23	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 55954 Protocol = 11 Size = 6
+23:01:54	[CenServer] Receive packet failed!
+23:01:54	Connection Lost:127.0.0.1 ID = 5
+23:01:54	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 49298 Protocol = 11 Size = 6
+23:01:54	[CenServer] Receive packet failed!
+23:01:54	Connection Lost:127.0.0.1 ID = 7
+23:01:54	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 50578 Protocol = 11 Size = 6
+23:01:55	[CenServer] Receive packet failed!
+23:01:55	Connection Lost:127.0.0.1 ID = 4
+23:01:55	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 46226 Protocol = 11 Size = 6
+23:01:55	[CenServer] Receive packet failed!
+23:01:55	Connection Lost:127.0.0.1 ID = 6
+23:01:55	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 50066 Protocol = 11 Size = 6
+23:01:56	[CenServer] Receive packet failed!
+23:01:56	Connection Lost:127.0.0.1 ID = 3
+23:01:56	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 44946 Protocol = 11 Size = 6
+23:01:56	[CenServer] Receive packet failed!
+23:01:56	Connection Lost:127.0.0.1 ID = 2
+23:01:56	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 43666 Protocol = 11 Size = 6
+23:01:56	[CenServer] Receive packet failed!
+23:01:56	Connection Lost:127.0.0.1 ID = 1
+23:01:56	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 42130 Protocol = 11 Size = 6
+23:02:05	**********************   ∞Ê  »®  …˘  √˜   ************************
+23:02:06	
+23:02:06	                  °æΩ£ ¿…Ω◊Ø°øΩ£œ¿ ¿ΩÁ∑˛ŒÒ∂À
+23:02:06	
+23:02:06	ºº ıΩª¡˜£∫http://www.web-jx.com
+23:02:06	
+23:02:06	    ±æœµ¡–≥Ã–Ú÷ª◊˜—ßœ∞Ωª¡˜ π”√£¨Ωˆπ©∏ˆ»À—–æø÷Æ”√£¨«Î∞≤◊∞∫Û‘⁄24–° ±ƒ⁄…æ≥˝£¨«ÎŒ”√”⁄…Ã“µ“‘º∞∑«∑®”√Õæ£¨»Á”…¥À“˝∆µƒœ‡πÿ∑®¬…∑®πÊ‘»Œ£¨”ÎŒ“√«Œﬁπÿ£°
+23:02:06	
+23:02:06	–ﬁ∏ƒƒ⁄»›£∫
+23:02:06	1°¢‘ˆº”Ω±“ªÒ»°Ω≈±æAddJbCoin(d),eg:AddJbCoin(10000)‘ˆº”1ÕÚΩ±“°£
+23:02:06	2°¢–ﬁ∏ƒ…Ã≥«Ω±“Ω”ø⁄£¨ µœ÷ π”√Ω±“π∫¬Ú…Ã≥«µ¿æﬂ°£
+23:02:06	3°¢±æ∂À”¶∏√÷ß≥÷120ººƒ‹£¨»Á≤‚ ‘Õ®π˝œ£Õ˚ø…“‘¡¨Õ¨ƒ˙µƒººƒ‹Ω≈±æ…œ¥´µΩŒ“√«¬€Ã≥£¨π©¥Ûº“—–æø°£
+23:02:06	4°¢±æ∂À√ª”–»Œ∫Œπ¶ƒ‹œﬁ÷∆°£
+23:02:06	********************** GameCenter Startup ************************
+23:02:06	OS Time: 03/18/25 23:02:06
+23:02:06	Game Init ..
+23:02:06	Loading Script...
+23:02:06	Begin load script files...
+23:02:06	begin load vfactory.lua
+23:02:06	Preload gc script files...
+23:02:06	21 loaded!
+23:02:06	Loading Scripts In Path \script\
+23:02:06	308 loaded!
+23:02:06	Create DBShare Table
+23:02:06	LoadDBShare...
+23:02:06	Current Data Version : 1
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[GBLVALUE]	ModuleInit..
+23:02:06	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+23:02:06	Create RDS Table: tblGblValueSet
+23:02:06	Create RDS Table: tblGblVIntInt
+23:02:06	Create RDS Table: tblGblVIntBuf
+23:02:06	Create RDS Table: tblGblVStrInt
+23:02:06	Create RDS Table: tblGblVStrBuf
+23:02:06	[GBLVALUE]	Base Data Init, Create RootTree...
+23:02:06	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+23:02:06	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+23:02:06	[GBLVALUE]	Base Data Init, Create RootTree...
+23:02:06	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+23:02:06	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+23:02:06	[GBLVALUE]	Base Data Init, Create RootTree...
+23:02:06	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+23:02:06	Create SaveBuffer DB Table
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[TRANSFER]	ModuleInit..
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[TimerTask]	ModuleInit..
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[ScheduleTask]	ModuleInit..
+23:02:06	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+23:02:06	[ScheduleTask]	Schedule Task Loaded, Task Count = 55
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[LEAGUE]	ModuleInit..
+23:02:06	[LEAGUE]	Base Data Init, Root Branch ID: 7
+23:02:06	Create RDS Table: tblLeagueSet
+23:02:06	Create RDS Table: tblMemberLea
+23:02:06	Create RDS Table: tblLeague
+23:02:06	Create RDS Table: tblLeagueTask
+23:02:06	Create RDS Table: tblLeagueMember
+23:02:06	Create RDS Table: tblLeaMemberTask
+23:02:06	[LEAGUE]	Base Data Init, Create RootTree...
+23:02:06	[LEAGUE]	Base Data Init, Create DataTree Completed!
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[KIN]	ModuleInit..
+23:02:06	[KIN]	Base Data Init, Root Branch ID: 9
+23:02:06	Create RDS Table: tblKin
+23:02:06	Create RDS Table: tblKinTask
+23:02:06	Create RDS Table: tblKinBufTask
+23:02:06	Create RDS Table: tblKinMember
+23:02:06	Create RDS Table: tblKinMemberTask
+23:02:06	[KIN]	Base Data Init, Create RootTree...
+23:02:06	[KIN]	Base Data Init, Create DataTree Completed!
+23:02:06	Create Player Kin-Tong DB Table
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[TONG]	ModuleInit..
+23:02:06	[TONG]	Base Data Init, Root Branch ID: 11
+23:02:06	Create RDS Table: tblTong
+23:02:06	Create RDS Table: tblTongTask
+23:02:06	Create RDS Table: tblTongBufTask
+23:02:06	Create RDS Table: tblTongKin
+23:02:06	Create RDS Table: tblTongDomain
+23:02:06	Create RDS Table: tblTongDomainTask
+23:02:06	Create RDS Table: tblTongDomainTaskBuf
+23:02:06	[TONG]	Base Data Init, Create RootTree...
+23:02:06	[TONG]	Base Data Init, Create DataTree Completed!
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[UNION]	ModuleInit..
+23:02:06	[UNION]	Base Data Init, Root Branch ID: 13
+23:02:06	Create RDS Table: tblUnion
+23:02:06	Create RDS Table: tblUnionTask
+23:02:06	Create RDS Table: tblUnionBufTask
+23:02:06	Create RDS Table: tblUnionTong
+23:02:06	Create RDS Table: tblUnionDomain
+23:02:06	[UNION]	Base Data Init, Create RootTree...
+23:02:06	[UNION]	Base Data Init, Create DataTree Completed!
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[PLAYERMAN]	ModuleInit..
+23:02:06	LoadCoZoneSubPlayerNameId TimeOut Del
+23:02:06	Create Player Data DB Table
+23:02:06	Loading All Players ...
+23:02:06	Referenced Players in <PlayerData> Table: 0
+23:02:06	<PlayerData> Table: Simple Player Count[0], Normal Player Count [0].
+23:02:06	Loading Players Kin Info in <PlayerKin> Table ...
+23:02:06	Referenced Players in <PlayerKin> Table: 0
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[TEAM]	ModuleInit..
+23:02:06	[TEAM]	Base Data Init, Root Branch ID: 15
+23:02:06	[TEAM]	Base Data Init, Create RootTree...
+23:02:06	[TEAM]	Base Data Init, Create DataTree Completed!
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[Map]	ModuleInit..
+23:02:06	Loading World Setting...
+23:02:06	Gameserver Count = 3
+23:02:06	[Gameserver0]
+23:02:06	ID = 1
+23:02:06	MapCount = 251
+23:02:06	[Gameserver1]
+23:02:06	ID = 2
+23:02:06	MapCount = 253
+23:02:06	[Gameserver2]
+23:02:06	ID = 3
+23:02:06	MapCount = 239
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[CHAT]	ModuleInit..
+23:02:06	Create OfflineMsg DB Table
+23:02:06	Load All OfflineMsg
+23:02:06	Referenced OfflineMsg 0
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[RELATION]	ModuleInit..
+23:02:06	Create Player Relay DB Table
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[MAIL]	ModuleInit..
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[IBSHOP]	ModuleInit..
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[GMBOARD]	ModuleInit..
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[JBEXCHANGE]	ModuleInit..
+23:02:06	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+23:02:06	Create RDS Table: tblJbExchangeBill
+23:02:06	Create RDS Table: tblJbExchangeTask
+23:02:06	[JBEXCHANGE]	Base Data Init, Create RootTree...
+23:02:06	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[LADDER]	ModuleInit..
+23:02:06	[LADDER]	Base Data Init, Root Branch ID: 19
+23:02:06	Create RDS Table: tblLadder
+23:02:06	Create RDS Table: tblPlayerLadder
+23:02:06	Create RDS Table: tblAllTotalLadder
+23:02:06	Create RDS Table: tblTotalLadder
+23:02:06	[LADDER]	Base Data Init, Create RootTree...
+23:02:06	[LADDER]	Base Data Init, Create DataTree Completed!
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[GBLBUF]	ModuleInit..
+23:02:06	[GBLBUF]	Base Data Init, Root Branch ID: 22
+23:02:06	Create RDS Table: tblGblBufSet
+23:02:06	Create RDS Table: tblGblBuf
+23:02:06	[GBLBUF]	Base Data Init, Create RootTree...
+23:02:06	[GBLBUF]	Base Data Init, Create DataTree Completed!
+23:02:06	[GBLBUF]	Base Data Init, Root Branch ID: 24
+23:02:06	Create RDS Table: tblGblBufSet
+23:02:06	Create RDS Table: tblGblBuf
+23:02:06	[GBLBUF]	Base Data Init, Create RootTree...
+23:02:06	[GBLBUF]	Base Data Init, Create DataTree Completed!
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[PROFILE]	ModuleInit..
+23:02:06	[PROFILE]	Base Data Init, Root Branch ID: 26
+23:02:06	Create RDS Table: tblProfile
+23:02:06	Create RDS Table: tblProfileTask
+23:02:06	Create RDS Table: tblProfileBuff
+23:02:06	[PROFILE]	Base Data Init, Create RootTree...
+23:02:06	[PROFILE]	Base Data Init, Create DataTree Completed!
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[AUCTION]	ModuleInit..
+23:02:06	Create Auction Table
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[NORMAL]	ModuleInit..
+23:02:06	-------------------------------------------------------------------------------
+23:02:06	[SPORT]	ModuleInit..
+23:02:06	[SPORT]	Base Data Init, Root Branch ID: 27
+23:02:06	Create RDS Table: tblSportPlayer
+23:02:06	[SPORT]	Base Data Init, Create RootTree...
+23:02:06	[SPORT]	Base Data Init, Create DataTree Completed!
+23:02:06	[LOG]	2	[Player]	Cap cao nhat 99
+23:02:07	Xep hang danh sach
+23:02:07	Xep hang bat dau
+23:02:07	RefreshHonorLadderData start 262656
+23:02:07	Hoan Thanh Xep Hang
+23:02:07	RefreshHonorLadderData start 131585
+23:02:07	[LOG]	2	[SpecialEvent.CollectCard]	ÁõõÂ§èÊ¥ªÂä®Âç°Êî∂ÈõÜ	SetLuckCardNews03Êúà18Êó•ÂõΩÂ∫ÜÊ¥ªÂä®Âπ∏ËøêÂç°Ê∞ëÊóè03Êúà18Êó•ËíôÂè§Êóè    
+23:02:07	Den Bu Online qua thoi gian thanh tru	So Luong thanh tru:	0
+23:02:07	Khong Co So Lieu ,Tu Tra Ve
+23:02:07	Xep hang Vo Lam Lien Dau bat dau
+23:02:07	RefreshHonorLadderData start 197376
+23:02:07	PlayerHonor:GetHonorStatInfo() start 	wllshonor
+23:02:07	Xep hang Vo Lam Lien Dau ket thuc
+23:02:07	Connect to logserver(127.0.0.1:5100) OK!
+23:02:07	Connect to Goddess(127.0.0.1:5001) OK!
+23:02:07	Connect Gateway....
+23:02:07	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09D33B08
+23:02:07	UnSave Database Type, Saving emDATABASE_TYPE_NORMAL
+23:02:07	Game Startup Completed!
+23:02:13	[CenServer] Accept from 127.0.0.1 Port = 65170
+23:02:13	Connection Created! Connection ID = 1
+23:02:13	Domain	Statuary	tbStatuary:OnRecConnectEvent	1
+23:02:15	[CenServer] Accept from 127.0.0.1 Port = 1171
+23:02:15	Connection Created! Connection ID = 2
+23:02:15	Domain	Statuary	tbStatuary:OnRecConnectEvent	2
+23:02:15	[CenServer] Accept from 127.0.0.1 Port = 2451
+23:02:15	Connection Created! Connection ID = 3
+23:02:15	Domain	Statuary	tbStatuary:OnRecConnectEvent	3
+23:02:15	[CenServer] Accept from 127.0.0.1 Port = 3731
+23:02:15	Connection Created! Connection ID = 4
+23:02:15	Domain	Statuary	tbStatuary:OnRecConnectEvent	4
+23:02:15	[GCError] KMapArrangeCentre::RegisterHost(111) 4
+23:02:16	OnGCExcute	Map:GCUpdateForbidenInfo
+23:02:16	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:02:16	So den khong co ban dau hoa, truc tiep tro ve
+23:02:16	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	4
+23:02:16	[CenServer] Accept from 127.0.0.1 Port = 6547
+23:02:16	Connection Created! Connection ID = 5
+23:02:16	Domain	Statuary	tbStatuary:OnRecConnectEvent	5
+23:02:16	[GCError] KMapArrangeCentre::RegisterHost(111) 7
+23:02:17	OnGCExcute	Map:GCUpdateForbidenInfo
+23:02:17	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:02:17	So den khong co ban dau hoa, truc tiep tro ve
+23:02:17	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	7
+23:02:18	[CenServer] Accept from 127.0.0.1 Port = 7315
+23:02:18	Connection Created! Connection ID = 6
+23:02:18	Domain	Statuary	tbStatuary:OnRecConnectEvent	6
+23:02:18	[GCError] KMapArrangeCentre::RegisterHost(111) 5
+23:02:18	[CenServer] Accept from 127.0.0.1 Port = 7827
+23:02:18	Connection Created! Connection ID = 7
+23:02:18	Domain	Statuary	tbStatuary:OnRecConnectEvent	7
+23:02:18	[GCError] KMapArrangeCentre::RegisterHost(111) 6
+23:02:18	OnGCExcute	Map:GCUpdateForbidenInfo
+23:02:18	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:02:18	So den khong co ban dau hoa, truc tiep tro ve
+23:02:18	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	5
+23:02:18	OnGCExcute	Map:GCUpdateForbidenInfo
+23:02:18	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:02:18	So den khong co ban dau hoa, truc tiep tro ve
+23:02:18	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	6
+23:02:21	Do Daily Backup 17
+23:02:23	OnGCExcute	Map:GCUpdateForbidenInfo
+23:02:23	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:02:23	So den khong co ban dau hoa, truc tiep tro ve
+23:02:23	OnGCExcute	XoyoGame:CreateManager_GC	341
+23:02:23	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+23:02:23	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+23:02:23	OnGCExcute	Map:GCUpdateForbidenInfo
+23:02:23	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:02:23	So den khong co ban dau hoa, truc tiep tro ve
+23:02:23	OnGCExcute	XoyoGame:CreateManager_GC	342
+23:02:23	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+23:02:23	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	2
+23:02:24	OnGCExcute	Map:GCUpdateForbidenInfo
+23:02:24	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:02:24	So den khong co ban dau hoa, truc tiep tro ve
+23:02:24	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+23:02:24	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	3
+23:02:44	[CenServer] Receive packet failed!
+23:02:44	Connection Lost:127.0.0.1 ID = 1
+23:02:44	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 65170 Protocol = 11 Size = 6
+23:03:14	[CenServer] Accept from 127.0.0.1 Port = 9619
+23:03:14	Connection Created! Connection ID = 8
+23:03:14	Domain	Statuary	tbStatuary:OnRecConnectEvent	8
+23:03:15	[CenServer] Receive packet failed!
+23:03:15	Connection Lost:127.0.0.1 ID = 6
+23:03:15	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 7315 Protocol = 11 Size = 6
+23:03:22	OnGCExcute	Map:GCUpdateForbidenInfo
+23:03:22	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:03:22	So den khong co ban dau hoa, truc tiep tro ve
+23:03:22	OnGCExcute	XoyoGame:CreateManager_GC	341
+23:03:22	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+23:03:22	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+23:03:34	[CenServer] Receive packet failed!
+23:03:34	Connection Lost:127.0.0.1 ID = 8
+23:03:34	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 9619 Protocol = 11 Size = 6
+23:03:41	[CenServer] Receive packet failed!
+23:03:41	Connection Lost:127.0.0.1 ID = 2
+23:03:41	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 1171 Protocol = 11 Size = 6
+23:03:41	[CenServer] Receive packet failed!
+23:03:41	Connection Lost:127.0.0.1 ID = 3
+23:03:41	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 2451 Protocol = 11 Size = 6
+23:03:42	[CenServer] Receive packet failed!
+23:03:42	Connection Lost:127.0.0.1 ID = 4
+23:03:42	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 3731 Protocol = 11 Size = 6
+23:03:42	[CenServer] Receive packet failed!
+23:03:42	Connection Lost:127.0.0.1 ID = 7
+23:03:42	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 7827 Protocol = 11 Size = 6
+23:03:43	[CenServer] Receive packet failed!
+23:03:43	Connection Lost:127.0.0.1 ID = 5
+23:03:43	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 6547 Protocol = 11 Size = 6
+23:03:43	[CenServer] Accept from 127.0.0.1 Port = 11411
+23:03:44	Connection Created! Connection ID = 9
+23:03:44	Domain	Statuary	tbStatuary:OnRecConnectEvent	9
+23:03:47	[CenServer] Accept from 127.0.0.1 Port = 12947
+23:03:47	Connection Created! Connection ID = 10
+23:03:47	Domain	Statuary	tbStatuary:OnRecConnectEvent	10
+23:03:52	OnGCExcute	Map:GCUpdateForbidenInfo
+23:03:52	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:03:52	So den khong co ban dau hoa, truc tiep tro ve
+23:03:52	OnGCExcute	XoyoGame:CreateManager_GC	341
+23:03:52	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+23:03:52	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+23:03:54	OnGCExcute	Map:GCUpdateForbidenInfo
+23:03:54	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:03:54	So den khong co ban dau hoa, truc tiep tro ve
+23:03:54	OnGCExcute	XoyoGame:CreateManager_GC	342
+23:03:54	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+23:03:54	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	2
+23:04:08	[CenServer] Receive packet failed!
+23:04:08	Connection Lost:127.0.0.1 ID = 9
+23:04:08	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 11411 Protocol = 11 Size = 6
+23:04:19	[CenServer] Receive packet failed!
+23:04:19	Connection Lost:127.0.0.1 ID = 10
+23:04:19	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 12947 Protocol = 11 Size = 6
+23:04:24	[CenServer] Accept from 127.0.0.1 Port = 15763
+23:04:24	Connection Created! Connection ID = 11
+23:04:24	Domain	Statuary	tbStatuary:OnRecConnectEvent	11
+23:04:24	[CenServer] Receive packet failed!
+23:04:24	Connection Lost:127.0.0.1 ID = 11
+23:04:24	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 15763 Protocol = 11 Size = 6
+23:05:09	**********************   ∞Ê  »®  …˘  √˜   ************************
+23:05:09	
+23:05:09	                  °æΩ£ ¿…Ω◊Ø°øΩ£œ¿ ¿ΩÁ∑˛ŒÒ∂À
+23:05:09	
+23:05:09	ºº ıΩª¡˜£∫http://www.web-jx.com
+23:05:09	
+23:05:09	    ±æœµ¡–≥Ã–Ú÷ª◊˜—ßœ∞Ωª¡˜ π”√£¨Ωˆπ©∏ˆ»À—–æø÷Æ”√£¨«Î∞≤◊∞∫Û‘⁄24–° ±ƒ⁄…æ≥˝£¨«ÎŒ”√”⁄…Ã“µ“‘º∞∑«∑®”√Õæ£¨»Á”…¥À“˝∆µƒœ‡πÿ∑®¬…∑®πÊ‘»Œ£¨”ÎŒ“√«Œﬁπÿ£°
+23:05:09	
+23:05:09	–ﬁ∏ƒƒ⁄»›£∫
+23:05:09	1°¢‘ˆº”Ω±“ªÒ»°Ω≈±æAddJbCoin(d),eg:AddJbCoin(10000)‘ˆº”1ÕÚΩ±“°£
+23:05:09	2°¢–ﬁ∏ƒ…Ã≥«Ω±“Ω”ø⁄£¨ µœ÷ π”√Ω±“π∫¬Ú…Ã≥«µ¿æﬂ°£
+23:05:09	3°¢±æ∂À”¶∏√÷ß≥÷120ººƒ‹£¨»Á≤‚ ‘Õ®π˝œ£Õ˚ø…“‘¡¨Õ¨ƒ˙µƒººƒ‹Ω≈±æ…œ¥´µΩŒ“√«¬€Ã≥£¨π©¥Ûº“—–æø°£
+23:05:09	4°¢±æ∂À√ª”–»Œ∫Œπ¶ƒ‹œﬁ÷∆°£
+23:05:09	********************** GameCenter Startup ************************
+23:05:09	OS Time: 03/18/25 23:05:09
+23:05:09	Game Init ..
+23:05:09	Loading Script...
+23:05:09	Begin load script files...
+23:05:09	begin load vfactory.lua
+23:05:09	Preload gc script files...
+23:05:09	21 loaded!
+23:05:09	Loading Scripts In Path \script\
+23:05:09	308 loaded!
+23:05:09	Create DBShare Table
+23:05:09	LoadDBShare...
+23:05:09	Current Data Version : 2
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[GBLVALUE]	ModuleInit..
+23:05:09	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+23:05:09	Create RDS Table: tblGblValueSet
+23:05:09	Create RDS Table: tblGblVIntInt
+23:05:09	Create RDS Table: tblGblVIntBuf
+23:05:09	Create RDS Table: tblGblVStrInt
+23:05:09	Create RDS Table: tblGblVStrBuf
+23:05:09	[GBLVALUE]	Base Data Init, Create RootTree...
+23:05:09	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+23:05:09	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+23:05:09	[GBLVALUE]	Base Data Init, Create RootTree...
+23:05:09	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+23:05:09	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+23:05:09	[GBLVALUE]	Base Data Init, Create RootTree...
+23:05:09	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+23:05:09	Create SaveBuffer DB Table
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[TRANSFER]	ModuleInit..
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[TimerTask]	ModuleInit..
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[ScheduleTask]	ModuleInit..
+23:05:09	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+23:05:09	[ScheduleTask]	Schedule Task Loaded, Task Count = 55
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[LEAGUE]	ModuleInit..
+23:05:09	[LEAGUE]	Base Data Init, Root Branch ID: 11
+23:05:09	Create RDS Table: tblLeagueSet
+23:05:09	Create RDS Table: tblMemberLea
+23:05:09	Create RDS Table: tblLeague
+23:05:09	Create RDS Table: tblLeagueTask
+23:05:09	Create RDS Table: tblLeagueMember
+23:05:09	Create RDS Table: tblLeaMemberTask
+23:05:09	[LEAGUE]	Base Data Init, Create RootTree...
+23:05:09	[LEAGUE]	Base Data Init, Create DataTree Completed!
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[KIN]	ModuleInit..
+23:05:09	[KIN]	Base Data Init, Root Branch ID: 14
+23:05:09	Create RDS Table: tblKin
+23:05:09	Create RDS Table: tblKinTask
+23:05:09	Create RDS Table: tblKinBufTask
+23:05:09	Create RDS Table: tblKinMember
+23:05:09	Create RDS Table: tblKinMemberTask
+23:05:09	[KIN]	Base Data Init, Create RootTree...
+23:05:09	[KIN]	Base Data Init, Create DataTree Completed!
+23:05:09	Create Player Kin-Tong DB Table
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[TONG]	ModuleInit..
+23:05:09	[TONG]	Base Data Init, Root Branch ID: 16
+23:05:09	Create RDS Table: tblTong
+23:05:09	Create RDS Table: tblTongTask
+23:05:09	Create RDS Table: tblTongBufTask
+23:05:09	Create RDS Table: tblTongKin
+23:05:09	Create RDS Table: tblTongDomain
+23:05:09	Create RDS Table: tblTongDomainTask
+23:05:09	Create RDS Table: tblTongDomainTaskBuf
+23:05:09	[TONG]	Base Data Init, Create RootTree...
+23:05:09	[TONG]	Base Data Init, Create DataTree Completed!
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[UNION]	ModuleInit..
+23:05:09	[UNION]	Base Data Init, Root Branch ID: 18
+23:05:09	Create RDS Table: tblUnion
+23:05:09	Create RDS Table: tblUnionTask
+23:05:09	Create RDS Table: tblUnionBufTask
+23:05:09	Create RDS Table: tblUnionTong
+23:05:09	Create RDS Table: tblUnionDomain
+23:05:09	[UNION]	Base Data Init, Create RootTree...
+23:05:09	[UNION]	Base Data Init, Create DataTree Completed!
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[PLAYERMAN]	ModuleInit..
+23:05:09	LoadCoZoneSubPlayerNameId TimeOut Del
+23:05:09	Create Player Data DB Table
+23:05:09	Loading All Players ...
+23:05:09	Referenced Players in <PlayerData> Table: 0
+23:05:09	<PlayerData> Table: Simple Player Count[0], Normal Player Count [0].
+23:05:09	Loading Players Kin Info in <PlayerKin> Table ...
+23:05:09	Referenced Players in <PlayerKin> Table: 0
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[TEAM]	ModuleInit..
+23:05:09	[TEAM]	Base Data Init, Root Branch ID: 20
+23:05:09	[TEAM]	Base Data Init, Create RootTree...
+23:05:09	[TEAM]	Base Data Init, Create DataTree Completed!
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[Map]	ModuleInit..
+23:05:09	Loading World Setting...
+23:05:09	Gameserver Count = 3
+23:05:09	[Gameserver0]
+23:05:09	ID = 1
+23:05:09	MapCount = 251
+23:05:09	[Gameserver1]
+23:05:09	ID = 2
+23:05:09	MapCount = 253
+23:05:09	[Gameserver2]
+23:05:09	ID = 3
+23:05:09	MapCount = 239
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[CHAT]	ModuleInit..
+23:05:09	Create OfflineMsg DB Table
+23:05:09	Load All OfflineMsg
+23:05:09	Referenced OfflineMsg 0
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[RELATION]	ModuleInit..
+23:05:09	Create Player Relay DB Table
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[MAIL]	ModuleInit..
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[IBSHOP]	ModuleInit..
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[GMBOARD]	ModuleInit..
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[JBEXCHANGE]	ModuleInit..
+23:05:09	[JBEXCHANGE]	Base Data Init, Root Branch ID: 22
+23:05:09	Create RDS Table: tblJbExchangeBill
+23:05:09	Create RDS Table: tblJbExchangeTask
+23:05:09	[JBEXCHANGE]	Base Data Init, Create RootTree...
+23:05:09	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[LADDER]	ModuleInit..
+23:05:09	[LADDER]	Base Data Init, Root Branch ID: 24
+23:05:09	Create RDS Table: tblLadder
+23:05:09	Create RDS Table: tblPlayerLadder
+23:05:09	Create RDS Table: tblAllTotalLadder
+23:05:09	Create RDS Table: tblTotalLadder
+23:05:09	[LADDER]	Base Data Init, Create RootTree...
+23:05:09	[LADDER]	Base Data Init, Create DataTree Completed!
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[GBLBUF]	ModuleInit..
+23:05:09	[GBLBUF]	Base Data Init, Root Branch ID: 54
+23:05:09	Create RDS Table: tblGblBufSet
+23:05:09	Create RDS Table: tblGblBuf
+23:05:09	[GBLBUF]	Base Data Init, Create RootTree...
+23:05:09	[GBLBUF]	Base Data Init, Create DataTree Completed!
+23:05:09	[GBLBUF]	Base Data Init, Root Branch ID: 63
+23:05:09	Create RDS Table: tblGblBufSet
+23:05:09	Create RDS Table: tblGblBuf
+23:05:09	[GBLBUF]	Base Data Init, Create RootTree...
+23:05:09	[GBLBUF]	Base Data Init, Create DataTree Completed!
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[PROFILE]	ModuleInit..
+23:05:09	[PROFILE]	Base Data Init, Root Branch ID: 72
+23:05:09	Create RDS Table: tblProfile
+23:05:09	Create RDS Table: tblProfileTask
+23:05:09	Create RDS Table: tblProfileBuff
+23:05:09	[PROFILE]	Base Data Init, Create RootTree...
+23:05:09	[PROFILE]	Base Data Init, Create DataTree Completed!
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[AUCTION]	ModuleInit..
+23:05:09	Create Auction Table
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[NORMAL]	ModuleInit..
+23:05:09	-------------------------------------------------------------------------------
+23:05:09	[SPORT]	ModuleInit..
+23:05:09	[SPORT]	Base Data Init, Root Branch ID: 73
+23:05:09	Create RDS Table: tblSportPlayer
+23:05:09	[SPORT]	Base Data Init, Create RootTree...
+23:05:09	[SPORT]	Base Data Init, Create DataTree Completed!
+23:05:09	[LOG]	2	[Player]	Cap cao nhat 99
+23:05:09	Xep hang danh sach
+23:05:09	Hoan Thanh Xep Hang
+23:05:09	Den Bu Online qua thoi gian thanh tru	So Luong thanh tru:	0
+23:05:09	Khong Co So Lieu ,Tu Tra Ve
+23:05:09	Connect to logserver(127.0.0.1:5100) OK!
+23:05:09	Connect to Goddess(127.0.0.1:5001) OK!
+23:05:09	Connect Gateway....
+23:05:09	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09B700A8
+23:05:09	Game Startup Completed!
+23:05:13	[CenServer] Accept from 127.0.0.1 Port = 21651
+23:05:13	Connection Created! Connection ID = 1
+23:05:13	Domain	Statuary	tbStatuary:OnRecConnectEvent	1
+23:05:18	[CenServer] Accept from 127.0.0.1 Port = 24723
+23:05:18	Connection Created! Connection ID = 2
+23:05:18	Domain	Statuary	tbStatuary:OnRecConnectEvent	2
+23:05:18	[CenServer] Accept from 127.0.0.1 Port = 26003
+23:05:18	Connection Created! Connection ID = 3
+23:05:18	Domain	Statuary	tbStatuary:OnRecConnectEvent	3
+23:05:19	[CenServer] Accept from 127.0.0.1 Port = 27283
+23:05:19	Connection Created! Connection ID = 4
+23:05:19	Domain	Statuary	tbStatuary:OnRecConnectEvent	4
+23:05:19	[GCError] KMapArrangeCentre::RegisterHost(111) 4
+23:05:19	OnGCExcute	Map:GCUpdateForbidenInfo
+23:05:19	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:05:19	So den khong co ban dau hoa, truc tiep tro ve
+23:05:19	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	4
+23:05:20	[CenServer] Accept from 127.0.0.1 Port = 30099
+23:05:20	Connection Created! Connection ID = 5
+23:05:20	Domain	Statuary	tbStatuary:OnRecConnectEvent	5
+23:05:20	[GCError] KMapArrangeCentre::RegisterHost(111) 7
+23:05:20	OnGCExcute	Map:GCUpdateForbidenInfo
+23:05:20	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:05:20	So den khong co ban dau hoa, truc tiep tro ve
+23:05:20	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	7
+23:05:21	[CenServer] Accept from 127.0.0.1 Port = 30867
+23:05:21	Connection Created! Connection ID = 6
+23:05:21	Domain	Statuary	tbStatuary:OnRecConnectEvent	6
+23:05:21	[GCError] KMapArrangeCentre::RegisterHost(111) 5
+23:05:21	OnGCExcute	Map:GCUpdateForbidenInfo
+23:05:21	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:05:21	So den khong co ban dau hoa, truc tiep tro ve
+23:05:21	[CenServer] Accept from 127.0.0.1 Port = 31379
+23:05:21	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	5
+23:05:21	Connection Created! Connection ID = 7
+23:05:21	Domain	Statuary	tbStatuary:OnRecConnectEvent	7
+23:05:21	[GCError] KMapArrangeCentre::RegisterHost(111) 6
+23:05:22	OnGCExcute	Map:GCUpdateForbidenInfo
+23:05:22	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:05:22	So den khong co ban dau hoa, truc tiep tro ve
+23:05:22	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	6
+23:05:23	OnGCExcute	Map:GCUpdateForbidenInfo
+23:05:23	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:05:23	So den khong co ban dau hoa, truc tiep tro ve
+23:05:23	OnGCExcute	XoyoGame:CreateManager_GC	341
+23:05:23	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+23:05:23	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+23:05:24	Do Daily Backup 17
+23:05:26	OnGCExcute	Map:GCUpdateForbidenInfo
+23:05:26	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:05:26	So den khong co ban dau hoa, truc tiep tro ve
+23:05:26	OnGCExcute	XoyoGame:CreateManager_GC	342
+23:05:26	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+23:05:26	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	2
+23:05:27	OnGCExcute	Map:GCUpdateForbidenInfo
+23:05:27	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:05:27	So den khong co ban dau hoa, truc tiep tro ve
+23:05:27	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+23:05:27	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	3
+23:05:37	TCQGaming	1400849469	LoginMul_1	IpMul1
+23:05:37	OnGCExcute	Task.tbHelp:SetDynamicNews	1	TCQGaming ƒë·∫°t c·∫•p 69 ƒë·∫ßu ti√™n!	V√µ l√¢m cao th·ªß ƒë·∫°t c·∫•p 69 ƒë·∫ßu ti√™n ƒë√£ xu·∫•t hi·ªán
+H·ªç t√™n: <color=gold>TCQGaming<color>
+Gi·ªõi t√≠nh: <color=gold>Nam<color>
+Nh√°nh m√¥n ph√°i: <color=gold>Ch∆∞a<color>
+T·ªïng th·ªùi gian l√™n m·∫°ng: <color=gold>0.0<color> gi·ªù	1742573137	1742313937
+23:05:37	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	0
+23:05:41	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	0
+23:06:25	OnGCExcute	Kin:AddKinTotalRepute_GC	0	0	1	20
+23:06:56	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	2121
+23:06:57	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	2633
+23:06:57	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	3145
+23:06:57	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	3659
+23:06:57	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	4426
+23:06:58	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	5204
+23:06:58	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	5976
+23:06:58	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	6488
+23:06:58	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	7009
+23:06:59	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	7787
+23:07:34	[CenServer] Receive packet failed!
+23:07:34	Connection Lost:127.0.0.1 ID = 5
+23:07:34	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 30099 Protocol = 11 Size = 6
+23:07:35	[CenServer] Receive packet failed!
+23:07:35	Connection Lost:127.0.0.1 ID = 7
+23:07:35	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 31379 Protocol = 11 Size = 6
+23:07:35	[CenServer] Receive packet failed!
+23:07:35	Connection Lost:127.0.0.1 ID = 6
+23:07:35	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 30867 Protocol = 11 Size = 6
+23:07:35	[CenServer] Receive packet failed!
+23:07:35	Connection Lost:127.0.0.1 ID = 4
+23:07:35	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 27283 Protocol = 11 Size = 6
+23:07:36	[CenServer] Receive packet failed!
+23:07:36	Connection Lost:127.0.0.1 ID = 3
+23:07:36	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 26003 Protocol = 11 Size = 6
+23:07:36	[CenServer] Receive packet failed!
+23:07:36	Connection Lost:127.0.0.1 ID = 2
+23:07:36	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 24723 Protocol = 4 Size = 10
+23:07:36	[CenServer] Receive packet failed!
+23:07:36	Connection Lost:127.0.0.1 ID = 1
+23:07:36	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 21651 Protocol = 11 Size = 6
+23:07:40	[CenServer] Accept from 127.0.0.1 Port = 35219
+23:07:40	Connection Created! Connection ID = 8
+23:07:40	Domain	Statuary	tbStatuary:OnRecConnectEvent	8
+23:07:41	[CenServer] Accept from 127.0.0.1 Port = 36499
+23:07:41	Connection Created! Connection ID = 9
+23:07:41	Domain	Statuary	tbStatuary:OnRecConnectEvent	9
+23:07:41	[CenServer] Accept from 127.0.0.1 Port = 37779
+23:07:42	Connection Created! Connection ID = 10
+23:07:42	Domain	Statuary	tbStatuary:OnRecConnectEvent	10
+23:07:42	[CenServer] Accept from 127.0.0.1 Port = 39059
+23:07:42	Connection Created! Connection ID = 11
+23:07:42	Domain	Statuary	tbStatuary:OnRecConnectEvent	11
+23:07:42	[GCError] KMapArrangeCentre::RegisterHost(111) 4
+23:07:42	OnGCExcute	Map:GCUpdateForbidenInfo
+23:07:42	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:07:42	So den khong co ban dau hoa, truc tiep tro ve
+23:07:42	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	4
+23:07:42	[CenServer] Accept from 127.0.0.1 Port = 41875
+23:07:43	Connection Created! Connection ID = 12
+23:07:43	Domain	Statuary	tbStatuary:OnRecConnectEvent	12
+23:07:43	[GCError] KMapArrangeCentre::RegisterHost(111) 7
+23:07:43	OnGCExcute	Map:GCUpdateForbidenInfo
+23:07:43	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:07:43	So den khong co ban dau hoa, truc tiep tro ve
+23:07:43	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	7
+23:07:44	[CenServer] Accept from 127.0.0.1 Port = 42643
+23:07:44	Connection Created! Connection ID = 13
+23:07:44	Domain	Statuary	tbStatuary:OnRecConnectEvent	13
+23:07:44	[GCError] KMapArrangeCentre::RegisterHost(111) 5
+23:07:44	[CenServer] Accept from 127.0.0.1 Port = 43155
+23:07:44	Connection Created! Connection ID = 14
+23:07:44	Domain	Statuary	tbStatuary:OnRecConnectEvent	14
+23:07:44	[GCError] KMapArrangeCentre::RegisterHost(111) 6
+23:07:44	OnGCExcute	Map:GCUpdateForbidenInfo
+23:07:44	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:07:44	So den khong co ban dau hoa, truc tiep tro ve
+23:07:44	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	5
+23:07:44	OnGCExcute	Map:GCUpdateForbidenInfo
+23:07:44	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:07:44	So den khong co ban dau hoa, truc tiep tro ve
+23:07:45	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	6
+23:07:49	OnGCExcute	Map:GCUpdateForbidenInfo
+23:07:49	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:07:49	So den khong co ban dau hoa, truc tiep tro ve
+23:07:49	OnGCExcute	XoyoGame:CreateManager_GC	342
+23:07:49	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+23:07:49	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	2
+23:07:50	OnGCExcute	Map:GCUpdateForbidenInfo
+23:07:50	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:07:50	So den khong co ban dau hoa, truc tiep tro ve
+23:07:50	OnGCExcute	XoyoGame:CreateManager_GC	341
+23:07:50	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+23:07:50	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+23:07:50	OnGCExcute	Map:GCUpdateForbidenInfo
+23:07:50	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:07:50	So den khong co ban dau hoa, truc tiep tro ve
+23:07:50	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+23:07:50	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	3
+23:10:00	[ScheduleTask]	Execute Task: Thong ke nguoi choi
+23:10:01	OnGCExcute	Kin:AddKinTotalRepute_GC	0	0	1	30
+23:11:13	OnGCExcute	Kin:AddKinTotalRepute_GC	0	0	1	5
+23:11:13	OnGCExcute	Kin:AddKinTotalRepute_GC	0	0	1	5
+23:13:06	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+23:13:06	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+23:13:46	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+23:13:46	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+23:14:20	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+23:14:20	[GCError] KGC_MySqlDatabase::EncodeString(351) 
+23:15:00	[ScheduleTask]	Execute Task: Dai Hoi Vo Lam Thi Dau Vong Tron [Hang Ngay]
+23:15:00	[ScheduleTask]	Execute Task: Dai Hoi Vo Lam Thi Dau Vong Tron [Hang Tuan]
+23:16:31	[CenServer] Receive packet failed!
+23:16:31	Connection Lost:127.0.0.1 ID = 12
+23:16:31	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 41875 Protocol = 11 Size = 6
+23:16:31	[CenServer] Receive packet failed!
+23:16:31	Connection Lost:127.0.0.1 ID = 14
+23:16:31	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 43155 Protocol = 11 Size = 6
+23:16:31	[CenServer] Receive packet failed!
+23:16:31	Connection Lost:127.0.0.1 ID = 13
+23:16:31	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 42643 Protocol = 11 Size = 6
+23:16:31	[CenServer] Receive packet failed!
+23:16:31	Connection Lost:127.0.0.1 ID = 11
+23:16:31	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 39059 Protocol = 11 Size = 6
+23:16:32	[CenServer] Receive packet failed!
+23:16:32	Connection Lost:127.0.0.1 ID = 10
+23:16:32	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 37779 Protocol = 11 Size = 6
+23:16:32	[CenServer] Receive packet failed!
+23:16:32	Connection Lost:127.0.0.1 ID = 9
+23:16:32	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 36499 Protocol = 11 Size = 6
+23:16:32	[CenServer] Receive packet failed!
+23:16:32	Connection Lost:127.0.0.1 ID = 8
+23:16:32	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 35219 Protocol = 4 Size = 10
+23:16:36	[CenServer] Accept from 127.0.0.1 Port = 55955
+23:16:36	Connection Created! Connection ID = 15
+23:16:36	Domain	Statuary	tbStatuary:OnRecConnectEvent	15
+23:16:36	[CenServer] Accept from 127.0.0.1 Port = 57235
+23:16:37	Connection Created! Connection ID = 16
+23:16:37	Domain	Statuary	tbStatuary:OnRecConnectEvent	16
+23:16:37	[CenServer] Accept from 127.0.0.1 Port = 58515
+23:16:37	Connection Created! Connection ID = 17
+23:16:37	Domain	Statuary	tbStatuary:OnRecConnectEvent	17
+23:16:37	[CenServer] Accept from 127.0.0.1 Port = 59795
+23:16:37	Connection Created! Connection ID = 18
+23:16:37	Domain	Statuary	tbStatuary:OnRecConnectEvent	18
+23:16:37	[GCError] KMapArrangeCentre::RegisterHost(111) 4
+23:16:38	OnGCExcute	Map:GCUpdateForbidenInfo
+23:16:38	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:16:38	So den khong co ban dau hoa, truc tiep tro ve
+23:16:38	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	4
+23:16:38	[CenServer] Accept from 127.0.0.1 Port = 61843
+23:16:38	Connection Created! Connection ID = 19
+23:16:38	Domain	Statuary	tbStatuary:OnRecConnectEvent	19
+23:16:38	[GCError] KMapArrangeCentre::RegisterHost(111) 7
+23:16:39	OnGCExcute	Map:GCUpdateForbidenInfo
+23:16:39	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:16:39	So den khong co ban dau hoa, truc tiep tro ve
+23:16:39	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	7
+23:16:39	[CenServer] Accept from 127.0.0.1 Port = 63379
+23:16:39	Connection Created! Connection ID = 20
+23:16:39	Domain	Statuary	tbStatuary:OnRecConnectEvent	20
+23:16:39	[GCError] KMapArrangeCentre::RegisterHost(111) 5
+23:16:40	OnGCExcute	Map:GCUpdateForbidenInfo
+23:16:40	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:16:40	So den khong co ban dau hoa, truc tiep tro ve
+23:16:40	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	5
+23:16:41	[CenServer] Accept from 127.0.0.1 Port = 63891
+23:16:41	Connection Created! Connection ID = 21
+23:16:41	Domain	Statuary	tbStatuary:OnRecConnectEvent	21
+23:16:41	[GCError] KMapArrangeCentre::RegisterHost(111) 6
+23:16:41	OnGCExcute	Map:GCUpdateForbidenInfo
+23:16:41	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:16:41	So den khong co ban dau hoa, truc tiep tro ve
+23:16:41	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	6
+23:16:45	OnGCExcute	Map:GCUpdateForbidenInfo
+23:16:45	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:16:45	So den khong co ban dau hoa, truc tiep tro ve
+23:16:45	OnGCExcute	XoyoGame:CreateManager_GC	342
+23:16:45	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+23:16:45	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	2
+23:16:46	OnGCExcute	Map:GCUpdateForbidenInfo
+23:16:46	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:16:46	So den khong co ban dau hoa, truc tiep tro ve
+23:16:46	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+23:16:46	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	3
+23:16:46	OnGCExcute	Map:GCUpdateForbidenInfo
+23:16:46	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:16:46	So den khong co ban dau hoa, truc tiep tro ve
+23:16:46	OnGCExcute	XoyoGame:CreateManager_GC	341
+23:16:46	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+23:16:46	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+23:19:01	TCQGaming	1400849469	LogoutMul_0	IpMul_0
+23:20:26	**********************   ∞Ê  »®  …˘  √˜   ************************
+23:20:26	
+23:20:26	                  °æΩ£ ¿…Ω◊Ø°øΩ£œ¿ ¿ΩÁ∑˛ŒÒ∂À
+23:20:26	
+23:20:26	ºº ıΩª¡˜£∫http://www.web-jx.com
+23:20:26	
+23:20:26	    ±æœµ¡–≥Ã–Ú÷ª◊˜—ßœ∞Ωª¡˜ π”√£¨Ωˆπ©∏ˆ»À—–æø÷Æ”√£¨«Î∞≤◊∞∫Û‘⁄24–° ±ƒ⁄…æ≥˝£¨«ÎŒ”√”⁄…Ã“µ“‘º∞∑«∑®”√Õæ£¨»Á”…¥À“˝∆µƒœ‡πÿ∑®¬…∑®πÊ‘»Œ£¨”ÎŒ“√«Œﬁπÿ£°
+23:20:26	
+23:20:26	–ﬁ∏ƒƒ⁄»›£∫
+23:20:26	1°¢‘ˆº”Ω±“ªÒ»°Ω≈±æAddJbCoin(d),eg:AddJbCoin(10000)‘ˆº”1ÕÚΩ±“°£
+23:20:26	2°¢–ﬁ∏ƒ…Ã≥«Ω±“Ω”ø⁄£¨ µœ÷ π”√Ω±“π∫¬Ú…Ã≥«µ¿æﬂ°£
+23:20:26	3°¢±æ∂À”¶∏√÷ß≥÷120ººƒ‹£¨»Á≤‚ ‘Õ®π˝œ£Õ˚ø…“‘¡¨Õ¨ƒ˙µƒººƒ‹Ω≈±æ…œ¥´µΩŒ“√«¬€Ã≥£¨π©¥Ûº“—–æø°£
+23:20:26	4°¢±æ∂À√ª”–»Œ∫Œπ¶ƒ‹œﬁ÷∆°£
+23:20:26	********************** GameCenter Startup ************************
+23:20:26	OS Time: 03/18/25 23:20:26
+23:20:26	Game Init ..
+23:20:26	Loading Script...
+23:20:26	Begin load script files...
+23:20:26	begin load vfactory.lua
+23:20:26	Preload gc script files...
+23:20:26	21 loaded!
+23:20:26	Loading Scripts In Path \script\
+23:20:27	308 loaded!
+23:20:27	Create DBShare Table
+23:20:27	LoadDBShare...
+23:20:27	Current Data Version : 3
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[GBLVALUE]	ModuleInit..
+23:20:27	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+23:20:27	Create RDS Table: tblGblValueSet
+23:20:27	Create RDS Table: tblGblVIntInt
+23:20:27	Create RDS Table: tblGblVIntBuf
+23:20:27	Create RDS Table: tblGblVStrInt
+23:20:27	Create RDS Table: tblGblVStrBuf
+23:20:27	[GBLVALUE]	Base Data Init, Create RootTree...
+23:20:27	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+23:20:27	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+23:20:27	[GBLVALUE]	Base Data Init, Create RootTree...
+23:20:27	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+23:20:27	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+23:20:27	[GBLVALUE]	Base Data Init, Create RootTree...
+23:20:27	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+23:20:27	Create SaveBuffer DB Table
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[TRANSFER]	ModuleInit..
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[TimerTask]	ModuleInit..
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[ScheduleTask]	ModuleInit..
+23:20:27	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+23:20:27	[ScheduleTask]	Schedule Task Loaded, Task Count = 55
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[LEAGUE]	ModuleInit..
+23:20:27	[LEAGUE]	Base Data Init, Root Branch ID: 11
+23:20:27	Create RDS Table: tblLeagueSet
+23:20:27	Create RDS Table: tblMemberLea
+23:20:27	Create RDS Table: tblLeague
+23:20:27	Create RDS Table: tblLeagueTask
+23:20:27	Create RDS Table: tblLeagueMember
+23:20:27	Create RDS Table: tblLeaMemberTask
+23:20:27	[LEAGUE]	Base Data Init, Create RootTree...
+23:20:27	[LEAGUE]	Base Data Init, Create DataTree Completed!
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[KIN]	ModuleInit..
+23:20:27	[KIN]	Base Data Init, Root Branch ID: 14
+23:20:27	Create RDS Table: tblKin
+23:20:27	Create RDS Table: tblKinTask
+23:20:27	Create RDS Table: tblKinBufTask
+23:20:27	Create RDS Table: tblKinMember
+23:20:27	Create RDS Table: tblKinMemberTask
+23:20:27	[KIN]	Base Data Init, Create RootTree...
+23:20:27	[KIN]	Base Data Init, Create DataTree Completed!
+23:20:27	Create Player Kin-Tong DB Table
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[TONG]	ModuleInit..
+23:20:27	[TONG]	Base Data Init, Root Branch ID: 16
+23:20:27	Create RDS Table: tblTong
+23:20:27	Create RDS Table: tblTongTask
+23:20:27	Create RDS Table: tblTongBufTask
+23:20:27	Create RDS Table: tblTongKin
+23:20:27	Create RDS Table: tblTongDomain
+23:20:27	Create RDS Table: tblTongDomainTask
+23:20:27	Create RDS Table: tblTongDomainTaskBuf
+23:20:27	[TONG]	Base Data Init, Create RootTree...
+23:20:27	[TONG]	Base Data Init, Create DataTree Completed!
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[UNION]	ModuleInit..
+23:20:27	[UNION]	Base Data Init, Root Branch ID: 18
+23:20:27	Create RDS Table: tblUnion
+23:20:27	Create RDS Table: tblUnionTask
+23:20:27	Create RDS Table: tblUnionBufTask
+23:20:27	Create RDS Table: tblUnionTong
+23:20:27	Create RDS Table: tblUnionDomain
+23:20:27	[UNION]	Base Data Init, Create RootTree...
+23:20:27	[UNION]	Base Data Init, Create DataTree Completed!
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[PLAYERMAN]	ModuleInit..
+23:20:27	LoadCoZoneSubPlayerNameId TimeOut Del
+23:20:27	Create Player Data DB Table
+23:20:27	Loading All Players ...
+23:20:27	Referenced Players in <PlayerData> Table: 1
+23:20:27	<PlayerData> Table: Simple Player Count[0], Normal Player Count [1].
+23:20:27	Loading Players Kin Info in <PlayerKin> Table ...
+23:20:27	Referenced Players in <PlayerKin> Table: 0
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[TEAM]	ModuleInit..
+23:20:27	[TEAM]	Base Data Init, Root Branch ID: 20
+23:20:27	[TEAM]	Base Data Init, Create RootTree...
+23:20:27	[TEAM]	Base Data Init, Create DataTree Completed!
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[Map]	ModuleInit..
+23:20:27	Loading World Setting...
+23:20:27	Gameserver Count = 3
+23:20:27	[Gameserver0]
+23:20:27	ID = 1
+23:20:27	MapCount = 251
+23:20:27	[Gameserver1]
+23:20:27	ID = 2
+23:20:27	MapCount = 253
+23:20:27	[Gameserver2]
+23:20:27	ID = 3
+23:20:27	MapCount = 239
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[CHAT]	ModuleInit..
+23:20:27	Create OfflineMsg DB Table
+23:20:27	Load All OfflineMsg
+23:20:27	Referenced OfflineMsg 0
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[RELATION]	ModuleInit..
+23:20:27	Create Player Relay DB Table
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[MAIL]	ModuleInit..
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[IBSHOP]	ModuleInit..
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[GMBOARD]	ModuleInit..
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[JBEXCHANGE]	ModuleInit..
+23:20:27	[JBEXCHANGE]	Base Data Init, Root Branch ID: 22
+23:20:27	Create RDS Table: tblJbExchangeBill
+23:20:27	Create RDS Table: tblJbExchangeTask
+23:20:27	[JBEXCHANGE]	Base Data Init, Create RootTree...
+23:20:27	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[LADDER]	ModuleInit..
+23:20:27	[LADDER]	Base Data Init, Root Branch ID: 24
+23:20:27	Create RDS Table: tblLadder
+23:20:27	Create RDS Table: tblPlayerLadder
+23:20:27	Create RDS Table: tblAllTotalLadder
+23:20:27	Create RDS Table: tblTotalLadder
+23:20:27	[LADDER]	Base Data Init, Create RootTree...
+23:20:27	[LADDER]	Base Data Init, Create DataTree Completed!
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[GBLBUF]	ModuleInit..
+23:20:27	[GBLBUF]	Base Data Init, Root Branch ID: 54
+23:20:27	Create RDS Table: tblGblBufSet
+23:20:27	Create RDS Table: tblGblBuf
+23:20:27	[GBLBUF]	Base Data Init, Create RootTree...
+23:20:27	[GBLBUF]	Base Data Init, Create DataTree Completed!
+23:20:27	[GBLBUF]	Base Data Init, Root Branch ID: 63
+23:20:27	Create RDS Table: tblGblBufSet
+23:20:27	Create RDS Table: tblGblBuf
+23:20:27	[GBLBUF]	Base Data Init, Create RootTree...
+23:20:27	[GBLBUF]	Base Data Init, Create DataTree Completed!
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[PROFILE]	ModuleInit..
+23:20:27	[PROFILE]	Base Data Init, Root Branch ID: 72
+23:20:27	Create RDS Table: tblProfile
+23:20:27	Create RDS Table: tblProfileTask
+23:20:27	Create RDS Table: tblProfileBuff
+23:20:27	[PROFILE]	Base Data Init, Create RootTree...
+23:20:27	[PROFILE]	Base Data Init, Create DataTree Completed!
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[AUCTION]	ModuleInit..
+23:20:27	Create Auction Table
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[NORMAL]	ModuleInit..
+23:20:27	-------------------------------------------------------------------------------
+23:20:27	[SPORT]	ModuleInit..
+23:20:27	[SPORT]	Base Data Init, Root Branch ID: 73
+23:20:27	Create RDS Table: tblSportPlayer
+23:20:27	[SPORT]	Base Data Init, Create RootTree...
+23:20:27	[SPORT]	Base Data Init, Create DataTree Completed!
+23:20:27	[LOG]	2	[Player]	Cap cao nhat 99
+23:20:27	Xep hang danh sach
+23:20:27	Hoan Thanh Xep Hang
+23:20:27	Den Bu Online qua thoi gian thanh tru	So Luong thanh tru:	0
+23:20:27	Khong Co So Lieu ,Tu Tra Ve
+23:20:27	Connect to logserver(127.0.0.1:5100) OK!
+23:20:27	Connect to Goddess(127.0.0.1:5001) OK!
+23:20:27	Connect Gateway....
+23:20:27	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09BB6D08
+23:20:27	Game Startup Completed!
+23:20:31	[CenServer] Accept from 127.0.0.1 Port = 59284
+23:20:31	Connection Created! Connection ID = 1
+23:20:31	Domain	Statuary	tbStatuary:OnRecConnectEvent	1
+23:20:32	[CenServer] Accept from 127.0.0.1 Port = 60564
+23:20:32	Connection Created! Connection ID = 2
+23:20:32	Domain	Statuary	tbStatuary:OnRecConnectEvent	2
+23:20:32	[CenServer] Accept from 127.0.0.1 Port = 61844
+23:20:32	Connection Created! Connection ID = 3
+23:20:32	Domain	Statuary	tbStatuary:OnRecConnectEvent	3
+23:20:33	[CenServer] Accept from 127.0.0.1 Port = 63124
+23:20:33	Connection Created! Connection ID = 4
+23:20:33	Domain	Statuary	tbStatuary:OnRecConnectEvent	4
+23:20:33	[GCError] KMapArrangeCentre::RegisterHost(111) 4
+23:20:33	OnGCExcute	Map:GCUpdateForbidenInfo
+23:20:33	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:20:33	So den khong co ban dau hoa, truc tiep tro ve
+23:20:33	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	4
+23:20:34	[CenServer] Accept from 127.0.0.1 Port = 405
+23:20:34	Connection Created! Connection ID = 5
+23:20:34	Domain	Statuary	tbStatuary:OnRecConnectEvent	5
+23:20:34	[GCError] KMapArrangeCentre::RegisterHost(111) 7
+23:20:34	OnGCExcute	Map:GCUpdateForbidenInfo
+23:20:34	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:20:34	So den khong co ban dau hoa, truc tiep tro ve
+23:20:34	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	7
+23:20:35	[CenServer] Accept from 127.0.0.1 Port = 1173
+23:20:35	Connection Created! Connection ID = 6
+23:20:35	Domain	Statuary	tbStatuary:OnRecConnectEvent	6
+23:20:35	[GCError] KMapArrangeCentre::RegisterHost(111) 5
+23:20:36	[CenServer] Accept from 127.0.0.1 Port = 1941
+23:20:36	Connection Created! Connection ID = 7
+23:20:36	Domain	Statuary	tbStatuary:OnRecConnectEvent	7
+23:20:36	OnGCExcute	Map:GCUpdateForbidenInfo
+23:20:36	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:20:36	So den khong co ban dau hoa, truc tiep tro ve
+23:20:36	[GCError] KMapArrangeCentre::RegisterHost(111) 6
+23:20:36	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	5
+23:20:36	OnGCExcute	Map:GCUpdateForbidenInfo
+23:20:36	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:20:36	So den khong co ban dau hoa, truc tiep tro ve
+23:20:36	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	6
+23:20:40	OnGCExcute	Map:GCUpdateForbidenInfo
+23:20:40	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:20:40	So den khong co ban dau hoa, truc tiep tro ve
+23:20:40	OnGCExcute	XoyoGame:CreateManager_GC	342
+23:20:40	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+23:20:40	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	2
+23:20:41	OnGCExcute	Map:GCUpdateForbidenInfo
+23:20:41	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:20:41	So den khong co ban dau hoa, truc tiep tro ve
+23:20:41	OnGCExcute	XoyoGame:CreateManager_GC	341
+23:20:41	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+23:20:41	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+23:20:41	OnGCExcute	Map:GCUpdateForbidenInfo
+23:20:41	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:20:41	So den khong co ban dau hoa, truc tiep tro ve
+23:20:41	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+23:20:41	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	3
+23:20:41	Do Daily Backup 17
+23:21:36	TCQGaming	1400849469	LoginMul_1	IpMul1
+23:22:32	[CenServer] Receive packet failed!
+23:22:33	Connection Lost:127.0.0.1 ID = 1
+23:22:33	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 59284 Protocol = 4 Size = 10
+23:22:36	[CenServer] Accept from 127.0.0.1 Port = 5269
+23:22:36	Connection Created! Connection ID = 8
+23:22:36	Domain	Statuary	tbStatuary:OnRecConnectEvent	8
+23:22:45	OnGCExcute	Map:GCUpdateForbidenInfo
+23:22:45	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+23:22:45	So den khong co ban dau hoa, truc tiep tro ve
+23:22:45	OnGCExcute	XoyoGame:CreateManager_GC	341
+23:22:45	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+23:22:45	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1

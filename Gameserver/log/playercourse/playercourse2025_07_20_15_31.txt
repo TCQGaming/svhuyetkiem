@@ -1,0 +1,138 @@
+20-15:31:50	TCQGaming	login 75
+20-15:31:51	TCQGaming	xboyhd	192.168.1.100:42517	LoginHwId_2226407311	639324413
+20-15:31:58	TCQGaming	Exchange 24
+20-15:31:58	TCQGaming	Exchange 24
+20-15:31:58	TCQGaming	login 24
+20-15:31:59	TCQGaming	xboyhd	192.168.1.100:42773	LoginHwId_2226407311	639324413
+20-15:32:53	TCQGaming	dialog Cổ Phong Hà
+20-15:32:59	TCQGaming	dialog Cổ Phong Hà
+20-15:33:29	TCQGaming	dialog Cổ Phong Hà
+20-15:33:32	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+20-15:33:35	TCQGaming	Exchange 75
+20-15:33:35	TCQGaming	login 75
+20-15:33:36	TCQGaming	xboyhd	192.168.1.100:43541	LoginHwId_2226407311	639324413
+20-15:35:15	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:35:15	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+20-15:35:15	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+20-15:35:15	TCQGaming	AddBindCoin	AddWay100	Count	25000
+20-15:35:15	TCQGaming	AddBindMoney	AddWay100	Count	25000
+20-15:35:15	TCQGaming	UseItem	Thẻ GM
+20-15:36:32	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:32	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:32	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:32	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:32	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:32	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:33	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:33	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:33	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:33	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:33	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:33	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:33	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:33	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:34	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:34	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:34	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:34	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:34	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:34	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:34	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:34	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:35	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:35	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:35	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:35	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:35	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:35	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:36	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:36	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:36	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:36	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:37	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:37	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:37	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:37	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:37	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:37	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:38	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:38	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:38	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:38	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:38	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:38	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:38	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:38	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:39	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:39	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:39	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:39	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:39	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:39	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:40	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:40	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:40	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:40	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:40	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:40	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:41	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:41	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:41	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:41	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:41	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:41	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:42	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:42	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:42	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:42	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:43	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:43	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:43	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:43	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:43	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:43	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:44	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:44	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:44	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:44	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:45	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:45	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:45	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:45	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:46	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:46	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:46	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:46	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:46	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:46	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:46	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:46	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:47	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:47	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:47	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:47	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:47	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:47	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:48	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:48	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:48	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:48	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:48	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:48	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:49	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:49	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:49	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:36:49	TCQGaming	UseItem	Túi quà liên đấu
+20-15:36:49	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-15:36:49	TCQGaming	UseItem	Túi quà liên đấu
+20-15:45:01	TCQGaming	AddItem	Võ Lâm Cao Thủ Lệnh (sơ) (Thủy)(1753001101)	Way7	Value100000
+20-15:45:01	TCQGaming	AddItem	Huyền Tinh Cấp 4(1753001101)	Way7	Value4665
+20-15:45:01	TCQGaming	AddItem	Huyền Tinh Cấp 4(1753001101)	Way7	Value4665
+20-15:45:01	TCQGaming	AddItem	Huyền Tinh Cấp 4(1753001101)	Way7	Value4665
+20-15:45:01	TCQGaming	AddItem	Huyền Tinh Cấp 4(1753001101)	Way7	Value4665
+20-15:45:01	TCQGaming	AddItem	Huyền Tinh Cấp 4(1753001101)	Way7	Value4665
+20-15:45:02	TCQGaming	AddItem	Huyền Tinh Cấp 4(1753001101)	Way7	Value4665
+20-15:45:02	TCQGaming	AddItem	Huyền Tinh Cấp 4(1753001101)	Way7	Value4665
+20-15:45:03	TCQGaming	AddItem	Huyền Tinh Cấp 4(1753001101)	Way7	Value4665
+20-15:46:25	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+20-15:46:31	TCQGaming	Exchange 8

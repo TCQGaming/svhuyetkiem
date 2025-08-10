@@ -1,0 +1,3 @@
+20250716-052358<DEBUG:00004068>: [PrevInitCore]:1, start tickers = 1430821251098363
+20250716-052358<DEBUG:00004068>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3335300124
+20250716-052359<ERROR:00004068>: GetInteger(38, 1) failed !

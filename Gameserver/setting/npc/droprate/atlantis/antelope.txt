@@ -1,0 +1,7 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	20355	1	1		1级碎片1
+		18	1	20356	2	1		1级碎片1
+		18	1	20357	3	1		1级碎片1
+		18	1	20358	4	1		1级碎片1
+		18	1	1875	1	5		1级碎片1
+	1000					165760		绑银1

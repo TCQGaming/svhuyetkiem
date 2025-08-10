@@ -1,0 +1,48 @@
+20250716-052300<DEBUG:00006624>: [KGC_LadderManager::UpdateTotalLadder]:1494, start tickers = 1430599447291381
+20250716-052300<DEBUG:00006624>: [RefreshTotalLadderData]:1495, start tickers = 1430599448570243
+20250716-052300<DEBUG:00006624>: [RefreshTotalLadderData]:1495->[RefreshTotalLadderData]:1497 timeout, tickers = 853954
+20250716-052300<DEBUG:00006624>: [ProcessTotalLadderData]:1499, start tickers = 1430599450734707
+20250716-052300<DEBUG:00006624>: [ProcessTotalLadderData]:1520, start tickers = 1430599451689959
+20250716-052300<DEBUG:00006624>: [ProcessTotalLadderData]:1520->[ProcessTotalLadderData]:1527 timeout, tickers = 5150
+20250716-052300<DEBUG:00006624>: [ProcessTotalLadderData]:1499->[ProcessTotalLadderData]:1501 timeout, tickers = 1707450
+20250716-052300<DEBUG:00006624>: [AdjustTotalLadder]:1503, start tickers = 1430599455517509
+20250716-052300<DEBUG:00006624>: [AdjustTotalLadder]:1503->[AdjustTotalLadder]:1505 timeout, tickers = 1340
+20250716-052300<DEBUG:00006624>: [KGC_LadderManager::UpdateTotalLadder]:1494->[KGC_LadderManager::UpdateTotalLadder]:1511 timeout, tickers = 7242386
+20250716-052300<DEBUG:00006624>: [KGC_LadderManager::UpdateTotalLadder]:1494, start tickers = 1430599753953798
+20250716-052300<DEBUG:00006624>: [RefreshTotalLadderData]:1495, start tickers = 1430599754668011
+20250716-052300<DEBUG:00006624>: [RefreshTotalLadderData]:1495->[RefreshTotalLadderData]:1497 timeout, tickers = 1365125
+20250716-052300<DEBUG:00006624>: [ProcessTotalLadderData]:1499, start tickers = 1430599758624813
+20250716-052300<DEBUG:00006624>: [ProcessTotalLadderData]:1520, start tickers = 1430599759607357
+20250716-052300<DEBUG:00006624>: [ProcessTotalLadderData]:1520->[ProcessTotalLadderData]:1527 timeout, tickers = 5794
+20250716-052300<DEBUG:00006624>: [ProcessTotalLadderData]:1499->[ProcessTotalLadderData]:1501 timeout, tickers = 1806374
+20250716-052300<DEBUG:00006624>: [AdjustTotalLadder]:1503, start tickers = 1430599762273827
+20250716-052300<DEBUG:00006624>: [AdjustTotalLadder]:1503->[AdjustTotalLadder]:1505 timeout, tickers = 1592
+20250716-052300<DEBUG:00006624>: [KGC_LadderManager::UpdateTotalLadder]:1494->[KGC_LadderManager::UpdateTotalLadder]:1511 timeout, tickers = 9069384
+20250716-052300<DEBUG:00006624>: [KGC_LadderManager::UpdateTotalLadder]:1494, start tickers = 1430599950779226
+20250716-052300<DEBUG:00006624>: [RefreshTotalLadderData]:1495, start tickers = 1430599951976426
+20250716-052300<DEBUG:00006624>: [RefreshTotalLadderData]:1495->[RefreshTotalLadderData]:1497 timeout, tickers = 866040
+20250716-052300<DEBUG:00006624>: [ProcessTotalLadderData]:1499, start tickers = 1430599954469703
+20250716-052300<DEBUG:00006624>: [ProcessTotalLadderData]:1520, start tickers = 1430599954588377
+20250716-052300<DEBUG:00006624>: [ProcessTotalLadderData]:1520->[ProcessTotalLadderData]:1527 timeout, tickers = 5202
+20250716-052300<DEBUG:00006624>: [ProcessTotalLadderData]:1499->[ProcessTotalLadderData]:1501 timeout, tickers = 774990
+20250716-052300<DEBUG:00006624>: [AdjustTotalLadder]:1503, start tickers = 1430599955996069
+20250716-052300<DEBUG:00006624>: [AdjustTotalLadder]:1503->[AdjustTotalLadder]:1505 timeout, tickers = 1474
+20250716-052300<DEBUG:00006624>: [KGC_LadderManager::UpdateTotalLadder]:1494->[KGC_LadderManager::UpdateTotalLadder]:1511 timeout, tickers = 4778567
+20250716-052351<DEBUG:00005988>: nSocket = 872, nSendFlag = 0, Error = 10054
+20250716-052351<DEBUG:00006624>: nSocket = 872, nSendFlag = 1, Error = 10054
+20250716-052401<DEBUG:00004344>: nSocket = 1000, nSendFlag = 0, Error = 10054
+20250716-052401<DEBUG:00006624>: nSocket = 1000, nSendFlag = 1, Error = 10054
+20250716-052405<DEBUG:00007ED8>: nSocket = 876, nSendFlag = 0, Error = 10054
+20250716-052405<DEBUG:00006624>: nSocket = 876, nSendFlag = 1, Error = 10054
+20250716-052433<DEBUG:00002FA0>: nSocket = 900, nSendFlag = 0, Error = 10054
+20250716-052433<DEBUG:00006624>: nSocket = 900, nSendFlag = 1, Error = 10054
+20250716-052503<DEBUG:000035D0>: nSocket = 900, nSendFlag = 0, Error = 10054
+20250716-052503<DEBUG:00006624>: nSocket = 900, nSendFlag = 1, Error = 10054
+20250716-052503<DEBUG:0000A070>: nSocket = 904, nSendFlag = 0, Error = 10054
+20250716-052503<DEBUG:00006624>: nSocket = 904, nSendFlag = 1, Error = 10054
+20250716-052504<DEBUG:00006340>: nSocket = 968, nSendFlag = 0, Error = 10054
+20250716-052504<DEBUG:00006624>: nSocket = 968, nSendFlag = 1, Error = 10054
+20250716-052504<DEBUG:0000997C>: nSocket = 844, nSendFlag = 0, Error = 10054
+20250716-052504<DEBUG:00006624>: nSocket = 844, nSendFlag = 1, Error = 10054
+20250716-053027<DEBUG:0000A19C>: nSocket = 696, nSendFlag = 0, Error = 10054
+20250716-053027<DEBUG:00006624>: nSocket = 696, nSendFlag = 1, Error = 10054

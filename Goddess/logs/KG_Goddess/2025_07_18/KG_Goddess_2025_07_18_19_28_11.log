@@ -1,0 +1,21 @@
+20250718-192811<ERROR:00000274>: [Goddess Server 05] There are no data arrive during 124864 second, auto disconnect!
+20250718-192811<ERROR:0000419C>: [Goddess Server 06] There are no data arrive during 124864 second, auto disconnect!
+20250718-192811<ERROR:00004244>: [Goddess Server 07] There are no data arrive during 124861 second, auto disconnect!
+20250718-192811<ERROR:00003CA4>: [Goddess Server 03] There are no data arrive during 124865 second, auto disconnect!
+20250718-192811<ERROR:00004A80>: [Goddess Server 02] There are no data arrive during 124865 second, auto disconnect!
+20250718-192811<ERROR:00002B18>: [Goddess Server 04] There are no data arrive during 124858 second, auto disconnect!
+20250718-192811<ERROR:00003F7C>: [Goddess Server 08] There are no data arrive during 124863 second, auto disconnect!
+20250718-192811<ERROR:00003970>: [Goddess Server 00] There are no data arrive during 124860 second, auto disconnect!
+20250718-192811<ERROR:00003A9C>: [Goddess Server 01] There are no data arrive during 124881 second, auto disconnect!
+20250718-192811<INFO :00000274>: [Goddess Server 05] Stopped
+20250718-192811<INFO :0000419C>: [Goddess Server 06] Stopped
+20250718-192811<INFO :00004244>: [Goddess Server 07] Stopped
+20250718-192811<INFO :00003CA4>: [Goddess Server 03] Stopped
+20250718-192811<INFO :00004A80>: [Goddess Server 02] Stopped
+20250718-192811<INFO :00002B18>: [Goddess Server 04] Stopped
+20250718-192811<INFO :00003F7C>: [Goddess Server 08] Stopped
+20250718-192811<INFO :00003970>: [Goddess Server 00] Stopped
+20250718-192811<INFO :00003A9C>: [Goddess Server 01] Stopped
+20250718-192811<INFO :00003B7C>: [ServerManager] Accept from (127.0.0.1: 51003) SocketStream = 006A7540
+20250718-192811<INFO :00003F3C>: [Goddess Server 09] Started, service for 127.0.0.1:51003
+20250718-192811<DEBUG:00003F3C>: [KGD] Success connect to localhost:3306, character set switch to latin1

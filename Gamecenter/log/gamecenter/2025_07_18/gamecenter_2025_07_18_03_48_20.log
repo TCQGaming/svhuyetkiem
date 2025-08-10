@@ -1,0 +1,4 @@
+20250718-034820<DEBUG:00005080>: nSocket = 816, nSendFlag = 0, Error = 10054
+20250718-034820<DEBUG:000033B0>: nSocket = 816, nSendFlag = 1, Error = 10054
+20250718-035526<DEBUG:000027F4>: nSocket = 684, nSendFlag = 0, Error = 10054
+20250718-035526<DEBUG:000033B0>: nSocket = 684, nSendFlag = 1, Error = 10054

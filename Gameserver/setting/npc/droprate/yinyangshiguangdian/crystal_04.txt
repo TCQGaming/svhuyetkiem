@@ -1,0 +1,6 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	114	4	22761		4 cấp huyền tinh ( Khóa )
+		18	1	114	5	836890		5 cấp huyền tinh ( Khóa )
+		18	1	114	6	118562		6 cấp huyền tinh ( Khóa )
+		18	1	114	7	20364		7 cấp huyền tinh ( Khóa )
+		18	1	114	8	1423		8 cấp huyền tinh ( Khóa )

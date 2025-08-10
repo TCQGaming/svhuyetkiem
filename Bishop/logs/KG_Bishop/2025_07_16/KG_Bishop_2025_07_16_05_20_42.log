@@ -1,0 +1,84 @@
+20250716-052042<INFO :00009558>: [Bishop] Begin to start ... ...
+20250716-052042<INFO :00009558>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20250716-052042<INFO :00009558>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 00BF70D0
+20250716-052042<INFO :00009558>: [Goddess] Login() nResult = 1
+20250716-052042<INFO :00009558>: [Relay] Init() Acceptor Open(: 5632), nRetCode = 1
+20250716-052042<INFO :00009558>: [PlayerManager] Init() Acceptor Open(: 1231), nRetCode = 1
+20250716-052042<INFO :00009558>: [Report] Init() Acceptor Open(: 5636), nRetCode = 1
+20250716-052043<INFO :00009D04>: [Relay] ThreadFunction() Accept from (127.0.0.1: 38307) SocketStream = 00BF7040
+20250716-052043<INFO :00009D04>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20250716-052043<DEBUG:00009D04>: [Relay] ReceivePackagesFromRelay() RecvPackage From Relay Protocol = 50; Size = 9; Key = 2851
+20250716-052047<INFO :00008D80>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 38316) SocketStream = 00BF7598
+20250716-052047<INFO :0000417C>: [GameServer 0]  === Start ===
+20250716-052047<INFO :0000417C>: [GameServer 0] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6041, protocol version (79-->79)
+20250716-052049<INFO :00008D80>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 38323) SocketStream = 00BF7790
+20250716-052049<INFO :000035A8>: [GameServer 1]  === Start ===
+20250716-052049<INFO :000035A8>: [GameServer 1] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6043, protocol version (79-->79)
+20250716-052051<DEBUG:0000417C>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20250716-052051<DEBUG:00009D04>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 397; Key = 1
+20250716-052054<DEBUG:000035A8>: [GameServer 1] GameServerConnectedInit() nResult = 1
+20250716-052054<DEBUG:00009D04>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 581; Key = 2
+20250716-052102<INFO :00008D80>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 38332) SocketStream = 00BF7550
+20250716-052102<INFO :0000A290>: [GameServer 2]  === Start ===
+20250716-052102<INFO :0000A290>: [GameServer 2] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6046, protocol version (79-->79)
+20250716-052106<DEBUG:0000A290>: [GameServer 2] GameServerConnectedInit() nResult = 1
+20250716-052106<DEBUG:00009D04>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 433; Key = 3
+20250716-052128<DEBUG:0000AA00>: [Player 0] ThreadFunction() Accept from (192.168.1.100 : 38342) SocketStream = 00BF7118
+20250716-052131<DEBUG:0000AA00>: [Player 0] Account xboyhd login bishop ... ... [OK]
+20250716-052131<DEBUG:0000AA00>: [InterlockedAccountStateTable] xboyhd, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250716-052131<DEBUG:0000A530>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 1
+20250716-052131<DEBUG:0000A530>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 1
+20250716-052132<DEBUG:0000AA00>: KGLOG_PROCESS_ERROR(nRetCode) at line 2042 in KG_BishopPlayer::ProcessRoleList
+20250716-052132<DEBUG:0000AA00>: [Player 0] ProcessRoleList() Failed!
+20250716-052132<DEBUG:0000AA00>: KGLOG_PROCESS_ERROR(nRetCode) at line 490 in KG_BishopPlayer::OnLoginProcess
+20250716-052132<DEBUG:0000AA00>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20250716-052132<DEBUG:0000AA00>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = NONE, Comperand = INGAETWAY
+20250716-052138<DEBUG:000098B8>: [Player 52] ThreadFunction() Accept from (192.168.1.100 : 38345) SocketStream = 00BF71F0
+20250716-052140<DEBUG:000098B8>: [Player 52] Account xboyhd login bishop ... ... [OK]
+20250716-052140<DEBUG:000098B8>: [InterlockedAccountStateTable] xboyhd, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250716-052140<DEBUG:0000A530>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 2
+20250716-052140<DEBUG:0000A530>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 2
+20250716-052141<DEBUG:000098B8>: [Player 52] ProcessRoleList() RoleCount = 1!
+20250716-052141<DEBUG:000098B8>: [Player 52] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250716-052141<DEBUG:0000A530>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 3
+20250716-052141<DEBUG:0000A530>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 3
+20250716-052141<DEBUG:000098B8>: [Player 52] QueryRoleListInZone() Role Count In Zone = 1!
+20250716-052142<DEBUG:000098B8>: [Player 52] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250716-052142<DEBUG:000098B8>: [Player 52] EnterGame_QueryRoleData() RoleName = TCQGaming
+20250716-052142<DEBUG:0000A530>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 20; Key = 4
+20250716-052142<DEBUG:0000A530>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 2813; Key = 4
+20250716-052143<DEBUG:000098B8>: KGLOG_PROCESS_ERROR(pair1.first != pair1.second) at line 528 in KG_BishopGameServerManager::QueryGameServer
+20250716-052143<DEBUG:000098B8>: KGLOG_PROCESS_ERROR(m_pKG_BishopGameServer) at line 2493 in KG_BishopPlayer::EnterGame_AskForPermission
+20250716-052143<DEBUG:000098B8>: [Player 52] Request enter game: ask for permission, account = xboyhd, role name = TCQGaming ... ... [Failed]
+20250716-052143<DEBUG:000098B8>: [Player 52] Ask for enter game failed, unlock role data, send msg to goddess, result = 1
+20250716-052143<DEBUG:000098B8>: KGLOG_PROCESS_ERROR(nRetCode) at line 567 in KG_BishopPlayer::OnPlayerRequest
+20250716-052143<DEBUG:000098B8>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20250716-052143<DEBUG:000098B8>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = NONE, Comperand = INGAETWAY
+20250716-052143<DEBUG:0000A530>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 39; Size = 42; Key = 5
+20250716-052202<INFO :00008D80>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 38350) SocketStream = 00BF7118
+20250716-052202<INFO :0000502C>: [GameServer 3]  === Start ===
+20250716-052202<INFO :0000502C>: [GameServer 3] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6042, protocol version (79-->79)
+20250716-052205<DEBUG:0000502C>: [GameServer 3] GameServerConnectedInit() nResult = 1
+20250716-052205<DEBUG:00009D04>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 397; Key = 4
+20250716-052214<DEBUG:0000A9AC>: [Player 59] ThreadFunction() Accept from (192.168.1.100 : 38362) SocketStream = 00BF7310
+20250716-052215<DEBUG:0000A9AC>: [Player 59] Account xboyhd login bishop ... ... [OK]
+20250716-052215<DEBUG:0000A9AC>: [InterlockedAccountStateTable] xboyhd, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250716-052215<DEBUG:0000A530>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 6
+20250716-052215<DEBUG:0000A530>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 6
+20250716-052216<DEBUG:0000A9AC>: [Player 59] ProcessRoleList() RoleCount = 1!
+20250716-052216<DEBUG:0000A9AC>: [Player 59] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250716-052216<DEBUG:0000A530>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 7
+20250716-052216<DEBUG:0000A530>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 7
+20250716-052217<DEBUG:0000A9AC>: [Player 59] QueryRoleListInZone() Role Count In Zone = 1!
+20250716-052217<DEBUG:0000A9AC>: [Player 59] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250716-052217<DEBUG:0000A9AC>: [Player 59] EnterGame_QueryRoleData() RoleName = TCQGaming
+20250716-052217<DEBUG:0000A530>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 20; Key = 8
+20250716-052217<DEBUG:0000A530>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 2813; Key = 8
+20250716-052218<DEBUG:0000A9AC>: KGLOG_PROCESS_ERROR(pair1.first != pair1.second) at line 528 in KG_BishopGameServerManager::QueryGameServer
+20250716-052218<DEBUG:0000A9AC>: KGLOG_PROCESS_ERROR(m_pKG_BishopGameServer) at line 2493 in KG_BishopPlayer::EnterGame_AskForPermission
+20250716-052218<DEBUG:0000A9AC>: [Player 59] Request enter game: ask for permission, account = xboyhd, role name = TCQGaming ... ... [Failed]
+20250716-052218<DEBUG:0000A9AC>: [Player 59] Ask for enter game failed, unlock role data, send msg to goddess, result = 1
+20250716-052218<DEBUG:0000A9AC>: KGLOG_PROCESS_ERROR(nRetCode) at line 567 in KG_BishopPlayer::OnPlayerRequest
+20250716-052218<DEBUG:0000A9AC>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20250716-052218<DEBUG:0000A9AC>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = NONE, Comperand = INGAETWAY
+20250716-052218<DEBUG:0000A530>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 39; Size = 42; Key = 9

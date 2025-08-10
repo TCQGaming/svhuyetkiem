@@ -1,0 +1,620 @@
+16:55:02	**********************   ∞Ê  »®  …˘  √˜   ************************
+16:55:02	
+16:55:02	                  °æΩ£ ¿…Ω◊Ø°øΩ£œ¿ ¿ΩÁ∑˛ŒÒ∂À
+16:55:02	
+16:55:02	ºº ıΩª¡˜£∫http://www.web-jx.com
+16:55:02	
+16:55:02	    ±æœµ¡–≥Ã–Ú÷ª◊˜—ßœ∞Ωª¡˜ π”√£¨Ωˆπ©∏ˆ»À—–æø÷Æ”√£¨«Î∞≤◊∞∫Û‘⁄24–° ±ƒ⁄…æ≥˝£¨«ÎŒ”√”⁄…Ã“µ“‘º∞∑«∑®”√Õæ£¨»Á”…¥À“˝∆µƒœ‡πÿ∑®¬…∑®πÊ‘»Œ£¨”ÎŒ“√«Œﬁπÿ£°
+16:55:02	
+16:55:02	–ﬁ∏ƒƒ⁄»›£∫
+16:55:02	1°¢‘ˆº”Ω±“ªÒ»°Ω≈±æAddJbCoin(d),eg:AddJbCoin(10000)‘ˆº”1ÕÚΩ±“°£
+16:55:02	2°¢–ﬁ∏ƒ…Ã≥«Ω±“Ω”ø⁄£¨ µœ÷ π”√Ω±“π∫¬Ú…Ã≥«µ¿æﬂ°£
+16:55:02	3°¢±æ∂À”¶∏√÷ß≥÷120ººƒ‹£¨»Á≤‚ ‘Õ®π˝œ£Õ˚ø…“‘¡¨Õ¨ƒ˙µƒººƒ‹Ω≈±æ…œ¥´µΩŒ“√«¬€Ã≥£¨π©¥Ûº“—–æø°£
+16:55:02	4°¢±æ∂À√ª”–»Œ∫Œπ¶ƒ‹œﬁ÷∆°£
+16:55:02	********************** GameCenter Startup ************************
+16:55:02	OS Time: 07/24/25 16:55:02
+16:55:02	Game Init ..
+16:55:02	Loading Script...
+16:55:02	Begin load script files...
+16:55:02	begin load vfactory.lua
+16:55:02	Preload gc script files...
+16:55:02	21 loaded!
+16:55:02	Loading Scripts In Path \script\
+16:55:03	308 loaded!
+16:55:03	Create DBShare Table
+16:55:03	LoadDBShare...
+16:55:03	Current Data Version : 4
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[GBLVALUE]	ModuleInit..
+16:55:03	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:55:03	Create RDS Table: tblGblValueSet
+16:55:03	Create RDS Table: tblGblVIntInt
+16:55:03	Create RDS Table: tblGblVIntBuf
+16:55:03	Create RDS Table: tblGblVStrInt
+16:55:03	Create RDS Table: tblGblVStrBuf
+16:55:03	[GBLVALUE]	Base Data Init, Create RootTree...
+16:55:03	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:55:03	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+16:55:03	[GBLVALUE]	Base Data Init, Create RootTree...
+16:55:03	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:55:03	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+16:55:03	[GBLVALUE]	Base Data Init, Create RootTree...
+16:55:03	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:55:03	Create SaveBuffer DB Table
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[TRANSFER]	ModuleInit..
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[TimerTask]	ModuleInit..
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[ScheduleTask]	ModuleInit..
+16:55:03	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+16:55:03	[ScheduleTask]	Schedule Task Loaded, Task Count = 67
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[LEAGUE]	ModuleInit..
+16:55:03	[LEAGUE]	Base Data Init, Root Branch ID: 11
+16:55:03	Create RDS Table: tblLeagueSet
+16:55:03	Create RDS Table: tblMemberLea
+16:55:03	Create RDS Table: tblLeague
+16:55:03	Create RDS Table: tblLeagueTask
+16:55:03	Create RDS Table: tblLeagueMember
+16:55:03	Create RDS Table: tblLeaMemberTask
+16:55:03	[LEAGUE]	Base Data Init, Create RootTree...
+16:55:03	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[KIN]	ModuleInit..
+16:55:03	[KIN]	Base Data Init, Root Branch ID: 14
+16:55:03	Create RDS Table: tblKin
+16:55:03	Create RDS Table: tblKinTask
+16:55:03	Create RDS Table: tblKinBufTask
+16:55:03	Create RDS Table: tblKinMember
+16:55:03	Create RDS Table: tblKinMemberTask
+16:55:03	[KIN]	Base Data Init, Create RootTree...
+16:55:03	[KIN]	Base Data Init, Create DataTree Completed!
+16:55:03	Create Player Kin-Tong DB Table
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[TONG]	ModuleInit..
+16:55:03	[TONG]	Base Data Init, Root Branch ID: 16
+16:55:03	Create RDS Table: tblTong
+16:55:03	Create RDS Table: tblTongTask
+16:55:03	Create RDS Table: tblTongBufTask
+16:55:03	Create RDS Table: tblTongKin
+16:55:03	Create RDS Table: tblTongDomain
+16:55:03	Create RDS Table: tblTongDomainTask
+16:55:03	Create RDS Table: tblTongDomainTaskBuf
+16:55:03	[TONG]	Base Data Init, Create RootTree...
+16:55:03	[TONG]	Base Data Init, Create DataTree Completed!
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[UNION]	ModuleInit..
+16:55:03	[UNION]	Base Data Init, Root Branch ID: 18
+16:55:03	Create RDS Table: tblUnion
+16:55:03	Create RDS Table: tblUnionTask
+16:55:03	Create RDS Table: tblUnionBufTask
+16:55:03	Create RDS Table: tblUnionTong
+16:55:03	Create RDS Table: tblUnionDomain
+16:55:03	[UNION]	Base Data Init, Create RootTree...
+16:55:03	[UNION]	Base Data Init, Create DataTree Completed!
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[PLAYERMAN]	ModuleInit..
+16:55:03	LoadCoZoneSubPlayerNameId TimeOut Del
+16:55:03	Create Player Data DB Table
+16:55:03	Loading All Players ...
+16:55:03	Referenced Players in <PlayerData> Table: 1
+16:55:03	<PlayerData> Table: Simple Player Count[0], Normal Player Count [1].
+16:55:03	Loading Players Kin Info in <PlayerKin> Table ...
+16:55:03	Referenced Players in <PlayerKin> Table: 0
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[TEAM]	ModuleInit..
+16:55:03	[TEAM]	Base Data Init, Root Branch ID: 20
+16:55:03	[TEAM]	Base Data Init, Create RootTree...
+16:55:03	[TEAM]	Base Data Init, Create DataTree Completed!
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[Map]	ModuleInit..
+16:55:03	Loading World Setting...
+16:55:03	Gameserver Count = 7
+16:55:03	[Gameserver0]
+16:55:03	ID = 1
+16:55:03	MapCount = 96
+16:55:03	[Gameserver1]
+16:55:03	ID = 2
+16:55:03	MapCount = 96
+16:55:03	[Gameserver2]
+16:55:03	ID = 3
+16:55:03	MapCount = 142
+16:55:03	[Gameserver3]
+16:55:03	ID = 4
+16:55:03	MapCount = 81
+16:55:03	[Gameserver4]
+16:55:03	ID = 5
+16:55:03	MapCount = 102
+16:55:03	[Gameserver5]
+16:55:03	ID = 6
+16:55:03	MapCount = 105
+16:55:03	[Gameserver6]
+16:55:03	ID = 7
+16:55:03	MapCount = 121
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[CHAT]	ModuleInit..
+16:55:03	Create OfflineMsg DB Table
+16:55:03	Load All OfflineMsg
+16:55:03	Referenced OfflineMsg 0
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[RELATION]	ModuleInit..
+16:55:03	Create Player Relay DB Table
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[MAIL]	ModuleInit..
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[IBSHOP]	ModuleInit..
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[GMBOARD]	ModuleInit..
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[JBEXCHANGE]	ModuleInit..
+16:55:03	[JBEXCHANGE]	Base Data Init, Root Branch ID: 22
+16:55:03	Create RDS Table: tblJbExchangeBill
+16:55:03	Create RDS Table: tblJbExchangeTask
+16:55:03	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:55:03	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[LADDER]	ModuleInit..
+16:55:03	[LADDER]	Base Data Init, Root Branch ID: 24
+16:55:03	Create RDS Table: tblLadder
+16:55:03	Create RDS Table: tblPlayerLadder
+16:55:03	Create RDS Table: tblAllTotalLadder
+16:55:03	Create RDS Table: tblTotalLadder
+16:55:03	[LADDER]	Base Data Init, Create RootTree...
+16:55:03	[LADDER]	Base Data Init, Create DataTree Completed!
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[GBLBUF]	ModuleInit..
+16:55:03	[GBLBUF]	Base Data Init, Root Branch ID: 55
+16:55:03	Create RDS Table: tblGblBufSet
+16:55:03	Create RDS Table: tblGblBuf
+16:55:03	[GBLBUF]	Base Data Init, Create RootTree...
+16:55:03	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:55:03	[GBLBUF]	Base Data Init, Root Branch ID: 69
+16:55:03	Create RDS Table: tblGblBufSet
+16:55:03	Create RDS Table: tblGblBuf
+16:55:03	[GBLBUF]	Base Data Init, Create RootTree...
+16:55:03	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[PROFILE]	ModuleInit..
+16:55:03	[PROFILE]	Base Data Init, Root Branch ID: 83
+16:55:03	Create RDS Table: tblProfile
+16:55:03	Create RDS Table: tblProfileTask
+16:55:03	Create RDS Table: tblProfileBuff
+16:55:03	[PROFILE]	Base Data Init, Create RootTree...
+16:55:03	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[AUCTION]	ModuleInit..
+16:55:03	Create Auction Table
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[NORMAL]	ModuleInit..
+16:55:03	-------------------------------------------------------------------------------
+16:55:03	[SPORT]	ModuleInit..
+16:55:03	[SPORT]	Base Data Init, Root Branch ID: 84
+16:55:03	Create RDS Table: tblSportPlayer
+16:55:03	[SPORT]	Base Data Init, Create RootTree...
+16:55:03	[SPORT]	Base Data Init, Create DataTree Completed!
+16:55:03	[LOG]	2	[Player]	Cap cao nhat 119
+16:55:03	Xep hang danh sach
+16:55:03	Hoan Thanh Xep Hang
+16:55:03	[LOG]	2	[SpecialEvent.CollectCard]	ÁõõÂ§èÊ¥ªÂä®Âç°Êî∂ÈõÜ	SetLuckCardNews07Êúà24Êó•ÂõΩÂ∫ÜÊ¥ªÂä®Âπ∏ËøêÂç°Ê∞ëÊóè07Êúà24Êó•ËíôÂè§Êóè    
+16:55:03	Den Bu Online qua thoi gian thanh tru	So Luong thanh tru:	0
+16:55:03	Khong Co So Lieu ,Tu Tra Ve
+16:55:03	Connect to logserver(127.0.0.1:5101) OK!
+16:55:03	Connect to Goddess(127.0.0.1:5001) OK!
+16:55:03	Connect Gateway....
+16:55:03	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09DD6458
+16:55:03	Game Startup Completed!
+16:55:10	[CenServer] Accept from 127.0.0.1 Port = 36036
+16:55:10	Connection Created! Connection ID = 1
+16:55:10	Domain	Statuary	tbStatuary:OnRecConnectEvent	1
+16:55:10	[CenServer] Accept from 127.0.0.1 Port = 36548
+16:55:10	Connection Created! Connection ID = 2
+16:55:10	Domain	Statuary	tbStatuary:OnRecConnectEvent	2
+16:55:10	[CenServer] Accept from 127.0.0.1 Port = 38596
+16:55:10	Connection Created! Connection ID = 3
+16:55:10	Domain	Statuary	tbStatuary:OnRecConnectEvent	3
+16:55:10	[CenServer] Accept from 127.0.0.1 Port = 39108
+16:55:10	Connection Created! Connection ID = 4
+16:55:10	Domain	Statuary	tbStatuary:OnRecConnectEvent	4
+16:55:10	[CenServer] Accept from 127.0.0.1 Port = 39620
+16:55:10	Connection Created! Connection ID = 5
+16:55:10	Domain	Statuary	tbStatuary:OnRecConnectEvent	5
+16:55:10	[CenServer] Accept from 127.0.0.1 Port = 40132
+16:55:10	Connection Created! Connection ID = 6
+16:55:10	Domain	Statuary	tbStatuary:OnRecConnectEvent	6
+16:55:10	[CenServer] Accept from 127.0.0.1 Port = 40644
+16:55:10	Connection Created! Connection ID = 7
+16:55:10	Domain	Statuary	tbStatuary:OnRecConnectEvent	7
+16:55:11	OnGCExcute	Map:GCUpdateForbidenInfo
+16:55:11	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+16:55:11	So den khong co ban dau hoa, truc tiep tro ve
+16:55:11	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+16:55:11	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	2
+16:55:12	OnGCExcute	Map:GCUpdateForbidenInfo
+16:55:12	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+16:55:12	So den khong co ban dau hoa, truc tiep tro ve
+16:55:12	OnGCExcute	XoyoGame:CreateManager_GC	341
+16:55:12	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+16:55:12	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+16:55:13	OnGCExcute	Map:GCUpdateForbidenInfo
+16:55:13	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+16:55:13	So den khong co ban dau hoa, truc tiep tro ve
+16:55:13	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+16:55:13	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	4
+16:55:13	OnGCExcute	Map:GCUpdateForbidenInfo
+16:55:13	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+16:55:13	So den khong co ban dau hoa, truc tiep tro ve
+16:55:13	OnGCExcute	XoyoGame:CreateManager_GC	342
+16:55:13	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	3
+16:55:13	OnGCExcute	Map:GCUpdateForbidenInfo
+16:55:13	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+16:55:13	So den khong co ban dau hoa, truc tiep tro ve
+16:55:13	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	6
+16:55:14	OnGCExcute	Map:GCUpdateForbidenInfo
+16:55:14	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+16:55:14	So den khong co ban dau hoa, truc tiep tro ve
+16:55:14	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+16:55:14	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	5
+16:55:15	OnGCExcute	Map:GCUpdateForbidenInfo
+16:55:15	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+16:55:15	So den khong co ban dau hoa, truc tiep tro ve
+16:55:15	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+16:55:15	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	7
+16:55:15	Do Daily Backup 23
+16:55:33	TCQGaming	731650183	LoginMul_1	IpMul1
+17:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+17:00:01	[ScheduleTask]	Execute Task: Pho ban quan doanh
+17:00:01	[ScheduleTask]	Execute Task: Bat Dau PK Bach Ho Duong 
+17:00:01	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+17:00:01	[ScheduleTask]	Execute Task: GoiLongTruTongKim
+17:00:22	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+17:00:22	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+17:00:22	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+17:00:22	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+17:00:22	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+17:13:36	TCQGaming	731650183	LogoutMul_0	IpMul_0
+17:13:39	[CenServer] Receive packet failed!
+17:13:39	Connection Lost:127.0.0.1 ID = 7
+17:13:39	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 40644 Protocol = 11 Size = 6
+17:13:39	[CenServer] Receive packet failed!
+17:13:39	Connection Lost:127.0.0.1 ID = 6
+17:13:39	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 40132 Protocol = 11 Size = 6
+17:13:39	[CenServer] Receive packet failed!
+17:13:39	Connection Lost:127.0.0.1 ID = 5
+17:13:39	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 39620 Protocol = 11 Size = 6
+17:13:40	[CenServer] Receive packet failed!
+17:13:40	Connection Lost:127.0.0.1 ID = 4
+17:13:40	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 39108 Protocol = 11 Size = 6
+17:13:40	[CenServer] Receive packet failed!
+17:13:40	Connection Lost:127.0.0.1 ID = 3
+17:13:40	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 38596 Protocol = 11 Size = 6
+17:13:40	[CenServer] Receive packet failed!
+17:13:40	Connection Lost:127.0.0.1 ID = 2
+17:13:40	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 36548 Protocol = 11 Size = 6
+17:13:41	[CenServer] Receive packet failed!
+17:13:41	Connection Lost:127.0.0.1 ID = 1
+17:13:41	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 36036 Protocol = 11 Size = 6
+17:13:46	[CenServer] Accept from 127.0.0.1 Port = 62404
+17:13:46	Connection Created! Connection ID = 8
+17:13:46	Domain	Statuary	tbStatuary:OnRecConnectEvent	8
+17:13:49	[CenServer] Accept from 127.0.0.1 Port = 1989
+17:13:49	Connection Created! Connection ID = 9
+17:13:49	Domain	Statuary	tbStatuary:OnRecConnectEvent	9
+17:13:49	[CenServer] Accept from 127.0.0.1 Port = 2501
+17:13:49	Connection Created! Connection ID = 10
+17:13:49	Domain	Statuary	tbStatuary:OnRecConnectEvent	10
+17:13:49	[CenServer] Accept from 127.0.0.1 Port = 3013
+17:13:49	Connection Created! Connection ID = 11
+17:13:49	Domain	Statuary	tbStatuary:OnRecConnectEvent	11
+17:13:49	OnGCExcute	Map:GCUpdateForbidenInfo
+17:13:49	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+17:13:49	So den khong co ban dau hoa, truc tiep tro ve
+17:13:49	OnGCExcute	XoyoGame:CreateManager_GC	341
+17:13:49	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+17:13:49	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+17:13:49	[CenServer] Accept from 127.0.0.1 Port = 3525
+17:13:49	Connection Created! Connection ID = 12
+17:13:49	Domain	Statuary	tbStatuary:OnRecConnectEvent	12
+17:13:49	[CenServer] Accept from 127.0.0.1 Port = 4037
+17:13:49	Connection Created! Connection ID = 13
+17:13:49	Domain	Statuary	tbStatuary:OnRecConnectEvent	13
+17:13:49	[CenServer] Accept from 127.0.0.1 Port = 4549
+17:13:49	Connection Created! Connection ID = 14
+17:13:49	Domain	Statuary	tbStatuary:OnRecConnectEvent	14
+17:13:51	OnGCExcute	Map:GCUpdateForbidenInfo
+17:13:51	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+17:13:51	So den khong co ban dau hoa, truc tiep tro ve
+17:13:51	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+17:13:51	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	2
+17:13:52	OnGCExcute	Map:GCUpdateForbidenInfo
+17:13:52	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+17:13:52	So den khong co ban dau hoa, truc tiep tro ve
+17:13:52	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+17:13:52	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	4
+17:13:52	OnGCExcute	Map:GCUpdateForbidenInfo
+17:13:52	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+17:13:52	So den khong co ban dau hoa, truc tiep tro ve
+17:13:52	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	6
+17:13:53	OnGCExcute	Map:GCUpdateForbidenInfo
+17:13:53	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+17:13:53	So den khong co ban dau hoa, truc tiep tro ve
+17:13:53	OnGCExcute	XoyoGame:CreateManager_GC	342
+17:13:53	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	3
+17:13:53	OnGCExcute	Map:GCUpdateForbidenInfo
+17:13:53	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+17:13:53	So den khong co ban dau hoa, truc tiep tro ve
+17:13:53	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+17:13:53	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	5
+17:13:54	OnGCExcute	Map:GCUpdateForbidenInfo
+17:13:54	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+17:13:54	So den khong co ban dau hoa, truc tiep tro ve
+17:13:54	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+17:13:54	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	7
+17:14:07	TCQGaming	704804682	LoginMul_1	IpMul1
+17:14:48	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	2391
+17:17:08	TCQGaming	704804682	LogoutMul_0	IpMul_0
+17:17:30	TCQGaming	751299586	LoginMul_1	IpMul1
+17:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+17:30:00	[ScheduleTask]	Execute Task: Tran BHD Tiep Theo
+17:30:00	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+17:30:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+17:30:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+17:30:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+17:30:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+17:30:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+17:55:00	[ScheduleTask]	Execute Task: XoaListTongKim
+17:55:00	[ScheduleTask]	Execute Task: Xoa_LongTruTongKim_GC
+18:00:01	[ScheduleTask]	Execute Task: Dai Hoi Vo Lam Thi Dau Vong Tron [Hang Tuan]
+18:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+18:00:01	[ScheduleTask]	Execute Task: Pho ban quan doanh
+18:00:01	[ScheduleTask]	Execute Task: Gia Toc Xu Ly Hang Ngay
+18:00:01	[ScheduleTask]	Execute Task: Bat Dau PK Bach Ho Duong 
+18:00:01	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+18:00:01	[ScheduleTask]	Execute Task: OnTimer_SendSystem_Msg
+18:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+18:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+18:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+18:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+18:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+18:01:00	[ScheduleTask]	Execute Task: Bang Hoi Xu Ly Hang Nga
+18:10:00	[ScheduleTask]	Execute Task: Thong ke nguoi choi
+18:15:00	[ScheduleTask]	Execute Task: Dai Hoi Vo Lam Thi Dau Vong Tron [Hang Tuan]
+18:30:00	[ScheduleTask]	Execute Task: Dai Hoi Vo Lam Thi Dau Vong Tron [Hang Tuan]
+18:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+18:30:00	[ScheduleTask]	Execute Task: Ket Thuc Bach Ho Duong 
+18:30:00	[ScheduleTask]	Execute Task: ThongBao
+18:30:00	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+18:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+18:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+18:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+18:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+18:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+18:35:00	[ScheduleTask]	Execute Task: ThongBao
+18:40:00	[ScheduleTask]	Execute Task: Thong ke nguoi choi
+18:40:00	[ScheduleTask]	Execute Task: ThongBao
+18:45:00	[ScheduleTask]	Execute Task: Dai Hoi Vo Lam Thi Dau Vong Tron [Hang Tuan]
+18:45:00	[ScheduleTask]	Execute Task: ThongBao
+19:00:01	[ScheduleTask]	Execute Task: Dai Hoi Vo Lam Thi Dau Vong Tron [Bat Cuong]
+19:00:01	[ScheduleTask]	Execute Task: Hoat Dong The Thao[Bat Cuong]
+19:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+19:00:01	[ScheduleTask]	Execute Task: Pho ban quan doanh
+19:00:01	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+19:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+19:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+19:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+19:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+19:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+19:10:00	[ScheduleTask]	Execute Task: Thong ke nguoi choi
+19:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+19:30:00	[ScheduleTask]	Execute Task: Thi Dau Mon Phai
+19:30:00	[ScheduleTask]	Execute Task: GoiBos_new_45
+19:30:00	[ScheduleTask]	Execute Task: GoiBoss_75_new
+19:30:00	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+19:30:00	[ScheduleTask]	Execute Task: Tranh doat lanh tho tuyen chien
+19:30:00	Domain:StartDomainBattle
+19:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+19:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+19:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+19:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+19:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+19:40:00	[ScheduleTask]	Execute Task: Thong ke nguoi choi
+19:45:00	[ScheduleTask]	Execute Task: GoiBoss_95_new
+19:50:00	[ScheduleTask]	Execute Task: Hoat dong CTC
+20:00:01	[ScheduleTask]	Execute Task: Hoat Dong The Thao Giai Doan 2[Hang Ngay]
+20:00:01	[ScheduleTask]	Execute Task: Hoat Dong The Thao [Hang Ngay]
+20:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+20:00:01	[ScheduleTask]	Execute Task: Pho ban quan doanh
+20:00:01	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+20:00:01	[ScheduleTask]	Execute Task: BaoDanhVLMC
+20:00:01	[ScheduleTask]	Execute Task: Tranh doat lanh tho khai chien
+20:00:01	Domain:StartAllGame_GC
+20:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+20:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+20:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+20:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+20:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+20:10:00	[ScheduleTask]	Execute Task: Thong ke nguoi choi
+20:15:00	[ScheduleTask]	Execute Task: Hoat Dong The Thao Giai Doan 2[Hang Ngay]
+20:15:00	[ScheduleTask]	Execute Task: Hoat Dong The Thao [Hang Ngay]
+20:16:00	[ScheduleTask]	Execute Task: DoSatNguHanh_GC
+20:30:00	[ScheduleTask]	Execute Task: Hoat Dong The Thao Giai Doan 2[Hang Ngay]
+20:30:00	[ScheduleTask]	Execute Task: Hoat Dong The Thao [Hang Ngay]
+20:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+20:30:00	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+20:30:00	[ScheduleTask]	Execute Task: DoSatVLMC_GC
+20:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+20:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+20:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+20:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+20:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+20:31:35	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	3111
+20:36:39	TCQGaming	751299586	LogoutMul_0	IpMul_0
+20:36:41	[CenServer] Receive packet failed!
+20:36:41	Connection Lost:127.0.0.1 ID = 14
+20:36:41	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 4549 Protocol = 11 Size = 6
+20:36:41	[CenServer] Receive packet failed!
+20:36:41	Connection Lost:127.0.0.1 ID = 13
+20:36:41	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 4037 Protocol = 11 Size = 6
+20:36:41	[CenServer] Receive packet failed!
+20:36:41	Connection Lost:127.0.0.1 ID = 12
+20:36:41	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 3525 Protocol = 11 Size = 6
+20:36:42	[CenServer] Receive packet failed!
+20:36:42	Connection Lost:127.0.0.1 ID = 11
+20:36:42	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 3013 Protocol = 11 Size = 6
+20:36:42	[CenServer] Receive packet failed!
+20:36:42	Connection Lost:127.0.0.1 ID = 10
+20:36:42	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 2501 Protocol = 11 Size = 6
+20:36:42	[CenServer] Receive packet failed!
+20:36:42	Connection Lost:127.0.0.1 ID = 9
+20:36:42	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 1989 Protocol = 11 Size = 6
+20:36:42	[CenServer] Receive packet failed!
+20:36:43	Connection Lost:127.0.0.1 ID = 8
+20:36:43	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 62404 Protocol = 11 Size = 6
+20:36:49	[CenServer] Accept from 127.0.0.1 Port = 35526
+20:36:49	Connection Created! Connection ID = 15
+20:36:49	Domain	Statuary	tbStatuary:OnRecConnectEvent	15
+20:36:49	[CenServer] Accept from 127.0.0.1 Port = 36806
+20:36:49	Connection Created! Connection ID = 16
+20:36:49	Domain	Statuary	tbStatuary:OnRecConnectEvent	16
+20:36:49	[CenServer] Accept from 127.0.0.1 Port = 37318
+20:36:49	Connection Created! Connection ID = 17
+20:36:49	Domain	Statuary	tbStatuary:OnRecConnectEvent	17
+20:36:49	[CenServer] Accept from 127.0.0.1 Port = 38598
+20:36:49	Connection Created! Connection ID = 18
+20:36:49	Domain	Statuary	tbStatuary:OnRecConnectEvent	18
+20:36:49	[CenServer] Accept from 127.0.0.1 Port = 39110
+20:36:49	Connection Created! Connection ID = 19
+20:36:49	Domain	Statuary	tbStatuary:OnRecConnectEvent	19
+20:36:49	[CenServer] Accept from 127.0.0.1 Port = 39622
+20:36:49	Connection Created! Connection ID = 20
+20:36:49	Domain	Statuary	tbStatuary:OnRecConnectEvent	20
+20:36:49	[CenServer] Accept from 127.0.0.1 Port = 40134
+20:36:49	Connection Created! Connection ID = 21
+20:36:49	Domain	Statuary	tbStatuary:OnRecConnectEvent	21
+20:36:50	OnGCExcute	Map:GCUpdateForbidenInfo
+20:36:50	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+20:36:50	So den khong co ban dau hoa, truc tiep tro ve
+20:36:50	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+20:36:50	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	2
+20:36:50	OnGCExcute	Map:GCUpdateForbidenInfo
+20:36:50	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+20:36:50	So den khong co ban dau hoa, truc tiep tro ve
+20:36:50	OnGCExcute	XoyoGame:CreateManager_GC	341
+20:36:50	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+20:36:50	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+20:36:51	OnGCExcute	Map:GCUpdateForbidenInfo
+20:36:51	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+20:36:51	So den khong co ban dau hoa, truc tiep tro ve
+20:36:51	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+20:36:51	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	4
+20:36:52	OnGCExcute	Map:GCUpdateForbidenInfo
+20:36:52	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+20:36:52	So den khong co ban dau hoa, truc tiep tro ve
+20:36:52	OnGCExcute	Map:GCUpdateForbidenInfo
+20:36:52	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+20:36:52	So den khong co ban dau hoa, truc tiep tro ve
+20:36:52	OnGCExcute	XoyoGame:CreateManager_GC	342
+20:36:52	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	3
+20:36:52	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	6
+20:36:52	OnGCExcute	Map:GCUpdateForbidenInfo
+20:36:52	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+20:36:52	So den khong co ban dau hoa, truc tiep tro ve
+20:36:52	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+20:36:52	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	5
+20:36:54	OnGCExcute	Map:GCUpdateForbidenInfo
+20:36:54	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+20:36:54	So den khong co ban dau hoa, truc tiep tro ve
+20:36:54	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+20:36:54	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	7
+20:38:37	TCQGaming	788308019	LoginMul_1	IpMul1
+20:39:00	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	4891
+20:40:00	[ScheduleTask]	Execute Task: Thong ke nguoi choi
+20:45:00	[ScheduleTask]	Execute Task: Hoat Dong The Thao Giai Doan 2[Hang Ngay]
+20:45:00	[ScheduleTask]	Execute Task: Hoat Dong The Thao [Hang Ngay]
+20:50:00	[ScheduleTask]	Execute Task: Chien Truong Tong Kim
+20:50:00	-------------------------------------------------------------------------------
+20:50:00	[2025-07-24 20:50:00]	BATTLE ROUND START
+20:50:00	tBattleLevel: 1	MapName: Gia D·ª• Quan (DC)
+20:50:00	-------------------------------------------------------------------------------
+20:50:00	-------------------------------------------------------------------------------
+20:50:00	[2025-07-24 20:50:00]	BATTLE ROUND START
+20:50:00	tBattleLevel: 2	MapName: Gia D·ª• Quan (PT)
+20:50:00	-------------------------------------------------------------------------------
+20:50:00	-------------------------------------------------------------------------------
+20:50:00	[2025-07-24 20:50:00]	BATTLE ROUND START
+20:50:00	tBattleLevel: 3	MapName: Gia D·ª• Quan (TD)
+20:50:00	-------------------------------------------------------------------------------
+20:50:00	[ScheduleTask]	Execute Task: KetThucVLMC_GC
+20:50:44	TCQGaming	788308019	LogoutMul_0	IpMul_0
+20:51:11	TCQGaming	788308019	LoginMul_1	IpMul1
+21:00:01	[ScheduleTask]	Execute Task: Hoat Dong The Thao Giai Doan 2[Hang Ngay]
+21:00:01	[ScheduleTask]	Execute Task: Hoat Dong The Thao [Hang Ngay]
+21:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+21:00:01	[ScheduleTask]	Execute Task: Pho ban quan doanh
+21:00:01	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+21:00:01	[ScheduleTask]	Execute Task: Hoat dong CTC
+21:00:01	[ScheduleTask]	Execute Task: GoiLongTruTongKim
+21:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+21:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+21:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+21:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+21:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+21:10:00	[ScheduleTask]	Execute Task: Thong ke nguoi choi
+21:15:00	[ScheduleTask]	Execute Task: Hoat Dong The Thao Giai Doan 2[Hang Ngay]
+21:15:00	[ScheduleTask]	Execute Task: Hoat Dong The Thao [Hang Ngay]
+21:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+21:30:00	[ScheduleTask]	Execute Task: Bat Dau Bach Ho Duong
+21:30:00	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+21:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+21:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+21:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+21:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+21:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+21:40:00	[ScheduleTask]	Execute Task: Thong ke nguoi choi
+21:55:00	[ScheduleTask]	Execute Task: XoaListTongKim
+21:55:00	[ScheduleTask]	Execute Task: Xoa_LongTruTongKim_GC
+21:55:00	OnGCExcute	Battle:RoundEnd_GC	1	3	0	table: 0xa549120
+21:55:00	-------------------------------------------------------------------------------
+21:55:00	[2025-07-24 21:55:00]	BATTLE ROUND END
+21:55:00	BattleLevel: 3
+21:55:00	-------------------------------------------------------------------------------
+21:55:00	OnGCExcute	Battle:RoundEnd_GC	1	3	0	table: 0xa5499f0
+21:55:00	-------------------------------------------------------------------------------
+21:55:00	[2025-07-24 21:55:00]	BATTLE ROUND END
+21:55:00	BattleLevel: 3
+21:55:00	-------------------------------------------------------------------------------
+21:55:00	OnGCExcute	Battle:RoundEnd_GC	1	2	0	table: 0xa54a020
+21:55:00	-------------------------------------------------------------------------------
+21:55:00	[2025-07-24 21:55:00]	BATTLE ROUND END
+21:55:00	BattleLevel: 2
+21:55:00	-------------------------------------------------------------------------------
+21:55:00	OnGCExcute	Battle:RoundEnd_GC	1	1	0	table: 0xa54a5f0
+21:55:00	-------------------------------------------------------------------------------
+21:55:00	[2025-07-24 21:55:00]	BATTLE ROUND END
+21:55:00	BattleLevel: 1
+21:55:00	-------------------------------------------------------------------------------
+22:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+22:00:01	[ScheduleTask]	Execute Task: Pho ban quan doanh
+22:00:01	[ScheduleTask]	Execute Task: Ket Thuc Bo Phieu Toc Truong
+22:00:01	[ScheduleTask]	Execute Task: Bat Dau PK Bach Ho Duong 
+22:00:01	[ScheduleTask]	Execute Task: Danh gia chu tich bang hoi
+22:00:01	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+22:00:01	[ScheduleTask]	Execute Task: Tao moi bang xep hang DHVL
+22:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+22:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+22:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+22:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+22:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+22:10:00	[ScheduleTask]	Execute Task: Thong ke nguoi choi
+22:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+22:30:00	[ScheduleTask]	Execute Task: CALL_BOSS
+22:30:00	[ScheduleTask]	Execute Task: Tran BHD Tiep Theo
+22:30:00	[ScheduleTask]	Execute Task: GoiBos_new_45
+22:30:00	[ScheduleTask]	Execute Task: GoiBoss_75_new
+22:30:00	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+22:30:00	[ScheduleTask]	Execute Task: Tan lang 5 mo
+22:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	23	0
+22:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	24	0
+22:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+22:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+22:30:20	OnGCExcute	XoyoGame:SyncGameData_GC	27	0

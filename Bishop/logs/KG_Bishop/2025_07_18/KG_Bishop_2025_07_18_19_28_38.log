@@ -1,0 +1,73 @@
+20250718-192838<INFO :000053DC>: [Bishop] Begin to start ... ...
+20250718-192838<INFO :000053DC>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20250718-192838<INFO :000053DC>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 00BB74F8
+20250718-192838<INFO :000053DC>: [Goddess] Login() nResult = 1
+20250718-192838<INFO :000053DC>: [Relay] Init() Acceptor Open(: 5632), nRetCode = 1
+20250718-192838<INFO :000053DC>: [PlayerManager] Init() Acceptor Open(: 1231), nRetCode = 1
+20250718-192838<INFO :000053DC>: [Report] Init() Acceptor Open(: 5636), nRetCode = 1
+20250718-192840<INFO :00003168>: [Relay] ThreadFunction() Accept from (127.0.0.1: 60232) SocketStream = 00BB76F0
+20250718-192840<INFO :00003168>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20250718-192840<DEBUG:00003168>: [Relay] ReceivePackagesFromRelay() RecvPackage From Relay Protocol = 50; Size = 9; Key = 2851
+20250718-192843<INFO :000053B8>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 60241) SocketStream = 00BB7540
+20250718-192843<INFO :000046A0>: [GameServer 0]  === Start ===
+20250718-192843<INFO :000046A0>: [GameServer 0] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6041, protocol version (79-->79)
+20250718-192845<INFO :000053B8>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 60247) SocketStream = 00BB7780
+20250718-192845<INFO :00005264>: [GameServer 1]  === Start ===
+20250718-192845<INFO :00005264>: [GameServer 1] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6042, protocol version (79-->79)
+20250718-192845<INFO :000053B8>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 60252) SocketStream = 00BB72B8
+20250718-192845<INFO :00001D08>: [GameServer 2]  === Start ===
+20250718-192845<INFO :00001D08>: [GameServer 2] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6043, protocol version (79-->79)
+20250718-192845<INFO :000053B8>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 60257) SocketStream = 00BB7300
+20250718-192845<INFO :000051A4>: [GameServer 3]  === Start ===
+20250718-192845<INFO :000051A4>: [GameServer 3] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6044, protocol version (79-->79)
+20250718-192845<INFO :000053B8>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 60268) SocketStream = 00BB7390
+20250718-192845<INFO :00004F48>: [GameServer 4]  === Start ===
+20250718-192845<INFO :00004F48>: [GameServer 4] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6047, protocol version (79-->79)
+20250718-192846<INFO :000053B8>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 60271) SocketStream = 00BB7150
+20250718-192846<INFO :000050D8>: [GameServer 5]  === Start ===
+20250718-192846<INFO :000050D8>: [GameServer 5] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6045, protocol version (79-->79)
+20250718-192846<INFO :000053B8>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 60273) SocketStream = 00BB7228
+20250718-192846<INFO :00005344>: [GameServer 6]  === Start ===
+20250718-192846<INFO :00005344>: [GameServer 6] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6046, protocol version (79-->79)
+20250718-192846<DEBUG:000046A0>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20250718-192846<DEBUG:00003168>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 397; Key = 1
+20250718-192847<DEBUG:00005264>: [GameServer 1] GameServerConnectedInit() nResult = 1
+20250718-192847<DEBUG:00003168>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 397; Key = 2
+20250718-192848<DEBUG:000051A4>: [GameServer 3] GameServerConnectedInit() nResult = 1
+20250718-192848<DEBUG:00003168>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 337; Key = 3
+20250718-192848<DEBUG:00001B18>: [Player 0] ThreadFunction() Accept from (192.168.1.100 : 60275) SocketStream = 00BB7270
+20250718-192849<DEBUG:00001D08>: [GameServer 2] GameServerConnectedInit() nResult = 1
+20250718-192849<DEBUG:00003168>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 581; Key = 4
+20250718-192850<DEBUG:00004F48>: [GameServer 4] GameServerConnectedInit() nResult = 1
+20250718-192850<DEBUG:00003168>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 497; Key = 5
+20250718-192850<DEBUG:00005344>: [GameServer 6] GameServerConnectedInit() nResult = 1
+20250718-192850<DEBUG:00003168>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 433; Key = 6
+20250718-192851<DEBUG:000050D8>: [GameServer 5] GameServerConnectedInit() nResult = 1
+20250718-192851<DEBUG:00003168>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 421; Key = 7
+20250718-192854<DEBUG:00001B18>: [Player 0] Account xboyhd login bishop ... ... [OK]
+20250718-192854<DEBUG:00001B18>: [InterlockedAccountStateTable] xboyhd, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250718-192854<DEBUG:00003118>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 1
+20250718-192854<DEBUG:00003118>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 1
+20250718-192854<DEBUG:00001B18>: [Player 0] ProcessRoleList() RoleCount = 1!
+20250718-192854<DEBUG:00001B18>: [Player 0] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250718-192855<DEBUG:00003118>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 2
+20250718-192855<DEBUG:00003118>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 2
+20250718-192855<DEBUG:00001B18>: [Player 0] QueryRoleListInZone() Role Count In Zone = 1!
+20250718-192856<DEBUG:00001B18>: [Player 0] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250718-192856<DEBUG:00001B18>: [Player 0] EnterGame_QueryRoleData() RoleName = TCQGaming
+20250718-192856<DEBUG:00003118>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 20; Key = 3
+20250718-192856<DEBUG:00003118>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 1905; Key = 3
+20250718-192856<DEBUG:00001B18>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20250718-192856<DEBUG:00001B18>: [Player 0] Request enter game: ask for permission, account = xboyhd, role name = TCQGaming ... ... [OK]
+20250718-192856<DEBUG:000046A0>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 2037; Key = 1
+20250718-192857<DEBUG:000046A0>: [GameServer 0] g2b_player_login_permission() , Account = xboyhd, Role = TCQGaming, Permit = true
+20250718-192857<DEBUG:00001B18>: [Player 0] Notify player login game: ip = 255.255.255.255, port = 6041, account = xboyhd, role = TCQGaming
+20250718-192857<DEBUG:000046A0>: [GameServer 0] g2b_player_enter_game() AccountName = xboyhd
+20250718-192857<DEBUG:00004F48>: [GameServer 4] g2b_pre_transfer_server() AccountName = xboyhd
+20250718-192858<DEBUG:000046A0>: [GameServer 0] g2b_player_leave_game() , Account xboyhd 
+20250718-192858<DEBUG:000046A0>: [GameServer 0] Unregister account xboyhd in game server ... ... [OK]
+20250718-192858<DEBUG:000046A0>: [GameServer 0] Account xboyhd leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20250718-193002<DEBUG:000046A0>: [GameServer 0] g2b_pre_transfer_server() AccountName = xboyhd
+20250718-193002<DEBUG:00004F48>: [GameServer 4] g2b_player_leave_game() , Account xboyhd 
+20250718-193002<DEBUG:00004F48>: [GameServer 4] Unregister account xboyhd in game server ... ... [OK]
+20250718-193002<DEBUG:00004F48>: [GameServer 4] Account xboyhd leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1

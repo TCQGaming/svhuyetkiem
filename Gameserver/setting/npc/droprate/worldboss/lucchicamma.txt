@@ -1,0 +1,6 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1	8	575600		Huyền Tinh 9
+		18	1	1	9	30000		Huyền Tinh 10
+		18	1	1	10	2500		Huyền Tinh 11
+		18	1	554	4	50000		đồng hành đặt biệt
+		22	1	81	1	100000		Vật liệu vũ khí BOSS-Hòa Thị Bích

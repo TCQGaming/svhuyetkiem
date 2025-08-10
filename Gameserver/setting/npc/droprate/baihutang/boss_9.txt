@@ -1,0 +1,6 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	111	1	98750		Lệnh Bài Bạch Hổ Đường Sơ
+		18	1	114	3	60750		Huyền Tinh cấp 3
+		18	1	114	4	55750		Huyền Tinh cấp 4
+		18	1	114	5	71250		Huyền Tinh cấp 5
+		18	1	114	6	2500		Huyền Tinh cấp 6

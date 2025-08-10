@@ -1,0 +1,497 @@
+20250318-230508<INFO :000037D8>: [Bishop] Begin to start ... ...
+20250318-230508<INFO :000037D8>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20250318-230508<INFO :000037D8>: [Paysys] Login() Connect to (127.0.0.1 : 8000) SocketStream = 00D17468
+20250318-230508<INFO :000037D8>: [machine info for paysys] MatchMacAddress: 00-00-00-00-00-00, MatchIPAddress: 0.0.0.0
+20250318-230508<DEBUG:000037D8>: [Paysys] Login() Send Login Information to PaySys nRetCode = 1
+20250318-230508<DEBUG:000037D8>: [Paysys] Login() Recv Verify Information From PaySys nRetCode = 1
+20250318-230508<INFO :000037D8>: [Paysys] Login() Paysys Verify , RetCode  = 1 ... ... [OK]
+20250318-230508<INFO :000037D8>: [Paysys] Login() nResult = 1
+20250318-230508<INFO :000037D8>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 00D17390
+20250318-230508<INFO :000037D8>: [Goddess] Login() nResult = 1
+20250318-230508<INFO :000037D8>: [Relay] Init() Acceptor Open(: 5632), nRetCode = 1
+20250318-230508<INFO :000037D8>: [PlayerManager] Init() Acceptor Open(: 1231), nRetCode = 1
+20250318-230508<INFO :000037D8>: [Report] Init() Acceptor Open(: 5636), nRetCode = 1
+20250318-230509<INFO :00001E70>: [Relay] ThreadFunction() Accept from (127.0.0.1: 37709) SocketStream = 00D174B0
+20250318-230509<INFO :00001E70>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20250318-230509<DEBUG:00001E70>: [Relay] ReceivePackagesFromRelay() RecvPackage From Relay Protocol = 50; Size = 9; Key = 2851
+20250318-230513<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37715) SocketStream = 00D16D60
+20250318-230513<INFO :00005968>: [GameServer 0]  === Start ===
+20250318-230513<INFO :00005968>: [GameServer 0] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6041, protocol version (79-->79)
+20250318-230518<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37727) SocketStream = 00D174F8
+20250318-230518<INFO :000053EC>: [GameServer 1]  === Start ===
+20250318-230518<INFO :000053EC>: [GameServer 1] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6042, protocol version (79-->79)
+20250318-230518<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37732) SocketStream = 00D171E0
+20250318-230518<INFO :00005778>: [GameServer 2]  === Start ===
+20250318-230518<INFO :00005778>: [GameServer 2] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6043, protocol version (79-->79)
+20250318-230519<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37737) SocketStream = 00D17150
+20250318-230519<INFO :00005788>: [GameServer 3]  === Start ===
+20250318-230519<INFO :00005788>: [GameServer 3] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6044, protocol version (79-->79)
+20250318-230519<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37748) SocketStream = 00D16DA8
+20250318-230519<INFO :00005664>: [GameServer 4]  === Start ===
+20250318-230520<INFO :00005664>: [GameServer 4] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6047, protocol version (79-->79)
+20250318-230520<DEBUG:00005788>: [GameServer 3] GameServerConnectedInit() nResult = 1
+20250318-230520<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 13; Key = 1
+20250318-230521<DEBUG:00005664>: [GameServer 4] GameServerConnectedInit() nResult = 1
+20250318-230521<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 13; Key = 2
+20250318-230521<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37751) SocketStream = 00D16FE8
+20250318-230521<INFO :00000F30>: [GameServer 5]  === Start ===
+20250318-230521<INFO :00000F30>: [GameServer 5] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6045, protocol version (79-->79)
+20250318-230521<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37753) SocketStream = 00D16DF0
+20250318-230521<INFO :000031C4>: [GameServer 6]  === Start ===
+20250318-230521<INFO :000031C4>: [GameServer 6] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6046, protocol version (79-->79)
+20250318-230522<DEBUG:00000F30>: [GameServer 5] GameServerConnectedInit() nResult = 1
+20250318-230522<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 13; Key = 3
+20250318-230523<DEBUG:000031C4>: [GameServer 6] GameServerConnectedInit() nResult = 1
+20250318-230523<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 13; Key = 4
+20250318-230524<DEBUG:00005968>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20250318-230524<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1017; Key = 5
+20250318-230526<DEBUG:000049F4>: [Player 0] ThreadFunction() Accept from (192.168.1.100 : 37755) SocketStream = 00D17270
+20250318-230527<DEBUG:000053EC>: [GameServer 1] GameServerConnectedInit() nResult = 1
+20250318-230527<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1025; Key = 6
+20250318-230528<DEBUG:00005778>: [GameServer 2] GameServerConnectedInit() nResult = 1
+20250318-230528<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 969; Key = 7
+20250318-230531<DEBUG:000049F4>: [Player 0] Account xboyhd login bishop ... ... [OK]
+20250318-230531<DEBUG:000049F4>: [InterlockedAccountStateTable] xboyhd, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250318-230531<DEBUG:000049F4>: [Player 0] Push request package into paysys module OK, package id = 0, cost time 0 ms
+20250318-230531<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 0
+20250318-230531<DEBUG:00000E80>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 0
+20250318-230532<DEBUG:000049F4>: [Player 0] Pop respond package from paysys module OK, package id = 0, cost time 866 ms
+20250318-230532<DEBUG:000049F4>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20250318-230532<INFO :000049F4>: [Player 0] Player verify to paysys, result = 1, Account xboyhd
+20250318-230532<INFO :000049F4>: [Player 0] Account xboyhd EndOfDayTime = 0, LeftTimeOfPoint = 0, TotalLeftTime = 0
+20250318-230532<DEBUG:000035B0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 1
+20250318-230532<DEBUG:000035B0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 1
+20250318-230533<DEBUG:000049F4>: [Player 0] ProcessRoleList() RoleCount = 1!
+20250318-230533<DEBUG:000049F4>: [Player 0] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250318-230533<DEBUG:000035B0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 2
+20250318-230533<DEBUG:000035B0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 2
+20250318-230534<DEBUG:000049F4>: [Player 0] QueryRoleListInZone() Role Count In Zone = 1!
+20250318-230535<DEBUG:000049F4>: [Player 0] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250318-230535<DEBUG:000049F4>: [Player 0] EnterGame_QueryRoleData() RoleName = TCQGaming
+20250318-230535<DEBUG:000035B0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 20; Key = 3
+20250318-230535<DEBUG:000035B0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 366; Key = 3
+20250318-230536<DEBUG:000049F4>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20250318-230536<DEBUG:000049F4>: [Player 0] Request enter game: ask for permission, account = xboyhd, role name = TCQGaming ... ... [OK]
+20250318-230536<DEBUG:00005968>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 498; Key = 1
+20250318-230536<DEBUG:00005968>: [GameServer 0] g2b_player_login_permission() , Account = xboyhd, Role = TCQGaming, Permit = true
+20250318-230537<DEBUG:000049F4>: [Player 0] Notify player login game: ip = 255.255.255.255, port = 6041, account = xboyhd, role = TCQGaming
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 0 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 1 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 2 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 3 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 4 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 5 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 6 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 7 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 8 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 9 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 10 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 11 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 12 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 13 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 14 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 15 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 16 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 17 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 18 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 19 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 20 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 21 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 22 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 23 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 24 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 25 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 26 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 27 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 28 ... ... [OK]
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 1
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 2
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 3
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 4
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 29 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 30 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 31 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 32 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 33 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 34 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 35 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 36 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 37 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 38 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 39 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 40 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 41 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 42 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 43 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 44 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 45 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 46 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 47 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 48 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 49 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 50 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 51 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 52 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 53 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 54 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 55 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 56 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 57 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 58 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 59 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 60 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 61 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 62 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 63 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 64 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 65 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 66 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 67 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 68 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 69 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 70 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 71 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 72 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 73 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 74 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 75 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 76 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 77 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 78 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 79 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Player change ext point: Account = xboyhd , PlayerDataIndex = 80 ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] g2b_player_enter_game() AccountName = xboyhd
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 5
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 6
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 7
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 8
+20250318-230537<DEBUG:000053EC>: [GameServer 1] g2b_pre_transfer_server() AccountName = xboyhd
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 9
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 10
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 11
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 12
+20250318-230537<DEBUG:00005968>: [GameServer 0] g2b_player_leave_game() , Account xboyhd 
+20250318-230537<DEBUG:00005968>: [GameServer 0] Unregister account xboyhd in game server ... ... [OK]
+20250318-230537<DEBUG:00005968>: [GameServer 0] Account xboyhd leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 13
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 14
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 15
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 16
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 17
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 18
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 19
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 20
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 21
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 22
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 23
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 24
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 25
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 26
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 27
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 28
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 29
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 30
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 31
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 32
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 33
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 34
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 35
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 36
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 37
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 38
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 39
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 40
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 41
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 42
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 43
+20250318-230537<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 44
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 45
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 46
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 47
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 48
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 49
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 50
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 51
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 52
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 53
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 54
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 55
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 56
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 57
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 58
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 59
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 60
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 61
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 62
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 63
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 64
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 65
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 66
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 67
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 68
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 69
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 70
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 71
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 72
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 73
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 74
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 75
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 76
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 77
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 78
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 79
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 80
+20250318-230538<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 81
+20250318-230734<DEBUG:00005664>: nSocket = 16996, nSendFlag = 0, Error = 10054
+20250318-230734<DEBUG:00005664>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-230734<DEBUG:00005664>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-230734<INFO :00005664>: [GameServer 4]  === End ===
+20250318-230735<DEBUG:000031C4>: nSocket = 17052, nSendFlag = 0, Error = 10054
+20250318-230735<DEBUG:000031C4>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-230735<DEBUG:000031C4>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-230735<INFO :000031C4>: [GameServer 6]  === End ===
+20250318-230735<DEBUG:00000F30>: nSocket = 17024, nSendFlag = 0, Error = 10054
+20250318-230735<DEBUG:00000F30>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-230735<DEBUG:00000F30>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-230735<INFO :00000F30>: [GameServer 5]  === End ===
+20250318-230735<DEBUG:00005788>: nSocket = 16968, nSendFlag = 0, Error = 10054
+20250318-230735<DEBUG:00005788>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-230735<DEBUG:00005788>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-230735<INFO :00005788>: [GameServer 3]  === End ===
+20250318-230736<DEBUG:00005778>: nSocket = 16940, nSendFlag = 0, Error = 10054
+20250318-230736<DEBUG:00005778>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-230736<DEBUG:00005778>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-230736<INFO :00005778>: [GameServer 2]  === End ===
+20250318-230736<DEBUG:000053EC>: nSocket = 16908, nSendFlag = 0, Error = 10054
+20250318-230736<DEBUG:000053EC>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-230736<DEBUG:000053EC>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-230736<INFO :000053EC>: [GameServer 1]  === End ===
+20250318-230736<DEBUG:000053EC>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20250318-230736<DEBUG:000053EC>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20250318-230736<INFO :000053EC>: [GameServer 1] unlock No.0 accounts in game server : [xboyhd] ... ... [OK]
+20250318-230736<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 82
+20250318-230736<DEBUG:00005968>: nSocket = 16880, nSendFlag = 0, Error = 10054
+20250318-230736<DEBUG:00005968>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-230736<DEBUG:00005968>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-230736<INFO :00005968>: [GameServer 0]  === End ===
+20250318-230740<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37768) SocketStream = 00D174F8
+20250318-230740<INFO :0000553C>: [GameServer 7]  === Start ===
+20250318-230740<INFO :0000553C>: [GameServer 7] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6041, protocol version (79-->79)
+20250318-230741<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37773) SocketStream = 00D17300
+20250318-230741<INFO :00001370>: [GameServer 8]  === Start ===
+20250318-230741<INFO :00001370>: [GameServer 8] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6042, protocol version (79-->79)
+20250318-230741<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37778) SocketStream = 00D17108
+20250318-230741<INFO :00003D5C>: [GameServer 9]  === Start ===
+20250318-230741<INFO :00003D5C>: [GameServer 9] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6043, protocol version (79-->79)
+20250318-230742<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37783) SocketStream = 00D16EC8
+20250318-230742<INFO :000059CC>: [GameServer 10]  === Start ===
+20250318-230742<INFO :000059CC>: [GameServer 10] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6044, protocol version (79-->79)
+20250318-230742<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37794) SocketStream = 00D17348
+20250318-230742<INFO :000031B0>: [GameServer 11]  === Start ===
+20250318-230742<INFO :000031B0>: [GameServer 11] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6047, protocol version (79-->79)
+20250318-230743<DEBUG:000059CC>: [GameServer 10] GameServerConnectedInit() nResult = 1
+20250318-230743<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 13; Key = 8
+20250318-230744<DEBUG:000031B0>: [GameServer 11] GameServerConnectedInit() nResult = 1
+20250318-230744<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 13; Key = 9
+20250318-230744<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37797) SocketStream = 00D16D60
+20250318-230744<INFO :00005ACC>: [GameServer 12]  === Start ===
+20250318-230744<INFO :00005ACC>: [GameServer 12] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6045, protocol version (79-->79)
+20250318-230744<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37799) SocketStream = 00D16E38
+20250318-230744<INFO :000029AC>: [GameServer 13]  === Start ===
+20250318-230744<INFO :000029AC>: [GameServer 13] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6046, protocol version (79-->79)
+20250318-230745<DEBUG:00005ACC>: [GameServer 12] GameServerConnectedInit() nResult = 1
+20250318-230745<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 13; Key = 10
+20250318-230745<DEBUG:000029AC>: [GameServer 13] GameServerConnectedInit() nResult = 1
+20250318-230745<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 13; Key = 11
+20250318-230750<DEBUG:00001370>: [GameServer 8] GameServerConnectedInit() nResult = 1
+20250318-230750<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1025; Key = 12
+20250318-230750<DEBUG:00004A04>: [Player 18] ThreadFunction() Accept from (192.168.1.100 : 37801) SocketStream = 00D16DA8
+20250318-230751<DEBUG:0000553C>: [GameServer 7] GameServerConnectedInit() nResult = 1
+20250318-230751<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1017; Key = 13
+20250318-230751<DEBUG:00003D5C>: [GameServer 9] GameServerConnectedInit() nResult = 1
+20250318-230751<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 969; Key = 14
+20250318-230756<DEBUG:00004A04>: [Player 18] Account xboyhd login bishop ... ... [OK]
+20250318-230756<DEBUG:00004A04>: [InterlockedAccountStateTable] xboyhd, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250318-230756<DEBUG:00004A04>: [Player 18] Push request package into paysys module OK, package id = 83, cost time 0 ms
+20250318-230756<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 83
+20250318-230756<DEBUG:00000E80>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 83
+20250318-230756<DEBUG:00004A04>: [Player 18] Pop respond package from paysys module OK, package id = 83, cost time 625 ms
+20250318-230756<DEBUG:00004A04>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20250318-230756<INFO :00004A04>: [Player 18] Player verify to paysys, result = 1, Account xboyhd
+20250318-230756<INFO :00004A04>: [Player 18] Account xboyhd EndOfDayTime = 0, LeftTimeOfPoint = 0, TotalLeftTime = 0
+20250318-230756<DEBUG:000035B0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 4
+20250318-230756<DEBUG:000035B0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 4
+20250318-230757<DEBUG:00004A04>: [Player 18] ProcessRoleList() RoleCount = 1!
+20250318-230757<DEBUG:00004A04>: [Player 18] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250318-230757<DEBUG:000035B0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 5
+20250318-230757<DEBUG:000035B0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 5
+20250318-230758<DEBUG:00004A04>: [Player 18] QueryRoleListInZone() Role Count In Zone = 1!
+20250318-230759<DEBUG:00004A04>: [Player 18] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250318-230759<DEBUG:00004A04>: [Player 18] EnterGame_QueryRoleData() RoleName = TCQGaming
+20250318-230759<DEBUG:000035B0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 20; Key = 6
+20250318-230759<DEBUG:000035B0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 2204; Key = 6
+20250318-230801<DEBUG:00004A04>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20250318-230801<DEBUG:00004A04>: [Player 18] Request enter game: ask for permission, account = xboyhd, role name = TCQGaming ... ... [OK]
+20250318-230801<DEBUG:00001370>: [GameServer 8] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 2336; Key = 1
+20250318-230801<DEBUG:00001370>: [GameServer 8] g2b_player_login_permission() , Account = xboyhd, Role = TCQGaming, Permit = true
+20250318-230801<DEBUG:00004A04>: [Player 18] Notify player login game: ip = 255.255.255.255, port = 6042, account = xboyhd, role = TCQGaming
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 0 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 1 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 2 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 3 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 4 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 5 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 6 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 7 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 8 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 9 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 10 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 11 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 12 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 13 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 14 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 15 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 16 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 17 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] Player change ext point: Account = xboyhd , PlayerDataIndex = 18 ... ... [OK]
+20250318-230802<DEBUG:00001370>: [GameServer 8] g2b_player_enter_game() AccountName = xboyhd
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 84
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 85
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 86
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 87
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 88
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 89
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 90
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 91
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 92
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 93
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 94
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 95
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 96
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 97
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 98
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 99
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 100
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 101
+20250318-230802<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 40; Size = 59; Key = 102
+20250318-230946<DEBUG:00001370>: [GameServer 8] g2b_player_leave_game() , Account xboyhd 
+20250318-230946<DEBUG:00001370>: [GameServer 8] Unregister account xboyhd in game server ... ... [OK]
+20250318-230946<DEBUG:00001370>: [GameServer 8] Account xboyhd leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20250318-230946<DEBUG:0000553C>: [GameServer 7] g2b_pre_transfer_server() AccountName = xboyhd
+20250318-231010<DEBUG:00001370>: [GameServer 8] g2b_pre_transfer_server() AccountName = xboyhd
+20250318-231010<DEBUG:0000553C>: [GameServer 7] g2b_player_leave_game() , Account xboyhd 
+20250318-231010<DEBUG:0000553C>: [GameServer 7] Unregister account xboyhd in game server ... ... [OK]
+20250318-231010<DEBUG:0000553C>: [GameServer 7] Account xboyhd leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20250318-231131<DEBUG:0000553C>: [GameServer 7] g2b_pre_transfer_server() AccountName = xboyhd
+20250318-231131<DEBUG:00001370>: [GameServer 8] g2b_player_leave_game() , Account xboyhd 
+20250318-231131<DEBUG:00001370>: [GameServer 8] Unregister account xboyhd in game server ... ... [OK]
+20250318-231131<DEBUG:00001370>: [GameServer 8] Account xboyhd leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20250318-231631<DEBUG:000031B0>: nSocket = 17040, nSendFlag = 0, Error = 10054
+20250318-231631<DEBUG:000031B0>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-231631<DEBUG:000031B0>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-231631<INFO :000031B0>: [GameServer 11]  === End ===
+20250318-231631<DEBUG:000029AC>: nSocket = 17168, nSendFlag = 0, Error = 10054
+20250318-231631<DEBUG:000029AC>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-231631<DEBUG:000029AC>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-231631<INFO :000029AC>: [GameServer 13]  === End ===
+20250318-231631<DEBUG:00005ACC>: nSocket = 17052, nSendFlag = 0, Error = 10054
+20250318-231631<DEBUG:00005ACC>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-231631<DEBUG:00005ACC>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-231631<INFO :00005ACC>: [GameServer 12]  === End ===
+20250318-231631<DEBUG:000059CC>: nSocket = 17064, nSendFlag = 0, Error = 10054
+20250318-231631<DEBUG:000059CC>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-231631<DEBUG:000059CC>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-231631<INFO :000059CC>: [GameServer 10]  === End ===
+20250318-231632<DEBUG:00003D5C>: nSocket = 17072, nSendFlag = 0, Error = 10054
+20250318-231632<DEBUG:00003D5C>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-231632<DEBUG:00003D5C>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-231632<INFO :00003D5C>: [GameServer 9]  === End ===
+20250318-231632<DEBUG:00001370>: nSocket = 17048, nSendFlag = 0, Error = 10054
+20250318-231632<DEBUG:00001370>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-231632<DEBUG:00001370>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-231632<INFO :00001370>: [GameServer 8]  === End ===
+20250318-231632<DEBUG:0000553C>: nSocket = 16932, nSendFlag = 0, Error = 10054
+20250318-231632<DEBUG:0000553C>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250318-231632<DEBUG:0000553C>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250318-231632<INFO :0000553C>: [GameServer 7]  === End ===
+20250318-231632<DEBUG:0000553C>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20250318-231632<DEBUG:0000553C>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20250318-231632<INFO :0000553C>: [GameServer 7] unlock No.0 accounts in game server : [xboyhd] ... ... [OK]
+20250318-231632<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 103
+20250318-231636<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37849) SocketStream = 00D16EC8
+20250318-231636<INFO :00005B5C>: [GameServer 14]  === Start ===
+20250318-231636<INFO :00005B5C>: [GameServer 14] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6041, protocol version (79-->79)
+20250318-231636<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37854) SocketStream = 00D16FE8
+20250318-231636<INFO :00005860>: [GameServer 15]  === Start ===
+20250318-231636<INFO :00005860>: [GameServer 15] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6042, protocol version (79-->79)
+20250318-231637<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37859) SocketStream = 00D17348
+20250318-231637<INFO :00005704>: [GameServer 16]  === Start ===
+20250318-231637<INFO :00005704>: [GameServer 16] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6043, protocol version (79-->79)
+20250318-231637<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37864) SocketStream = 00D171E0
+20250318-231637<INFO :0000590C>: [GameServer 17]  === Start ===
+20250318-231637<INFO :0000590C>: [GameServer 17] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6044, protocol version (79-->79)
+20250318-231638<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37872) SocketStream = 00D16F58
+20250318-231638<INFO :00004630>: [GameServer 18]  === Start ===
+20250318-231638<INFO :00004630>: [GameServer 18] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6047, protocol version (79-->79)
+20250318-231638<DEBUG:0000590C>: [GameServer 17] GameServerConnectedInit() nResult = 1
+20250318-231638<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 13; Key = 15
+20250318-231639<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37878) SocketStream = 00D174F8
+20250318-231639<INFO :00002A74>: [GameServer 19]  === Start ===
+20250318-231639<INFO :00002A74>: [GameServer 19] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6045, protocol version (79-->79)
+20250318-231640<DEBUG:00004630>: [GameServer 18] GameServerConnectedInit() nResult = 1
+20250318-231640<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 13; Key = 16
+20250318-231641<INFO :00002634>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 37880) SocketStream = 00D16D60
+20250318-231641<INFO :00001D68>: [GameServer 20]  === Start ===
+20250318-231641<INFO :00001D68>: [GameServer 20] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6046, protocol version (79-->79)
+20250318-231641<DEBUG:00002A74>: [GameServer 19] GameServerConnectedInit() nResult = 1
+20250318-231641<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 13; Key = 17
+20250318-231641<DEBUG:000021E8>: [Player 162] ThreadFunction() Accept from (192.168.1.100 : 37882) SocketStream = 00D17108
+20250318-231642<DEBUG:00001D68>: [GameServer 20] GameServerConnectedInit() nResult = 1
+20250318-231642<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 13; Key = 18
+20250318-231646<DEBUG:00005860>: [GameServer 15] GameServerConnectedInit() nResult = 1
+20250318-231646<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1025; Key = 19
+20250318-231647<DEBUG:00005704>: [GameServer 16] GameServerConnectedInit() nResult = 1
+20250318-231647<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 969; Key = 20
+20250318-231647<DEBUG:00005B5C>: [GameServer 14] GameServerConnectedInit() nResult = 1
+20250318-231647<DEBUG:00001E70>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 1017; Key = 21
+20250318-231648<DEBUG:000021E8>: [Player 162] Account xboyhd login bishop ... ... [OK]
+20250318-231648<DEBUG:000021E8>: [InterlockedAccountStateTable] xboyhd, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250318-231648<DEBUG:000021E8>: [Player 162] Push request package into paysys module OK, package id = 104, cost time 0 ms
+20250318-231648<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 62; Size = 227; Key = 104
+20250318-231648<DEBUG:00000E80>: [Paysys] ReceivePackages() RecvPackage From PaySys Protocol = 62; Size = 167; Key = 104
+20250318-231648<DEBUG:000021E8>: [Player 162] Pop respond package from paysys module OK, package id = 104, cost time 820 ms
+20250318-231648<DEBUG:000021E8>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20250318-231648<INFO :000021E8>: [Player 162] Player verify to paysys, result = 1, Account xboyhd
+20250318-231648<INFO :000021E8>: [Player 162] Account xboyhd EndOfDayTime = 0, LeftTimeOfPoint = 0, TotalLeftTime = 0
+20250318-231648<DEBUG:000035B0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 7
+20250318-231648<DEBUG:000035B0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 7
+20250318-231650<DEBUG:000021E8>: [Player 162] ProcessRoleList() RoleCount = 1!
+20250318-231650<DEBUG:000021E8>: [Player 162] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250318-231650<DEBUG:000035B0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 8
+20250318-231650<DEBUG:000035B0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 8
+20250318-231651<DEBUG:000021E8>: [Player 162] QueryRoleListInZone() Role Count In Zone = 1!
+20250318-231651<DEBUG:000021E8>: [Player 162] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250318-231651<DEBUG:000021E8>: [Player 162] EnterGame_QueryRoleData() RoleName = TCQGaming
+20250318-231651<DEBUG:000035B0>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 20; Key = 9
+20250318-231651<DEBUG:000035B0>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 2423; Key = 9
+20250318-231652<DEBUG:000021E8>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20250318-231652<DEBUG:000021E8>: [Player 162] Request enter game: ask for permission, account = xboyhd, role name = TCQGaming ... ... [OK]
+20250318-231652<DEBUG:00005B5C>: [GameServer 14] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 2555; Key = 1
+20250318-231652<DEBUG:00005B5C>: [GameServer 14] g2b_player_login_permission() , Account = xboyhd, Role = TCQGaming, Permit = true
+20250318-231653<DEBUG:000021E8>: [Player 162] Notify player login game: ip = 255.255.255.255, port = 6041, account = xboyhd, role = TCQGaming
+20250318-231654<DEBUG:00005B5C>: [GameServer 14] g2b_player_enter_game() AccountName = xboyhd
+20250318-231654<DEBUG:00005860>: [GameServer 15] g2b_pre_transfer_server() AccountName = xboyhd
+20250318-231654<DEBUG:00005B5C>: [GameServer 14] g2b_player_leave_game() , Account xboyhd 
+20250318-231654<DEBUG:00005B5C>: [GameServer 14] Unregister account xboyhd in game server ... ... [OK]
+20250318-231654<DEBUG:00005B5C>: [GameServer 14] Account xboyhd leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20250318-231657<DEBUG:00005B5C>: [GameServer 14] g2b_pre_transfer_server() AccountName = xboyhd
+20250318-231657<DEBUG:00005860>: [GameServer 15] g2b_player_leave_game() , Account xboyhd 
+20250318-231657<DEBUG:00005860>: [GameServer 15] Unregister account xboyhd in game server ... ... [OK]
+20250318-231657<DEBUG:00005860>: [GameServer 15] Account xboyhd leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20250318-231901<DEBUG:00005B5C>: [GameServer 14] g2b_player_leave_game() , Account xboyhd 
+20250318-231901<DEBUG:00005B5C>: [GameServer 14] _LeaveGame_Normal() AccountName = xboyhd
+20250318-231901<DEBUG:00005B5C>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20250318-231901<DEBUG:00005B5C>: [GameServer 14] Unregister account xboyhd in game server ... ... [OK]
+20250318-231901<DEBUG:00005B5C>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20250318-231901<DEBUG:00005B5C>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20250318-231901<DEBUG:00000E80>: [Paysys] SendRequests() SendPackage to PaySys Protocol = 35; Size = 45; Key = 105

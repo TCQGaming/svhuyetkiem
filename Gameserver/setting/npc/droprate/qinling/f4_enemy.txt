@@ -1,0 +1,7 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	114	4	30000		4级玄晶
+		18	1	114	4	500		5级玄晶
+		18	1	114	4	50		6级玄晶
+		18	1	114	4	5		7级玄晶
+		22	1	73	1	180000		夜明珠碎片
+		22	1	79	1	60000		套装材料3-摸金符

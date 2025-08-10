@@ -1,0 +1,3 @@
+20250324-230950<INFO :000047C4>: [Bishop] Begin to start ... ...
+20250324-230950<INFO :000047C4>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20250324-230950<DEBUG:000047C4>: KGLOG_PROCESS_ERROR(nRetCode) at line 339 in KG_Bishop::Init

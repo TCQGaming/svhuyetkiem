@@ -1,0 +1,357 @@
+local tbItem	= Item:GetClass("item_ruongbth10");
+tbItem.Type = {
+	"Vũ khí","Ngọc Bội","Giáp","Giới chỉ","Hạng liên","Phù","Giày","Lưng","Mũ",[0] = "Hộ uyển"
+
+};
+
+ function tbItem:OnUse()
+ DoScript("\\script\\DuyPhong\\item_ruongbth10.lua");
+	if it.nLevel <=150 then
+		if me.CountFreeBagCell() < 10 then
+			me.Msg("Hành Trang không đủ chỗ trống.Hãy sắp xếp còn trống 10 ô rồi quay lại gặp ta！");
+			return 0;
+		end
+--		me.Earn(20000*it.nLevel,0);
+		if it.nLevel ==8 then
+			me.AddStackItem(18,	1,	9116,	8,{bForceBind =1},50);--Mảnh ghép
+			me.AddStackItem(18,	1,	9116,	9,{bForceBind =1},50);--Mảnh ghép
+			me.AddStackItem(18,	1,	9116,	10,{bForceBind =1},50);--Mảnh ghép
+		elseif it.nLevel == 9 then
+			me.AddStackItem(18,	1,	1636,	14,{bForceBind =1},50);--Mảnh ghép
+			me.AddStackItem(18,	1,	1636,	15,{bForceBind =1},50);--Mảnh ghép
+			me.AddStackItem(18,	1,	1636,	1,{bForceBind =1},50);--Mảnh ghép
+		elseif it.nLevel == 10 then
+			local nRand = 0;
+			local nIndex = 0;
+			nRand = MathRandom(1447, 1518);
+			me.AddItem(2,1,nRand,10).Bind(1);
+			return 1;
+		elseif it.nLevel == 11 then
+			me.AddStackItem(18,	1,	1641,	4,{bForceBind =1},100);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 12 then
+			me.AddStackItem(18,	1,	901,	31,{bForceBind =1},100);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 13 then
+			me.AddStackItem(18,	1,	901,	31,{bForceBind =1},100);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 14 then
+			me.AddStackItem(18,	1,	901,	31,{bForceBind =1},100);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 15 then
+			me.AddStackItem(18,	1,	901,	30,{bForceBind =1},100);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 16 then
+			me.AddStackItem(18,	1,	901,	32,{bForceBind =1},100);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 17 then
+			me.AddStackItem(18,	1,	901,	33,{bForceBind =1},100);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 18 then
+			me.AddStackItem(18,	1,	901,	37,{bForceBind =1},100);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 19 then
+			me.AddStackItem(18,	1,	901,	34,{bForceBind =1},100);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 20 then
+			me.AddStackItem(18,	1,	3028,	1,{bForceBind =1},500);--Mảnh ghép
+			me.AddStackItem(18,	1,	3028,	2,{bForceBind =1},500);--Mảnh ghép
+			me.AddStackItem(18,	1,	3028,	3,{bForceBind =1},500);--Mảnh ghép
+			return 1;				
+		elseif it.nLevel == 22 then
+			me.AddStackItem(18,	1,	901,	38,{bForceBind =1},100);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 23 then
+			me.AddStackItem(18,	1,	901,	39,{bForceBind =1},100);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 39 then
+			me.AddStackItem(18,	1,	9135,	1,{bForceBind =1},1000);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 40 then
+			me.AddStackItem(18,	1,	9135,	2,{bForceBind =1},1000);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 41 then
+			me.AddStackItem(18,	1,	9135,	3,{bForceBind =1},1000);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 42 then
+			me.AddStackItem(18,	1,	9135,	4,{bForceBind =1},1000);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 43 then
+			me.AddStackItem(18,	1,	9135,	5,{bForceBind =1},1000);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 44 then
+			me.AddStackItem(18,	1,	9135,	6,{bForceBind =1},1000);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 45 then
+			me.AddStackItem(18,	1,	9135,	7,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 46 then
+			me.AddStackItem(18,	1,	9135,	8,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 47 then
+			me.AddStackItem(18,	1,	9135,	9,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 48 then
+			me.AddStackItem(18,	1,	9135,	10,{bForceBind =1},1000);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 49 then
+			me.AddStackItem(18,	1,	9136,	1,{bForceBind =1},1000);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 50 then
+			me.AddStackItem(18,	1,	9136,	2,{bForceBind =1},1000);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 51 then
+			me.AddStackItem(18,	1,	9136,	3,{bForceBind =1},1000);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 52 then
+			me.AddStackItem(18,	1,	9136,	4,{bForceBind =1},1000);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 53 then
+			me.AddStackItem(18,	1,	9136,	5,{bForceBind =1},1000);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 54 then
+			me.AddStackItem(18,	1,	9136,	6,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 55 then
+			me.AddStackItem(18,	1,	9136,	7,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 56 then
+			me.AddStackItem(18,	1,	9136,	8,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 57 then
+			me.AddStackItem(18,	1,	9136,	9,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 58 then
+			me.AddStackItem(18,	1,	9136,	10,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 59 then
+			me.AddStackItem(18,	1,	9137,	1,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 60 then
+			me.AddStackItem(18,	1,	9137,	2,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 61 then
+			me.AddStackItem(18,	1,	9137,	3,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 62 then
+			me.AddStackItem(18,	1,	9137,	4,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 63 then
+			me.AddStackItem(18,	1,	9137,	5,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 64 then
+			me.AddStackItem(18,	1,	9137,	6,{bForceBind =1},1000);--Mảnh ghép
+			return 1;
+		elseif it.nLevel == 65 then
+			me.AddStackItem(18,	1,	9137,	7,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 66 then
+			me.AddStackItem(18,	1,	9137,	8,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 67 then
+			me.AddStackItem(18,	1,	9137,	9,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 68 then
+			me.AddStackItem(18,	1,	9137,	10,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 69 then
+			me.AddStackItem(18,	1,	9125,	1,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 70 then
+			me.AddStackItem(18,	1,	9125,	2,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 71 then
+			me.AddStackItem(18,	1,	9125,	3,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 72 then
+			me.AddStackItem(18,	1,	9125,	4,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 73 then
+			me.AddStackItem(18,	1,	9125,	5,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 74 then
+			me.AddStackItem(18,	1,	9126,	1,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 75 then
+			me.AddStackItem(18,	1,	9126,	2,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 76 then
+			me.AddStackItem(18,	1,	9126,	3,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 77 then
+			me.AddStackItem(18,	1,	9126,	4,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 78 then
+			me.AddStackItem(18,	1,	9126,	5,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 79 then
+			me.AddStackItem(18,	1,	9127,	1,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 80 then
+			me.AddStackItem(18,	1,	9127,	2,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 81 then
+			me.AddStackItem(18,	1,	9127,	3,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 82 then
+			me.AddStackItem(18,	1,	9127,	4,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 83 then
+			me.AddStackItem(18,	1,	9127,	5,{bForceBind =1},1000);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 84 then
+			me.AddStackItem(18,	1,	901,	49,{bForceBind =1},100);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 85 then
+			me.AddStackItem(18,	1,	901,	49,{bForceBind =1},200);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 86 then
+			me.AddStackItem(18,	1,	901,	49,{bForceBind =1},300);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 87 then
+			me.AddStackItem(18,	1,	901,	49,{bForceBind =1},400);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 88 then
+			me.AddStackItem(18,	1,	901,	49,{bForceBind =1},500);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 89 then
+			me.AddStackItem(18,	1,	901,	49,{bForceBind =1},600);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 90 then
+			me.AddStackItem(18,	1,	901,	48,{bForceBind =1},100);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 91 then
+			me.AddStackItem(18,	1,	901,	48,{bForceBind =1},200);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 92 then
+			me.AddStackItem(18,	1,	901,	48,{bForceBind =1},300);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 93 then
+			me.AddStackItem(18,	1,	901,	48,{bForceBind =1},400);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 93 then
+			me.AddStackItem(18,	1,	901,	48,{bForceBind =1},500);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 95 then
+			me.AddStackItem(18,	1,	901,	48,{bForceBind =1},600);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 96 then
+			me.AddStackItem(18,	1,	901,	47,{bForceBind =1},100);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 97 then
+			me.AddStackItem(18,	1,	901,	47,{bForceBind =1},200);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 98 then
+			me.AddStackItem(18,	1,	901,	47,{bForceBind =1},300);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 99 then
+			me.AddStackItem(18,	1,	901,	47,{bForceBind =1},400);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 100 then
+			me.AddStackItem(18,	1,	901,	47,{bForceBind =1},500);--Mảnh ghép
+			return 1;	
+		elseif it.nLevel == 101 then
+			me.AddStackItem(18,	1,	901,	47,{bForceBind =1},600);--Mảnh ghép
+			return 1;	
+		else
+			me.AddItem(18,1,114,it.nLevel);
+			me.AddStackItem(18,	1,	1190,	4,{bForceBind =1},it.nLevel);--Mảnh ghép
+			me.AddStackItem(18	,1	,244,	1,{bForceBind =1},it.nLevel);--NHHT
+
+		end
+		return 1;
+	elseif it.nLevel >=20 and it.nLevel <=30 then
+
+		return 1;
+	elseif it.nLevel >=21 and it.nLevel <=30 then
+
+		return 1;
+	elseif it.nLevel ==31  then
+			
+		return 1;
+	elseif it.nLevel ==32 then
+
+		return 1;	
+	elseif it.nLevel ==33 then
+
+		return 1;
+	elseif it.nLevel ==34 then
+
+		return 1;	
+	elseif it.nLevel ==35 then
+
+		return 1;		
+	elseif it.nLevel ==36 then
+
+		return 1;
+	elseif it.nLevel ==37 then
+
+		return 1;
+	elseif it.nLevel ==38 then
+
+
+		return 1;		
+	end
+end
+ function tbItem:checkchose(pItem)
+	local nFaction = me.nFaction;
+	local nRouteId = me.nRouteId;
+	if nRouteId == 0 or nFaction == 0 then 
+	Dialog:Say("Bạn chưa cộng điểm kỹ năng chọn hệ phái, vui lòng mở F3 cộng điểm kỹ năng hoặc lựa chọn môn phái cụ thể");
+	return;
+	end
+	if me.CountFreeBagCell() < 1 then
+		me.Msg("Hành Trang không đủ chỗ trống.Hãy sắp xếp còn trống 1 ô rồi quay lại gặp ta！");
+		return 0;
+	end
+
+	self:GetEquip(nFaction,nRouteId,pItem);
+ end
+ function tbItem:GetEquipFaction(nPosStartIdx, pItem)
+	local tbOpt		= {};
+	local nCount	= 9;
+	if me.CountFreeBagCell() < 1 then
+		me.Msg("Hành Trang không đủ chỗ trống.Hãy sắp xếp còn trống 1 ô rồi quay lại gặp ta！");
+		return 0;
+	end
+
+	for i = nPosStartIdx, Player.FACTION_NUM do
+		if (nCount <= 0) then
+			tbOpt[#tbOpt]	= {"Trang Sau", self.GetEquipFaction, self, i - 1, pItem};
+			break;
+		end
+		tbOpt[#tbOpt+1]	= {Player:GetFactionRouteName(i), self.GetEquipRoute, self, i, 1, pItem};
+		nCount	= nCount - 1;
+	end;
+	tbOpt[#tbOpt+1]	= {"Kết thúc đối thoại"};
+	Dialog:Say("Chọn Môn phái muốn lấy đồ", tbOpt);
+end
+
+-- 获得60级紫装所属的路线
+function tbItem:GetEquipRoute(nFactionId, nPosStartIdx, pItem)
+	local tbOpt		= {};
+	local nCount	= 9;
+	for i = nPosStartIdx, #Player.tbFactions[nFactionId].tbRoutes do
+		if (nCount <= 0) then
+			tbOpt[#tbOpt]	= {"Trang Sau", self.GetEquipRoute, self, nFactionId, i - 1, pItem};
+			break;
+		end
+		tbOpt[#tbOpt+1]	= {Player:GetFactionRouteName(nFactionId, i).." đồ môn phái", self.GetEquip, self, nFactionId, i, pItem};
+		nCount	= nCount - 1;
+	end;
+	tbOpt[#tbOpt+1]	= {"Kết thúc đối thoại"};
+	Dialog:Say("Lựa Chọn Môn phái bạn muốn lấy đồ?", tbOpt);
+end
+
+-- 获得60级紫装
+function tbItem:GetEquip(nFactionId, nRouteId, pItem)
+	local tbEquip	= self.Equip[pItem.nLevel][nFactionId][nRouteId][me.nSex];
+	if (not tbEquip) then
+		return;
+	end
+	pItem.Delete(me);
+	local pAddItem = me.AddItem(unpack(tbEquip));	
+	pAddItem.Bind(1);
+
+	
+end

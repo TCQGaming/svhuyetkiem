@@ -1,0 +1,210 @@
+20-14:38:22	TCQGaming	login 8
+20-14:38:22	TCQGaming	xboyhd	192.168.1.100:10261	LoginHwId_2226407311	639324413
+20-14:38:22	TCQGaming	NewWorld 8
+20-14:38:22	TCQGaming	AddItem	Túi Tân Thủ(1752997102)	Way100	Value2821109
+20-14:38:22	TCQGaming	LevelUp	2
+20-14:38:22	TCQGaming	LevelUp	3
+20-14:38:22	TCQGaming	LevelUp	4
+20-14:38:22	TCQGaming	LevelUp	5
+20-14:38:22	TCQGaming	LevelUp	6
+20-14:38:22	TCQGaming	LevelUp	7
+20-14:38:22	TCQGaming	LevelUp	8
+20-14:38:22	TCQGaming	LevelUp	9
+20-14:38:22	TCQGaming	LevelUp	10
+20-14:38:22	TCQGaming	LevelUp	11
+20-14:38:22	TCQGaming	LevelUp	12
+20-14:38:22	TCQGaming	LevelUp	13
+20-14:38:22	TCQGaming	LevelUp	14
+20-14:38:22	TCQGaming	LevelUp	15
+20-14:38:22	TCQGaming	LevelUp	16
+20-14:38:22	TCQGaming	LevelUp	17
+20-14:38:22	TCQGaming	LevelUp	18
+20-14:38:22	TCQGaming	LevelUp	19
+20-14:38:22	TCQGaming	LevelUp	20
+20-14:38:22	TCQGaming	LevelUp	21
+20-14:38:22	TCQGaming	LevelUp	22
+20-14:38:22	TCQGaming	LevelUp	23
+20-14:38:22	TCQGaming	LevelUp	24
+20-14:38:22	TCQGaming	LevelUp	25
+20-14:38:22	TCQGaming	LevelUp	26
+20-14:38:22	TCQGaming	LevelUp	27
+20-14:38:22	TCQGaming	LevelUp	28
+20-14:38:22	TCQGaming	LevelUp	29
+20-14:38:22	TCQGaming	LevelUp	30
+20-14:38:22	TCQGaming	LevelUp	31
+20-14:38:22	TCQGaming	LevelUp	32
+20-14:38:22	TCQGaming	LevelUp	33
+20-14:38:22	TCQGaming	LevelUp	34
+20-14:38:22	TCQGaming	LevelUp	35
+20-14:38:22	TCQGaming	LevelUp	36
+20-14:38:22	TCQGaming	LevelUp	37
+20-14:38:22	TCQGaming	LevelUp	38
+20-14:38:22	TCQGaming	LevelUp	39
+20-14:38:22	TCQGaming	LevelUp	40
+20-14:38:22	TCQGaming	LevelUp	41
+20-14:38:22	TCQGaming	LevelUp	42
+20-14:38:22	TCQGaming	LevelUp	43
+20-14:38:22	TCQGaming	LevelUp	44
+20-14:38:22	TCQGaming	LevelUp	45
+20-14:38:22	TCQGaming	LevelUp	46
+20-14:38:22	TCQGaming	LevelUp	47
+20-14:38:22	TCQGaming	LevelUp	48
+20-14:38:22	TCQGaming	LevelUp	49
+20-14:38:22	TCQGaming	LevelUp	50
+20-14:38:22	TCQGaming	LevelUp	51
+20-14:38:22	TCQGaming	LevelUp	52
+20-14:38:22	TCQGaming	LevelUp	53
+20-14:38:22	TCQGaming	LevelUp	54
+20-14:38:22	TCQGaming	LevelUp	55
+20-14:38:22	TCQGaming	LevelUp	56
+20-14:38:22	TCQGaming	LevelUp	57
+20-14:38:22	TCQGaming	LevelUp	58
+20-14:38:22	TCQGaming	LevelUp	59
+20-14:38:22	TCQGaming	LevelUp	60
+20-14:38:22	TCQGaming	LevelUp	61
+20-14:38:22	TCQGaming	LevelUp	62
+20-14:38:22	TCQGaming	LevelUp	63
+20-14:38:22	TCQGaming	LevelUp	64
+20-14:38:22	TCQGaming	LevelUp	65
+20-14:38:22	TCQGaming	LevelUp	66
+20-14:38:22	TCQGaming	LevelUp	67
+20-14:38:22	TCQGaming	LevelUp	68
+20-14:38:22	TCQGaming	LevelUp	69
+20-14:38:22	TCQGaming	LevelUp	70
+20-14:38:22	TCQGaming	LevelUp	71
+20-14:38:22	TCQGaming	LevelUp	72
+20-14:38:22	TCQGaming	LevelUp	73
+20-14:38:22	TCQGaming	LevelUp	74
+20-14:38:22	TCQGaming	LevelUp	75
+20-14:38:22	TCQGaming	LevelUp	76
+20-14:38:22	TCQGaming	LevelUp	77
+20-14:38:22	TCQGaming	LevelUp	78
+20-14:38:22	TCQGaming	LevelUp	79
+20-14:38:22	TCQGaming	LevelUp	80
+20-14:38:22	TCQGaming	AddItem	Túi Khởi La(1752997102)	Way100	Value1050000
+20-14:38:22	TCQGaming	AddItem	Túi Khởi La(1752997102)	Way100	Value1050000
+20-14:38:22	TCQGaming	AddItem	Lệnh bài Uy danh giang hồ(1752997102)	Way100	Value100000
+20-14:38:22	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value67184
+20-14:38:22	TCQGaming	AddItem	Ngọc Trúc Mai Hoa 50 (tháng)(1752997102)	Way100	Value100000
+20-14:38:22	TCQGaming	AddBindCoin	AddWay100	Count	150000
+20-14:38:22	TCQGaming	AddBindMoney	AddWay100	Count	2000000
+20-14:38:22	TCQGaming	AddItem	Ngũ Hành Hồn Thạch(1752997102)	Way100	Value999000
+20-14:38:22	TCQGaming	xboyhd	2226407311	1677830336	SetForbitCode0
+20-14:38:22	TCQGaming	NewWorld 8
+20-14:38:26	TCQGaming	UseItem	Lệnh bài Uy danh giang hồ
+20-14:38:26	TCQGaming	RemoveItem	Lệnh bài Uy danh giang hồ(1752997102)	Way5	Value100000
+20-14:38:26	TCQGaming	UseItem	Táo Hồng
+20-14:38:26	TCQGaming	UseItem	Ngọc Trúc Mai Hoa 50 (tháng)
+20-14:38:26	TCQGaming	RemoveItem	Ngọc Trúc Mai Hoa 50 (tháng)(1752997102)	Way5	Value100000
+20-14:38:30	TCQGaming	UseItem	Túi Tân Thủ
+20-14:38:36	TCQGaming	dialog Trâu Đức Khoái
+20-14:38:51	TCQGaming	dialog Trâu Đức Khoái
+20-14:39:02	TCQGaming	UseItem	Túi Tân Thủ
+20-14:39:05	TCQGaming	UseItem	Túi Tân Thủ
+20-14:39:18	TCQGaming	UseItem	Túi Tân Thủ
+20-14:39:21	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-14:39:21	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+20-14:39:21	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+20-14:39:21	TCQGaming	AddBindCoin	AddWay100	Count	25000
+20-14:39:21	TCQGaming	AddBindMoney	AddWay100	Count	25000
+20-14:39:21	TCQGaming	UseItem	Thẻ GM
+20-14:39:26	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-14:39:26	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+20-14:39:26	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+20-14:39:26	TCQGaming	AddBindCoin	AddWay100	Count	25000
+20-14:39:26	TCQGaming	AddBindMoney	AddWay100	Count	25000
+20-14:39:26	TCQGaming	UseItem	Thẻ GM
+20-14:39:33	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-14:39:33	TCQGaming	UseItem	Túi quà liên đấu
+20-14:53:30	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-14:53:30	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+20-14:53:30	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+20-14:53:30	TCQGaming	AddBindCoin	AddWay100	Count	25000
+20-14:53:30	TCQGaming	AddBindMoney	AddWay100	Count	25000
+20-14:53:30	TCQGaming	UseItem	Thẻ GM
+20-14:53:32	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-14:53:32	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+20-14:53:32	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+20-14:53:32	TCQGaming	AddBindCoin	AddWay100	Count	25000
+20-14:53:32	TCQGaming	AddBindMoney	AddWay100	Count	25000
+20-14:53:32	TCQGaming	UseItem	Thẻ GM
+20-14:53:36	TCQGaming	UseItem	Túi quà liên đấu
+20-14:53:37	TCQGaming	UseItem	Túi quà liên đấu
+20-14:53:43	TCQGaming	dialog Trâu Đức Khoái
+20-14:53:49	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-14:53:49	TCQGaming	UseItem	Túi quà liên đấu
+20-14:53:49	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-14:53:49	TCQGaming	UseItem	Túi quà liên đấu
+20-14:53:50	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-14:53:50	TCQGaming	UseItem	Túi quà liên đấu
+20-14:53:54	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-14:53:54	TCQGaming	UseItem	Túi quà liên đấu
+20-14:53:57	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-14:53:57	TCQGaming	UseItem	Túi quà liên đấu
+20-14:54:01	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-14:54:01	TCQGaming	UseItem	Túi quà liên đấu
+20-14:54:03	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-14:54:03	TCQGaming	UseItem	Túi quà liên đấu
+20-14:54:07	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-14:54:07	TCQGaming	UseItem	Túi quà liên đấu
+20-14:54:09	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752997102)	Way100	Value16796
+20-14:54:09	TCQGaming	UseItem	Túi quà liên đấu
+20-15:19:18	TCQGaming	UseItem	Túi Tân Thủ
+20-15:20:54	TCQGaming	dialog Thi Đấu Ngũ Hành Phái
+20-15:30:27	TCQGaming	UseItem	Túi Tân Thủ
+20-15:30:29	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:30:29	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+20-15:30:29	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+20-15:30:29	TCQGaming	AddBindCoin	AddWay100	Count	25000
+20-15:30:29	TCQGaming	AddBindMoney	AddWay100	Count	25000
+20-15:30:29	TCQGaming	UseItem	Thẻ GM
+20-15:31:08	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:31:08	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+20-15:31:08	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+20-15:31:08	TCQGaming	AddBindCoin	AddWay100	Count	25000
+20-15:31:08	TCQGaming	AddBindMoney	AddWay100	Count	25000
+20-15:31:08	TCQGaming	UseItem	Thẻ GM
+20-15:31:16	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+20-15:31:16	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+20-15:31:16	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+20-15:31:16	TCQGaming	AddBindCoin	AddWay100	Count	25000
+20-15:31:16	TCQGaming	AddBindMoney	AddWay100	Count	25000
+20-15:31:16	TCQGaming	UseItem	Thẻ GM
+20-15:31:26	TCQGaming	UseItem	Túi Tân Thủ
+20-15:31:27	TCQGaming	AddItem	Rương trang bị Tân Thủ(1753000287)	Way100	Value100000
+20-15:31:28	TCQGaming	UseItem	Rương trang bị Tân Thủ
+20-15:31:29	TCQGaming	AddItem	Kim Qua Chùy-Thương Lang(1753000289)	Way100	Value4406000
+20-15:31:29	TCQGaming	AddItem	Tỏa Tử Hoàng Kim Giáp-Nghịch Thủy(1753000289)	Way100	Value1038255
+20-15:31:29	TCQGaming	AddItem	Thôn Long Khôi-Chu Thiềm(1753000289)	Way100	Value1031446
+20-15:31:29	TCQGaming	AddItem	Ngọa Hổ Thúc Yêu-Diên Dương(1753000289)	Way100	Value1044355
+20-15:31:29	TCQGaming	AddItem	Tuyệt Hỏa Ngoa-Việt Quang(1753000289)	Way100	Value1064362
+20-15:31:29	TCQGaming	AddItem	Võ Thần Hộ Uyển-Cự Mộc(1753000289)	Way100	Value1032329
+20-15:31:29	TCQGaming	AddItem	Bắc Thần Liên-Nghịch Thủy(1753000289)	Way100	Value1569624
+20-15:31:29	TCQGaming	AddItem	Thương Khung Giới-Diên Dương(1753000289)	Way100	Value1588129
+20-15:31:29	TCQGaming	AddItem	Long Thủ Bội-Cự Mộc(1753000289)	Way100	Value1548493
+20-15:31:29	TCQGaming	AddItem	Thiên Ma Phù-Việt Quang(1753000289)	Way100	Value1594668
+20-15:31:29	TCQGaming	RemoveItem	Rương trang bị Tân Thủ(1753000287)	Way100	Value100000
+20-15:31:30	TCQGaming	UseItem	Kim Qua Chùy-Thương Lang
+20-15:31:30	TCQGaming	UseItem	Tỏa Tử Hoàng Kim Giáp-Nghịch Thủy
+20-15:31:30	TCQGaming	UseItem	Tuyệt Hỏa Ngoa-Việt Quang
+20-15:31:30	TCQGaming	UseItem	Thương Khung Giới-Diên Dương
+20-15:31:30	TCQGaming	UseItem	Bắc Thần Liên-Nghịch Thủy
+20-15:31:31	TCQGaming	UseItem	Long Thủ Bội-Cự Mộc
+20-15:31:31	TCQGaming	UseItem	Võ Thần Hộ Uyển-Cự Mộc
+20-15:31:31	TCQGaming	UseItem	Ngọa Hổ Thúc Yêu-Diên Dương
+20-15:31:32	TCQGaming	UseItem	Thiên Ma Phù-Việt Quang
+20-15:31:32	TCQGaming	UseItem	Thôn Long Khôi-Chu Thiềm
+20-15:31:34	TCQGaming	UseItem	Túi Tân Thủ
+20-15:31:36	TCQGaming	AddItem	Vô Hạn Truyền Tống Phù(1753000296)	Way100	Value150000
+20-15:31:38	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+20-15:31:42	TCQGaming	NewWorld 22
+20-15:31:44	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+20-15:31:47	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+20-15:31:50	TCQGaming	Exchange 75
+20-15:46:32	TCQGaming	login 8
+20-15:46:32	TCQGaming	xboyhd	192.168.1.100:47125	LoginHwId_2226407311	639324413
+20-15:46:38	TCQGaming	dialog Minh Chủ Võ Lâm
+20-15:46:43	TCQGaming	dialog Hỏa Đao Vương
+20-15:46:47	TCQGaming	dialog Hỏa Đao Vương
+20-15:46:53	TCQGaming	dialog Quan Công Thành
+20-15:47:01	TCQGaming	dialog Sứ Giả Sự Kiện

@@ -1,0 +1,64 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	60					50000		
+		1	1	1	4	60		4cấp gay go 
+		1	1	2	4	60		4cấp kiếm 
+		1	1	3	4	60		4cấp đao 
+		1	1	4	4	60		4cấp côn 
+		1	1	5	4	60		4cấp thương 
+		1	1	6	4	60		4cấp chuy 
+		1	2	2	4	30		4cấp phi đao 
+		1	2	3	4	30		4cấp tên nỏ 
+		1	3	2	4	200		4cấp nam giáp y 
+		1	3	3	4	200		4cấp nam áo da 
+		1	3	4	4	200		4cấp nam bố y 
+		1	3	6	4	100		4cấp nữ giáp y 
+		1	3	7	4	100		4cấp nữ áo da 
+		1	3	8	4	100		4cấp nữ bố y 
+		1	4	1	4	600		4cấp nhẫn 
+		1	5	1	4	600		4cấp hạng liên 
+		1	7	1	4	600		4cấp nam giày 
+		1	7	2	4	300		4cấp nữ giày 
+		1	9	2	4	200		4cấp nam giáp mạo 
+		1	9	3	4	200		4cấp nam da mạo 
+		1	9	4	4	200		4cấp nam bố mạo 
+		1	9	6	4	100		4cấp nữ giáp mạo 
+		1	9	7	4	100		4cấp nữ da mạo 
+		1	9	8	4	100		4cấp nữ bố mạo 
+		1	10	1	4	600		4cấp bao cổ tay 
+		1	10	2	4	300		4cấp thủ trạc 
+		1	11	1	4	400		4cấp ngọc bội 
+		1	11	2	4	200		4cấp hương nang 
+		1	1	1	3	60		3cấp gay go 
+		1	1	2	3	60		3cấp kiếm 
+		1	1	3	3	60		3cấp đao 
+		1	1	4	3	60		3cấp côn 
+		1	1	5	3	60		3cấp thương 
+		1	1	6	3	60		3cấp chuy 
+		1	2	2	3	30		3cấp phi đao 
+		1	2	3	3	30		3cấp tên nỏ 
+		1	3	2	3	200		3cấp nam giáp y 
+		1	3	3	3	200		3cấp nam áo da 
+		1	3	4	3	200		3cấp nam bố y 
+		1	3	6	3	100		3cấp nữ giáp y 
+		1	3	7	3	100		3cấp nữ áo da 
+		1	3	8	3	100		3cấp nữ bố y 
+		1	5	1	3	600		3cấp hạng liên 
+		1	6	1	3	600		3cấp bùa hộ mệnh 
+		1	8	1	3	600		3cấp nam đai lưng 
+		1	8	2	3	300		3cấp nữ đai lưng 
+		1	9	2	3	200		3cấp nam giáp mạo 
+		1	9	3	3	200		3cấp nam da mạo 
+		1	9	4	3	200		3cấp nam bố mạo 
+		1	9	6	3	100		3cấp nữ giáp mạo 
+		1	9	7	3	100		3cấp nữ da mạo 
+		1	9	8	3	100		3cấp nữ bố mạo 
+		1	10	1	3	600		3cấp bao cổ tay 
+		1	10	2	3	300		3cấp thủ trạc 
+		1	11	1	3	400		3cấp ngọc bội 
+		1	11	2	3	200		3cấp hương nang 
+		18	1	48	1	325		năm xưa Tây Bắc Vọng 
+		18	1	49	1	325		năm xưa đạo mùi hoa 
+		18	1	50	1	325		năm xưa nữ nhi hồng 
+		18	1	51	1	325		năm xưa Hạnh Hoa Thôn 
+		18	1	52	1	325		năm xưa đốt dao nhỏ 
+		18	1	80	1	4000		phúc túi 

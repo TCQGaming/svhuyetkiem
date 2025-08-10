@@ -1,0 +1,7 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	114	4	2500		ht4
+		18	1	114	4	2500		ht4
+		18	1	114	4	250		ht4
+		18	1	114	4	200		ht4
+		22	1	73	1	120000		manh da minh chau
+		22	1	77	1	40000		ban son an

@@ -1,0 +1,13 @@
+22-16:19:47	aaaaaâ	login 30
+22-16:19:47	aaaaaâ	aducbva	192.168.1.100:3531	LoginHwId_1344417453	639324413
+22-16:19:52	TCQGaming	login 30
+22-16:19:53	TCQGaming	xboyhd	192.168.1.100:4043	LoginHwId_1344417453	639324413
+22-16:21:11	aaaaaâ	Exchange 8
+22-16:21:59	aaaaaâ	login 30
+22-16:21:59	aaaaaâ	aducbva	192.168.1.100:7371	LoginHwId_1344417453	639324413
+22-16:22:12	aaaaaâ	UseItem	Vô Hạn Truyền Tống Phù
+22-16:22:17	aaaaaâ	UseItem	Vô Hạn Truyền Tống Phù
+22-16:22:22	TCQGaming	UseItem	Thẻ GM
+22-16:22:24	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+22-16:22:26	aaaaaâ	Exchange 103
+22-16:22:32	TCQGaming	Exchange 103

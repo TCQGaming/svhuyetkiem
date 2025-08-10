@@ -1,0 +1,5 @@
+18-03:45:40	TCQGaming	login 184
+18-03:45:41	TCQGaming	xboyhd	192.168.1.100:13296	LoginHwId_2539837046	639324413
+18-03:45:41	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-03:45:48	TCQGaming	dialog Hiệu Úy Mộ Binh (Kim)
+18-03:45:49	TCQGaming	NewWorld 1635

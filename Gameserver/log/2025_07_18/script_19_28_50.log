@@ -1,0 +1,41 @@
+[2025-07-18 19:28:50]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	1	TCQGaming đạt cấp 69 đầu tiên!
+[2025-07-18 19:28:50]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	20	tân một lần mười hai đại môn phái con người mới vương
+[2025-07-18 19:28:50]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	6	07月18日国庆活动幸运卡民族
+[2025-07-18 19:28:50]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	4	Làm sao nhận được bạc
+[2025-07-18 19:28:50]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	5	Đẳng cấp nhân vật cao nhất đã mở đến cấp 119
+[2025-07-18 19:28:50]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	19	Điều chỉnh giới hạn đẳng cấp tham gia thi đấu môn phái
+[2025-07-18 19:28:54]	ATTEN	[Player]	Cap cao nhat 80
+[2025-07-18 19:28:55]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	nTimeFrameStartSale
+[2025-07-18 19:28:55]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	nTimeFrameEndSale
+[2025-07-18 19:28:54]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	50
+[2025-07-18 19:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-18 19:30	5
+[2025-07-18 19:30:20]	ATTEN	[XoyoGame]	
+[2025-07-18 19:46:00]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	20	tân một lần mư�[2025-07-18 19:46:00]	INFO	[Task]	Help	Get The Dynami[2025-07-18 20:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-18 20:00	5
+[2025-07-18 20:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-18 20:00	3
+[2025-07-18 20:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-18 20:00	9
+	Offline	ProcessOfflineTime	Player tessssssst use BaiJu Cường Hiệu Bạch Câu Hoàn , Original BaiJu Time is 0; Used Baiju Time is 0; Rest Baiju Time is 0  !
+[2025-07-18 19:29:23]	INFO	[Player]	Offline	ProcessOfflineTime	Player tessssssst use BaiJu Đại Bạch Câu Hoàn , Original BaiJu Time is 0; Used Baiju Time is 0; Rest Baiju Time is 0  !
+[2025-07-18 19:29:23]	INFO	[Player]	Offline	ProcessOfflineTime	Player tessssssst use BaiJu  Bạch Câu Hoàn  , Original BaiJu Time is 0; Used Baiju Time is 0; Rest Baiju Time is 0  !
+[2025-07-18 19:29:23]	INFO	[Player]	Offline	ProcessOfflineTime	tessssssst The really rest time is 0, nTotalAddExp 0, nTotalAddPoint 0 !
+[2025-07-18 19:29:23]	INFO	[Player]	Offline	ProcessWasteTime	Player tessssssst have nWasteTime 0, nNowAdd[2025-07-18 19:29:22]	INFO	[Player]	plugin_log	玩家	TCQGaming	使用了插件，插件数量	30
+[2025-07-18 1[2025-07-18 19:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-[2025-07-18 [2025-07-18 19:30:20]	ATTEN	[XoyoGame]	
+[2025-07-18 19:46:00]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	20	tân một lần mười hai đại môn phái con người mới vương
+[2025-07-18 20:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-18 20:00	1
+[2025-07-18 20:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-18 20:00	2
+sssssst	6	factionbattle
+[2025-07-18 19:36:00]	ATTEN	[FactionBattle]	SetWinner	FactionId:2	tessssssstở 16cườngbỉ tái đánh bại , nguyên nhân vi trực tiếp đánh bại	5
+[2025-07-18 19:39:00]	ATTEN	[FactionBattle]	SetWinner	FactionId:2	TCQGamingở 8cườngbỉ tái đánh bại , nguyên nhân vi trực tiếp đánh bại	1
+[2025-07-18 19:39:00]	ATTEN	[Prestige]	tessssssst	10	factionbattle
+[2025-07-18 19:39:00]	ATTEN	[FactionBattle]	SetWinner	FactionId:2	tessssssstở 8cườngbỉ tái đánh bại , nguyên nhân vi trực tiếp đánh bại	3
+[2025-07-18 19:42:00]	ATTEN	[FactionBattle]	SetWinner	FactionId:2	TCQGamingở 4cườngbỉ tái đánh bại , nguyên nhân vi trực tiếp đánh bại	1
+[2025-07-18 19:42:00]	ATTEN	[FactionBattle]	SetWinner	FactionId:2	tessssssstở 4cườngbỉ tái đánh bại , nguyên nhân vi trực tiếp đánh bại	2
+[2025-07-18 19:46:00]	ATTEN	[FactionBattle]	ngoạn gia 1:TCQGaming	0
+[2025-07-18 19:46:00]	ATTEN	[FactionBattle]	ngoạn gia 2:tessssssst	0
+[2025-07-18 19:46:00]	INFO	[FactionBattle]	Quán Quân:	TCQGaming	xboyhd
+[2025-07-18 19:46:00]	ATTEN	[FactionBattle]	SetWinner	FactionId:2	TCQGamingở 2cườngbỉ tái đánh bại tessssssst, nguyên nhân vi thương lượng máu thủ thắng	1
+[2025-07-18 19:46:00]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	20	tân một lần mười hai đại môn phái con người mới vương
+[2025-07-18 19:56:00]	ATTEN	[FactionBattle]	nhân cực kỳ khi thì một lĩnh đáo quán quân thưởng cho	TCQGaming	xboyhd
+[2025-07-18 20:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-18 20:00	11
+[2025-07-18 20:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-18 20:00	12
+[2025-07-18 20:00:21]	ATTEN	[XoyoGame]	
+[2025-07-18 20:13:03]	ATTEN	[Prestige]	TCQGaming	6

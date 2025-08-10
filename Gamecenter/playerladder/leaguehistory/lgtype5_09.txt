@@ -1,0 +1,9 @@
+Date	LeagueName	LeagueMembers	LeagueTask_1	LeagueTask_4	LeagueTask_5	LeagueTask_6	LeagueTask_7	LeagueTask_8	LeagueTask_17
+202502091826	BaKich	BuffXeHỏa,HỏaCôNương,ThầnThủy,zBaKichz	3	2	0	0	0	0	0
+202502091826	DịHỏa	DịHoảC,DịHỏaA,DịHỏaB,DịHỏaD,DịHỏaE	3	2	0	0	0	0	0
+202502091826	KiếmThủy	KiếmHồn,ThầnGió,ThầnHỏa,ThầnLôi,ThầnMộc	3	2	0	0	0	0	0
+202502091826	KiếmTâm	KiếmVôCực,KiếmVôDanh,KiếmVôSong,KiếmVôTâm,KiếmVỗNgã	3	2	0	0	0	0	0
+202502091826	LửaThiêu	LửaRựcRỡ,LửaRựcTrời,LửaThiêng,LửaThần,LửaTrại	3	2	0	0	0	0	0
+202502091826	MotTien	BaTiễn,BốnTiễn,HaiTiễn,MộtTiễn,NămTiễn	3	2	1	1	0	1	0
+202502091826	XeLửa	XeLửaA,XeLửaB,XeLửaC,XeLửaD,XeLửaE	3	2	0	0	0	0	0
+202502091826	Độc	DoatMenh,HoiUcKT,OhOooo,SpLine,ThuyKiem	3	2	0	0	0	0	0

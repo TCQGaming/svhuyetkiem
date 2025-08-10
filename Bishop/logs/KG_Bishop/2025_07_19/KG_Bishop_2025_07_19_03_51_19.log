@@ -1,0 +1,300 @@
+20250719-035119<INFO :00004088>: [Bishop] Begin to start ... ...
+20250719-035119<INFO :00004088>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20250719-035119<INFO :00004088>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 00C77348
+20250719-035119<INFO :00004088>: [Goddess] Login() nResult = 1
+20250719-035119<INFO :00004088>: [Relay] Init() Acceptor Open(: 5632), nRetCode = 1
+20250719-035119<INFO :00004088>: [PlayerManager] Init() Acceptor Open(: 1231), nRetCode = 1
+20250719-035120<INFO :00004088>: [Report] Init() Acceptor Open(: 5636), nRetCode = 1
+20250719-035120<INFO :00002E98>: [Relay] ThreadFunction() Accept from (127.0.0.1: 64357) SocketStream = 00C76FE8
+20250719-035120<INFO :00002E98>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20250719-035120<DEBUG:00002E98>: [Relay] ReceivePackagesFromRelay() RecvPackage From Relay Protocol = 50; Size = 9; Key = 2851
+20250719-035124<INFO :00004ABC>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 64370) SocketStream = 00C77228
+20250719-035124<INFO :00002F9C>: [GameServer 0]  === Start ===
+20250719-035124<INFO :00002F9C>: [GameServer 0] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6041, protocol version (79-->79)
+20250719-035124<INFO :00004ABC>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 64375) SocketStream = 00C77468
+20250719-035124<INFO :00003F60>: [GameServer 1]  === Start ===
+20250719-035124<INFO :00003F60>: [GameServer 1] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6042, protocol version (79-->79)
+20250719-035124<INFO :00004ABC>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 64380) SocketStream = 00C77540
+20250719-035124<INFO :00004958>: [GameServer 2]  === Start ===
+20250719-035124<INFO :00004958>: [GameServer 2] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6044, protocol version (79-->79)
+20250719-035124<INFO :00004ABC>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 64385) SocketStream = 00C77618
+20250719-035124<INFO :00004438>: [GameServer 3]  === Start ===
+20250719-035124<INFO :00004438>: [GameServer 3] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6043, protocol version (79-->79)
+20250719-035124<INFO :00004ABC>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 64396) SocketStream = 00C774B0
+20250719-035124<INFO :000051F4>: [GameServer 4]  === Start ===
+20250719-035124<INFO :000051F4>: [GameServer 4] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6047, protocol version (79-->79)
+20250719-035125<INFO :00004ABC>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 64399) SocketStream = 00C774F8
+20250719-035125<INFO :00004F80>: [GameServer 5]  === Start ===
+20250719-035125<INFO :00004F80>: [GameServer 5] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6045, protocol version (79-->79)
+20250719-035125<INFO :00004ABC>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 64401) SocketStream = 00C77588
+20250719-035125<INFO :000006F8>: [GameServer 6]  === Start ===
+20250719-035125<INFO :000006F8>: [GameServer 6] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6046, protocol version (79-->79)
+20250719-035125<DEBUG:00003F60>: [GameServer 1] GameServerConnectedInit() nResult = 1
+20250719-035125<DEBUG:00002E98>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 397; Key = 1
+20250719-035126<DEBUG:00002F9C>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20250719-035126<DEBUG:00002E98>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 397; Key = 2
+20250719-035127<DEBUG:00004958>: [GameServer 2] GameServerConnectedInit() nResult = 1
+20250719-035127<DEBUG:00002E98>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 337; Key = 3
+20250719-035128<DEBUG:00004438>: [GameServer 3] GameServerConnectedInit() nResult = 1
+20250719-035128<DEBUG:00002E98>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 581; Key = 4
+20250719-035129<DEBUG:000051F4>: [GameServer 4] GameServerConnectedInit() nResult = 1
+20250719-035129<DEBUG:00002E98>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 497; Key = 5
+20250719-035129<DEBUG:000006F8>: [GameServer 6] GameServerConnectedInit() nResult = 1
+20250719-035129<DEBUG:00002E98>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 433; Key = 6
+20250719-035130<DEBUG:00004F80>: [GameServer 5] GameServerConnectedInit() nResult = 1
+20250719-035130<DEBUG:00002E98>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 421; Key = 7
+20250719-035130<DEBUG:00003DD8>: [Player 0] ThreadFunction() Accept from (192.168.1.100 : 64403) SocketStream = 00C775D0
+20250719-035131<DEBUG:00003DD8>: [Player 0] Account xboyhd1 login bishop ... ... [OK]
+20250719-035131<DEBUG:00003DD8>: [InterlockedAccountStateTable] xboyhd1, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250719-035132<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 19; Key = 1
+20250719-035132<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 1
+20250719-035133<DEBUG:00003DD8>: [Player 0] ProcessRoleList() RoleCount = 1!
+20250719-035133<DEBUG:00003DD8>: [Player 0] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250719-035133<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 18; Key = 2
+20250719-035133<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 2
+20250719-035134<DEBUG:00003DD8>: [Player 0] QueryRoleListInZone() Role Count In Zone = 1!
+20250719-035136<DEBUG:00003DD8>: [Player 0] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250719-035136<DEBUG:00003DD8>: [Player 0] EnterGame_QueryRoleData() RoleName = tessssssst
+20250719-035136<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 21; Key = 3
+20250719-035136<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 1664; Key = 3
+20250719-035137<DEBUG:00003DD8>: [InterlockedAccountStateTable] xboyhd1, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20250719-035137<DEBUG:00003DD8>: [Player 0] Request enter game: ask for permission, account = xboyhd1, role name = tessssssst ... ... [OK]
+20250719-035137<DEBUG:00004958>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 1796; Key = 1
+20250719-035137<DEBUG:00004958>: [GameServer 2] g2b_player_login_permission() , Account = xboyhd1, Role = tessssssst, Permit = true
+20250719-035138<DEBUG:00003DD8>: [Player 0] Notify player login game: ip = 255.255.255.255, port = 6044, account = xboyhd1, role = tessssssst
+20250719-035138<DEBUG:00004958>: [GameServer 2] g2b_player_enter_game() AccountName = xboyhd1
+20250719-035200<DEBUG:00004F24>: [Player 11] ThreadFunction() Accept from (192.168.1.100 : 64411) SocketStream = 00C77270
+20250719-035202<DEBUG:00004F24>: [Player 11] Account xboyhd login bishop ... ... [OK]
+20250719-035202<DEBUG:00004F24>: [InterlockedAccountStateTable] xboyhd, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250719-035202<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 4
+20250719-035202<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 4
+20250719-035203<DEBUG:00004F24>: [Player 11] ProcessRoleList() RoleCount = 1!
+20250719-035203<DEBUG:00004F24>: [Player 11] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250719-035203<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 5
+20250719-035203<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 5
+20250719-035204<DEBUG:00004F24>: [Player 11] QueryRoleListInZone() Role Count In Zone = 1!
+20250719-035206<DEBUG:00004F24>: [Player 11] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250719-035206<DEBUG:00004F24>: [Player 11] EnterGame_QueryRoleData() RoleName = TCQGaming
+20250719-035206<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 20; Key = 6
+20250719-035206<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 2570; Key = 6
+20250719-035207<DEBUG:00004F24>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20250719-035207<DEBUG:00004F24>: [Player 11] Request enter game: ask for permission, account = xboyhd, role name = TCQGaming ... ... [OK]
+20250719-035207<DEBUG:00004958>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 2702; Key = 2
+20250719-035207<DEBUG:00004958>: [GameServer 2] g2b_player_login_permission() , Account = xboyhd, Role = TCQGaming, Permit = true
+20250719-035208<DEBUG:00004F24>: [Player 11] Notify player login game: ip = 255.255.255.255, port = 6044, account = xboyhd, role = TCQGaming
+20250719-035208<DEBUG:00004958>: [GameServer 2] g2b_player_enter_game() AccountName = xboyhd
+20250719-035613<DEBUG:00004958>: [GameServer 2] g2b_player_leave_game() , Account xboyhd1 
+20250719-035613<DEBUG:00004958>: [GameServer 2] _LeaveGame_Normal() AccountName = xboyhd1
+20250719-035613<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd1, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20250719-035613<DEBUG:00004958>: [GameServer 2] Unregister account xboyhd1 in game server ... ... [OK]
+20250719-035613<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd1, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20250719-035613<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd1, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20250719-035619<DEBUG:00004958>: [GameServer 2] g2b_player_leave_game() , Account xboyhd 
+20250719-035619<DEBUG:00004958>: [GameServer 2] _LeaveGame_Normal() AccountName = xboyhd
+20250719-035619<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20250719-035619<DEBUG:00004958>: [GameServer 2] Unregister account xboyhd in game server ... ... [OK]
+20250719-035619<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20250719-035619<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20250719-035629<DEBUG:00001710>: [Player 59] ThreadFunction() Accept from (192.168.1.100 : 64432) SocketStream = 00C77390
+20250719-035632<DEBUG:00001710>: [Player 59] Account xboyhd login bishop ... ... [OK]
+20250719-035632<DEBUG:00001710>: [InterlockedAccountStateTable] xboyhd, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250719-035632<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 7
+20250719-035632<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 7
+20250719-035634<DEBUG:00001710>: [Player 59] ProcessRoleList() RoleCount = 1!
+20250719-035634<DEBUG:00001710>: [Player 59] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250719-035634<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 8
+20250719-035634<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 8
+20250719-035635<DEBUG:00001710>: [Player 59] QueryRoleListInZone() Role Count In Zone = 1!
+20250719-035636<DEBUG:00001710>: [Player 59] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250719-035636<DEBUG:00001710>: [Player 59] EnterGame_QueryRoleData() RoleName = TCQGaming
+20250719-035636<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 20; Key = 9
+20250719-035636<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 2627; Key = 9
+20250719-035637<DEBUG:00001710>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20250719-035637<DEBUG:00001710>: [Player 59] Request enter game: ask for permission, account = xboyhd, role name = TCQGaming ... ... [OK]
+20250719-035637<DEBUG:00004958>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 2759; Key = 3
+20250719-035637<DEBUG:00004958>: [GameServer 2] g2b_player_login_permission() , Account = xboyhd, Role = TCQGaming, Permit = true
+20250719-035638<DEBUG:00001710>: [Player 59] Notify player login game: ip = 255.255.255.255, port = 6044, account = xboyhd, role = TCQGaming
+20250719-035638<DEBUG:00004958>: [GameServer 2] g2b_player_enter_game() AccountName = xboyhd
+20250719-035640<DEBUG:00002914>: [Player 333] ThreadFunction() Accept from (192.168.1.100 : 64435) SocketStream = 00C77270
+20250719-035649<DEBUG:00002914>: [Player 333] Account xboyhd1 login bishop ... ... [OK]
+20250719-035649<DEBUG:00002914>: [InterlockedAccountStateTable] xboyhd1, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250719-035649<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 19; Key = 10
+20250719-035649<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 10
+20250719-035650<DEBUG:00002914>: [Player 333] ProcessRoleList() RoleCount = 1!
+20250719-035650<DEBUG:00002914>: [Player 333] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250719-035650<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 18; Key = 11
+20250719-035650<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 11
+20250719-035651<DEBUG:00002914>: [Player 333] QueryRoleListInZone() Role Count In Zone = 1!
+20250719-035652<DEBUG:00002914>: [Player 333] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250719-035652<DEBUG:00002914>: [Player 333] EnterGame_QueryRoleData() RoleName = tessssssst
+20250719-035652<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 21; Key = 12
+20250719-035652<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 1696; Key = 12
+20250719-035652<DEBUG:00002914>: [InterlockedAccountStateTable] xboyhd1, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20250719-035652<DEBUG:00002914>: [Player 333] Request enter game: ask for permission, account = xboyhd1, role name = tessssssst ... ... [OK]
+20250719-035652<DEBUG:00004958>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 1828; Key = 4
+20250719-035652<DEBUG:00004958>: [GameServer 2] g2b_player_login_permission() , Account = xboyhd1, Role = tessssssst, Permit = true
+20250719-035653<DEBUG:00002914>: [Player 333] Notify player login game: ip = 255.255.255.255, port = 6044, account = xboyhd1, role = tessssssst
+20250719-035653<DEBUG:00004958>: [GameServer 2] g2b_player_enter_game() AccountName = xboyhd1
+20250719-035750<DEBUG:000002D8>: [Player 325] ThreadFunction() Accept from (192.168.1.100 : 64439) SocketStream = 00C776A8
+20250719-035754<DEBUG:000002D8>: [Player 325] Account xboyhd2 login bishop ... ... [OK]
+20250719-035754<DEBUG:000002D8>: [InterlockedAccountStateTable] xboyhd2, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250719-035754<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 19; Key = 13
+20250719-035754<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 13
+20250719-035755<DEBUG:000002D8>: [Player 325] ProcessRoleList() RoleCount = 1!
+20250719-035755<DEBUG:000002D8>: [Player 325] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250719-035755<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 18; Key = 14
+20250719-035755<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 14
+20250719-035756<DEBUG:000002D8>: [Player 325] QueryRoleListInZone() Role Count In Zone = 1!
+20250719-035757<DEBUG:000002D8>: [Player 325] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250719-035757<DEBUG:000002D8>: [Player 325] EnterGame_QueryRoleData() RoleName = testttt
+20250719-035757<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 18; Key = 15
+20250719-035757<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 2438; Key = 15
+20250719-035758<DEBUG:000002D8>: [InterlockedAccountStateTable] xboyhd2, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20250719-035758<DEBUG:000002D8>: [Player 325] Request enter game: ask for permission, account = xboyhd2, role name = testttt ... ... [OK]
+20250719-035758<DEBUG:00002F9C>: [GameServer 0] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 2570; Key = 1
+20250719-035758<DEBUG:00002F9C>: [GameServer 0] g2b_player_login_permission() , Account = xboyhd2, Role = testttt, Permit = true
+20250719-035800<DEBUG:000002D8>: [Player 325] Notify player login game: ip = 255.255.255.255, port = 6041, account = xboyhd2, role = testttt
+20250719-035800<DEBUG:00002F9C>: [GameServer 0] g2b_player_enter_game() AccountName = xboyhd2
+20250719-035800<DEBUG:000051F4>: [GameServer 4] g2b_pre_transfer_server() AccountName = xboyhd2
+20250719-035800<DEBUG:00002F9C>: [GameServer 0] g2b_player_leave_game() , Account xboyhd2 
+20250719-035800<DEBUG:00002F9C>: [GameServer 0] Unregister account xboyhd2 in game server ... ... [OK]
+20250719-035800<DEBUG:00002F9C>: [GameServer 0] Account xboyhd2 leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20250719-035805<DEBUG:00004958>: [GameServer 2] g2b_pre_transfer_server() AccountName = xboyhd2
+20250719-035805<DEBUG:000051F4>: [GameServer 4] g2b_player_leave_game() , Account xboyhd2 
+20250719-035805<DEBUG:000051F4>: [GameServer 4] Unregister account xboyhd2 in game server ... ... [OK]
+20250719-035805<DEBUG:000051F4>: [GameServer 4] Account xboyhd2 leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20250719-040016<DEBUG:00001690>: [Player 394] ThreadFunction() Accept from (192.168.1.100 : 64459) SocketStream = 00C77780
+20250719-040023<DEBUG:00001690>: [Player 394] Account sanbox login bishop ... ... [OK]
+20250719-040023<DEBUG:00001690>: [InterlockedAccountStateTable] sanbox, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250719-040023<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 16
+20250719-040024<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 11; Key = 16
+20250719-040025<DEBUG:00001690>: [Player 394] ProcessRoleList() RoleCount = 0!
+20250719-040025<DEBUG:00001690>: [Player 394] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250719-040025<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 17
+20250719-040025<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 15; Key = 17
+20250719-040026<DEBUG:00001690>: [Player 394] QueryRoleListInZone() Role Count In Zone = 0!
+20250719-040033<DEBUG:00001690>: [Player 394] ReadPlayerRequest() Protocol = 33, Size = 37!
+20250719-040033<DEBUG:00001690>: [Player 394] Account sanbox create role TVCSanBox to goddess ... ... [OK]
+20250719-040033<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 80; Key = 18
+20250719-040033<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 366; Key = 18
+20250719-040034<DEBUG:00001690>: [InterlockedAccountStateTable] sanbox, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20250719-040034<DEBUG:00001690>: [Player 394] Request enter game: ask for permission, account = sanbox, role name = TVCSanBox ... ... [OK]
+20250719-040034<DEBUG:000051F4>: [GameServer 4] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 498; Key = 1
+20250719-040034<DEBUG:000051F4>: [GameServer 4] g2b_player_login_permission() , Account = sanbox, Role = TVCSanBox, Permit = true
+20250719-040036<DEBUG:00001690>: [Player 394] Notify player login game: ip = 255.255.255.255, port = 6047, account = sanbox, role = TVCSanBox
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 0 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 1 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 2 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 3 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 4 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 5 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 6 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 7 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 8 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 9 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 10 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 11 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 12 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 13 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 14 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 15 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 16 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 17 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 18 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 19 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 20 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 21 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 22 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 23 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 24 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 25 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 26 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 27 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 28 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 29 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 30 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 31 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 32 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 33 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 34 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 35 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 36 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 37 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 38 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 39 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 40 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 41 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 42 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 43 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 44 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 45 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 46 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 47 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 48 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 49 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 50 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 51 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 52 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 53 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 54 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 55 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 56 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 57 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 58 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 59 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] Player change ext point: Account = sanbox , PlayerDataIndex = 60 ... ... [OK]
+20250719-040036<DEBUG:000051F4>: [GameServer 4] g2b_player_enter_game() AccountName = sanbox
+20250719-040054<DEBUG:00004958>: [GameServer 2] g2b_pre_transfer_server() AccountName = sanbox
+20250719-040054<DEBUG:000051F4>: [GameServer 4] g2b_player_leave_game() , Account sanbox 
+20250719-040054<DEBUG:000051F4>: [GameServer 4] Unregister account sanbox in game server ... ... [OK]
+20250719-040054<DEBUG:000051F4>: [GameServer 4] Account sanbox leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20250719-040159<DEBUG:00004958>: [GameServer 2] g2b_player_leave_game() , Account xboyhd2 
+20250719-040159<DEBUG:00004958>: [GameServer 2] _LeaveGame_Normal() AccountName = xboyhd2
+20250719-040159<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd2, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20250719-040159<DEBUG:00004958>: [GameServer 2] Unregister account xboyhd2 in game server ... ... [OK]
+20250719-040159<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd2, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20250719-040159<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd2, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20250719-040921<DEBUG:00004958>: [GameServer 2] g2b_player_leave_game() , Account sanbox 
+20250719-040921<DEBUG:00004958>: [GameServer 2] _LeaveGame_Normal() AccountName = sanbox
+20250719-040921<DEBUG:00004958>: [InterlockedAccountStateTable] sanbox, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20250719-040921<DEBUG:00004958>: [GameServer 2] Unregister account sanbox in game server ... ... [OK]
+20250719-040921<DEBUG:00004958>: [InterlockedAccountStateTable] sanbox, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20250719-040921<DEBUG:00004958>: [InterlockedAccountStateTable] sanbox, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20250719-040949<DEBUG:000043B8>: [Player 561] ThreadFunction() Accept from (192.168.1.100 : 64488) SocketStream = 00C775D0
+20250719-040955<DEBUG:000043B8>: [Player 561] Account sanbox login bishop ... ... [OK]
+20250719-040955<DEBUG:000043B8>: [InterlockedAccountStateTable] sanbox, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250719-040955<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 19
+20250719-040956<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 19
+20250719-040957<DEBUG:000043B8>: [Player 561] ProcessRoleList() RoleCount = 1!
+20250719-040957<DEBUG:000043B8>: [Player 561] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250719-040957<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 20
+20250719-040957<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 20
+20250719-040958<DEBUG:000043B8>: [Player 561] QueryRoleListInZone() Role Count In Zone = 1!
+20250719-040958<DEBUG:000043B8>: [Player 561] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250719-040958<DEBUG:000043B8>: [Player 561] EnterGame_QueryRoleData() RoleName = TVCSanBox
+20250719-040958<DEBUG:00002C28>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 20; Key = 21
+20250719-040958<DEBUG:00002C28>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 1567; Key = 21
+20250719-040959<DEBUG:000043B8>: [InterlockedAccountStateTable] sanbox, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20250719-040959<DEBUG:000043B8>: [Player 561] Request enter game: ask for permission, account = sanbox, role name = TVCSanBox ... ... [OK]
+20250719-040959<DEBUG:00004958>: [GameServer 2] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 1699; Key = 5
+20250719-040959<DEBUG:00004958>: [GameServer 2] g2b_player_login_permission() , Account = sanbox, Role = TVCSanBox, Permit = true
+20250719-041001<DEBUG:000043B8>: [Player 561] Notify player login game: ip = 255.255.255.255, port = 6044, account = sanbox, role = TVCSanBox
+20250719-041001<DEBUG:00004958>: [GameServer 2] g2b_player_enter_game() AccountName = sanbox
+20250719-062600<DEBUG:00004958>: [GameServer 2] g2b_player_leave_game() , Account sanbox 
+20250719-062600<DEBUG:00004958>: [GameServer 2] _LeaveGame_Normal() AccountName = sanbox
+20250719-062600<DEBUG:00004958>: [InterlockedAccountStateTable] sanbox, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20250719-062600<DEBUG:00004958>: [GameServer 2] Unregister account sanbox in game server ... ... [OK]
+20250719-062600<DEBUG:00004958>: [InterlockedAccountStateTable] sanbox, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20250719-062600<DEBUG:00004958>: [InterlockedAccountStateTable] sanbox, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20250719-112601<DEBUG:00004958>: [GameServer 2] g2b_player_leave_game() , Account xboyhd1 
+20250719-112601<DEBUG:00004958>: [GameServer 2] _LeaveGame_Normal() AccountName = xboyhd1
+20250719-112601<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd1, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20250719-112601<DEBUG:00004958>: [GameServer 2] Unregister account xboyhd1 in game server ... ... [OK]
+20250719-112601<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd1, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20250719-112601<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd1, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER
+20250719-112601<DEBUG:00004958>: [GameServer 2] g2b_player_leave_game() , Account xboyhd 
+20250719-112601<DEBUG:00004958>: [GameServer 2] _LeaveGame_Normal() AccountName = xboyhd
+20250719-112601<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = KICKOUT, Comperand = OFFLINELIVE
+20250719-112601<DEBUG:00004958>: [GameServer 2] Unregister account xboyhd in game server ... ... [OK]
+20250719-112601<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = NONE, Comperand = NONE
+20250719-112601<DEBUG:00004958>: [InterlockedAccountStateTable] xboyhd, Orign = INGAMESERVER, Exchange = NONE, Comperand = INGAMESERVER

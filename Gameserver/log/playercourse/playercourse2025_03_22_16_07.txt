@@ -1,0 +1,44 @@
+22-16:07:58	TCQGaming	login 30
+22-16:07:58	TCQGaming	xboyhd	192.168.1.100:37833	LoginHwId_1344417453	639324413
+22-16:07:58	TCQGaming	xboyhd	1344417453	1677830336	SetForbitCode0
+22-16:07:58	TCQGaming	Exchange 8
+22-16:07:58	TCQGaming	login 8
+22-16:07:59	TCQGaming	xboyhd	192.168.1.100:38089	LoginHwId_1344417453	639324413
+22-16:08:07	TCQGaming	UseItem	Thẻ GM
+22-16:08:11	TCQGaming	UseItem	Túi Tân Thủ
+22-16:08:12	TCQGaming	AddItem	Ma Đao Thạch (cấp 6)(1742314005)	Way100	Value0
+22-16:08:12	TCQGaming	AddItem	Ma Đao Thạch (cấp 6)(1742314005)	Way100	Value0
+22-16:08:12	TCQGaming	AddItem	Hộ Giáp Phiến (cấp 6)(1742314005)	Way100	Value0
+22-16:08:12	TCQGaming	AddItem	Hộ Giáp Phiến (cấp 6)(1742314005)	Way100	Value0
+22-16:08:12	TCQGaming	AddItem	Ngũ Hành Thạch (cấp 6)(1742314005)	Way100	Value0
+22-16:08:12	TCQGaming	AddItem	Ngũ Hành Thạch (cấp 6)(1742314005)	Way100	Value0
+22-16:08:12	TCQGaming	AddItem	Chiến Thư-Mật Thất Du Long(1742314005)	Way100	Value50000
+22-16:08:12	TCQGaming	AddItem	Chiến Thư-Mật Thất Du Long(1742314005)	Way100	Value700000
+22-16:08:13	TCQGaming	UseItem	Túi Tân Thủ
+22-16:08:27	TCQGaming	dialog Tạ Hiền
+22-16:08:33	TCQGaming	UseItem	Thẻ GM
+22-16:08:42	TCQGaming	AddItem	Mật tịch Đao Thiếu Lâm (cao)(1742634522)	Way100	Value100000
+22-16:08:42	TCQGaming	AddItem	Mật tịch Đao Thiếu Lâm (cao)(1742634522)	Way100	Value100000
+22-16:08:42	TCQGaming	AddItem	Mật tịch Đao Thiếu Lâm (cao)(1742634522)	Way100	Value100000
+22-16:08:42	TCQGaming	AddItem	Mật tịch Côn Thiếu Lâm (cao)(1742634522)	Way100	Value100000
+22-16:08:42	TCQGaming	AddItem	Mật tịch Côn Thiếu Lâm (cao)(1742634522)	Way100	Value100000
+22-16:08:42	TCQGaming	AddItem	Mật tịch Côn Thiếu Lâm (cao)(1742634522)	Way100	Value100000
+22-16:08:51	TCQGaming	UseItem	Mật tịch Đao Thiếu Lâm (cao)
+22-16:08:51	TCQGaming	dialog Tạ Hiền
+22-16:09:01	TCQGaming	dialog Cổ Phong Hà
+22-16:09:02	TCQGaming	UseItem	Thẻ GM
+22-16:09:11	TCQGaming	dialog Cổ Phong Hà
+22-16:09:19	TCQGaming	UseItem	Thẻ GM
+22-16:09:19	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+22-16:09:21	TCQGaming	Exchange 30
+22-16:09:21	TCQGaming	login 30
+22-16:09:22	TCQGaming	xboyhd	192.168.1.100:40137	LoginHwId_1344417453	639324413
+22-16:09:28	TCQGaming	UseItem	Thẻ GM
+22-16:09:34	TCQGaming	AddItem	Đoạn Quang Tà Nhẫn-Bạch Hổ(1742634574)	Way100	Value806137040
+22-16:09:35	TCQGaming	UseItem	Đoạn Quang Tà Nhẫn-Bạch Hổ
+22-16:15:48	TCQGaming	login 30
+22-16:15:49	TCQGaming	xboyhd	192.168.1.100:51914	LoginHwId_1344417453	639324413
+22-16:15:49	TCQGaming	xboyhd	1344417453	1677830336	SetForbitCode0
+22-16:15:49	TCQGaming	Exchange 8
+22-16:15:49	TCQGaming	login 8
+22-16:15:49	TCQGaming	xboyhd	192.168.1.100:52170	LoginHwId_1344417453	639324413

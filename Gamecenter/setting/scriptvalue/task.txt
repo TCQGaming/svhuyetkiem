@@ -1,0 +1,11 @@
+Name	Value	Desc
+IVER_nResetGive	1	
+IVER_nEvent_GirlVote	0	Tuyển chọn mỹ nữ
+IVER_nEvent_TuiGuangYuan	1	Hệ thống Đại sứ
+IVER_szEvent_DragonBoatSDate	26/05/2009	Miêu tả thời gian bắt đầu thuyền Rồng
+IVER_szEvent_DragonBoatEDate	26/06/2009	Miêu tả thời gian kết thúc thuyền Rồng
+IVER_nXoyo_GetAward_Fix	1	Sửa bug Tiêu Dao Lục bản Đại Lục
+IVER_szHelpInfo1	, cũng có thể dùng bạc đổi đồng với người chơi khác tại Khu giao dịch đồng	Sự khác biệt về thuyết minh
+IVER_nHelpSpriteIsView	0	Có phải một số điều trong Cẩm nang trợ giúp không hiển thị
+IVER_nLinkTaskAward	2	Bội số phần thưởng nhiệm vụ nghĩa quân Lão Bao
+IVER_nTask_OpenJbExchangeDayEvent	1	Mở giao dịch đồng hay không

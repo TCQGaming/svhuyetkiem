@@ -1,0 +1,20 @@
+20250724-203648<DEBUG:00000F94>: [PrevInitCore]:1, start tickers = 85711385864989
+20250724-203648<DEBUG:00000F94>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3339050203
+20250724-203649<ERROR:00000F94>: GetInteger(38, 1) failed !
+20250724-203654<WARN :00000F94>: LostFps: 103 (+103)
+20250724-203655<WARN :00000F94>: LostFps: 57 (-46)
+20250724-203656<WARN :00000F94>: LostFps: 11 (-46)
+20250724-203657<WARN :00000F94>: LostFps: 0 (-11)
+20250724-203844<INFO :00000F94>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-203848<INFO :00000F94>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-203851<INFO :00000F94>: [Player]TCQGaming Apply Save Data By Reason Value
+20250724-203902<INFO :00000F94>: [Player]TCQGaming Excute Save Data
+20250724-212111<INFO :00000F94>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250724-212121<INFO :00000F94>: [Player]TCQGaming Excute Save Data
+20250724-215121<INFO :00000F94>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250724-215132<INFO :00000F94>: [Player]TCQGaming Excute Save Data
+20250724-222132<INFO :00000F94>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250724-222142<INFO :00000F94>: [Player]TCQGaming Excute Save Data
+20250724-223324<DEBUG:00000F94>: nSocket = 832, nSendFlag = 0, Error = 10054
+20250724-223324<DEBUG:00000F94>: KGLOG_PROCESS_ERROR(DatabaseIsGood()) at line 2239 in KSwordOnLineSever::SendSavePlayerData
+20250724-223324<DEBUG:00000F94>: main thread exit

@@ -1,0 +1,7 @@
+20250718-192845<DEBUG:000005B0>: [PrevInitCore]:1, start tickers = 259792169377777
+20250718-192846<DEBUG:000005B0>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3621500942
+20250718-192847<ERROR:000005B0>: GetInteger(38, 1) failed !
+20250718-193014<DEBUG:000005B0>: KGLOG_PROCESS_ERROR(dwLockCode == m_dwLockCode) at line 3927 in KPlayer::UnlockAction
+20250718-193201<DEBUG:000005B0>: nSocket = 788, nSendFlag = 0, Error = 10054
+20250718-193201<DEBUG:000005B0>: KGLOG_PROCESS_ERROR(DatabaseIsGood()) at line 2239 in KSwordOnLineSever::SendSavePlayerData
+20250718-193201<DEBUG:000005B0>: main thread exit

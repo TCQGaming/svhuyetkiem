@@ -1,0 +1,81 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	1200					250000		
+		1	1	1	8	2000		8cấp gay go 
+		1	1	2	8	2000		8cấp kiếm 
+		1	1	3	8	2000		8cấp đao 
+		1	1	4	8	2000		8cấp côn 
+		1	1	5	8	2000		8cấp thương 
+		1	1	6	8	2000		8cấp chuy 
+		1	2	2	8	1000		8cấp phi đao 
+		1	2	3	8	1000		8cấp tên nỏ 
+		1	3	2	8	6000		8cấp nam giáp y 
+		1	3	3	8	6000		8cấp nam áo da 
+		1	3	4	8	6000		8cấp nam bố y 
+		1	3	6	8	3000		8cấp nữ giáp y 
+		1	3	7	8	3000		8cấp nữ áo da 
+		1	3	8	8	3000		8cấp nữ bố y 
+		1	4	1	8	18000		8cấp nhẫn 
+		1	5	1	8	18000		8cấp hạng liên 
+		1	7	1	8	18000		8cấp nam giày 
+		1	7	2	8	9000		8cấp nữ giày 
+		1	9	2	8	6000		8cấp nam giáp mạo 
+		1	9	3	8	6000		8cấp nam da mạo 
+		1	9	4	8	6000		8cấp nam bố mạo 
+		1	9	6	8	3000		8cấp nữ giáp mạo 
+		1	9	7	8	3000		8cấp nữ da mạo 
+		1	9	8	8	3000		8cấp nữ bố mạo 
+		1	10	1	8	18000		8cấp bao cổ tay 
+		1	10	2	8	9000		8cấp thủ trạc 
+		1	11	1	8	12000		8cấp ngọc bội 
+		1	11	2	8	6000		8cấp hương nang 
+		1	1	1	7	2100		7cấp gay go 
+		1	1	2	7	2100		7cấp kiếm 
+		1	1	3	7	2100		7cấp đao 
+		1	1	4	7	2100		7cấp côn 
+		1	1	5	7	2100		7cấp thương 
+		1	1	6	7	2100		7cấp chuy 
+		1	2	2	7	1050		7cấp phi đao 
+		1	2	3	7	1050		7cấp tên nỏ 
+		1	3	2	7	7000		7cấp nam giáp y 
+		1	3	3	7	7000		7cấp nam áo da 
+		1	3	4	7	7000		7cấp nam bố y 
+		1	3	6	7	3500		7cấp nữ giáp y 
+		1	3	7	7	3500		7cấp nữ áo da 
+		1	3	8	7	3500		7cấp nữ bố y 
+		1	5	1	7	21000		7cấp hạng liên 
+		1	6	1	7	21000		7cấp bùa hộ mệnh 
+		1	8	1	7	21000		7cấp nam đai lưng 
+		1	8	2	7	10500		7cấp nữ đai lưng 
+		1	9	2	7	7000		7cấp nam giáp mạo 
+		1	9	3	7	7000		7cấp nam da mạo 
+		1	9	4	7	7000		7cấp nam bố mạo 
+		1	9	6	7	3500		7cấp nữ giáp mạo 
+		1	9	7	7	3500		7cấp nữ da mạo 
+		1	9	8	7	3500		7cấp nữ bố mạo 
+		1	10	1	7	21000		7cấp bao cổ tay 
+		1	10	2	7	10500		7cấp thủ trạc 
+		1	11	1	7	14000		7cấp ngọc bội 
+		1	11	2	7	7000		7cấp hương nang 
+		18	1	114	4	21290		4cấp huyền tinh 
+		18	1	114	5	1500		5cấp huyền tinh 
+		2	7	210	8	60		Tuyệt Hỏa giày tử trang PVP_kim hệ 
+		2	7	230	8	60		Tuyệt Hỏa giày tử trang PVP_mộc hệ 
+		2	7	250	8	60		Tuyệt Hỏa giày tử trang PVP_thủy hệ 
+		2	7	270	8	60		Tuyệt Hỏa giày tử trang PVP_hỏa hệ 
+		2	7	290	8	60		Tuyệt Hỏa giày tử trang PVP_thổ hệ 
+		2	7	220	8	30		khinh vân giày tử trang PVP_kim hệ 
+		2	7	240	8	30		khinh vân giày tử trang PVP_mộc hệ 
+		2	7	260	8	30		khinh vân giày tử trang PVP_thủy hệ 
+		2	7	280	8	30		khinh vân giày tử trang PVP_hỏa hệ 
+		2	7	300	8	30		khinh vân giày tử trang PVP_thổ hệ 
+		2	7	410	8	8		Tuyệt Hỏa giày chanh trang PVP_kim hệ 
+		2	7	430	8	8		Tuyệt Hỏa giày chanh trang PVP_mộc hệ 
+		2	7	450	8	8		Tuyệt Hỏa giày chanh trang PVP_thủy hệ 
+		2	7	470	8	8		Tuyệt Hỏa giày chanh trang PVP_hỏa hệ 
+		2	7	490	8	8		Tuyệt Hỏa giày chanh trang PVP_thổ hệ 
+		2	7	420	8	4		khinh vân giày chanh trang PVP_kim hệ 
+		2	7	440	8	4		khinh vân giày chanh trang PVP_mộc hệ 
+		2	7	460	8	4		khinh vân giày chanh trang PVP_thủy hệ 
+		2	7	480	8	4		khinh vân giày chanh trang PVP_hỏa hệ 
+		2	7	500	8	4		khinh vân giày chanh trang PVP_thổ hệ 
+		18	1	80	1	40000		phúc túi 

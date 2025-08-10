@@ -1,0 +1,9 @@
+18-23:09:46	TCQGaming	login 25
+18-23:09:46	TCQGaming	xboyhd	192.168.1.100:45971	LoginHwId_1400849469	639324413
+18-23:09:59	TCQGaming	UseItem	Túi Tân Thủ
+18-23:10:02	TCQGaming	UseItem	Túi Tân Thủ
+18-23:10:04	TCQGaming	AddItem	Vô Hạn Truyền Tống Phù(1742314204)	Way100	Value150000
+18-23:10:05	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-23:10:10	TCQGaming	Exchange 9
+18-23:11:31	TCQGaming	login 30
+18-23:11:32	TCQGaming	xboyhd	192.168.1.100:47251	LoginHwId_1400849469	639324413

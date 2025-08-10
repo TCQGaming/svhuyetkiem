@@ -1,0 +1,14 @@
+18-23:21:36	TCQGaming	login 30
+18-23:21:36	TCQGaming	xboyhd	192.168.1.100:3221	LoginHwId_1400849469	639324413
+18-23:21:36	TCQGaming	xboyhd	1400849469	1677830336	SetForbitCode0
+18-23:21:36	TCQGaming	Exchange 8
+18-23:21:36	TCQGaming	login 8
+18-23:21:36	TCQGaming	xboyhd	192.168.1.100:3477	LoginHwId_1400849469	639324413
+18-23:21:38	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-23:21:45	TCQGaming	Exchange 30
+18-23:21:46	TCQGaming	login 30
+18-23:21:46	TCQGaming	xboyhd	192.168.1.100:3733	LoginHwId_1400849469	639324413
+18-23:22:57	TCQGaming	login 8
+18-23:22:57	TCQGaming	xboyhd	192.168.1.100:6293	LoginHwId_1400849469	639324413
+18-23:23:06	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-23:23:08	TCQGaming	Exchange 30

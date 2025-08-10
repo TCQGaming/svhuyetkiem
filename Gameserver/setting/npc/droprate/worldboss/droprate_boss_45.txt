@@ -1,0 +1,10 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1	4	100000		Huyền Tinh cấp 4
+		18	1	1	5	100000		Huyền Tinh cấp 5
+		18	1	1	6	50000		Huyền Tinh cấp 6
+		18	1	228	1	2500		Võ Lâm Cao Thủ Lệnh (sơ) (Hỏa)
+5000						50000		Bạc 5000
+		18	1	219	1	2500		Võ Lâm Cao Thủ Lệnh (sơ) (Kim)
+		18	1	222	1	4500		Võ Lâm Cao Thủ Lệnh (sơ) (Mộc)
+		18	1	225	1	5000		Võ Lâm Cao Thủ Lệnh (sơ) (Thủy)
+		18	1	231	1	4500		Võ Lâm Cao Thủ Lệnh (sơ) (Thổ)

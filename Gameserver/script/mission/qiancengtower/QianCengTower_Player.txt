@@ -1,0 +1,16 @@
+szName	Rank
+LamTinh	20
+HỏaTinh	20
+MộcTinh	20
+NgheBaByTv	1
+NgheBaByNM	1
+NgheBaByNĐ	1
+NgheBaBy	10
+NgheBaByVĐ	10
+NgheBaByTN	10
+Number6	15
+Number4	15
+NguyênAnh	15
+ThíchCa	20
+Number5	20
+Healer	20

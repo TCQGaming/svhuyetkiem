@@ -1,0 +1,11 @@
+20250318-224353<INFO :00004964>: [KG_Goddess] starting ...
+20250318-224353<INFO :00004964>: [KG_Goddess] Loading kg_goddess.ini
+20250318-224353<INFO :00004964>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20250318-224353<INFO :00004964>: [KG_Goddess] Initializing role database ...
+20250318-224353<DEBUG:00004964>: [KGD] KGD_ERROR_DATABASE_ENGINE_ERROR at line 1254 in (0x0117E758)->KGD_MySQL_Database::Connect(), "Host 'DESKTOP-3GBQGCP' is not allowed to connect to this MySQL server", "mysql_real_connect()"
+20250318-224353<DEBUG:00004964>: [KGD] (0x0117E758)->KGD_MySQL_Database::Connect("192.168.1.100", 3306, "root", 0x0019F588("***"), "(null)")
+20250318-224353<DEBUG:00004964>: [KGD] KGD_Connect(0, "192.168.1.100", 3306, "root", 0x0019F588("***"), "(null)")
+20250318-224353<DEBUG:00004964>: KGLOG_PROCESS_ERROR(piDatabase) at line 39 in KG_InitRoleDatabase
+20250318-224353<DEBUG:00004964>: KGLOG_PROCESS_ERROR(nRetCode) at line 362 in KG_Goddess::StartServiceA
+20250318-224353<INFO :00004964>: [KG_Goddess] Start failed
+20250318-224353<DEBUG:00004964>: KGLOG_PROCESS_ERROR(nRetCode) at line 224 in main

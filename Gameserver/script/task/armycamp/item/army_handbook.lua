@@ -1,0 +1,26 @@
+--ki quan tài liệu thủ sách 
+
+local tbItem = Item:GetClass("army_handbook")
+tbItem.nTaskGroupId = 2044;	--tùy ki thu được linh kiện đích nhiệm vụ biến lượng Group
+tbItem.tbTaskId =
+{
+	--tùy ki thu được linh kiện đích nhiệm vụ biến lượng 
+	1,2,3,4,5,6,7,8,9,10,
+}
+tbItem.tbTaskName = {"Tiền trục","Hậu trục","Trung cốt","Cánh tả","Cánh hữu","Tiêu thạch","Lưu huỳnh","Gỗ","Thỏi đồng","Thủy ngân"};
+
+function tbItem:GetTip(nState)
+	local szTip ="";
+	for ni, nTaskId in ipairs(self.tbTaskId) do
+		if ni == 6 then
+			szTip = szTip.."<enter>";
+		end
+		if me.GetTask(self.nTaskGroupId, nTaskId) == 0 then
+			szTip = szTip.. string.format("<color=gray>%s<color>", self.tbTaskName[nTaskId]);	
+		else
+			szTip = szTip.. string.format("<color=yellow>%s<color>", self.tbTaskName[nTaskId]);	
+		end
+	end
+	return szTip;
+end
+

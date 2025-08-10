@@ -1,0 +1,7 @@
+20250715-192842<DEBUG:00001E38>: nSocket = 824, nSendFlag = 0, Error = 10054
+20250715-192842<DEBUG:00001A54>: KGLOG_PROCESS_ERROR(DatabaseIsGood()) at line 2239 in KSwordOnLineSever::SendSavePlayerData
+20250715-192842<DEBUG:00001E38>: KGLOG_PROCESS_ERROR(DatabaseIsGood()) at line 2239 in KSwordOnLineSever::SendSavePlayerData
+20250715-192842<DEBUG:00001A54>: main thread exit
+20250715-192842<DEBUG:00003BFC>: KGLOG_PROCESS_ERROR(DatabaseIsGood()) at line 2239 in KSwordOnLineSever::SendSavePlayerData
+20250715-192842<DEBUG:00003BFC>: main thread exit
+20250715-192842<DEBUG:000046C0>: main thread exit

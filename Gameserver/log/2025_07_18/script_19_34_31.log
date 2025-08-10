@@ -1,0 +1,53 @@
+[2025-07-18 19:34:31]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	1	TCQGaming đạt cấp 69 đầu tiên!
+[2025-07-18 19:34:31]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	5	Đẳng cấp nhân vật cao nhất đã mở đến cấp 119
+[2025-07-18 19:34:31]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	6	07月18日国庆活动幸运卡民族
+[2025-07-18 19:34:31]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	4	Làm sao nhận được bạc
+[2025-07-18 19:34:31]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	19	Điều chỉnh giới hạn đẳng cấp tham gia thi đấu môn phái
+[2025-07-18 19:34:35]	ATTEN	[Player]	Cap cao nhat 80
+[2025-07-18 19:34:36]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	nTimeFrameStartSale
+[2025-07-18 19:34:36]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	nTimeFrameEndSale
+[2025-07-18 19:34:34]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	50
+[2025-07-17 05:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 05:30	5
+[2025-07-17 05:30:00]	ATTEN	[BaiHuTang]	9720	ShowGongGao	1	05:30-00
+[2025-07-17 05:39:00]	ATTEN	[BaiHuTang]	9720	ShowGongGao	2	05:39-00
+[2025-07-17 05:48:00]	ATTEN	[BaiHuTang]	5400	ShowGongGao	3	05:48-00
+[2025-07-17 06:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 06:00	5
+[2025-07-17 06:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 06:30	5
+[2025-07-17 06:30:00]	ATTEN	[BaiHuTang]	9720	ShowGongGao	1	06:30-00
+[2025-07-17 06:39:00]	ATTEN	[BaiHuTang]	9720	ShowGongGao	2	06:39-00
+[2025-07-17 06:48:00]	ATTEN	[BaiHuTang]	5400	ShowGongGao	3	06:48-00
+[2025-07-17 07:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 07:00	5
+[2025-07-17 07:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 07:30	5
+[2025-07-17 08:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 08:00	5
+0
+[2025-07-17 07:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 07:00	4
+[2025-07-17 07:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 07:00	10
+[2025-07-17 07:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 07:30	4
+[2025-07-17 07:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 07:30	10
+[2025-07-17 08:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 08:00	4
+e	TCQGaming Last Logout time and now login time: 1752842248 1752842274
+[2025-07-18 19:37:54]	INFO	[Player]	Offline	ProcessOfflineTime	TCQGaming nOffLiveTime, nTodayUsedtime = 0, 0
+[2025-07-18 19:37:54]	INFO	[Player]	Offline	ProcessOfflineTime	TCQGaming	nCurLevel, nCurExp, nLevelLimit 	80	154200	69
+[2025-07-18 19:37:54]	INFO	[Player]	Offline	ProcessWasteTime	Player TCQGaming have nWasteTime 0, nNowAddExp 0 !
+[2025-07-18 19:37:54]	INFO	[Player]	plugin_log	玩家	TCQGaming	使用了插件，插件数量	30
+[2025-07-17 05:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 05:30	11
+[2025-07-17 05:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 05:30	12
+[2025-07-17 05:30:00]	ATTEN	[BaiHuTang]	9720	ShowGongGao	1	05:30-00
+[2025-07-17 05:39:00]	ATTEN	[BaiHuTang]	9720	ShowGongGao	2	05:39-00
+[2025-07-17 05:48:00]	ATTEN	[BaiHuTang]	5400	ShowGongGao	3	05:48-00
+[2025-07-17 06:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 06:00	11
+[2025-07-17 06:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 06:00	12
+[2025-07-17 06:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 06:30	11
+[2025-07-17 06:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 06:30	12
+[2025-07-17 06:30:00]	ATTEN	[BaiHuTang]	9720	ShowGongGao	1	06:30-00
+[2025-07-17 06:39:00]	ATTEN	[BaiHuTang]	9720	ShowGongGao	2	06:39-00
+[2025-07-17 06:48:00]	ATTEN	[BaiHuTang]	5400	ShowGongGao	3	06:48-00
+[2025-07-17 07:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 07:00	11
+[2025-07-17 07:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 07:00	12
+[2025-07-17 07:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 07:30	11
+[2025-07-17 07:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 07:30	12
+[2025-07-17 08:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 08:00	11
+[2025-07-17 08:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 08:00	12
+07-17 07:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 07:30	9
+[2025-07-17 08:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 08:00	3
+[2025-07-17 08:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-17 08:00	9

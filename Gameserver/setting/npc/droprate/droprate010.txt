@@ -1,0 +1,64 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	1500					50000		
+		1	1	1	10	45		10cấp gay go 
+		1	1	2	10	45		10cấp kiếm 
+		1	1	3	10	45		10cấp đao 
+		1	1	4	10	45		10cấp côn 
+		1	1	5	10	45		10cấp thương 
+		1	1	6	10	45		10cấp chuy 
+		1	2	2	10	22		10cấp phi đao 
+		1	2	3	10	22		10cấp tên nỏ 
+		1	3	2	10	135		10cấp nam giáp y 
+		1	3	3	10	135		10cấp nam áo da 
+		1	3	4	10	135		10cấp nam bố y 
+		1	3	6	10	67		10cấp nữ giáp y 
+		1	3	7	10	67		10cấp nữ áo da 
+		1	3	8	10	67		10cấp nữ bố y 
+		1	4	1	10	405		10cấp nhẫn 
+		1	5	1	10	405		10cấp hạng liên 
+		1	7	1	10	405		10cấp nam giày 
+		1	7	2	10	202		10cấp nữ giày 
+		1	9	2	10	135		10cấp nam giáp mạo 
+		1	9	3	10	135		10cấp nam da mạo 
+		1	9	4	10	135		10cấp nam bố mạo 
+		1	9	6	10	67		10cấp nữ giáp mạo 
+		1	9	7	10	67		10cấp nữ da mạo 
+		1	9	8	10	67		10cấp nữ bố mạo 
+		1	10	1	10	405		10cấp bao cổ tay 
+		1	10	2	10	202		10cấp thủ trạc 
+		1	11	1	10	270		10cấp ngọc bội 
+		1	11	2	10	135		10cấp hương nang 
+		1	1	1	9	50		9cấp gay go 
+		1	1	2	9	50		9cấp kiếm 
+		1	1	3	9	50		9cấp đao 
+		1	1	4	9	50		9cấp côn 
+		1	1	5	9	50		9cấp thương 
+		1	1	6	9	50		9cấp chuy 
+		1	2	2	9	25		9cấp phi đao 
+		1	2	3	9	25		9cấp tên nỏ 
+		1	3	2	9	150		9cấp nam giáp y 
+		1	3	3	9	150		9cấp nam áo da 
+		1	3	4	9	150		9cấp nam bố y 
+		1	3	6	9	75		9cấp nữ giáp y 
+		1	3	7	9	75		9cấp nữ áo da 
+		1	3	8	9	75		9cấp nữ bố y 
+		1	4	1	9	450		9cấp nhẫn 
+		1	5	1	9	450		9cấp hạng liên 
+		1	7	1	9	450		9cấp nam giày 
+		1	7	2	9	225		9cấp nữ giày 
+		1	9	2	9	150		9cấp nam giáp mạo 
+		1	9	3	9	150		9cấp nam da mạo 
+		1	9	4	9	150		9cấp nam bố mạo 
+		1	9	6	9	75		9cấp nữ giáp mạo 
+		1	9	7	9	75		9cấp nữ da mạo 
+		1	9	8	9	75		9cấp nữ bố mạo 
+		1	10	1	9	450		9cấp bao cổ tay 
+		1	10	2	9	225		9cấp thủ trạc 
+		1	11	1	9	300		9cấp ngọc bội 
+		1	11	2	9	150		9cấp hương nang 
+		18	1	48	1	325		năm xưa Tây Bắc Vọng 
+		18	1	49	1	325		năm xưa đạo mùi hoa 
+		18	1	50	1	325		năm xưa nữ nhi hồng 
+		18	1	51	1	325		năm xưa Hạnh Hoa Thôn 
+		18	1	52	1	325		năm xưa đốt dao nhỏ 
+		18	1	80	1	4000		phúc túi 

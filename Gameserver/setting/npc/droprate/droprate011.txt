@@ -1,0 +1,35 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		1	1	1	10	90		10cấp gay go 
+		1	1	2	10	90		10cấp kiếm 
+		1	1	3	10	90		10cấp đao 
+		1	1	4	10	90		10cấp côn 
+		1	1	5	10	90		10cấp thương 
+		1	1	6	10	90		10cấp chuy 
+		1	2	2	10	45		10cấp phi đao 
+		1	2	3	10	45		10cấp tên nỏ 
+		1	3	2	10	270		10cấp nam giáp y 
+		1	3	3	10	270		10cấp nam áo da 
+		1	3	4	10	270		10cấp nam bố y 
+		1	3	6	10	135		10cấp nữ giáp y 
+		1	3	7	10	135		10cấp nữ áo da 
+		1	3	8	10	135		10cấp nữ bố y 
+		1	4	1	10	810		10cấp nhẫn 
+		1	5	1	10	810		10cấp hạng liên 
+		1	7	1	10	810		10cấp nam giày 
+		1	7	2	10	405		10cấp nữ giày 
+		1	9	2	10	270		10cấp nam giáp mạo 
+		1	9	3	10	270		10cấp nam da mạo 
+		1	9	4	10	270		10cấp nam bố mạo 
+		1	9	6	10	135		10cấp nữ giáp mạo 
+		1	9	7	10	135		10cấp nữ da mạo 
+		1	9	8	10	135		10cấp nữ bố mạo 
+		1	10	1	10	810		10cấp bao cổ tay 
+		1	10	2	10	405		10cấp thủ trạc 
+		1	11	1	10	540		10cấp ngọc bội 
+		1	11	2	10	270		10cấp hương nang 
+		18	1	48	1	325		năm xưa Tây Bắc Vọng 
+		18	1	49	1	325		năm xưa đạo mùi hoa 
+		18	1	50	1	325		năm xưa nữ nhi hồng 
+		18	1	51	1	325		năm xưa Hạnh Hoa Thôn 
+		18	1	52	1	325		năm xưa đốt dao nhỏ 
+		18	1	80	1	4000		phúc túi 

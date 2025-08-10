@@ -1,0 +1,8 @@
+20250715-192903<DEBUG:000051E0>: nSocket = 796, nSendFlag = 0, Error = 10054
+20250715-192903<ERROR:000027FC>: Gamecenter Disconnect!!
+20250715-192903<ERROR:000051E0>: Gamecenter Disconnect!!
+20250715-192903<DEBUG:000027FC>: nSocket = 792, nSendFlag = 0, Error = 10054
+20250715-192903<DEBUG:000051E0>: nSocket = 744, nSendFlag = 0, Error = 10054
+20250715-192903<DEBUG:000041F8>: KGLOG_PROCESS_ERROR(DatabaseIsGood()) at line 2239 in KSwordOnLineSever::SendSavePlayerData
+20250715-192903<DEBUG:000041F8>: main thread exit
+20250715-192903<DEBUG:000027FC>: main thread exit

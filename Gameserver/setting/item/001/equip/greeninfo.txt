@@ -1,0 +1,13 @@
+SuiteID	Name	SuiteNum1	SuiteMA1Name	SuiteMA1PA1	SuiteMA1PA2	SuiteMA1PA3	SuiteNum2	SuiteMA2Name	SuiteMA2PA1	SuiteMA2PA2	SuiteMA2PA3	SuiteNum3	SuiteMA3Name	SuiteMA3PA1	SuiteMA3PA2	SuiteMA3PA3	SuiteNum4	SuiteMA4Name	SuiteMA4PA1	SuiteMA4PA2	SuiteMA4PA3	Head	Body	Belt	Weapon	Foot	Cuff	Amulet	Ring	Necklace	Pendant	Horse	Mask	Book
+1	Bộ Tiêu Dao	2	adddefense_v	100	0	0	3	deadlystrikeenhance_r	35	0	0															Tiêu Dao Ngoa	Tiêu Dao Uyển				Tiêu Dao Bội			
+2	Bộ Tiêu Dao (Nữ)	2	adddefense_v	100	0	0	3	deadlystrikeenhance_r	35	0	0															Tiêu Dao Ngoa	Tiêu Dao Thủ Trạc				Tiêu Dao Hương Nang			
+3	Bộ Võ Lâm Liên Đấu	2	lifemax_v	150	0	0	3	damage_all_resist	45	0	0												Vũ Uy Y					Vũ Uy Phù	Vũ Uy Giới					
+4	Bộ Tranh đoạt lãnh thổ	2	lifemax_p	8	0	0	3	deadlystrikedamageenhance_p	15	0	0											Trục Lộc Quán		Trục Lộc Lưng						Trục Lộc Liên				
+5	Bộ Thủy Hoàng	2	allseriesstateresisttime	50	0	0	3	damage_all_resist	45	0	0												Thủy Hoàng Y				Thủy Hoàng Uyển				Thủy Hoàng Bội			
+6	Bộ Bá Vương																																	
+7	Bộ Kim Long Thủy Hoàng	1	allseriesstateresisttime	50	0	0	2	damage_all_resist	45	0	0	3	lifemax_p	60	60	0	3	lifereplenish_p	50	50	0		Kim Long Y				Kim Long Uyển				Kim Long Bội			
+8	Bộ Kim Long Vũ Uy	1	lifemax_v	150	0	0	2	damage_all_resist	45	0	0	3	defencedeadlystrikedamagetrim	75	75	0										Kim Long Ngoa		Kim Long Phù	Kim Long Giới					
+9	Bộ Kim Long Trục Lộc	1	lifemax_p	8	0	0	2	deadlystrikedamageenhance_p	15	0	0	3	allseriesstateresisttime	200	200	0	3	allseriesstateresistrate	200	200	0	Kim Long Quán		Kim Long Lưng						Kim Long Liên				
+10	Bộ Bích Long Thủy Hoàng	1	allseriesstateresisttime	100	0	0	2	damage_all_resist	90	0	0	3	lifemax_p	120	120	0	3	lifereplenish_p	50	50	0		Bích Long Y				Bích Long Uyển				Bích Long Bội			
+11	Bộ Bích Long Vũ Uy	1	lifemax_v	300	0	0	2	damage_all_resist	90	0	0	3	defencedeadlystrikedamagetrim	150	150	0	3	dynamicmagicshield_v	800	100	0					Bích Long Ngoa		Bích Long Phù	Bích Long Giới					
+12	Bộ Bích Long Trục Lộc	1	lifemax_p	15	0	0	2	deadlystrikedamageenhance_p	30	0	0	3	allseriesstateresisttime	400	400	0	3	allseriesstateresistrate	400	400	0	Bích Long Quán		Bích Long Lung						Bích Long Liên				

@@ -1,0 +1,7 @@
+[2025-07-19 03:58:01]	INFO	linkid:0 connect, free linkid count:600
+[2025-07-19 03:58:01]	INFO	Send syncend OK: Account[xboyhd2], Role[testttt], linkid:0, PlayerIndex:1
+[2025-07-19 03:58:05]	INFO	() linkid:0, disconnect: Normal
+[2025-07-19 03:58:05]	INFO	linkid:0 disconnect, free linkid count:601
+[2025-07-19 04:00:36]	INFO	linkid:0 connect, free linkid count:600
+[2025-07-19 04:00:36]	INFO	Send syncend OK: Account[sanbox], Role[TVCSanBox], linkid:0, PlayerIndex:1
+[2025-07-19 04:00:54]	INFO	() linkid:0, disconnect: Normal

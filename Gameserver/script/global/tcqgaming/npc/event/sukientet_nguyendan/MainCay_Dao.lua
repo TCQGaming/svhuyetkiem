@@ -1,0 +1,221 @@
+local tbCayDao_TetAm	= Npc:GetClass("caydao_ngaytet");
+-- date:19/01/2025
+-- by:TCQGaming
+function tbCayDao_TetAm:OnDialog()
+	-- DoScript("\\script\\global\\tcqgaming\\npc\\event\\sukientet_nguyendan\\MainCay_Dao.lua");
+	local szMsg = "Sự Kiện Tết Nguyên Đán 2025"
+	    local tbOpt =     {} 
+					table.insert(tbOpt, {"<color=yellow>Ta muốn làm Bánh Tét<color>",self.lamhopquathuong,self});
+					table.insert(tbOpt, {"<color=yellow>Ta muốn làm Bánh Chưng - Đặc Biệt<color>",self.lamhopquadacbiet,self});
+					-- table.insert(tbOpt, {"<color=yellow>Làm mới event lần 2\n<color=green>(200 Vạn đồng)<color>",self.resetevent,self});
+					table.insert(tbOpt, {"<color=yellow>Mua Full Event Tết Nguyên Đán 2025\n<color=green>(1500 Vạn đồng)<color>",self.muaevent,self});
+					table.insert(tbOpt, {"Thoát"});
+    Dialog:Say(szMsg, tbOpt)
+end
+
+-------------------------------------------------------
+function tbCayDao_TetAm:nhannl()
+	me.AddStackItem(18,1,2034,15,nil,1000)-------Event đặc biệt
+	me.AddStackItem(18,1,2034,16,nil,1000)-------Event đặc biệt
+	me.AddStackItem(18,1,2034,17,nil,1000)-------Event đặc biệt
+	me.AddStackItem(18,1,2034,18,nil,1000)-------Event đặc biệt
+	me.AddStackItem(18,1,2034,19,nil,1000)-------Event đặc biệt
+end 
+
+function tbCayDao_TetAm:resetevent()
+	local nCount = me.GetTask(9178,65)
+	if nCount >= 1 then
+		Dialog:Say(string.format("Bạn đã mua lại và làm mới event, sao lại đến nữa"));
+		return 0;
+	end
+local nDong = me.GetJbCoin()
+if nDong < 200*10000 then 
+	Dialog:Say("Bạn chưa đủ 200 vạn đồng thường rồi")
+return 
+end
+	me.SetTask(9178,63, 0)
+	me.SetTask(9178,64, 0)
+	me.SetTask(9178,65, nCount + 1);
+	me.AddJbCoin(-200*10000)
+	KDialog.MsgToGlobal("<color=green>Người chơi <color=yellow>[ "..me.szName.." ]<color> đã dùng 200 vạn đồng thường để làm mới event Tết Nguyên Đán 2025 thành công Tại NPC Cây Đào Tết Nguyên Đán<color>");
+	end
+	
+function tbCayDao_TetAm:muaevent()
+local nDong = me.GetJbCoin()
+if nDong < 1500*10000 then 
+	Dialog:Say("Bạn chưa đủ 1500 vạn đồng thường rồi")
+return 
+end
+	me.AddStackItem(18,1,2034,21,nil,500)-------Event đặc biệt
+	me.AddStackItem(18,1,2034,20,nil,1000)-------Event đặc biệt
+	me.AddJbCoin(-1500*10000)
+	KDialog.MsgToGlobal("<color=green>Người chơi <color=yellow>[ "..me.szName.." ]<color> đã dùng 1500 vạn đồng thường để mua Max Event Tết Nguyên Đán Tại NPC Cây Đào Tết Nguyên Đán<color>");
+end
+ 
+function tbCayDao_TetAm:lamhopquathuong()
+	local szMsg = "<color=yellow>Để làm Bánh Tét cần: \n<color=yellow>1 Bình Nước\n1 Gạo Nếp\n1 Thịt Heo\n1 Lá Dong\n*500 Tinh Hoạt Lực<color>";
+	local tbOpt = 
+	{
+			{"Tiến Hành làm Bánh Tét",self.naulamhopquathuong, self};	
+		{"Ta Chỉ Xem Qua Thôi..."},
+	}
+	Dialog:Say(szMsg,tbOpt)
+end
+function tbCayDao_TetAm:lamhopquadacbiet()
+	local szMsg = "<color=yellow>Để làm Bánh Chưng cần: \n<color=yellow>1 Bình Nước\n1 Khuôn Bánh\n1 Gạo Nếp\n1 Thịt Heo\n1 Lá Dong";
+	local tbOpt = 
+	{
+			{"Ta muốn mua khuôn bánh",self.muakhuon, self};	
+			{"Tiến Hành làm Bánh Chưng",self.naulamhopquadacbiet, self};	
+		{"Ta Chỉ Xem Qua Thôi..."},
+	}
+	Dialog:Say(szMsg,tbOpt)
+end
+
+function tbCayDao_TetAm:muakhuon()
+	if me.CountFreeBagCell() < 15 then
+		local szAnnouce = "Hành trang của bạn không đủ 15 ô trống.";
+		me.Msg(szAnnouce);
+		return 0;
+	end	
+    local szMsg = "<color=yellow>Hãy tắt AutoPK rồi thực hiện";
+    local tbOpt = 
+    {
+        {"Đã tắt AutoPK", self.muakhuon1, self},
+        {"Ta Chỉ Xem Qua Thôi..."},
+    }
+    Dialog:Say(szMsg, tbOpt)
+end
+
+function tbCayDao_TetAm:muakhuon1()
+    Dialog:AskNumber("Nhập Số Lượng", 1000, self.muakhuon2, self)
+end
+
+function tbCayDao_TetAm:muakhuon2(nSoLuong)
+local nDong = me.GetJbCoin()
+    if (nDong < 10000*nSoLuong) then 
+        Dialog:Say("Bạn chưa đủ " .. nSoLuong.. " vạn đồng thường rồi")
+        return 
+    end
+
+    me.AddStackItem(18, 1, 2034, 19, nil, nSoLuong) -- Event đặc biệt
+    me.AddJbCoin(-1 * (nSoLuong * 10000))
+end
+
+
+function tbCayDao_TetAm:naulamhopquadacbiet()
+    local nCount = me.GetJbCoin()
+    local nBinhNuoc = me.GetItemCountInBags(18, 1, 2034, 15) 
+    local nGaoNep = me.GetItemCountInBags(18, 1, 2034, 17) 
+    local nThitHeo = me.GetItemCountInBags(18, 1, 2034, 16) 
+    local nKhuonBanh = me.GetItemCountInBags(18, 1, 2034, 19) 
+    local nLaDong = me.GetItemCountInBags(18, 1, 2034, 18) 
+
+local nSoDu = 0
+	
+	if nBinhNuoc < 1 then
+	Dialog:Say("Bạn thiếu Bình Nước rồi \n hãy mang nó tới đây gặp ta")
+return 
+end
+	if nGaoNep < 1 then
+	Dialog:Say("Bạn thiếu Gạo Nếp rồi \n hãy mang nó tới đây gặp ta")
+return 
+end
+	if nThitHeo < 1 then
+	Dialog:Say("Bạn thiếu Thịt Heo rồi \n hãy mang nó tới đây gặp ta")
+return 
+end	
+if nKhuonBanh < 1 then
+	Dialog:Say("Bạn thiếu Khuôn bánh rồi \n hãy mang nó tới đây gặp ta")
+return 
+end
+if nLaDong < 1 then
+	Dialog:Say("Bạn thiếu Lá Rong rồi \n hãy mang nó tới đây gặp ta")
+return 
+end
+    local arr = {nBinhNuoc, nGaoNep,nThitHeo,nKhuonBanh,nLaDong}
+    table.sort(arr)
+    local nSoDu = arr[1] -- Chọn số lượng ít nhất của các loại Bảo Thạch hiện có
+
+    Dialog:AskNumber("Số lượng đổi", nSoDu, self.naulamhopquadacbiet1, self)
+end
+
+ 
+
+function tbCayDao_TetAm:naulamhopquadacbiet1(szHoaDacBiet)
+    local nBinhNuoc = me.GetItemCountInBags(18, 1, 2034, 15) 
+    local nGaoNep = me.GetItemCountInBags(18, 1, 2034, 17) 
+    local nThitHeo = me.GetItemCountInBags(18, 1, 2034, 16) 
+    local nKhuonBanh = me.GetItemCountInBags(18, 1, 2034, 19) 
+    local nLaDong = me.GetItemCountInBags(18, 1, 2034, 18) 
+	local tbBinhNuoc	= {18,1,2034,15,0,0}; 
+	local tbGaoNep	= {18,1,2034,17,0,0}; 
+	local tbThitHeo	= {18,1,2034,16,0,0}; 
+	local tbKhuonBanh	= {18,1,2034,19,0,0}; 
+	local tbLaDong	= {18,1,2034,18,0,0}; 
+	if (nBinhNuoc < 1*szHoaDacBiet) or (nGaoNep < 1*szHoaDacBiet)  or (nThitHeo < 1*szHoaDacBiet)  or (nKhuonBanh < 1*szHoaDacBiet)  or (nLaDong < 1*szHoaDacBiet) then
+	Dialog:Say("Để tiến hành làm "..szHoaDacBiet.." Bánh Chưng cần Tối thiểu "..1*szHoaDacBiet.." Bình Nước , Gạo Nếp , Lá Dong , Khuôn Bánh , Thịt Heo mỗi thứ 1 loại\n<color=red>Hiện Tại Bạn Có<color><color=gold>\n"..nBinhNuoc.." Bình Nước \n"..nGaoNep.." Gạo Nếp\n"..nThitHeo.." Thịt Heo\n"..nKhuonBanh.." Khuôn Bánh\n"..nLaDong.." Lá Dong<color=gold>")
+	return  
+	end
+	me.AddStackItem(18,1,2034,20,nil,szHoaDacBiet)
+		Task:DelItem(me, tbBinhNuoc, szHoaDacBiet);
+		Task:DelItem(me, tbGaoNep, szHoaDacBiet);
+		Task:DelItem(me, tbThitHeo, szHoaDacBiet);
+		Task:DelItem(me, tbKhuonBanh, szHoaDacBiet);
+		Task:DelItem(me, tbLaDong, szHoaDacBiet);
+end
+
+function tbCayDao_TetAm:naulamhopquathuong()
+    local nBinhNuoc = me.GetItemCountInBags(18, 1, 2034, 15) 
+    local nGaoNep = me.GetItemCountInBags(18, 1, 2034, 17) 
+    local nThitHeo = me.GetItemCountInBags(18, 1, 2034, 16) 
+    local nLaDong = me.GetItemCountInBags(18, 1, 2034, 18) 
+
+local nTinhLuc = me.dwCurGTP;
+local nHoatLuc = me.dwCurMKP;
+local nGioiHanTinhLuc = 200
+local nGioiHanHoatLuc = 200
+if (nTinhLuc < 200) or (nHoatLuc < 200) then 
+	Dialog:Say("Để tiến hành cần tối thiểu 200 tinh hoạt lực 1 cái\n<color=red>Hiện Tại Bạn Có<color><color=gold>\n"..nTinhLuc.." Tinh Lực / "..nHoatLuc.." Hoạt Lực")
+	return
+	end
+local nSoDu1 = 0
+    local nBinhNuoc = me.GetItemCountInBags(18, 1, 2034, 15) 
+    local nGaoNep = me.GetItemCountInBags(18, 1, 2034, 17) 
+    local nThitHeo = me.GetItemCountInBags(18, 1, 2034, 16) 
+    local nLaDong = me.GetItemCountInBags(18, 1, 2034, 18) 
+
+    local nSoDu1 = math.min(nBinhNuoc, nGaoNep, nThitHeo, nLaDong)
+
+    if nSoDu1 < 1 then
+        Dialog:Say("Bạn thiếu nguyên liệu để làm Bánh Tét rồi xin hãy kiểm tra lại")
+        return
+    end
+Dialog:AskNumber("Số lượng đổi", nSoDu1, self.naulamhopquathuong1, self);
+end 
+
+ 
+function tbCayDao_TetAm:naulamhopquathuong1(szHoaThuong)
+    local nBinhNuoc = me.GetItemCountInBags(18, 1, 2034, 15) 
+    local nGaoNep = me.GetItemCountInBags(18, 1, 2034, 17) 
+    local nThitHeo = me.GetItemCountInBags(18, 1, 2034, 16) 
+    local nLaDong = me.GetItemCountInBags(18, 1, 2034, 18) 
+	local nTinhLuc = me.dwCurGTP;
+	local nHoatLuc = me.dwCurMKP;
+	local tbBinhNuoc	= {18,1,2034,15,0,0}; 
+	local tbGaoNep	= {18,1,2034,17,0,0}; 
+	local tbThitHeo	= {18,1,2034,16,0,0}; 
+	local tbLaDong	= {18,1,2034,18,0,0}; 
+	if (nTinhLuc < 200*szHoaThuong) or (nHoatLuc < 200*szHoaThuong) or (nBinhNuoc < 1*szHoaThuong) or (nGaoNep < 1*szHoaThuong)  or (nThitHeo < 1*szHoaThuong) or (nLaDong < 1*szHoaThuong) then
+	Dialog:Say("Để tiến hành làm "..szHoaThuong.." Bánh Tét cần Tối thiểu "..1*szHoaThuong.." Bình Nước , Gạo Nếp , Lá Dong , Khuôn Bánh , Thịt Heo mỗi thứ 1 loại\n<color=red>Hiện Tại Bạn Có<color><color=gold>\n"..nBinhNuoc.." Bình Nước \n"..nGaoNep.." Gạo Nếp\n"..nThitHeo.." Thịt Heo\n"..nTinhLuc.." Tinh Lực / "..nHoatLuc.." Hoạt Lực\n"..nLaDong.." Lá Dong<color=gold>")
+	return  
+	end
+	me.ChangeCurMakePoint(-1*(szHoaThuong*200)); --Từ Tinh Lực
+	me.ChangeCurGatherPoint(-1*(szHoaThuong*200)); --Trừ Hoạt Lực
+	me.AddStackItem(18,1,2034,21,nil,szHoaThuong)
+		Task:DelItem(me, tbBinhNuoc, szHoaThuong);
+		Task:DelItem(me, tbGaoNep, szHoaThuong);
+		Task:DelItem(me, tbThitHeo, szHoaThuong);
+		Task:DelItem(me, tbLaDong, szHoaThuong);
+	end
+

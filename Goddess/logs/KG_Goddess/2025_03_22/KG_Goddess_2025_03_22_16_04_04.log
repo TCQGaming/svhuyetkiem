@@ -1,0 +1,61 @@
+20250322-160404<INFO :00004A84>: [KG_Goddess] starting ...
+20250322-160404<INFO :00004A84>: [KG_Goddess] Loading kg_goddess.ini
+20250322-160404<INFO :00004A84>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20250322-160404<INFO :00004A84>: [KG_Goddess] Initializing role database ...
+20250322-160404<DEBUG:00004A84>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250322-160404<INFO :00004A84>: [KG_Goddess] Initializing role statistic ...
+20250322-160404<INFO :00004A84>: [KG_Goddess] Initializing server manager ...
+20250322-160404<INFO :00004A84>: [KG_Goddess] Initializing Sequence ...
+20250322-160404<INFO :00004A84>: [KG_Goddess] Initializing NameServer ...
+20250322-160404<DEBUG:00004A84>: [Database] character set switch to latin1
+20250322-160404<INFO :00004A84>: [ServerManager] Listening at 127.0.0.1:5001
+20250322-160404<INFO :00004A84>: [KG_Goddess] RoleLock disable
+20250322-160404<INFO :00004A84>: [KG_Goddess] Set log level to DEBUG
+20250322-160404<INFO :00004A84>: [KG_Goddess] Start success
+20250322-160409<INFO :00004814>: [ServerManager] Accept from (127.0.0.1: 51455) SocketStream = 01017118
+20250322-160409<INFO :000027D0>: [Goddess Server 00] Started, service for 127.0.0.1:51455
+20250322-160409<DEBUG:000027D0>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250322-160410<INFO :00004814>: [ServerManager] Accept from (127.0.0.1: 51460) SocketStream = 01016F68
+20250322-160410<INFO :000053B8>: [Goddess Server 01] Started, service for 127.0.0.1:51460
+20250322-160410<DEBUG:000053B8>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250322-160428<INFO :00004814>: [ServerManager] Accept from (127.0.0.1: 51483) SocketStream = 01016FB0
+20250322-160428<INFO :00004608>: [Goddess Server 02] Started, service for 127.0.0.1:51483
+20250322-160428<DEBUG:00004608>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250322-160428<DEBUG:00004608>: [Goddess Server 02] Enter KG_GoddessServer::_query_statistic_info()
+20250322-160428<DEBUG:00004608>: KGLOG_PROCESS_ERROR(piStatistic) at line 2189 in KG_GoddessServer::_query_statistic_info
+20250322-160428<DEBUG:00004608>: [Goddess Server 02] Leave KG_GoddessServer::_query_statistic_info()
+20250322-160429<DEBUG:000027D0>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250322-160435<DEBUG:00004608>: nSocket = 772, nSendFlag = 0, Error = 10054
+20250322-160435<DEBUG:00004608>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 1023 in KG_GoddessServer::ProcessRequest
+20250322-160435<DEBUG:00004608>: KGLOG_PROCESS_ERROR(nRetCode && "Process Request failed, will stop") at line 1099 in KG_GoddessServer::_ThreadFunction
+20250322-160435<INFO :00004608>: [Goddess Server 02] Stopped
+20250322-160440<DEBUG:000053B8>: [Goddess Server 01] Enter KG_GoddessServer::_ping()
+20250322-160449<DEBUG:000027D0>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250322-160505<INFO :00004814>: [ServerManager] Accept from (127.0.0.1: 51492) SocketStream = 01016FB0
+20250322-160505<INFO :00006A28>: [Goddess Server 03] Started, service for 127.0.0.1:51492
+20250322-160505<DEBUG:00006A28>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250322-160505<DEBUG:00006A28>: [Goddess Server 03] Enter KG_GoddessServer::_query_statistic_info()
+20250322-160505<DEBUG:00006A28>: KGLOG_PROCESS_ERROR(piStatistic) at line 2189 in KG_GoddessServer::_query_statistic_info
+20250322-160505<DEBUG:00006A28>: [Goddess Server 03] Leave KG_GoddessServer::_query_statistic_info()
+20250322-160509<DEBUG:000027D0>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250322-160510<DEBUG:000053B8>: [Goddess Server 01] Enter KG_GoddessServer::_ping()
+20250322-160513<INFO :00004814>: [ServerManager] Accept from (127.0.0.1: 51499) SocketStream = 01016FF8
+20250322-160513<INFO :00009B58>: [Goddess Server 04] Started, service for 127.0.0.1:51499
+20250322-160513<DEBUG:00009B58>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250322-160513<DEBUG:00009B58>: [Goddess Server 04] Enter KG_GoddessServer::_query_statistic_info()
+20250322-160513<DEBUG:00009B58>: KGLOG_PROCESS_ERROR(piStatistic) at line 2189 in KG_GoddessServer::_query_statistic_info
+20250322-160513<DEBUG:00009B58>: [Goddess Server 04] Leave KG_GoddessServer::_query_statistic_info()
+20250322-160515<DEBUG:00006A28>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250322-160517<INFO :00004814>: [ServerManager] Accept from (127.0.0.1: 51505) SocketStream = 01017040
+20250322-160517<INFO :00001AD4>: [Goddess Server 05] Started, service for 127.0.0.1:51505
+20250322-160517<DEBUG:00001AD4>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250322-160518<DEBUG:00001AD4>: [Goddess Server 05] Enter KG_GoddessServer::_query_statistic_info()
+20250322-160518<DEBUG:00001AD4>: KGLOG_PROCESS_ERROR(piStatistic) at line 2189 in KG_GoddessServer::_query_statistic_info
+20250322-160518<DEBUG:00001AD4>: [Goddess Server 05] Leave KG_GoddessServer::_query_statistic_info()
+20250322-160521<DEBUG:00001AD4>: nSocket = 896, nSendFlag = 0, Error = 10054
+20250322-160521<DEBUG:00001AD4>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 1023 in KG_GoddessServer::ProcessRequest
+20250322-160521<DEBUG:00001AD4>: KGLOG_PROCESS_ERROR(nRetCode && "Process Request failed, will stop") at line 1099 in KG_GoddessServer::_ThreadFunction
+20250322-160521<INFO :00001AD4>: [Goddess Server 05] Stopped
+20250322-160523<DEBUG:00009B58>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250322-160525<DEBUG:00006A28>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250322-160529<DEBUG:000027D0>: [Goddess Server 00] Enter KG_GoddessServer::_ping()

@@ -1,0 +1,36 @@
+24-17:14:07	TCQGaming	login 8
+24-17:14:07	TCQGaming	xboyhd	192.168.1.100:5061	LoginHwId_704804682	639324413
+24-17:14:07	TCQGaming	xboyhd	704804682	1677830336	SetForbitCode0
+24-17:14:07	TCQGaming	NewWorld 8
+24-17:14:09	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+24-17:14:09	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+24-17:14:09	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+24-17:14:09	TCQGaming	AddBindCoin	AddWay100	Count	25000
+24-17:14:09	TCQGaming	AddBindMoney	AddWay100	Count	25000
+24-17:14:09	TCQGaming	UseItem	Thẻ GM
+24-17:14:14	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+24-17:14:14	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+24-17:14:14	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+24-17:14:14	TCQGaming	AddBindCoin	AddWay100	Count	25000
+24-17:14:14	TCQGaming	AddBindMoney	AddWay100	Count	25000
+24-17:14:14	TCQGaming	UseItem	Thẻ GM
+24-17:14:22	TCQGaming	AddItem	[Mặt nạ] Huyết Kiếm - Thường(1753352062)	Way100	Value8000000
+24-17:14:48	TCQGaming	UseItem	[Mặt nạ] Huyết Kiếm - Thường
+24-17:17:30	TCQGaming	login 8
+24-17:17:30	TCQGaming	xboyhd	192.168.1.100:8389	LoginHwId_751299586	639324413
+24-17:17:30	TCQGaming	xboyhd	751299586	1677830336	SetForbitCode0
+24-17:17:30	TCQGaming	NewWorld 8
+24-20:31:24	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+24-20:31:24	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+24-20:31:24	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+24-20:31:24	TCQGaming	AddBindCoin	AddWay100	Count	25000
+24-20:31:24	TCQGaming	AddBindMoney	AddWay100	Count	25000
+24-20:31:24	TCQGaming	UseItem	Thẻ GM
+24-20:31:27	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+24-20:31:27	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+24-20:31:27	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+24-20:31:27	TCQGaming	AddBindCoin	AddWay100	Count	25000
+24-20:31:27	TCQGaming	AddBindMoney	AddWay100	Count	25000
+24-20:31:27	TCQGaming	UseItem	Thẻ GM
+24-20:31:32	TCQGaming	AddItem	Viêm Lang Vương(1753363892)	Way100	Value7200000
+24-20:31:35	TCQGaming	UseItem	Viêm Lang Vương

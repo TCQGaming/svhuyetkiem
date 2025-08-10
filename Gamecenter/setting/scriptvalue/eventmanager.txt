@@ -1,0 +1,19 @@
+Name	Value	Desc
+IVER_bOpenPlayerCallBack	0	Tắt/mở người chơi cũ trở về
+IVER_bOpenBaiBaoXiang	1	Mở Bách Bảo Rương
+IVER_nWellFareCoinExChange	1	Tỷ lệ đối thoại phúc lợi
+IVER_bOpenNewPlayerGift	1	Túi Tân Thủ
+IVER_bOpenFuFaiVip	0	Số lần mở túi phúc Vip ngoài định mức
+IVER_nKinRetireLimit	20	Số thành viên gia tộc vinh dự nhiều nhất
+IVER_nXoyoGameCount	14	Số lần mỗi ngày tham gia Tiêu Dao Cốc
+IVER_nXoyoGameTaskAwardType	2	Hình thức thưởng khi thu thập thẻ Tiêu Dao Cốc
+IVER_nBaiHuTangCount	3	Số lần mỗi ngày tham gia Bạch Hổ Đường
+IVER_bOpenChongZhiHuoDong	0	Hoạt động nạp thẻ
+IVER_bOpenOnLineExp	1	Ủy thác
+IVER_nFourfoldMapLevel	50	Cấp thấp nhất vào Bí Cảnh (x4)
+IVER_nFourfoldMapMaxTime	10	Thời gian tích lũy nhiều nhất
+IVER_nFourfoldMapPreTime	2	Thời gian tích lũy mỗi ngày
+IVER_nXiulindanMaxUse	50	Số lần sửa dụng Tu Luyện Đơn nhiều nhất
+IVER_nPartOpen	1	Tắt/mở đồng hành
+IVER_bOpenPartner	1	Tắt/mở hoạt động đồng hành
+IVER_bOpenYoulongmibao	1	Tắt/mở Du Long Mật Bảo

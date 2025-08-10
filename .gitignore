@@ -1,0 +1,6 @@
+.vs/
+*.pch
+*.pdb
+*.obj
+*.log
+Release/

@@ -1,0 +1,17 @@
+[2025-07-15 19:29:10]	INFO	Login AddCharacter: Account[xboyhd2], Role[testttt]
+[2025-07-15 19:29:11]	INFO	xboyhd2(testttt) login
+[2025-07-15 19:29:11]	INFO	LoadPlayerData OK: Account[xboyhd2], RoleName[testttt], CRC[429FAA83], LastSaveTime[2025-07-18 19:29:49]
+[2025-07-15 19:29:12]	INFO	SendPlayerSave OK: Account[xboyhd2], RoleName[testttt], CRC[2E28867]
+[2025-07-15 19:29:12]	INFO	xboyhd2(testttt) transfer
+[2025-07-15 19:29:19]	INFO	Exchange AddCharacter Account[xboyhd2], Role[testttt]
+[2025-07-15 19:29:19]	INFO	xboyhd2(testttt) login
+[2025-07-15 19:29:19]	INFO	LoadPlayerData OK: Account[xboyhd2], RoleName[testttt], CRC[7CCECB86], LastSaveTime[2025-07-15 19:29:19]
+[2025-07-15 19:30:09]	INFO	Exchange AddCharacter Account[xboyhd], Role[TCQGaming]
+[2025-07-15 19:30:10]	INFO	xboyhd(TCQGaming) login
+[2025-07-15 19:30:10]	INFO	LoadPlayerData OK: Account[xboyhd], RoleName[TCQGaming], CRC[963B692], LastSaveTime[2025-07-15 19:30:09]
+[2025-07-15 19:30:14]	INFO	Exchange AddCharacter Account[xboyhd1], Role[tessssssst]
+[2025-07-15 19:30:14]	INFO	xboyhd1(tessssssst) login
+[2025-07-15 19:30:14]	INFO	LoadPlayerData OK: Account[xboyhd1], RoleName[tessssssst], CRC[EDFF6B79], LastSaveTime[2025-07-15 19:30:14]
+[2025-07-15 19:31:36]	INFO	SendPlayerSave OK: Account[xboyhd2], RoleName[testttt], CRC[D6053452]
+[2025-07-15 19:46:59]	INFO	SendPlayerSave OK: Account[xboyhd], RoleName[TCQGaming], CRC[59526A37]
+[2025-07-15 19:46:59]	INFO	xboyhd(TCQGaming) transfer

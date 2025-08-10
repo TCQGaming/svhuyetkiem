@@ -1,0 +1,10 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		22	1	112	1	40716		Long Hồn Giám · Y phục (1 cấp )
+		22	1	112	2	25056		Long Hồn Giám · Y phục (2 cấp )
+		22	1	112	3	18792		Long Hồn Giám · Y phục (3 cấp )
+		22	1	113	1	23266		Long Hồn Giám · Nhẫn (1 cấp )
+		22	1	113	2	14318		Long Hồn Giám · Nhẫn (2 cấp )
+		22	1	113	3	10738		Long Hồn Giám · Nhẫn (3 cấp )
+		22	1	114	1	52349		Long Hồn Giám · Hộ Thân Phù (1 cấp )
+		22	1	114	2	32215		Long Hồn Giám · Hộ Thân Phù (2 cấp )
+		22	1	114	3	24161		Long Hồn Giám · Hộ Thân Phù (3 cấp )

@@ -1,0 +1,7 @@
+[2025-07-20 15:31:50]	INFO	linkid:0 connect, free linkid count:600
+[2025-07-20 15:31:50]	INFO	Send syncend OK: Account[xboyhd], Role[TCQGaming], linkid:0, PlayerIndex:1
+[2025-07-20 15:31:58]	INFO	() linkid:0, disconnect: Normal
+[2025-07-20 15:31:58]	INFO	linkid:0 disconnect, free linkid count:601
+[2025-07-20 15:33:35]	INFO	linkid:0 connect, free linkid count:600
+[2025-07-20 15:33:35]	INFO	Send syncend OK: Account[xboyhd], Role[TCQGaming], linkid:0, PlayerIndex:1
+[2025-07-20 15:46:32]	INFO	() linkid:0, disconnect: Normal

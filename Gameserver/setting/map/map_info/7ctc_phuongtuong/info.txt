@@ -1,0 +1,7 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đi Thành Đô	0	2525	4	5	1	1	20	20	20	20	20	1		50560	102656		1		
+Đi Biện Kinh	0	2525	4	5	1	1	20	20	20	20	20	1		63008	119456		1		
+Đi Dương Châu	0	2525	4	5	1	1	20	20	20	20	20	1		64352	105728		1		
+to_thanhdo	1															\setting\map\map_info\7ctc_phuongtuong\trap\to_thanhdo.txt			
+to_bienkinh	1															\setting\map\map_info\7ctc_phuongtuong\trap\to_bienkinh.txt			
+to_duongchau	1															\setting\map\map_info\7ctc_phuongtuong\trap\to_duongchau.txt			

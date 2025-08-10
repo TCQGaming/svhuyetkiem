@@ -1,0 +1,15 @@
+18-03:55:44	tessssssst	login 184
+18-03:55:44	tessssssst	xboyhd1	192.168.1.100:23024	LoginHwId_2168814073	639324413
+18-03:55:44	tessssssst	xboyhd1	2168814073	1677830336	SetForbitCode0
+18-03:55:48	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+18-03:55:53	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+18-03:56:07	TCQGaming	login 184
+18-03:56:07	TCQGaming	xboyhd	192.168.1.100:23536	LoginHwId_2539837046	639324413
+18-03:56:07	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-03:56:12	TCQGaming	dialog Hiệu Úy Mộ Binh (Kim)
+18-03:56:16	TCQGaming	dialog Hiệu Úy Mộ Binh (Kim)
+18-03:56:17	TCQGaming	NewWorld 1635
+18-03:56:26	TCQGaming	dialog Quan Quân Nhu (Kim)
+18-03:56:27	TCQGaming	NewWorld 184
+18-03:56:30	TCQGaming	dialog Hiệu Úy Mộ Binh (Kim)
+18-03:56:30	TCQGaming	NewWorld 1635

@@ -1,0 +1,4 @@
+[2025-07-18 19:30:03]	INFO	Exchange AddCharacter Account[xboyhd], Role[TCQGaming]
+[2025-07-18 19:30:03]	INFO	xboyhd(TCQGaming) login
+[2025-07-18 19:30:03]	INFO	LoadPlayerData OK: Account[xboyhd], RoleName[TCQGaming], CRC[D729E4D2], LastSaveTime[2025-07-18 19:30:03]
+[2025-07-18 19:33:24]	INFO	SendPlayerSave OK: Account[xboyhd], RoleName[TCQGaming], CRC[20769307]

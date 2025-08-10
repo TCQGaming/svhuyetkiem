@@ -1,0 +1,1532 @@
+TenNhanVat	TrangBiChuyen	CapCuongHoa	TongLuotChuyen	TrangBiNhan
+DépLào	Thiên Ma Phù-Chu Thiềm	12	0	Thiên Ma Phù-Diên Dương
+ChimĐangSun	Bắc Thần Liên-Chu Thiềm	12	0	Bắc Thần Liên-Chí mạng
+SauThienThu89	Xích Tiêu Kiếm-Thực Cốt	12	0	Liệt Tâm Chùy-Ô Sương
+SóngThần	Câu Vân Bội-Chí mạng	12	0	Long Thủ Bội-Chí mạng
+DépLào	Hỏa Phủ Giới-Nghịch Thủy	12	1	Thương Khung Giới-Diên Dương
+SóngThần	Huyền Thiết Kiếm-Hoàng Quang	14	1	Thanh Sương Kiếm-Triệt Cốt
+ChimĐangSun	Huyền Thiết Kiếm-Hoàng Quang	14	1	Thanh Sương Kiếm-Triệt Cốt
+LãoTam	Thất Tinh Thấu Cốt-Tâm Nhãn	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+congha	Long Uyên Kiếm-Linh Vũ	14	0	Thanh Sương Kiếm-Triệt Cốt
+congha	Huyền Thiết Kiếm-Hoàng Quang	14	1	Phá Sơn Đao-Hàn Băng
+DépLào	Huyền Thiết Kiếm-Hoàng Quang	14	2	Thanh Sương Kiếm-Vân Phách
+DépLàoDM	Huyền Thiết Kiếm-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+TạpHóaLâmAn	Kim Cô Bổng-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+HoiUcKT	Huyền Thiết Kiếm-Việt Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+WuKong	Long Uyên Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+LãoĐại	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+DépLàoVĐ	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+DépLàoTYK	Huyền Thiết Kiếm-Hoàng Quang	14	0	Kim Qua Chùy-Thương Lang
+SaoHỏa	Phách Phong Đao-Nghiệp Hỏa	12	0	Phá Sơn Đao-Nghiệp Hỏa
+DépLàoMN	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+LócXOay	Bạch Hổ Triền Thủ-Hoàng Quang	14	0	Phá Sơn Đao-Lạc Lôi
+SaoMai	Huyền Thiết Kiếm-Linh Vũ	14	0	Thanh Sương Kiếm-Vân Phách
+hoangnam	Thất Tinh Thấu Cốt-Tâm Nhãn	13	0	Hàm Sa Xạ Ảnh-Ô Sương
+VươngCường	Huyền Thiết Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+ChimĐangSun	Bắc Minh Bội-Hoàng Quang	14	2	Côn Bằng Bội-Chí mạng
+SauThienThu89	Liệt Tâm Chùy-Ô Sương	12	1	Kim Qua Chùy-Ô Sương
+KẻMangTâmSự	Huyền Thiết Kiếm-Việt Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+SaoThổ	Xích Tiêu Kiếm-Vân Phách	12	0	Thanh Sương Kiếm-Vân Phách
+WuKong	Long Uyên Kiếm-Linh Vũ	14	1	Phá Sơn Đao-Nghiệp Hỏa
+DépLào	Thiên Tàm Ngoa-Diên Dương	14	3	Bá Vương Ngoa-Tật Phong
+adminn	Thanh Sương Kiếm-Triệt Cốt	12	0	Thanh Sương Kiếm-Triệt Cốt
+NamDoaNe	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+SiêuThú	Long Uyên Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+ThuyKiem	Huyền Thiết Kiếm-Việt Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+ĐườngTăng	Long Uyên Kiếm-Triệt Cốt	14	0	Phá Sơn Đao-Nghiệp Hỏa
+BátGiới	Long Uyên Kiếm-Linh Vũ	14	0	Kim Qua Chùy-Ô Sương
+zBaKichz	Nghiệt Long Chùy-Linh Vũ	14	0	Phá Sơn Đao-Nghiệp Hỏa
+SaNgộTĩnh	Long Uyên Kiếm-Linh Vũ	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+AnhBaChàCú	Huyền Thiết Kiếm-Hoàng Quang	14	0	Kim Qua Chùy-Ô Sương
+ThúNhún	Long Uyên Kiếm-Linh Vũ	12	0	Thanh Sương Kiếm-Vân Phách
+BạchLongMã	Long Uyên Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Thực Cốt
+HànTín	Thanh Sương Kiếm-Triệt Cốt	12	0	Thanh Sương Kiếm-Triệt Cốt
+LãoNhị	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+HeoKuteHộtMe	Thất Tinh Thấu Cốt-Tâm Nhãn	14	0	Thanh Sương Kiếm-Vân Phách
+Bà6LồnLửa	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+LãoTứ	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+LãoTứ	Sơn Văn Tự Giáp-Chu Thiềm	12	1	Sơn Quỷ Trang-Diên Dương
+LãoNgũ	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+hoangnam	Thất Tinh Thấu Cốt-Cự Mộc	14	1	Hàm Sa Xạ Ảnh-Ô Sương
+TràĐá	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Thương Lang
+TràChanh	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+LãoĐại	Huyền Thiết Kiếm-Hoàng Quang	14	1	Phá Sơn Đao-Nghiệp Hỏa
+ĐạiSưHuynh	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+LãoNhị	Sơn Văn Tự Giáp-Chu Thiềm	12	1	Tỏa Tử Hoàng Kim Giáp-Diên Dương
+TamSưHuynh	Huyền Thiết Kiếm-Triệt Cốt	14	0	Phá Sơn Đao-Nghiệp Hỏa
+TràVải	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+TràTắc	Huyền Thiết Kiếm-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+TràĐào	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Thương Lang
+TràĐường	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+TẩyTủyKinh	Huyền Thiết Kiếm-Thực Cốt	14	0	Thanh Sương Kiếm-Vân Phách
+ĐạiSưHuynh	Long Thủ Bội-Diên Dương	12	1	Long Thủ Bội-Diên Dương
+00000E	Thất Tinh Thấu Cốt-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+DépLàoDM	Long Thủ Bội-Chí mạng	12	1	Côn Bằng Bội-Thanh Phong
+00000R	Giác Hải Bổng-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+DépLàoMN	Thương Khung Giới-Việt Quang	12	1	Hình Thiên Giới-Việt Quang
+ConSóngTN	Tiên Xạ Hương Nang-Chí mạng	12	0	Già Nam Hương Nang-Chu Thiềm
+anhbachacu	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+IIiDTKiII	Tiên Xạ Hương Nang-Việt Quang	12	0	Già Nam Hương Nang-Chí mạng
+IIiDTKiII	Bắc Thần Liên-Diên Dương	12	1	Quần Điểu Liên-Quy Nguyên
+banloile	Chu Tâm Tiễn-Ô Sương	12	0	Hàm Sa Xạ Ảnh-Ô Sương
+IIiDTKiII	Huyền Thiết Kiếm-Hoàng Quang	14	2	Thanh Sương Kiếm-Vân Phách
+TứSưTỷ	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+dotchaylong	Huyền Vũ Triền Thủ-Nghiệp Hỏa	12	0	Phá Sơn Đao-Nghiệp Hỏa
+NgũSưHuynh	Huyền Thiết Kiếm-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+LụcSưHuynh	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Thương Lang
+Logitech	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Thực Cốt
+Genius	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Nghiệp Hỏa
+HứaVCường	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+Fuhlen	Long Lân Đao-Diên Dương	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+QCPass	Phá Thiên Kích-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+zZThiênZz	Huyền Thiết Kiếm-Vân Phách	14	0	Thấu Cốt Thương-Thương Lang
+Xigmatek	Tuyệt Ảnh Đao-Toái Trần	14	0	Thanh Sương Kiếm-Vân Phách
+NhatTinh	Yển Nguyệt Đao-Linh Vũ	14	0	Thanh Sương Kiếm-Triệt Cốt
+KingView	Thất Tinh Thấu Cốt-Nghịch Thủy	14	0	Kim Qua Chùy-Thương Lang
+saothuy2	Huyền Thiết Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+saomộc2	Huyền Thiết Kiếm-Triệt Cốt	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+ThầyLangBăm	Huyền Thiết Kiếm-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyLangBăma	Kim Cô Bổng-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyLangBămb	Kinh Lôi Thương-Tâm Nhãn	14	0	Phá Sơn Đao-Nghiệp Hỏa
+LãoĐại	Đông Hải Thúc Yêu-Cự Mộc	12	2	Hoa Hạ Đằng Long Thúc Yêu-Tuyệt
+saohỏa2	Huyền Thiết Kiếm-Triệt Cốt	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyLangBămc	Bạch Hổ Triền Thủ-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyLangBămd	Giác Hải Bổng-Ô Sương	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+ThầyLangBăme	Huyền Thiết Kiếm-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+iIiDMiIi	Huyền Thiết Kiếm-Linh Vũ	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+iIiTYKiIi	Long Lân Đao-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+iIiCLKiIi	Huyền Thiết Kiếm-Thực Cốt	14	0	Thanh Sương Kiếm-Vân Phách
+adminn	Huyền Thiết Kiếm-Hoàng Quang	14	1	Thanh Sương Kiếm-Triệt Cốt
+emtimkim	Huyền Thiết Kiếm-Hoàng Quang	14	0	Chu Tước Triền Thủ-Nghiệp Hỏa
+iIiMNiIi	Bạch Hổ Triền Thủ-Phá Quân	14	0	Phá Sơn Đao-Nghiệp Hỏa
+saothổ2	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Thương Lang
+VõĐangKhí	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+ThiênVương	Huyền Thiết Kiếm-Triệt Cốt	14	0	Kim Qua Chùy-Ô Sương
+NgaMiKiếm	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+ĐườngMôn	Giác Hải Bổng-Phá Quân	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+KýSinhTrùng	Long Lân Đao-Nghiệp Hỏa	14	0	Phá Sơn Đao-Thương Lang
+zzzdmttzzz	Long Lân Đao-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+zzzMGCxxx	Long Lân Đao-Hoàng Quang	14	0	Kim Qua Chùy-Thương Lang
+zzzMNxxx	Long Lân Đao-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+zzzTYKxxx	Long Lân Đao-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+NgọcHoàng	Huyền Thiết Kiếm-Tâm Nhãn	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyTrừTà	Kinh Lôi Thương-Hoàng Quang	14	0	Kim Qua Chùy-Thương Lang
+ThầyTrừTàb	Long Lân Đao-Diên Dương	14	0	Thanh Sương Kiếm-Vân Phách
+HắcHóa	Huyền Thiết Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+zzzMNBxxx	Long Lân Đao-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+ThầyTrừTàa	Giác Hải Bổng-Diên Dương	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+ThiênNhẫnĐao	Yển Nguyệt Đao-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyTrừTàc	Huyền Thiết Kiếm-Phá Quân	14	0	Thanh Sương Kiếm-Triệt Cốt
+HắcQuái	Long Lân Đao-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+GiảiTrí	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+ThúGâyLú	Phách Phong Đao-Thương Lang	12	0	Kim Qua Chùy-Thương Lang
+ThầyTrừTàd	Bạch Hổ Triền Thủ-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+admiin	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+NgaMiCóChim	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+adimiin	Huyền Thiết Kiếm-Hoàng Quang	14	0	Kim Qua Chùy-Ô Sương
+adminm	Huyền Thiết Kiếm-Triệt Cốt	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+TràngTiÊnXinh	Nghiệt Long Chùy-Toái Trần	14	0	Thanh Sương Kiếm-Vân Phách
+ChếtNè	Nghiệt Long Chùy-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+TràngTiÊnXinh	Bắc Thần Liên-Diên Dương	12	1	Quần Điểu Liên-Lâm Li
+TràngTYK	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+TiêuFe	Huyền Thiết Kiếm-Hoàng Quang	13	0	Thanh Sương Kiếm-Thực Cốt
+ĐườngLiên	Huyền Thiết Kiếm-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+TamTinh	Thất Tinh Thấu Cốt-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+LôiVôKiệt	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Thương Lang
+TôKhắcNhi	Bạch Hổ Triền Thủ-Diên Dương	13	0	Hàm Sa Xạ Ảnh-Ô Sương
+TràngVDK	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+HHHHHHHHH	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+TràngDMTT	Huyền Thiết Kiếm-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+philippin	Long Lân Đao-Hoàng Long	14	0	Thanh Sương Kiếm-Triệt Cốt
+TràngTLD	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Thương Lang
+TràngTLD	Long Thủ Bội-Cự Mộc	12	1	Long Thủ Bội-Hoàng Quang
+asian2	Giác Hải Bổng-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+LãoĐại	Triều Lộ Liên-Cự Mộc	14	3	Quần Điểu Liên-Chí mạng
+WthichbuliemW	Long Lân Đao-Tâm Nhãn	14	0	Thanh Sương Kiếm-Thực Cốt
+asian3	Nghiệt Long Chùy-Phá Quân	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+Thailand	Thất Tinh Thấu Cốt-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+asian5	Giác Hải Bổng-Tâm Nhãn	14	0	Phá Sơn Đao-Lạc Lôi
+asian4	Bạch Hổ Triền Thủ-Hoàng Quang	14	0	Kim Qua Chùy-Thương Lang
+TôTiểuYến	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Thực Cốt
+VươngCường	Long Lân Đao-Phi Yến	14	1	Phá Sơn Đao-Hàn Băng
+TôThiếuGia	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+VôTâm	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+40ThiênLạc	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+NhượcY	Huyền Thiết Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+DConSóngVĐ	Bắc Thần Liên-Diên Dương	12	0	Quần Điểu Liên-Phục Thạch
+DConSóngVĐ	Long Thủ Bội-Việt Quang	12	1	Côn Bằng Bội-Thanh Phong
+HoiUcKT	Huyền Thiết Kiếm-Việt Quang	14	1	Phá Sơn Đao-Nghiệp Hỏa
+DoatMenh	Bạch Hổ Triền Thủ-Chu Thiềm	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+CConSóngDM	Bắc Thần Liên-Chu Thiềm	12	0	Bắc Thần Liên-Chí mạng
+CConSóngDM	Long Thủ Bội-Diên Dương	12	1	Côn Bằng Bội-Chí mạng
+CConSóngDM	Huyền Thiết Kiếm-Hoàng Quang	14	2	Hàm Sa Xạ Ảnh-Hàn Băng
+EConSóngTN	Bắc Thần Liên-Cự Mộc	12	0	Bắc Thần Liên-Chí mạng
+EConSóngTN	Long Thủ Bội-Chu Thiềm	12	1	Côn Bằng Bội-Thanh Phong
+OhOooo	Huyền Thiết Kiếm-Việt Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+SpLine	Long Lân Đao-Chu Thiềm	14	0	Kim Qua Chùy-Thương Lang
+EConSóngTN	Huyền Thiết Kiếm-Hoàng Quang	14	2	Phá Sơn Đao-Nghiệp Hỏa
+DConSóngVĐ	Huyền Thiết Kiếm-Hoàng Quang	14	2	Thanh Sương Kiếm-Vân Phách
+DConSóngVĐ	Quần Điểu Liên-Phục Thạch	12	3	Bắc Thần Liên-Quy Nguyên
+SaoMai	Trầm Đàn Hương Nang-Chí mạng	12	1	Già Nam Hương Nang-Quy Nguyên
+AConSóngMGC	Huyền Thiết Kiếm-Hoàng Quang	14	0	Kim Qua Chùy-Thương Lang
+AConSóngMGC	Thương Khung Giới-Diên Dương	12	1	Thương Khung Giới-Phục Thạch
+AConSóngMGC	Bắc Thần Liên-Nghịch Thủy	12	2	Quần Điểu Liên-Thiên Sơn
+XeSốMột	Nghiệt Long Chùy-Tâm Nhãn	14	0	Phá Sơn Đao-Nghiệp Hỏa
+SaoMai	Huyền Thiết Kiếm-Linh Vũ	14	2	Thanh Sương Kiếm-Triệt Cốt
+XeSốHai	Bạch Hổ Triền Thủ-Phá Quân	14	0	Phá Sơn Đao-Nghiệp Hỏa
+XeSốBa	Bạch Hổ Triền Thủ-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+XeSốBốn	Nghiệt Long Chùy-Phá Quân	14	0	Phá Sơn Đao-Nghiệp Hỏa
+XeSốNăm	Nghiệt Long Chùy-Phi Yến	14	0	Phá Sơn Đao-Nghiệp Hỏa
+XeSốSáu	Bạch Hổ Triền Thủ-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+KiếmVôCực	Nghiệt Long Chùy-Diên Dương	14	0	Thanh Sương Kiếm-Vân Phách
+CáChàBặc	Huyền Thiết Kiếm-Triệt Cốt	13	0	Hàm Sa Xạ Ảnh-Ô Sương
+KiếmVôTâm	Phá Thiên Kích-Linh Vũ	14	0	Thanh Sương Kiếm-Vân Phách
+AnhBaBáo	Huyền Thiết Kiếm-Triệt Cốt	14	0	Phá Sơn Đao-Nghiệp Hỏa
+KiếmVôTình	Nghiệt Long Chùy-Diên Dương	14	0	Thanh Sương Kiếm-Vân Phách
+CôBéBánDâm	Huyền Thiết Kiếm-Triệt Cốt	14	0	Phá Sơn Đao-Lạc Lôi
+KiếmVôDanh	Huyền Thiết Kiếm-Phá Quân	14	0	Thanh Sương Kiếm-Vân Phách
+KiếmVôTận	Bạch Hổ Triền Thủ-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+NhiTinh	Thất Tinh Thấu Cốt-Tâm Nhãn	14	0	Phá Sơn Đao-Nghiệp Hỏa
+KiếmVôNgã	Giác Hải Bổng-Toái Trần	14	0	Thanh Sương Kiếm-Vân Phách
+TuTinh	Thất Tinh Thấu Cốt-Tâm Nhãn	14	0	Thanh Sương Kiếm-Vân Phách
+NguTinh	Thất Tinh Thấu Cốt-Ô Sương	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+HắcHỏa	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+LãoTứ	Đông Hải Thúc Yêu-Nghịch Thủy	12	2	Long Bàn Thúc Yêu-Phục Thạch
+HắcHổ	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+ooOGameOVerOoo	Nghiệt Long Chùy-Thương Lang	14	0	Kim Qua Chùy-Thương Lang
+TôVânSơn	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Thương Lang
+LucTinh	Thất Tinh Thấu Cốt-Ô Sương	14	0	Thanh Sương Kiếm-Triệt Cốt
+MaNhẫnI	Long Lân Đao-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+TàThầnMGll	Nghiệt Long Chùy-Linh Vũ	14	0	Thanh Sương Kiếm-Vân Phách
+adumin	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+ThiênTôn	Huyền Thiết Kiếm-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+TàThầnMNll	Kinh Lôi Thương-Phi Yến	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThiênLong	Long Lân Đao-Diên Dương	14	0	Kim Qua Chùy-Ô Sương
+adumiin	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+ThiênĐế	Kinh Lôi Thương-Đoạn Hải	14	0	Phá Sơn Đao-Nghiệp Hỏa
+aduminn	Huyền Thiết Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+TàThầnCLĐll	Bạch Hổ Triền Thủ-Toái Trần	14	0	Phá Sơn Đao-Thương Lang
+adminnn	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+TàThầnTYkll	Tuyệt Ảnh Đao-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+TàThầnTVCll	Nghiệt Long Chùy-Phá Quân	14	0	Kim Qua Chùy-Thương Lang
+NhịSưTỷ	Huyền Thiết Kiếm-Phá Quân	14	0	Thanh Sương Kiếm-Triệt Cốt
+Gumayusii	Giác Hải Bổng-Việt Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+Rulerr	Huyền Thiết Kiếm-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThiênSứ	Tuyệt Ảnh Đao-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+ThiênĐường	Long Lân Đao-Phá Quân	14	0	Thanh Sương Kiếm-Triệt Cốt
+ThiênNhiên	Kinh Lôi Thương-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+ĐạiSưHuynh	Huyền Thiết Kiếm-Hoàng Quang	14	2	Thanh Sương Kiếm-Triệt Cốt
+EmChưaMười9	Kinh Lôi Thương-Phi Yến	14	0	Phá Sơn Đao-Nghiệp Hỏa
+EmChưaMười8a	Kinh Lôi Thương-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+EmChưaMười8b	Kinh Lôi Thương-Toái Trần	14	0	Phá Sơn Đao-Nghiệp Hỏa
+EmChưaMười8c	Kinh Lôi Thương-Phi Yến	14	0	Phá Sơn Đao-Nghiệp Hỏa
+EmChưaMười8d	Kinh Lôi Thương-Phá Quân	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+AnhBaChàCú	Kim Qua Chùy-Ô Sương	14	1	Thanh Sương Kiếm-Thực Cốt
+CáChàBu	Long Lân Đao-Tâm Nhãn	14	0	Kim Qua Chùy-Thương Lang
+ddddddddddd	Huyền Thiết Kiếm-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+HoàngCave	Huyền Thiết Kiếm-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+ngốnèhai	Giác Hải Bổng-Toái Trần	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+ThầyLangGià	Kinh Lôi Thương-Toái Trần	14	0	Phá Sơn Đao-Nghiệp Hỏa
+MaNhẫnIII	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyLangGiàa	Giác Hải Bổng-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyLangGiàb	Giác Hải Bổng-Toái Trần	14	0	Phá Sơn Đao-Nghiệp Hỏa
+MaNhẫnIV	Tuyệt Ảnh Đao-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyLangGiàc	Nghiệt Long Chùy-Tâm Nhãn	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyLangGiàd	Huyền Thiết Kiếm-Chu Tước	12	0	Hàm Sa Xạ Ảnh-Ô Sương
+MaNhẫnII	Long Lân Đao-Thương Lang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+AnhNôngDân	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+ChịNôngDân	Huyền Thiết Kiếm-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+MaNhẫnV	Long Lân Đao-Thương Lang	14	0	Thanh Sương Kiếm-Vân Phách
+ChúNôngDân	Huyền Thiết Kiếm-Hoàng Quang	14	0	Kim Qua Chùy-Thương Lang
+CôNôngDân	Huyền Thiết Kiếm-Vân Phách	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyLangGiàdd	Bạch Hổ Triền Thủ-Tâm Nhãn	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+BácNôngDân	Huyền Thiết Kiếm-Vân Phách	14	0	Thanh Sương Kiếm-Vân Phách
+ĐamMêCày	Kinh Lôi Thương-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+EmNôngDân	Long Lân Đao-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+ngốnèba	Huyền Thiết Kiếm-Việt Quang	14	0	Thanh Sương Kiếm-Vân Phách
+ngốnèbốn	Nghiệt Long Chùy-Phá Quân	14	0	Thanh Sương Kiếm-Vân Phách
+ngốnènăm	Bạch Hổ Triền Thủ-Linh Vũ	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ngốnèmột	Nghiệt Long Chùy-Phá Quân	14	0	Thanh Sương Kiếm-Triệt Cốt
+EmChưaMười8e	Huyền Thiết Kiếm-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+HoàngCavee	Kinh Lôi Thương-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+HoàngCaveee	Kinh Lôi Thương-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+HoàngCaveeeee	Kinh Lôi Thương-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+HoàngCaveeeeee	Long Lân Đao-Tâm Nhãn	14	0	Kim Qua Chùy-Ô Sương
+HoàngCaveeee	Long Lân Đao-Việt Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+PhụngCôngTử	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+MộcPhụng	Huyền Thiết Kiếm-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+HoảPhụng	Huyền Thiết Kiếm-Vân Phách	14	0	Phá Sơn Đao-Nghiệp Hỏa
+KimPhụng	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThổPhụng	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+ThuỷPhụng	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+NảiChuối9	Bạch Hổ Triền Thủ-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+LãoTam	Long Thủ Bội-Quy Nguyên	12	1	Côn Bằng Bội-Chí mạng
+NảiChuối9a	Long Lân Đao-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+NảiChuối9b	Huyền Thiết Kiếm-Phá Quân	14	0	Phá Sơn Đao-Nghiệp Hỏa
+NgaMiCóChim	Bắc Thần Liên-Chu Thiềm	12	1	Quần Điểu Liên-Thiên Sơn
+NảiChuối9c	Huyền Thiết Kiếm-Linh Vũ	14	0	Phá Sơn Đao-Nghiệp Hỏa
+NảiChuối9d	Kinh Lôi Thương-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+NảiChuối9e	Long Lân Đao-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+Giabao	Long Lân Đao-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+LãoTam	Xạ Nhật Hộ Uyển-Tâm Nhãn	12	2	Võ Thần Hộ Uyển-Thiên Sơn
+ccccccccccccc	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ZzMẫnMẫnzZ	Thanh Sương Kiếm-Vân Phách	12	0	Thanh Sương Kiếm-Diên Dương
+ZzMẫnMẫnzZ	Thanh Sương Kiếm-Diên Dương	13	1	Thanh Sương Kiếm-Vân Phách
+eeeeeeeeeeeee	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+ffffffffffffff	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+bbbbbbbbbbbbbb	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+00000W	Kinh Lôi Thương-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+zzlụmzz	Thất Tinh Thấu Cốt-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+RồngXanh	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Lạc Lôi
+zbufloilonz	Long Lân Đao-Lạc Lôi	14	0	Thanh Sương Kiếm-Thực Cốt
+zGiatteTez	Long Lân Đao-Tâm Nhãn	14	0	Thanh Sương Kiếm-Vân Phách
+zBeHatLuz	Long Lân Đao-Tâm Nhãn	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+NhịNương	Huyền Thiết Kiếm-Vân Phách	14	0	Thanh Sương Kiếm-Vân Phách
+TamNương	Huyền Thiết Kiếm-Vân Phách	14	0	Phá Sơn Đao-Nghiệp Hỏa
+TamNương	Bắc Thần Liên-Cự Mộc	12	1	Quần Điểu Liên-Chí mạng
+TamNương	Tiên Xạ Hương Nang-Chu Thiềm	12	2	Già Nam Hương Nang-Quy Nguyên
+NgũNương	Huyền Thiết Kiếm-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+LụcNương	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+zZzThanTaiAAzZz	Huyền Thiết Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+TôTiểuLy	Long Lân Đao-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+adminmn	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+zZzThanTaiBBzZz	Thất Tinh Thấu Cốt-Ô Sương	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+ThầyLangBéo	Giác Hải Bổng-Phi Yến	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyLangBéoa	Huyền Thiết Kiếm-Hoàng Long	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyLangBéob	Giác Hải Bổng-Linh Vũ	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyLangBéoc	Huyền Thiết Kiếm-Hấp Tinh	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThầyLangBéod	Giác Hải Bổng-Phá Quân	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+ThầyLangBéoe	Bạch Hổ Triền Thủ-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+anhbachacu	Triều Lộ Liên-Hoàng Quang	14	1	Quần Điểu Liên-Chí mạng
+lBéHộtLu	Huyền Thiết Kiếm-Triệt Cốt	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+zZzThanTaiCCzZz	Long Lân Đao-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+CôCô	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+zZzThanTaiDDzZz	Huyền Thiết Kiếm-Vân Phách	14	0	Thanh Sương Kiếm-Vân Phách
+TrươngLong	Huyền Thiết Kiếm-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+zZzThanTaiEEzZz	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+VươngTriều	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+MãHán	Huyền Thiết Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+LụcNương	Triều Lộ Liên-Hoàng Quang	14	1	Quần Điểu Liên-Phục Thạch
+KẻMangTâmSự	Huyền Thiết Kiếm-Việt Quang	14	1	Thanh Sương Kiếm-Triệt Cốt
+ZzMMzZMộc	Huyền Thiết Kiếm-Vân Phách	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+ZzMMzZThổ	Kinh Lôi Thương-Phá Quân	14	0	Phá Sơn Đao-Thương Lang
+anhbachacu	Bắc Minh Bội-Hoàng Quang	14	2	Côn Bằng Bội-Quy Nguyên
+ZzMMzZHỏa	Kinh Lôi Thương-Phá Quân	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ZzMMzZThủy	Thất Tinh Thấu Cốt-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+ZzMMzZKim	Long Lân Đao-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+SauThienThu89	Kim Qua Chùy-Ô Sương	12	2	Phá Sơn Đao-Ô Sương
+Viperrr	Kinh Lôi Thương-Phi Yến	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+Gumayusi	Kim Cô Bổng-Toái Trần	14	0	Phá Sơn Đao-Lạc Lôi
+SauThienThu89	Long Lân Đao-Tâm Nhãn	14	3	Phá Sơn Đao-Ô Sương
+WuKong	Phá Sơn Đao-Nghiệp Hỏa	14	2	Kim Qua Chùy-Chích Viêm
+WuKong	Côn Bằng Bội-Thiên Sơn	12	3	Côn Bằng Bội-Chí mạng
+ĐạiThiếuGia	Long Uyên Kiếm-Linh Vũ	15	0	Thanh Sương Kiếm-Vân Phách
+KẻCôĐơn	Kinh Lôi Thương-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+KẻCôĐơna	Nghiệt Long Chùy-Phá Quân	14	0	Thanh Sương Kiếm-Triệt Cốt
+KẻCôĐơnb	Kinh Lôi Thương-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+KẻCôĐơnc	Thanh Long Triền Thủ-Nghiệp Hỏa	14	0	Thanh Sương Kiếm-Triệt Cốt
+KẻCôĐơnd	Long Lân Đao-Toái Trần	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+KẻCôĐơne	Nghiệt Long Chùy-Phá Quân	14	0	Thanh Sương Kiếm-Triệt Cốt
+TrầnTháiTổ	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Nghiệp Hỏa
+TiềmLong	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+HồTiểuMinh	Long Lân Đao-Nghiệp Hỏa	14	0	Thanh Sương Kiếm-Thực Cốt
+MộtNhát	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+PhongLinh	Tiên Xạ Hương Nang-Diên Dương	12	0	Tiên Xạ Hương Nang-Thanh Phong
+BinhKhíLâmAn	Tuyệt Ảnh Đao-Cự Mộc	14	0	Kim Qua Chùy-Thương Lang
+EmChưaMười8	Tuyệt Ảnh Đao-Toái Trần	14	0	Phá Sơn Đao-Nghiệp Hỏa
+EmChưaMười8	Thất Tinh Thấu Cốt-Diên Dương	2	1	Phá Sơn Đao-Nghiệp Hỏa
+TửuLầuLâmAn	Bạch Hổ Triền Thủ-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+xxlụmxx	Huyền Thiết Kiếm-Hoàng Quang	14	0	Kim Qua Chùy-Thương Lang
+cclụmcc	Long Lân Đao-Diên Dương	14	0	Kim Qua Chùy-Thương Lang
+vvlụmvv	Kim Cô Bổng-Phá Quân	14	0	Thanh Sương Kiếm-Vân Phách
+TriệuHổ	Huyền Thiết Kiếm-Hoàng Quang	14	0	Kim Qua Chùy-Ô Sương
+ThuốcLâmAn	Thất Tinh Thấu Cốt-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+VinFast	Huyền Thiết Kiếm-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+bblụmbb	Kinh Lôi Thương-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+saothổ2	Phá Sơn Đao-Thương Lang	14	1	Phá Sơn Đao-Nghiệp Hỏa
+TrangSứcLâmAn	Huyền Thiết Kiếm-Phá Quân	14	0	Phá Sơn Đao-Thương Lang
+LưuDung	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+JACKIELove	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Thương Lang
+ĐinhLực	Huyền Thiết Kiếm-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+zZzThanTaiCCzZz	Triều Lộ Liên-Cự Mộc	14	1	Quần Điểu Liên-Thiên Sơn
+SốMộta	Kinh Lôi Thương-Thực Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+SốMộtb	Huyền Thiết Kiếm-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+SốMộtc	Nghiệt Long Chùy-Toái Trần	13	0	Thanh Sương Kiếm-Triệt Cốt
+SốMột2c	Long Lân Đao-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+SốMộtd	Thất Tinh Thấu Cốt-Linh Vũ	14	0	Thanh Sương Kiếm-Triệt Cốt
+SốMộte	Long Lân Đao-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+SốMộtf	Kinh Lôi Thương-Chu Thiềm	14	0	Thanh Sương Kiếm-Triệt Cốt
+Uziiii	Kinh Lôi Thương-Toái Trần	14	0	Kim Qua Chùy-Ô Sương
+ĐệNgũ	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+HaiNhát	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+Cherry	Nghiệt Long Chùy-Linh Vũ	14	0	Phá Sơn Đao-Nghiệp Hỏa
+TrầnTháiTông	Long Lân Đao-Thương Lang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+SốHaib	Nghiệt Long Chùy-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+SiêuThú	Bạch Hổ Triền Thủ-Hoàng Quang	14	1	Phá Sơn Đao-Hàn Băng
+SốHaia	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+SốHaic	Thất Tinh Thấu Cốt-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+SốHaid	Nghiệt Long Chùy-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+SốHaie	Nghiệt Long Chùy-Phá Quân	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+SốHaif	Huyền Thiết Kiếm-Chu Tước	14	0	Thanh Sương Kiếm-Triệt Cốt
+kimthu	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Lạc Lôi
+NghienCafein	Long Lân Đao-Diên Dương	14	0	Kim Qua Chùy-Ô Sương
+BaNhát	Huyền Thiết Kiếm-Vân Phách	13	0	Hàm Sa Xạ Ảnh-Ô Sương
+NghienCoke	Nghiệt Long Chùy-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+PhongLinh	Thiên Ma Phù-Cự Mộc	12	1	Thanh Hư Phù-Tuyệt
+zinzin	Lăng La Sam-Chu Thiềm	12	0	Bách Điểu Sam-Hàn
+zinzin	Thiên Ma Phù-Cự Mộc	12	1	Thanh Hư Phù-Tuyệt
+BốnNhát	Huyền Thiết Kiếm-Vân Phách	14	0	Phá Sơn Đao-Thương Lang
+LênPhườngoIo	Huyền Thiết Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+LênXãoIo	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Thực Cốt
+LênHuyệnoIo	Long Lân Đao-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+LênTỉnhoIo	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+LênBộoIo	Thất Tinh Thấu Cốt-Tâm Nhãn	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+Tanker	Thất Tinh Thấu Cốt-Diên Dương	14	0	Kim Qua Chùy-Thương Lang
+ooOGameOVerOoo	Triều Lộ Liên-Hoàng Quang	14	1	Quần Điểu Liên-Chí mạng
+SòLông	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+SốBa	Thiên Ngoại Phi Tiên-Diên Dương	14	0	Thanh Sương Kiếm-Vân Phách
+SốBaa	Kim Cô Bổng-Diên Dương	14	0	Thanh Sương Kiếm-Vân Phách
+SốBab	Nghiệt Long Chùy-Tâm Nhãn	14	0	Thanh Sương Kiếm-Vân Phách
+SốBac	Kinh Lôi Thương-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+SốBad	Kinh Lôi Thương-Cự Mộc	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+SốBae	Huyền Thiết Kiếm-Phi Yến	14	0	Thanh Sương Kiếm-Vân Phách
+BéoKaKa	Kinh Lôi Thương-Vân Phách	14	0	Thanh Sương Kiếm-Thực Cốt
+TrầnNhânTông	Long Lân Đao-Thương Lang	14	0	Kim Qua Chùy-Thương Lang
+aduminnnn	Huyền Thiết Kiếm-Hoàng Quang	14	0	Quang Liên Đao-Ô Sương
+TràĐá	Phá Sơn Đao-Thương Lang	14	1	Thanh Sương Kiếm-Vân Phách
+TriểnTriêu	Huyền Thiết Kiếm-Tâm Nhãn	14	0	Phá Sơn Đao-Ô Sương
+TestGame	Nghiệt Long Chùy-Chu Thiềm	14	0	Thanh Sương Kiếm-Triệt Cốt
+TìnhNghĩa	Thiên Ngoại Phi Tiên-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+TiếnXKLĐ	Long Uyên Kiếm-Linh Vũ	14	0	Thanh Sương Kiếm-Triệt Cốt
+TrầnAnhTông	Long Lân Đao-Thương Lang	14	0	Thanh Sương Kiếm-Triệt Cốt
+TiềmLong	Trục Lộc Thiên Hựu Liên	14	1	Trục Lộc Thiên Hựu Liên
+HoàngCaveeeee	Tiên Xạ Hương Nang-Chu Thiềm	12	1	Tiên Xạ Hương Nang-Diên Dương
+ChếtNè	Thanh Sương Kiếm-Triệt Cốt	14	1	Thanh Sương Kiếm-Triệt Cốt
+Koreaa	Huyền Thiết Kiếm-Hoàng Quang	14	0	Kim Qua Chùy-Thương Lang
+TrầnMinhTông	Long Lân Đao-Thương Lang	14	0	Thanh Sương Kiếm-Vân Phách
+HắcHọa	Nghiệt Long Chùy-Tâm Nhãn	14	0	Kim Qua Chùy-Thương Lang
+HắcHoắc	Thất Tinh Thấu Cốt-Tâm Nhãn	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+HắcNữ	Huyền Thiết Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+PhongLinh	Giác Hải Bổng-Hoàng Quang	14	2	Thanh Sương Kiếm-Triệt Cốt
+BảoNgọc	Huyền Thiết Kiếm-Việt Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+xekeos2	Thanh Sương Kiếm-Thực Cốt	12	0	Hàm Sa Xạ Ảnh-Toái Trần
+ThúBay	Long Lân Đao-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThúBông	Thất Tinh Thấu Cốt-Ô Sương	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+SốBốna	Long Lân Đao-Hàn Băng	14	0	Thanh Sương Kiếm-Triệt Cốt
+SốBốnb	Giác Hải Bổng-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+SốBốnc	Nghiệt Long Chùy-Lạc Lôi	14	0	Thanh Sương Kiếm-Triệt Cốt
+SốBốnd	Kim Cô Bổng-Diên Dương	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+SốBốne	Kinh Lôi Thương-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+sauthienthu2	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ĐàiLoan	Huyền Thiết Kiếm-Hoàng Quang	13	0	Hàm Sa Xạ Ảnh-Ô Sương
+sauthienthu3	Long Lân Đao-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+SauThienThu89	Bắc Thần Liên-Việt Quang	12	4	Quần Điểu Liên-Minh
+TôThiênViên	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Lạc Lôi
+VũHoàng	Thanh Sương Kiếm-Triệt Cốt	12	0	Thấu Cốt Thương-Việt Quang
+CánBộThôn	Xích Tiêu Kiếm-Triệt Cốt	12	0	Thanh Sương Kiếm-Thực Cốt
+LênBôoIo	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+NhatTinh	Bắc Thần Liên-Chu Thiềm	12	1	Quần Điểu Liên-Diên Dương
+sauthienthu5	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Lạc Lôi
+saythienthu4	Long Lân Đao-Tâm Nhãn	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+TuyếtĐaoSơn	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Lạc Lôi
+sauthienthu6	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Hàn Băng
+HHHHHHHHH	Huyền Thiết Kiếm-Hoàng Quang	13	1	Phá Sơn Đao-Hàn Băng
+ĐạiPhongĐao	Nghiệt Long Chùy-Hoàng Quang	14	0	Phá Sơn Đao-Lạc Lôi
+PháPhongĐao	Bạch Hổ Triền Thủ-Hoàng Quang	14	0	Phá Sơn Đao-Lạc Lôi
+TrảmMãĐao	Long Lân Đao-Chu Tước	14	0	Phá Sơn Đao-Lạc Lôi
+QuỷĐầuĐao	Nghiệt Long Chùy-Linh Vũ	14	0	Phá Sơn Đao-Lạc Lôi
+ThanhLongĐao	Giác Hải Bổng-Ô Sương	14	0	Phá Sơn Đao-Lạc Lôi
+PháThiênĐao	Bạch Hổ Triền Thủ-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+TiểuMuội	Kinh Lôi Thương-Phi Yến	14	0	Thanh Sương Kiếm-Triệt Cốt
+TụTiễn	Kinh Lôi Thương-Linh Vũ	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+Giathinh	Nghiệt Long Chùy-Thương Lang	14	0	Kim Qua Chùy-Thương Lang
+TamTinh	Thanh Sương Kiếm-Triệt Cốt	14	1	Phá Sơn Đao-Hàn Băng
+ooMeguri	Kinh Lôi Thương-Phi Yến	13	0	Thanh Sương Kiếm-Thực Cốt
+BạchLong	Nghiệt Long Chùy-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+ThanhLong	Giác Hải Bổng-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+BạchHổ	Giác Hải Bổng-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+ChuTướcc	Long Lân Đao-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+HuyềnVũ	Kinh Lôi Thương-Huyền Vũ	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+CôngChúa	Huyền Thiết Kiếm-Việt Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+NgaMyBuff	Yển Nguyệt Đao-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+TamTinh	Bắc Thần Liên-Chu Thiềm	12	2	Quần Điểu Liên-Chí mạng
+o0oVF3o0o	Kinh Lôi Thương-Diên Dương	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+o0oVF5o0	Tuyệt Ảnh Đao-Toái Trần	14	0	Phá Sơn Đao-Nghiệp Hỏa
+o0oVFe34o0o	Kinh Lôi Thương-Phá Quân	14	0	Kim Qua Chùy-Ô Sương
+CánBộThôn	Thanh Sương Kiếm-Thực Cốt	12	1	Xích Tiêu Kiếm-Triệt Cốt
+CánBộThôn	Long Lân Đao-Diên Dương	14	2	Thanh Sương Kiếm-Thực Cốt
+zÔngBố2Conz	Long Lân Đao-Nghịch Thủy	14	0	Thanh Sương Kiếm-Triệt Cốt
+ABốĐường	Nghiệt Long Chùy-Phá Quân	14	0	Thanh Sương Kiếm-Vân Phách
+BSugerBaBy	Giác Hải Bổng-Linh Vũ	14	0	Thanh Sương Kiếm-Triệt Cốt
+CBốBanz	Giác Hải Bổng-Hấp Tinh	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+Banana	Tuyệt Ảnh Đao-Ô Sương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+Grapé	Nghiệt Long Chùy-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+CáChàBu	Bắc Thần Liên-Nghịch Thủy	12	1	Quần Điểu Liên-Truy Ảnh
+Mangỏ	Giác Hải Bổng-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+DBốĐời	Kinh Lôi Thương-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+PhóngChuỳRùa	Thanh Long Triền Thủ-Diên Dương	14	0	Kim Qua Chùy-Thương Lang
+PhóngChuỳGà	Giác Hải Bổng-Tâm Nhãn	14	0	Kim Qua Chùy-Thương Lang
+HHHHHHHHH	Thanh Sương Kiếm-Vân Phách	14	2	Thanh Sương Kiếm-Vân Phách
+TiểuNgưNhi	Long Uyên Kiếm-Vân Phách	15	0	Thanh Sương Kiếm-Triệt Cốt
+PhiChuỳGà	Nghiệt Long Chùy-Phá Quân	14	0	Kim Qua Chùy-Thương Lang
+PhiChuỳĐần	Thiên Ngoại Phi Tiên-Chu Tước	14	0	Kim Qua Chùy-Thương Lang
+PhiChuỳLệch	Kinh Lôi Thương-Hoàng Quang	14	0	Kim Qua Chùy-Thương Lang
+PhiChuỳHụt	Thanh Long Triền Thủ-Diên Dương	14	0	Kim Qua Chùy-Thương Lang
+o0oVF6o0o	Nghiệt Long Chùy-Toái Trần	14	0	Thấu Cốt Thương-Thương Lang
+o0oVF7o0o	Thất Tinh Thấu Cốt-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+TCQGaming	Long Uyên Kiếm-Vân Phách	15	1
+PhongLinh	Thanh Sương Kiếm-Triệt Cốt	14	3	Thanh Sương Kiếm-Triệt Cốt
+TiểuNgưNhi	Long Uyên Kiếm-Vân Phách	14	1
+TiểuNgưNhi	Long Uyên Kiếm-Vân Phách	14	1	Thanh Sương Kiếm-Triệt Cốt
+ĐỗTIênTiên	Giác Hải Bổng-Hoàng Quang	14	0	Chu Tước Triền Thủ-Nghiệp Hỏa
+THtruemilk	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+LãoTứss	Nghiệt Long Chùy-Tâm Nhãn	14	0	Kim Qua Chùy-Thương Lang
+TôTúNhi	Bạch Hổ Triền Thủ-Diên Dương	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+anhbachacu	Bắc Minh Bội-Thiên Sơn	14	3	Côn Bằng Bội-Diên Dương
+WuKong	Bắc Minh Bội-Hoàng Quang	14	4	Côn Bằng Bội-Chí mạng
+HoắcVũKa	Long Lân Đao-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+dotchaylong	Triều Lộ Liên-Hoàng Quang	14	1	Quần Điểu Liên-Thiên Sơn
+PhụTrợMáu	Long Lân Đao-Hoàng Quang	13	0	Thanh Sương Kiếm-Triệt Cốt
+BạchLongMã	Thanh Sương Kiếm-Thực Cốt	14	1	Thanh Sương Kiếm-Vân Phách
+BạchLongMã	Long Uyên Kiếm-Triệt Cốt	13	2	Thanh Sương Kiếm-Thực Cốt
+DépLàoTYK	Bắc Thần Liên-Chí mạng	12	1	Trục Lộc Thiên Hựu Liên
+DépLàoTYK	Ngọa Hổ Thúc Yêu-Diên Dương	12	2	Trục Lộc Hoàng Long Triền Yêu
+PhongLinh	Trầm Hương Sam-Chu Thiềm	14	4	Bách Điểu Sam-Hàn
+HoiUcKT	Triều Lộ Liên-Cự Mộc	14	2	Quần Điểu Liên-Lâm Li
+iIiNMiIi	Thanh Sương Kiếm-Triệt Cốt	12	0	Thanh Sương Kiếm-Triệt Cốt
+iIiNMiIi	Huyền Thiết Kiếm-Triệt Cốt	14	1	Thanh Sương Kiếm-Triệt Cốt
+LãoTứss	Võ Thần Hộ Uyển-Cự Mộc	12	1	Xạ Nhật Hộ Uyển-Tuyệt
+LãoĂnMày	Kinh Lôi Thương-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+LãoĐộcVật	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+LãoHoàngGia	Huyền Thiết Kiếm-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+HoàngKimGiáp	Thất Tinh Thấu Cốt-Diên Dương	14	0	Thanh Sương Kiếm-Thực Cốt
+LãoĐôngTà	Phá Thiên Kích-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+LãoGiàKhọm	Thất Tinh Thấu Cốt-Diên Dương	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+MộcGiáp	Long Lân Đao-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+TiểuLongNữ	Phá Thiên Kích-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+ĐỗTửuTam	Kinh Lôi Thương-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ThủyGiáp	Phổ Độ Côn-Huyền Vũ	14	0	Thanh Sương Kiếm-Triệt Cốt
+ĐỗTâmTâm	Long Lân Đao-Bạch Hổ	14	0	Thanh Sương Kiếm-Thực Cốt
+HỏaGiáp	Hàm Sa Xạ Ảnh-Diên Dương	12	0	Phá Sơn Đao-Nghiệp Hỏa
+ĐộcGiáp	Chu Tước Triền Thủ-Diên Dương	14	0	Phá Sơn Đao-Ô Sương
+NgaMyGiap	Thấu Cốt Thương-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+DépLàoMN	Ngọa Hổ Thúc Yêu-Việt Quang	12	2	Trục Lộc Hoàng Long Triền Yêu
+ThúGâyLú	Huyền Thiết Kiếm-Triệt Cốt	14	1	Kim Qua Chùy-Thương Lang
+ThúNhún	Long Uyên Kiếm-Linh Vũ	14	1	Thanh Sương Kiếm-Vân Phách
+DépLàoNM	Bắc Thần Liên-Chu Thiềm	12	0	Trục Lộc Thiên Hựu Liên
+DépLàoNM	Ngạo Mai Ngọc Đái-Nghịch Thủy	12	1	Trục Lộc Hoàng Long Triền Yêu
+ThúBiển	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+HoaBỉNgạn	Bạch Hổ Triền Thủ-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+ChimĐangSun	Thanh Sương Kiếm-Phá Quân	14	3	Phá Sơn Đao-Hàn Băng
+iIiNMiIi	Minh Điệp Phát Kết-Việt Quang	12	2	Phong Lôi Phát Kết-Minh
+HỏaGiáp	Huyền Thiết Kiếm-Hoàng Quang	14	1	Phá Sơn Đao-Nghiệp Hỏa
+ChimĐangSun	Triều Lộ Liên-Hoàng Quang	14	4	Quần Điểu Liên-Diên Dương
+DâuTây	Tuyệt Ảnh Đao-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+NhìnĐéoGì	Nghiệt Long Chùy-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+SóiHoang	Kinh Lôi Thương-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+KêuNhưVạc	Kinh Lôi Thương-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+MútChùnChụt	Kinh Lôi Thương-Diên Dương	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+ĐũyChúa	Huyền Thiết Kiếm-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+asian3	Triều Lộ Liên-Hoàng Quang	14	1	Quần Điểu Liên-Việt Quang
+KhèLửa	Phách Phong Đao-Nghiệp Hỏa	12	0	Hàm Sa Xạ Ảnh-Ô Sương
+DépLào	Thông Thiên Phát Quán-Hoàng Quang	14	4	Trục Lộc Thương Khung Quán
+PhongLinh	Bắc Thần Liên-Chu Thiềm	12	5	Bắc Thần Liên-Chí mạng
+iIiDMiIi	Hàm Sa Xạ Ảnh-Ô Sương	14	1	Hàm Sa Xạ Ảnh-Linh Vũ
+NgũNương	Phá Sơn Đao-Toái Trần	12	1	Phá Sơn Đao-Phá Quân
+DépLàoVĐ	Tử Kim Thúc Ngạch-Nghịch Thủy	12	1	Trục Lộc Huyền Dương Khôi
+DépLàoVĐ	Ngọa Hổ Thúc Yêu-Cự Mộc	12	2	Trục Lộc Hoàng Long Triền Yêu
+LãoNgũ	Huyền Thiết Kiếm-Hoàng Quang	14	1	Kim Qua Chùy-Thương Lang
+AnhBaChàCú	Ứng Long Giới-Hoàng Quang	14	2	Hình Thiên Giới-Chu Thiềm
+LãoTứss	Nghiệt Long Chùy-Tâm Nhãn	13	2	Thấu Cốt Thương-Thương Lang
+CánBộThôn	Bắc Thần Liên-Chu Thiềm	12	3	Quần Điểu Liên-Chí mạng
+DépLàoMN	Long Thủ Bội-Hoàng Quang	12	3	Côn Bằng Bội-Chí mạng
+GiảiTrí	Long Thủ Bội-Diên Dương	12	1	Long Thủ Bội-Diên Dương
+DépLào	Thanh Sương Kiếm-Vân Phách	14	5	Thanh Sương Kiếm-Triệt Cốt
+DépLào	Bắc Thần Liên-Diên Dương	12	6	Quần Điểu Liên-Hàn
+DépLào	Long Thủ Bội-Thiên Sơn	12	7	Côn Bằng Bội-Thanh Phong
+DépLào	Bá Vương Ngoa-Tật Phong	14	8	Bá Vương Ngoa-Tật Phong
+DépLào	Võ Thần Hộ Uyển-Việt Quang	12	9	Hỏa Lân Hộ Uyển-Chấn
+DépLào	Ngọa Hổ Thúc Yêu-Cự Mộc	12	10	Long Bàn Thúc Yêu-Cực
+DépLào	Toàn Long Bào-Diên Dương	12	11	Hàn Sương Bào-Hàn
+DépLào	Thương Khung Giới-Cự Mộc	12	12	Hình Thiên Giới-Cực
+DépLào	Trục Lộc Thương Khung Quán	16	13	Trục Lộc Thương Khung Quán
+DépLào	Thiên Ma Phù-Diên Dương	12	14	Thanh Hư Phù-Quy Nguyên
+DépLàoDM	Thiên Ma Phù-Diên Dương	12	2	Hổ Phách Thiên Tinh Phù-Vô Song
+LãoTứsss	Long Uyên Kiếm-Vân Phách	14	0	Thanh Sương Kiếm-Vân Phách
+HắcCôngTử	Tuyệt Ảnh Đao-Hoàng Quang	14	0	Phá Sơn Đao-Lạc Lôi
+MộcTử	Tuyệt Ảnh Đao-Tâm Nhãn	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+ĐộcTử	Tuyệt Ảnh Đao-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+TamTháiTử	Bạch Hổ Triền Thủ-Nghịch Thủy	14	0	Phá Sơn Đao-Nghiệp Hỏa
+NhịCôngTử	Phá Sơn Đao-Huyền Vũ	14	0	Phá Sơn Đao-Nghiệp Hỏa
+AnhBaChàCú	Triều Lộ Liên-Hoàng Quang	14	3	Quần Điểu Liên-Chí mạng
+HồThiếuGia	Long Lân Đao-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+NươngTử	Phổ Độ Côn-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+HồTiểuTâm	Long Lân Đao-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+zGiatteTez	Thanh Sương Kiếm-Vân Phách	14	1	Thanh Sương Kiếm-Vân Phách
+hophap	Bắc Minh Bội-Hoàng Quang	14	0	Côn Bằng Bội-Thanh Phong
+hophap	Triều Lộ Liên-Hoàng Quang	14	1	Quần Điểu Liên-Truy Ảnh
+DépLào	Võ Hầu Thúc Đái-Hoàng Quang	14	15	Hoa Hạ Đằng Long Thúc Yêu-Cực
+DépLàoDM	Sơn Quỷ Phát Quán-Cự Mộc	12	3	Trục Lộc Huyền Dương Khôi
+SóngThần	Thiên Ma Phù-Cự Mộc	12	2	Hổ Phách Thiên Tinh Phù-Vô Song
+PimPeBg	Nghiệt Long Chùy-Toái Trần	14	0	Thấu Cốt Thương-Thương Lang
+PimPeNe	Long Lân Đao-Tâm Nhãn	14	0	Thanh Sương Kiếm-Vân Phách
+ChimBeNe	Long Lân Đao-Lạc Lôi	14	0	Thấu Cốt Thương-Thương Lang
+SúngToBg	Long Lân Đao-Tâm Nhãn	14	0	Thấu Cốt Thương-Thương Lang
+PímPeBg	Long Lân Đao-Tâm Nhãn	14	0	Thấu Cốt Thương-Thương Lang
+SúngPeBg	Long Lân Đao-Tâm Nhãn	14	0	Thấu Cốt Thương-Thương Lang
+LãoNhị	Bắc Minh Bội-Hoàng Quang	14	2	Côn Bằng Bội-Chí mạng
+NướcBọt	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+quayxedie	Bạch Hổ Triền Thủ-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+soihungdu	Thất Tinh Thấu Cốt-Phá Quân	14	0	Thanh Sương Kiếm-Triệt Cốt
+cuunonhauda	Nghiệt Long Chùy-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+nhentinh	Long Lân Đao-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+cuncon	Huyền Thiết Kiếm-Linh Vũ	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+dangacon	Long Lân Đao-Cự Mộc	14	0	Thanh Sương Kiếm-Triệt Cốt
+DépLàoDM	Quần Điểu Liên-Việt Quang	12	4	Trục Lộc Thiên Hựu Liên
+PhongLinh	Lương Cúc Ngọc Đái-Cực	12	6	Hoa Hạ Phi Phượng Ngọc Đái-Cực
+DépLàoTYK	Thiên Ma Phù-Việt Quang	12	3	Hổ Phách Thiên Tinh Phù-Vô Song
+ĐỗThiênVũ	Long Lân Đao-Hoàng Quang	14	0	Phá Sơn Đao-Lạc Lôi
+ĐỗThiênTú	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+ĐỗThiênThư	Long Lân Đao-Tâm Nhãn	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+PhongLinh	Triều Lộ Liên-Hoàng Quang	14	7	Quần Điểu Liên-Hoàng Quang
+CứtMũi	Nghiệt Long Chùy-Thương Lang	14	0	Kim Qua Chùy-Thương Lang
+KhèLửa	Thất Tinh Thấu Cốt-Ô Sương	14	1	Hàm Sa Xạ Ảnh-Ô Sương
+DangKhoiNe	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+HaiDangNe	Huyền Thiết Kiếm-Hoàng Quang	13	0	Hàm Sa Xạ Ảnh-Ô Sương
+MinhKhoiNe	Huyền Thiết Kiếm-Hoàng Quang	14	0	Kim Qua Chùy-Ô Sương
+HangSPA	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Ô Sương
+DépLàoVĐ	Thiên Ma Phù-Chu Thiềm	12	3	Hổ Phách Thiên Tinh Phù-Vô Song
+DépLàoVĐ	Quần Điểu Liên-Chí mạng	12	4	Trục Lộc Thiên Hựu Liên
+ThíchcàKhịa	Long Lân Đao-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+ChuyMinh	Thiên Ma Phù-Việt Quang	12	0	Thiên Ma Phù-Lâm Li
+ChuyMinh	Huyền Thiết Kiếm-Hoàng Quang	14	1	Kim Qua Chùy-Thương Lang
+CánBộThôn	Trục Lộc Thương Khung Quán	16	4	Trục Lộc Thương Khung Quán
+dotchaylong	Long Lân Đao-Tâm Nhãn	14	2	Phá Sơn Đao-Nghiệp Hỏa
+PhụTrợMáu	Huyền Thiết Kiếm-Việt Quang	14	1	Thanh Sương Kiếm-Triệt Cốt
+SóngThần	Tử Kim Thúc Ngạch-Việt Quang	12	3	Trục Lộc Thương Khung Quán
+TiềmLong	Trục Lộc Hoàng Long Triền Yêu	16	2	Trục Lộc Hoàng Long Triền Yêu
+DépLào	Thiên Ma Phù-Thiên Sơn	12	16	Hổ Phách Thiên Tinh Phù-Vô Song
+BátGiới	Kim Qua Chùy-Ô Sương	14	1	Kim Qua Chùy-Thương Lang
+TiễnMộc	Giác Hải Bổng-Hoàng Quang	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+NgaMyKiếm	Huyền Thiết Kiếm-Phá Quân	14	0	Thanh Sương Kiếm-Triệt Cốt
+KiếmThổ	Nghiệt Long Chùy-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+CánBộThôn	Trục Lộc Thương Khung Quán	16	5	Trục Lộc Thương Khung Quán
+VôDanh	Long Lân Đao-Phá Quân	14	0	Thanh Sương Kiếm-Thực Cốt
+NướcBọt	Thanh Sương Kiếm-Triệt Cốt	14	1	Thanh Sương Kiếm-Triệt Cốt
+KiếmThuỷ	Huyền Thiết Kiếm-Phá Quân	14	0	Thanh Sương Kiếm-Triệt Cốt
+ĐaoHoả	Giác Hải Bổng-Diên Dương	14	0	Phá Sơn Đao-Nghiệp Hỏa
+CánBộThôn	Ngọa Hổ Thúc Yêu-Nghịch Thủy	12	6	Trục Lộc Hoàng Long Triền Yêu
+SauThienThu89	Long Lân Đao-Tâm Nhãn	12	5	Thanh Sương Kiếm-Thực Cốt
+GiảiTrí	Thiên Ma Phù-Cự Mộc	12	2	Hổ Phách Thiên Tinh Phù-Vô Song
+HoàngCave	Thiên Ma Phù-Cự Mộc	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+CánBộThôn	Quần Điểu Liên-Chí mạng	12	7	Trục Lộc Thiên Hựu Liên
+HồLãoNhị	Long Lân Đao-Hoàng Quang	14	0	Phá Sơn Đao-Thương Lang
+HoàngCave	Bắc Thần Liên-Chu Thiềm	12	2	Trục Lộc Thiên Hựu Liên
+PhongLinh	Huyền Thiết Kiếm-Triệt Cốt	14	8	Thanh Sương Kiếm-Triệt Cốt
+HoàngCave	Ngọa Hổ Thúc Yêu-Nghịch Thủy	12	3	Trục Lộc Hoàng Long Triền Yêu
+adminn	Bắc Thần Liên-Chu Thiềm	12	2	Trục Lộc Thiên Hựu Liên
+NướcBọt	Thanh Sương Kiếm-Triệt Cốt	14	2	Phá Sơn Đao-Hàn Băng
+DépLào	Quần Điểu Liên-Hàn	12	17	Trục Lộc Thiên Hựu Liên
+PhongLinh	Phi Phượng Ngoa-Cự Mộc	14	9	Sính Sa Ngoa-Tuyệt
+TrầnAnhTông	Thanh Sương Kiếm-Triệt Cốt	14	1	Thanh Sương Kiếm-Vân Phách
+MaNhẫnII	Phá Sơn Đao-Nghiệp Hỏa	14	1	Thanh Sương Kiếm-Vân Phách
+MaNhẫnIII	Phá Sơn Đao-Nghiệp Hỏa	14	1	Thanh Sương Kiếm-Vân Phách
+PhongLinh	Tiên Xạ Hương Nang-Thanh Phong	12	10	Già Nam Hương Nang-Chí mạng
+EmĐâuRồi	Kinh Lôi Thương-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+HoaAnhĐào	Long Lân Đao-Phá Quân	14	0	Thanh Sương Kiếm-Triệt Cốt
+HoaHoong	Kinh Lôi Thương-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+HoaCoGai	Kinh Lôi Thương-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+Gaicocu	Thất Tinh Thấu Cốt-Phá Quân	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+DMGayNua	Long Uyên Kiếm-Diên Dương	13	0	Thanh Sương Kiếm-Triệt Cốt
+seasea	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+seasea2	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+seasea3	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+seasea4	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+DépLàoMN	Quần Điểu Liên-Chí mạng	12	4	Trục Lộc Thiên Hựu Liên
+DépLàoNM	Thiên Ma Phù-Cự Mộc	12	2	Hổ Phách Thiên Tinh Phù-Vô Song
+VôDanh	Giác Hải Bổng-Phá Quân	14	1	Thanh Sương Kiếm-Thực Cốt
+seasea5	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+LộnXào3Tac	Long Lân Đao-Phá Quân	14	0	Thanh Sương Kiếm-Toái Trần
+LộnXào3Tac	Thanh Sương Kiếm-Toái Trần	14	1	Thanh Sương Kiếm-Triệt Cốt
+HoàngCavee	Thiên Ma Phù-Chu Thiềm	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+MaNhẫnI	Phá Sơn Đao-Nghiệp Hỏa	14	1	Thanh Sương Kiếm-Vân Phách
+MaNhẫnIV	Phá Sơn Đao-Nghiệp Hỏa	14	1	Thanh Sương Kiếm-Vân Phách
+knight	Long Lân Đao-Tâm Nhãn	14	0	Thanh Sương Kiếm-Thực Cốt
+quetlabo	Bạch Hổ Triền Thủ-Hoàng Quang	14	0	Thấu Cốt Thương-Thương Lang
+chimdangsun	Huyền Thiết Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+namphong	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+dieuthuyen	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+khangan	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+TáoMeo	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Nghiệp Hỏa
+NếpCam	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Nghiệp Hỏa
+VodlKa	Long Lân Đao-Hàn Băng	14	0	Phá Sơn Đao-Nghiệp Hỏa
+Chivas	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Nghiệp Hỏa
+HeniKen	Long Lân Đao-Hàn Băng	14	0	Phá Sơn Đao-Nghiệp Hỏa
+HabaDa	Long Lân Đao-Hàn Băng	14	0	Phá Sơn Đao-Nghiệp Hỏa
+iIiMNiIi	Giác Hải Bổng-Tâm Nhãn	14	1	Phổ Độ Côn-Thương Lang
+DépLào	Sơn Quỷ Phát Quán-Diên Dương	12	18	Trục Lộc Thương Khung Quán
+HangBaby	Huyền Thiết Kiếm-Hoàng Quang	13	0	Xích Tiêu Kiếm-Triệt Cốt
+saomộc2	Thiên Ma Phù-Diên Dương	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+iIiCLKiIi	Huyền Thiết Kiếm-Thực Cốt	14	1	Thanh Sương Kiếm-Diên Dương
+iIiDMiIi	Huyền Thiết Kiếm-Linh Vũ	14	2	Hàm Sa Xạ Ảnh-Ô Sương
+TàThầnNMKll	Tuyệt Ảnh Đao-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+MaNhẫnVI	Giác Hải Bổng-Tâm Nhãn	14	0	Thanh Sương Kiếm-Triệt Cốt
+HoàngCaveeeeee	Thiên Ma Phù-Diên Dương	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+nnlụmnn	Nghiệt Long Chùy-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+seasea6	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+luuphong	Long Lân Đao-Việt Quang	14	0	Phá Sơn Đao-Hàn Băng
+duonglam	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Vân Phách
+NhuocKhue	Huyền Thiết Kiếm-Hoàng Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+ThienNhan	Huyền Thiết Kiếm-Hoàng Quang	14	0	Phá Sơn Đao-Nghiệp Hỏa
+Thiengiao	Thất Tinh Thấu Cốt-Tâm Nhãn	14	0	Hàm Sa Xạ Ảnh-Ô Sương
+PhongLinh	Quần Điểu Liên-Hoàng Quang	14	11	Trục Lộc Thiên Hựu Liên
+zDoanDuz	Long Lân Đao-Tâm Nhãn	14	0	Phá Sơn Đao-Ô Sương
+HoàngCaveeee	Thiên Ma Phù-Diên Dương	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+HoàngCaveee	Thiên Ma Phù-Cự Mộc	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+TiềmLong	Trục Lộc Hoàng Long Triền Yêu	16	3	Trục Lộc Hoàng Long Triền Yêu
+PhongLinh	Thanh Hư Phù-Tuyệt	12	12	Hổ Phách Thiên Tinh Phù-Vô Song
+ThuýCôNương	Nghiệt Long Chùy-Diên Dương	14	0	Thanh Sương Kiếm-Triệt Cốt
+KhạcLửa	Long Lân Đao-Phi Yến	14	0	Phá Sơn Đao-Nghiệp Hỏa
+ConSóngA	Thiên Ma Phù-Cự Mộc	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+AConSóngMGC	Thiên Ma Phù-Việt Quang	12	3	Hổ Phách Thiên Tinh Phù-Vô Song
+KẻMangTâmSự	Long Uyên Kiếm-Nghiệp Hỏa	16	2	Long Lân Đao-Nghiệp Hỏa
+DépLào	Thanh Long Triền Thủ-Triệt Cốt	16	19	Long Lân Đao-Huyền Vũ
+TạpHóaLâmAn	Kim Cô Bổng-Tâm Nhãn	16	1	Long Lân Đao-Huyền Vũ
+SiêuThú	Thanh Long Triền Thủ-Linh Vũ	16	2	Long Lân Đao-Việt Quang
+SaoChổi	Thiên Ngoại Phi Tiên-Diên Dương	16	0	Bạch Hổ Triền Thủ-Triệt Cốt
+VươngCường	Thanh Long Triền Thủ-Triệt Cốt	16	2	Huyền Thiết Kiếm-Việt Quang
+ThầyTrừTàd	Kim Cô Bổng-Diên Dương	16	1	Long Lân Đao-Nghiệp Hỏa
+NhatTinh	Yển Nguyệt Đao-Linh Vũ	16	2	Bạch Hổ Triền Thủ-Việt Quang
+ChimĐangSun	Kim Cô Bổng-Hoàng Quang	16	5	Huyền Thiết Kiếm-Việt Quang
+ThầyTrừTàa	Phá Thiên Kích-Hoàng Quang	16	1	Thất Tinh Thấu Cốt-Cự Mộc
+LãoĐại	Long Uyên Kiếm-Vân Phách	16	4	Huyền Thiết Kiếm-Nghịch Thủy
+ThầyTrừTàb	Phá Thiên Chùy-Tâm Nhãn	16	1	Huyền Thiết Kiếm-Nghịch Thủy
+NamDoaNe	Long Uyên Kiếm-Phi Yến	16	1	Huyền Thiết Kiếm-Việt Quang
+DépLào	Thương Khung Giới-Diên Dương	12	20	Ứng Long Giới-Cực
+ThuyKiem	Long Uyên Kiếm-Tâm Nhãn	16	1	Huyền Thiết Kiếm-Việt Quang
+asian4	Phá Thiên Chùy-Phá Quân	16	1	Long Lân Đao-Chu Thiềm
+HoiUcKT	Kim Cô Bổng-Phi Yến	16	3	Long Lân Đao-Nghiệp Hỏa
+SaoMai	Long Uyên Kiếm-Linh Vũ	16	3	Huyền Thiết Kiếm-Nghịch Thủy
+luuphong	Phá Sơn Đao-Hàn Băng	14	1	Long Lân Đao-Việt Quang
+congha	Phá Thiên Chùy-Toái Trần	16	2	Long Lân Đao-Việt Quang
+Thailand	Phá Sơn Đao-Nghiệp Hỏa	14	1	Long Lân Đao-Nghiệp Hỏa
+asian3	Hàm Sa Xạ Ảnh-Ô Sương	14	2	Thất Tinh Thấu Cốt-Cự Mộc
+HHHHHHHHH	Long Uyên Kiếm-Hoàng Quang	16	3	Huyền Thiết Kiếm-Nghịch Thủy
+ThíchcàKhịa	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+anhbachacu	Long Uyên Kiếm-Linh Vũ	16	4	Huyền Thiết Kiếm-Việt Quang
+PhongLinh	Thanh Sương Kiếm-Triệt Cốt	14	13	Huyền Thiết Kiếm-Việt Quang
+WuKong	Long Uyên Kiếm-Triệt Cốt	16	5	Long Lân Đao-Việt Quang
+philippin	Long Uyên Kiếm-Linh Vũ	16	1	Huyền Thiết Kiếm-Việt Quang
+WuKong	Võ Thần Hộ Uyển-Diên Dương	12	6	Tiêu Dao Nộ Long Hộ Uyển
+TràĐá	Thanh Long Triền Thủ-Diên Dương	16	2	Huyền Thiết Kiếm-Nghịch Thủy
+ĐườngTăng	Long Uyên Kiếm-Triệt Cốt	16	1	Long Lân Đao-Nghiệp Hỏa
+anhbachacu	Thiên Tàm Ngoa-Diên Dương	14	5	Bá Vương Ngoa-Tật Phong
+SóngThần	Long Uyên Kiếm-Triệt Cốt	16	4	Huyền Thiết Kiếm-Việt Quang
+MaNhẫnI	Thanh Sương Kiếm-Vân Phách	14	2	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+MaNhẫnII	Thanh Sương Kiếm-Vân Phách	14	2	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+SaNgộTĩnh	Long Uyên Kiếm-Linh Vũ	16	1	Thất Tinh Thấu Cốt-Cự Mộc
+GameKiếmThế	Kim Qua Chùy-Ô Sương	12	0	Long Lân Đao-Cự Mộc
+BạchLongMã	Long Uyên Kiếm-Triệt Cốt	16	3	Huyền Thiết Kiếm-Nghịch Thủy
+ĐamMêGame	Hàm Sa Xạ Ảnh-Ô Sương	12	0	Thất Tinh Thấu Cốt-Cự Mộc
+BồTát	Long Uyên Kiếm-Linh Vũ	16	0	Huyền Thiết Kiếm-Việt Quang
+BátGiới	Long Uyên Kiếm-Linh Vũ	16	2	Nghiệt Long Chùy-Chu Thiềm
+ffffffffffffff	Thanh Sương Kiếm-Vân Phách	14	1	Huyền Thiết Kiếm-Nghịch Thủy
+bbbbbbbbbbbbbb	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+DoatMenh	Yển Nguyệt Đao-Tâm Nhãn	16	1	Thất Tinh Thấu Cốt-Cự Mộc
+TiềmLong	Long Uyên Kiếm-Linh Vũ	16	4	Huyền Thiết Kiếm-Nghịch Thủy
+zBaKichz	Thanh Long Triền Thủ-Hoàng Quang	16	1	Long Lân Đao-Nghiệp Hỏa
+SpLine	Phá Thiên Kích-Hoàng Quang	16	1	Nghiệt Long Chùy-Chu Thiềm
+KiếmVôCực	Phá Thiên Kích-Diên Dương	16	1	Huyền Thiết Kiếm-Nghịch Thủy
+PhongLinh	Long Uyên Kiếm-Hấp Tinh	16	14	Huyền Thiết Kiếm-Việt Quang
+ThuốcLâmAn	Hàm Sa Xạ Ảnh-Ô Sương	14	1	Thất Tinh Thấu Cốt-Thanh Long
+TửuLầuLâmAn	Kim Cô Bổng-Diên Dương	16	1	Long Lân Đao-Nghiệp Hỏa
+MaNhẫnIII	Thanh Sương Kiếm-Vân Phách	14	2	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+MaNhẫnIV	Thanh Sương Kiếm-Vân Phách	14	2	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+MaNhẫnV	Thanh Sương Kiếm-Vân Phách	14	1	Huyền Thiết Kiếm-Vân Phách
+MaNhẫnVI	Thanh Sương Kiếm-Triệt Cốt	14	1	Bạch Hổ Triền Thủ-Việt Quang
+TàThầnNMKll	Thanh Sương Kiếm-Triệt Cốt	14	1	Bạch Hổ Triền Thủ-Việt Quang
+TàThầnCLĐll	Phá Sơn Đao-Thương Lang	14	1	Long Lân Đao-Chu Thiềm
+TàThầnTYkll	Thanh Sương Kiếm-Triệt Cốt	14	1	Bạch Hổ Triền Thủ-Việt Quang
+TàThầnMNll	Phá Sơn Đao-Nghiệp Hỏa	14	1	Bạch Hổ Triền Thủ-Việt Quang
+PhongLinh	Sính Sa Ngoa-Tuyệt	14	15	Phi Phượng Ngoa-Cự Mộc
+TàThầnMGll	Thanh Long Triền Thủ-Diên Dương	15	1	Long Lân Đao-Nghịch Thủy
+zBeHatLuz	Hàm Sa Xạ Ảnh-Ô Sương	14	1	Thất Tinh Thấu Cốt-Cự Mộc
+nnlụmnn	Thanh Sương Kiếm-Triệt Cốt	14	1	Bạch Hổ Triền Thủ-Việt Quang
+bblụmbb	Thanh Sương Kiếm-Triệt Cốt	14	1	Bạch Hổ Triền Thủ-Việt Quang
+ChạyXáchDép	Thanh Hư Phù-Chấn	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+ThầyTrừTà	Kim Cô Bổng-Hoàng Quang	16	1	Nghiệt Long Chùy-Chu Thiềm
+LãoĐại	Xạ Nhật Hộ Uyển-Cửu Mệnh	12	5	Thiên Tàm Hộ Uyển-Hoàng Quang
+Hoàngcaveg	Long Uyên Kiếm-Linh Vũ	16	0	Huyền Thiết Kiếm-Vân Phách
+vvlụmvv	Kim Cô Bổng-Phá Quân	15	1	Long Lân Đao-Nghịch Thủy
+cclụmcc	Kim Qua Chùy-Thương Lang	14	1	Long Lân Đao-Chu Thiềm
+Hoàngcaved	Long Uyên Kiếm-Linh Vũ	15	0	Long Lân Đao-Nghiệp Hỏa
+zzlụmzz	Thanh Sương Kiếm-Vân Phách	14	1	Long Lân Đao-Nghịch Thủy
+TiềmLong	Long Uyên Kiếm-Linh Vũ	16	5	Long Lân Đao-Nghiệp Hỏa
+TrangSứcLâmAn	Yển Nguyệt Đao-Phá Quân	16	1	Long Lân Đao-Bạch Hổ
+ZZZZZZZZZZZ	Huyền Thiết Kiếm-Vân Phách	14	0	Huyền Thiết Kiếm-Nghịch Thủy
+zGiatteTez	Thanh Sương Kiếm-Vân Phách	14	2	Huyền Thiết Kiếm-Nghịch Thủy
+BậtMãÔnDT	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+TâmSựvớiCC	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+NiệmHoiUc	Thanh Hư Phù-Hàn	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+TiểuLam	Long Uyên Kiếm-Triệt Cốt	16	0	Huyền Thiết Kiếm-Việt Quang
+BinhKhíLâmAn	Kim Qua Chùy-Thương Lang	14	1	Nghiệt Long Chùy-Chu Thiềm
+TiểuHồng	Yển Nguyệt Đao-Phi Yến	16	0	Long Lân Đao-Nghiệp Hỏa
+adumiin	Thanh Sương Kiếm-Triệt Cốt	14	1	Thất Tinh Thấu Cốt-Cự Mộc
+Hoàngcaveaa	Long Uyên Kiếm-Linh Vũ	15	0	Huyền Thiết Kiếm-Vân Phách
+adminn	Long Uyên Kiếm-Linh Vũ	16	3	Huyền Thiết Kiếm-Việt Quang
+Hoàngcavec	Phá Thiên Chùy-Tâm Nhãn	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Hoàngcaveb	Kim Cô Bổng-Cự Mộc	15	0	Huyền Thiết Kiếm-Triệt Cốt
+LãoĐại	Hổ Phách Thiên Tinh Phù-Vô Song	14	6	Hổ Phách Thiên Tinh Phù-Vô Song
+LãoĐại	Trục Lộc Hoàng Long Triền Yêu	16	7	Trục Lộc Hoàng Long Triền Yêu
+Hoàngcavek	Phá Thiên Kích-Diên Dương	15	0	Nghiệt Long Chùy-Thanh Long
+LộnXào3Tac	Yển Nguyệt Đao-Hoàng Quang	15	2	Huyền Thiết Kiếm-Việt Quang
+ThuốcLào	Yển Nguyệt Đao-Toái Trần	15	0	Bạch Hổ Triền Thủ-Hàn Băng
+KiếmHạp	Yển Nguyệt Đao-Tâm Nhãn	16	0	Huyền Thiết Kiếm-Vân Phách
+KiếmVôTâm	Kim Cô Bổng-Diên Dương	16	1	Huyền Thiết Kiếm-Nghịch Thủy
+KiếmVôNgã	Thanh Sương Kiếm-Vân Phách	14	1	Huyền Thiết Kiếm-Nghịch Thủy
+OhOooo	Phá Thiên Kích-Hoàng Quang	16	1	Huyền Thiết Kiếm-Việt Quang
+ChimCút	Long Uyên Kiếm-Linh Vũ	16	0	Huyền Thiết Kiếm-Triệt Cốt
+ChimCu	Long Uyên Kiếm-Linh Vũ	16	0	Thất Tinh Thấu Cốt-Thanh Long
+DáiTrong	Long Uyên Kiếm-Triệt Cốt	16	0	Huyền Thiết Kiếm-Triệt Cốt
+ChimLợn	Long Uyên Kiếm-Linh Vũ	16	0	Long Lân Đao-Thanh Long
+LãoĐại	Thương Khung Giới-Cự Mộc	12	8	Ứng Long Giới-Cự Mộc
+Anduy6	Long Uyên Kiếm-Linh Vũ	15	0	Thất Tinh Thấu Cốt-Thanh Long
+AnBình	Long Uyên Kiếm-Linh Vũ	16	0	Huyền Thiết Kiếm-Vân Phách
+AnBình	Thanh Hư Phù-Hàn	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+AnKhang	Long Uyên Kiếm-Linh Vũ	16	0	Long Lân Đao-Nghiệp Hỏa
+AnKhang	Thanh Hư Phù-Cực	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+Anduy6	Thanh Hư Phù-Chấn	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+AnNhiên	Long Uyên Kiếm-Linh Vũ	15	0	Huyền Thiết Kiếm-Triệt Cốt
+AnNhiên	Thanh Hư Phù-Tuyệt	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+BuồnĐời	Long Lân Đao-Thương Lang	14	0	Huyền Thiết Kiếm-Triệt Cốt
+ChánĐời	Long Lân Đao-Tâm Nhãn	14	0	Huyền Thiết Kiếm-Triệt Cốt
+SướngĐời	Long Lân Đao-Tâm Nhãn	14	0	Huyền Thiết Kiếm-Triệt Cốt
+KệMẹĐời	Long Lân Đao-Tâm Nhãn	14	0	Huyền Thiết Kiếm-Triệt Cốt
+aduminn	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+KẻMangCMM	Thất Tinh Thấu Cốt-Bắc Minh	14	0	Huyền Thiết Kiếm-Triệt Cốt
+ChánĐời	Thanh Hư Phù-Tuyệt	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+SướngĐời	Thanh Hư Phù-Tuyệt	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+adumin	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+HảiĐăng	Yển Nguyệt Đao-Triệt Cốt	15	0	Thất Tinh Thấu Cốt-Thanh Long
+DươngQuá	Long Hành Đao-Hoàng Quang	16	0	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+KẻCôĐơn	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+ThanhLong	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+BạchHổ	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+BạchLong	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+ChuTướcc	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+HuyềnVũ	Hàm Sa Xạ Ảnh-Ô Sương	14	1	Thất Tinh Thấu Cốt-Cự Mộc
+DépLào	Hàn Sương Bào-Hàn	12	21	Kính Hoa Khải-Chu Thiềm
+LãoĐại	Tỏa Tử Hoàng Kim Giáp-Diên Dương	12	9	Kính Hoa Khải-Hoàng Quang
+LãoĂnMày	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+LãoHoàngGia	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+LãoĐôngTà	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+LãoĐộcVật	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+HảiĐăng	Thanh Hư Phù-Chấn	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+HằngLove	Long Uyên Kiếm-Phi Yến	15	0	Huyền Thiết Kiếm-Triệt Cốt
+HằngLove	Thanh Hư Phù-Tuyệt	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+SauThienThu8996	Long Uyên Kiếm-Hàn Băng	16	0	Huyền Thiết Kiếm-Triệt Cốt
+asian2	Long Uyên Kiếm-Toái Trần	16	1	Huyền Thiết Kiếm-Việt Quang
+LãoNgũ	Yển Nguyệt Đao-Chích Viêm	16	2	Long Lân Đao-Nghiệp Hỏa
+BậtMãÔnDT	Hàn Sương Bào-Hàn	12	1	Kính Hoa Khải-Chu Thiềm
+BậtMãÔnDT	Hỏa Lân Hộ Uyển-Chấn	12	2	Thiên Tàm Hộ Uyển-Hoàng Quang
+LãoĐại	Tung Hoành Ngoa-Tuyệt	12	10	Thiên Tàm Ngoa-Cự Mộc
+NiệmHoiUc	Hàn Sương Bào-Chấn	12	1	Kính Hoa Khải-Hoàng Quang
+NiệmHoiUc	Hỏa Lân Hộ Uyển-Minh	12	2	Thiên Tàm Hộ Uyển-Việt Quang
+DépLàoNM	Khinh Vân Ngoa-Cự Mộc	12	3	Phi Phượng Ngoa-Cự Mộc
+ChạyXáchDép	Vô Dung Kình Trang-Minh	12	1	Giáng Sa Bào-Việt Quang
+ChạyXáchDép	Long Bàn Thúc Yêu-Hàn	12	2	Võ Hầu Thúc Đái-Chu Thiềm
+BaoCứyt	Phá Thiên Kích-Toái Trần	15	0	Long Lân Đao-Nghiệp Hỏa
+BaoCát	Long Uyên Kiếm-Lạc Lôi	15	0	Huyền Thiết Kiếm-Vân Phách
+NgaMiCóChim	Long Uyên Kiếm-Triệt Cốt	15	2	Huyền Thiết Kiếm-Việt Quang
+eeeeeeeeeeeee	Thanh Sương Kiếm-Triệt Cốt	14	1	Long Lân Đao-Huyền Vũ
+KệMẹĐời	Thanh Hư Phù-Tuyệt	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+KẻMangCMM	Thanh Hư Phù-Tuyệt	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+SóngThần	Quần Điểu Liên-Chí mạng	12	5	Trục Lộc Thiên Hựu Liên
+SóngThần	Côn Bằng Bội-Chí mạng	12	6	Bắc Minh Bội-Diên Dương
+TáoMeo	Thiên Ma Phù-Nghịch Thủy	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+DépLào	Long Lân Đao-Huyền Vũ	16	22	Huyền Thiết Kiếm-Việt Quang
+NếpCam	Thiên Ma Phù-Nghịch Thủy	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+zZzXeBzZz	Yển Nguyệt Đao-Nghiệp Hỏa	16	0	Long Lân Đao-Nghiệp Hỏa
+LãoĐại	Phá Sơn Đao-Nghiệp Hỏa	14	11	Long Lân Đao-Nghiệp Hỏa
+HạBăng	Kim Cô Bổng-Hàn Băng	16	0	Long Lân Đao-Lạc Lôi
+hophap	Nghiệt Long Chùy-Chu Thiềm	14	2	Long Lân Đao-Bạch Hổ
+haisoxe	Phá Thiên Chùy-Diên Dương	16	0	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+Lamxung	Long Uyên Kiếm-Hàn Băng	15	0	Long Lân Đao-Bạch Hổ
+PhongLinh	Bách Điểu Sam-Hàn	14	16	Trầm Hương Sam-Chu Thiềm
+PhongLinh	Hình Thiên Giới-Cực	12	17	Ứng Long Giới-Nghịch Thủy
+VôTìnhKiếm	Yển Nguyệt Đao-Linh Vũ	16	0	Huyền Thiết Kiếm-Cự Mộc
+VôTìnhXinhGái	Yển Nguyệt Đao-Linh Vũ	16	0	Bạch Hổ Triền Thủ-Triệt Cốt
+VôTìnhThổ	Long Uyên Kiếm-Linh Vũ	16	0	Huyền Thiết Kiếm-Vân Phách
+VôTìnhĐao	Long Uyên Kiếm-Linh Vũ	16	0	Long Lân Đao-Nghiệp Hỏa
+VôTìnhTiễn	Thiên Ngoại Phi Tiên-Phi Yến	16	0	Thất Tinh Thấu Cốt-Thanh Long
+CônLôn	Thanh Hư Phù-Hàn	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+ThúyYên	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+DépLàoTYK	Long Thủ Bội-Thanh Phong	12	4	Bắc Minh Bội-Chí mạng
+DépLàoTYK	Tỏa Tử Hoàng Kim Giáp-Nghịch Thủy	12	5	Kính Hoa Khải-Nghịch Thủy
+DépLàoTYK	Tuyệt Hỏa Ngoa-Việt Quang	12	6	Thiên Tàm Ngoa-Việt Quang
+ConSóngA	Thương Khung Giới-Nghịch Thủy	12	1	Ứng Long Giới-Nghịch Thủy
+SóngThần	Võ Thần Hộ Uyển-Diên Dương	12	7	Tiêu Dao Nộ Long Hộ Uyển
+SóngThần	Tuyệt Hỏa Ngoa-Cự Mộc	12	8	Bá Vương Ngoa-Tật Phong
+SóngThần	Toàn Long Bào-Chu Thiềm	12	9	Giáng Sa Bào-Chu Thiềm
+VõĐang	Thanh Hư Phù-Hàn	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+VõĐang	Quần Điểu Liên-Chấn	12	1	Triều Lộ Liên-Chí mạng
+NgaMyN	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+ĐườngMônT	Thanh Hư Phù-Chấn	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+ĐườngMônT	Quần Điểu Liên-Minh	12	1	Triều Lộ Liên-Chí mạng
+Swordaa	Huyền Thiết Kiếm-Triệt Cốt	14	0	Huyền Thiết Kiếm-Việt Quang
+Swordbb	Huyền Thiết Kiếm-Triệt Cốt	14	0	Huyền Thiết Kiếm-Việt Quang
+Swordcc	Huyền Thiết Kiếm-Triệt Cốt	14	0	Huyền Thiết Kiếm-Việt Quang
+Sworddd	Huyền Thiết Kiếm-Triệt Cốt	14	0	Huyền Thiết Kiếm-Việt Quang
+VôTìnhThuỷ	Yển Nguyệt Đao-Linh Vũ	16	0	Huyền Thiết Kiếm-Triệt Cốt
+CủHành	Thanh Hư Phù-Hàn	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+Swordee	Huyền Thiết Kiếm-Triệt Cốt	14	0	Huyền Thiết Kiếm-Việt Quang
+CủTỏi	Thanh Hư Phù-Hàn	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+CủKhoai	Thanh Hư Phù-Hàn	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+CủĐậu	Thanh Hư Phù-Hàn	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+CủSắn	Thanh Hư Phù-Hàn	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+CủNghệ	Thanh Hư Phù-Hàn	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+TạpHóaLâmAn	Long Lân Đao-Huyền Vũ	16	2	Huyền Thiết Kiếm-Triệt Cốt
+AnhBaChàCú	Long Uyên Kiếm-Linh Vũ	16	4	Huyền Thiết Kiếm-Cự Mộc
+congha	Long Lân Đao-Việt Quang	16	3	Huyền Thiết Kiếm-Việt Quang
+KẻMangTâmSự	Long Uyên Kiếm-Nghiệp Hỏa	16	3	Huyền Thiết Kiếm-Việt Quang
+SiêuThú	Long Lân Đao-Việt Quang	16	3	Bạch Hổ Triền Thủ-Việt Quang
+NhatTinh	Bạch Hổ Triền Thủ-Việt Quang	16	3	Huyền Thiết Kiếm-Triệt Cốt
+SiêuThúE	Thanh Long Triền Thủ-Linh Vũ	16	0	Huyền Thiết Kiếm-Triệt Cốt
+LãoĐại	Câu Vân Bội-Chí mạng	12	12	Bắc Minh Bội-Hoàng Quang
+lBéHộtLu	Long Diên Hương Nang-Hoàng Quang	14	1	Già Nam Hương Nang-Thanh Phong
+SiêuThúA	Thanh Long Triền Thủ-Triệt Cốt	16	0	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+SiêuThúB	Thanh Long Triền Thủ-Triệt Cốt	16	0	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+SiêuThúC	Thanh Long Triền Thủ-Triệt Cốt	16	0	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+SiêuThúD	Thanh Long Triền Thủ-Linh Vũ	16	0	Thất Tinh Thấu Cốt-Thanh Long
+bindje	Triều Lộ Liên-Hoàng Quang	14	0	Quần Điểu Liên-Tuyệt
+Swordee	Huyền Thiết Kiếm-Việt Quang	14	1	Bạch Hổ Triền Thủ-Việt Quang
+Sworddd	Huyền Thiết Kiếm-Việt Quang	14	1	Bạch Hổ Triền Thủ-Việt Quang
+Swordcc	Huyền Thiết Kiếm-Việt Quang	14	1	Bạch Hổ Triền Thủ-Việt Quang
+Swordbb	Huyền Thiết Kiếm-Việt Quang	14	1	Bạch Hổ Triền Thủ-Việt Quang
+Swordaa	Huyền Thiết Kiếm-Việt Quang	14	1	Bạch Hổ Triền Thủ-Việt Quang
+BảoNgọc	Thanh Sương Kiếm-Triệt Cốt	14	1	Huyền Thiết Kiếm-Việt Quang
+hoangnam	Long Hành Đao-Hoàng Quang	15	2	Thất Tinh Thấu Cốt-Cự Mộc
+Giathinh	Thiên Ngoại Phi Tiên-Nghiệp Hỏa	15	1	Nghiệt Long Chùy-Chu Thiềm
+lLáChàBồn	Thanh Long Triền Thủ-Chích Viêm	15	0	Huyền Thiết Kiếm-Vân Phách
+Giabao	Phá Thiên Chùy-Diên Dương	16	1	Long Lân Đao-Nghiệp Hỏa
+BaoCứyt	Long Lân Đao-Nghiệp Hỏa	15	1	Kinh Lôi Thương-Chích Viêm
+ThúyYên	Hình Thiên Giới-Cực	12	1	Ứng Long Giới-Nghịch Thủy
+NgaMyN	Già Nam Hương Nang-Chấn	12	1	Long Diên Hương Nang-Phục Thạch
+MinhGiáoKiếm	Long Uyên Kiếm-Thực Cốt	16	0	Huyền Thiết Kiếm-Cự Mộc
+NgaMyN	Hình Thiên Giới-Cực	12	2	Ứng Long Giới-Nghịch Thủy
+VõĐang	Hình Thiên Giới-Tuyệt	12	2	Ứng Long Giới-Cự Mộc
+VodlKa	Thiên Ma Phù-Nghịch Thủy	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+ThúyYên	Già Nam Hương Nang-Chấn	12	2	Long Diên Hương Nang-Thiên Sơn
+Chivas	Thiên Ma Phù-Nghịch Thủy	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+HeniKen	Thiên Ma Phù-Nghịch Thủy	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+HabaDa	Thiên Ma Phù-Nghịch Thủy	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+LãoLàng	Hình Thiên Giới-Hàn	12	0	Ứng Long Giới-Nghịch Thủy
+LãoLàng	Côn Bằng Bội-Cực	12	1	Bắc Minh Bội-Hoàng Quang
+LãoLàng	Thanh Hư Phù-Chấn	12	2	Hổ Phách Thiên Tinh Phù-Vô Song
+ICBM00	Yển Nguyệt Đao-Tâm Nhãn	16	0	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+BuồnĐời	Thanh Hư Phù-Tuyệt	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+SầuĐời	Thiên Ma Phù-Cự Mộc	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+ĐườngMônT	Già Nam Hương Nang-Cực	12	2	Long Diên Hương Nang-Chí mạng
+DépLàoMN	Tuyệt Hỏa Ngoa-Nghịch Thủy	12	5	Thiên Tàm Ngoa-Nghịch Thủy
+DépLàoMN	Sơn Quỷ Trang-Cự Mộc	12	6	Thiên Nhẫn Bí Trang-Cự Mộc
+DépLàoVĐ	Tuyệt Hỏa Ngoa-Chu Thiềm	12	5	Thiên Tàm Ngoa-Chu Thiềm
+DépLàoVĐ	Toàn Long Bào-Diên Dương	12	6	Giáng Sa Bào-Hoàng Quang
+DépLàoVĐ	Võ Thần Hộ Uyển-Việt Quang	12	7	Thiên Tàm Hộ Uyển-Việt Quang
+duonglam	Thanh Sương Kiếm-Vân Phách	14	1	Huyền Thiết Kiếm-Nghịch Thủy
+ThienNhan	Phá Sơn Đao-Nghiệp Hỏa	14	1	Long Lân Đao-Nghiệp Hỏa
+QuanTài	Thanh Long Triền Thủ-Hoàng Quang	15	0	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+ĐangChờ	Yển Nguyệt Đao-Phi Yến	15	0	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+LãoĐạie	Phá Thiên Chùy-Diên Dương	15	0	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+ChếtCụMày	Thiên Ngoại Phi Tiên-Linh Vũ	15	0	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+ConLợnNhựa	Long Uyên Kiếm-Phi Yến	15	0	Thất Tinh Thấu Cốt-Thanh Long
+ConHeoBé	Long Uyên Kiếm-Hoàng Quang	15	0	Huyền Thiết Kiếm-Triệt Cốt
+NướcDãi	Thanh Long Triền Thủ-Toái Trần	15	0	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+SaoThuy3	Yển Nguyệt Đao-Hàn Băng	16	0	Thất Tinh Thấu Cốt-Thanh Long
+Swordee	Bạch Hổ Triền Thủ-Việt Quang	14	2	Huyền Thiết Kiếm-Việt Quang
+Sworddd	Bạch Hổ Triền Thủ-Việt Quang	14	2	Huyền Thiết Kiếm-Việt Quang
+Swordcc	Bạch Hổ Triền Thủ-Việt Quang	14	2	Huyền Thiết Kiếm-Việt Quang
+Swordbb	Bạch Hổ Triền Thủ-Việt Quang	14	2	Huyền Thiết Kiếm-Việt Quang
+Swordaa	Bạch Hổ Triền Thủ-Việt Quang	14	2	Huyền Thiết Kiếm-Việt Quang
+DépLào	Trục Lộc Hoàng Long Triền Yêu	16	23	Trục Lộc Hoàng Long Triền Yêu
+DépLào	Long Bàn Thúc Yêu-Cực	12	24	Trục Lộc Hoàng Long Triền Yêu
+eeeeeeeeeeeee	Long Lân Đao-Huyền Vũ	14	2	Huyền Thiết Kiếm-Triệt Cốt
+SaoHoa3	Yển Nguyệt Đao-Phá Quân	16	0	Long Lân Đao-Nghiệp Hỏa
+ddddddddddd	Thanh Long Triền Thủ-Tâm Nhãn	14	1	Thất Tinh Thấu Cốt-Cự Mộc
+ccccccccccccc	Phá Sơn Đao-Nghiệp Hỏa	14	1	Long Lân Đao-Nghiệp Hỏa
+CônLôn	Già Nam Hương Nang-Minh	12	1	Long Diên Hương Nang-Việt Quang
+CônLôn	Hình Thiên Giới-Tuyệt	12	2	Ứng Long Giới-Cự Mộc
+SaoThuy3	Thanh Hư Phù-Chấn	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+SiêuThúA	Bạch Hổ Triền Thủ-Nghiệp Hỏa	16	1	Huyền Thiết Kiếm-Việt Quang
+SiêuThúB	Bạch Hổ Triền Thủ-Nghiệp Hỏa	16	1	Huyền Thiết Kiếm-Việt Quang
+HangSPA	Phá Sơn Đao-Ô Sương	14	1	Bạch Hổ Triền Thủ-Cự Mộc
+HangBaby	Ngạo Mai Ngọc Đái-Nghịch Thủy	12	1	Việt Nữ Ngọc Đái-Nghịch Thủy
+DaiKaSea	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+SeaDaiKa	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+kakasea	Thanh Hư Phù-Cực	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+Seaseaka	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+KaseaKa	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+SóngThần	Hình Thiên Giới-Cực	12	10	Ứng Long Giới-Nghịch Thủy
+NguNguMon	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+MonMonNgu	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+LongLongNgu	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+MonNguLong	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+LongMonNgu	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+LongNguMon	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+LãoĐại	Hổ Phách Thiên Tinh Phù-Vô Song	14	13	Hổ Phách Thiên Tinh Phù-Vô Song
+LãoĐại	Ứng Long Giới-Cự Mộc	14	14	Ứng Long Giới-Nghịch Thủy
+DépLào	Côn Bằng Bội-Chí mạng	12	25	Tiêu Dao Hỏa Vân Bội
+WuKong	Trục Lộc Hoàng Long Triền Yêu	16	7	Trục Lộc Hoàng Long Triền Yêu
+Thailand	Yển Nguyệt Đao-Linh Vũ	15	2	Long Lân Đao-Nghiệp Hỏa
+DépLào	Hình Thiên Giới-Cực	12	26	Ứng Long Giới-Cự Mộc
+DépLào	Thanh Hư Phù-Quy Nguyên	12	27	Hổ Phách Thiên Tinh Phù-Vô Song
+QuânMạcTiếu	Yển Nguyệt Đao-Linh Vũ	16	0	Thất Tinh Thấu Cốt-Thanh Long
+MaNhẫnĐao	Yển Nguyệt Đao-Nghiệp Hỏa	16	0	Long Lân Đao-Nghiệp Hỏa
+linhbos6	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+SiêuThúC	Bạch Hổ Triền Thủ-Nghiệp Hỏa	16	1	Long Lân Đao-Nghiệp Hỏa
+SauThienThu8996	Thất Bảo Quán-Minh	12	1	Trục Lộc Thương Khung Quán
+DépLào	Hỏa Lân Hộ Uyển-Chấn	12	28	Tiêu Dao Nộ Long Hộ Uyển
+mỹNuwăq	Kim Cô Bổng-Toái Trần	15	0	Long Lân Đao-Nghiệp Hỏa
+SaoTho3	Thanh Long Triền Thủ-Phi Yến	16	0	Long Lân Đao-Lạc Lôi
+NguTinh	Kim Cô Bổng-Diên Dương	16	1	Thất Tinh Thấu Cốt-Cự Mộc
+SaoMoc33	Phá Thiên Chùy-Diên Dương	16	0	Huyền Thiết Kiếm-Triệt Cốt
+Caradoc	Long Hành Đao-Hoàng Quang	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Estellaa	Phá Thiên Kích-Hoàng Quang	15	0	Thất Tinh Thấu Cốt-Thanh Long
+DépLàoMN	Trục Lộc Hoàng Long Triền Yêu	14	7	Trục Lộc Hoàng Long Triền Yêu
+DépLàoMN	Võ Thần Hộ Uyển-Chu Thiềm	12	8	Thiên Tàm Hộ Uyển-Chu Thiềm
+PhongLinh	Tiêu Dao Tường Phượng Thủ Trạc	16	18	Tiêu Dao Tường Phượng Thủ Trạc
+Alexander	Long Uyên Kiếm-Hoàng Quang	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Corbinn	Long Hành Đao-Toái Trần	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Frankkkk	Thiên Ngoại Phi Tiên-Toái Trần	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Dorothy	Thanh Long Triền Thủ-Hoàng Quang	15	0	Huyền Thiết Kiếm-Triệt Cốt
+AnhBaChàCú	Trục Lộc Hoàng Long Triền Yêu	16	5	Trục Lộc Hoàng Long Triền Yêu
+ThuýYênkiếm	Long Uyên Kiếm-Thực Cốt	15	0	Huyền Thiết Kiếm-Việt Quang
+Sapphire	Phá Thiên Kích-Hoàng Quang	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Emperol	Phá Thiên Kích-Phi Yến	15	0	Thất Tinh Thấu Cốt-Thanh Long
+4everafter	Phá Thiên Kích-Chu Thiềm	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Larissa	Kim Cô Bổng-Toái Trần	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Celestial	Phá Thiên Kích-Hoàng Quang	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Magical	Phá Thiên Chùy-Hoàng Quang	15	0	Huyền Thiết Kiếm-Triệt Cốt
+phanyoona	Long Uyên Kiếm-Hoàng Quang	15	0	Thất Tinh Thấu Cốt-Thanh Long
+lanphuong	Yển Nguyệt Đao-Diên Dương	15	0	Thất Tinh Thấu Cốt-Thanh Long
+sunshine	Yển Nguyệt Đao-Phá Quân	15	0	Thất Tinh Thấu Cốt-Thanh Long
+XinAccSLL	Kim Cô Bổng-Diên Dương	15	0	Thất Tinh Thấu Cốt-Thanh Long
+SoulAngell	Kim Cô Bổng-Hoàng Quang	15	0	Thất Tinh Thấu Cốt-Thanh Long
+ThienDe	Kim Cô Bổng-Toái Trần	15	0	Huyền Thiết Kiếm-Triệt Cốt
+NgaMyChưởng	Yển Nguyệt Đao-Linh Vũ	15	0	Bạch Hổ Triền Thủ-Việt Quang
+Anhxỏlá	Long Uyên Kiếm-Phi Yến	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Bánhchưng	Long Hành Đao-Diên Dương	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Emcânmap	Long Hành Đao-Thanh Long	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Quảdâutây	Phá Thiên Kích-Phá Quân	15	0	Thất Tinh Thấu Cốt-Thanh Long
+LagLord	Phá Thiên Kích-Toái Trần	15	0	Thất Tinh Thấu Cốt-Thanh Long
+MemeMan	Kim Cô Bổng-Tâm Nhãn	15	0	Huyền Thiết Kiếm-Triệt Cốt
+DépLàoVĐ	Côn Bằng Bội-Thanh Phong	12	8	Bắc Minh Bội-Việt Quang
+CConSóngDM	Côn Bằng Bội-Chí mạng	12	3	Bắc Minh Bội-Chí mạng
+DépLàoNM	Già Nam Hương Nang-Hoàng Quang	12	4	Long Diên Hương Nang-Phục Thạch
+DépLàoNM	Phi Phượng Ngoa-Cự Mộc	14	5	Phi Phượng Ngoa-Cự Mộc
+ConSóngA	Tiên Xạ Hương Nang-Diên Dương	12	2	Long Diên Hương Nang-Chí mạng
+EConSóngTN	Côn Bằng Bội-Thanh Phong	12	3	Bắc Minh Bội-Hàn
+PhongLinh	Long Diên Hương Nang-Hoàng Quang	14	19	Long Diên Hương Nang-Hoàng Quang
+LãoĐại	Long Uyên Kiếm-Vân Phách	16	15	Long Lân Đao-Nghiệp Hỏa
+DépLào	Sơn Quỷ Trang-Phục Thạch	12	29	Kính Hoa Khải-Hoàng Quang
+NgaMyChưởng	Yển Nguyệt Đao-Linh Vũ	15	1	Huyền Thiết Kiếm-Việt Quang
+SeaKaDai	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+Bunnyyy	Thiên Ngoại Phi Tiên-Chích Viêm	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Angellll	Thiên Ngoại Phi Tiên-Chích Viêm	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Eugene	Long Uyên Kiếm-Hoàng Quang	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Minnyyyy	Thiên Ngoại Phi Tiên-Chích Viêm	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Jellybeans	Long Uyên Kiếm-Phá Quân	15	0	Thất Tinh Thấu Cốt-Thanh Long
+Eugeneee	Yển Nguyệt Đao-Hoàng Quang	15	0	Huyền Thiết Kiếm-Triệt Cốt
+TrangSứcLâmAn	Long Lân Đao-Bạch Hổ	16	2	Nghiệt Long Chùy-Bạch Hổ
+ThànhLâmAn	Kim Cô Bổng-Hoàng Quang	15	0	Huyền Thiết Kiếm-Vân Phách
+SaoTho3	Quần Điểu Liên-Chấn	12	1	Triều Lộ Liên-Phục Thạch
+LãoĐại	Trục Lộc Hoàng Long Triền Yêu	16	16	Thần Châu Viêm Đế Thúc Yêu-Cực
+DépLào	Tuyệt Hỏa Ngoa-Chu Thiềm	12	30	Bá Vương Ngoa-Tật Phong
+DépLàoVĐ	Thương Khung Giới-Cự Mộc	12	9	Ứng Long Giới-Cự Mộc
+DépLàoVĐ	Giáng Sa Bào-Hoàng Quang	14	10	Thiên Nhẫn Bí Trang-Diên Dương
+DConSóngVĐ	Bắc Thần Liên-Quy Nguyên	12	4	Triều Lộ Liên-Chí mạng
+DConSóngVĐ	Côn Bằng Bội-Thanh Phong	12	5	Bắc Minh Bội-Việt Quang
+CConSóngDM	Võ Thần Hộ Uyển-Diên Dương	12	4	Thiên Tàm Hộ Uyển-Chấn
+AConSóngMGC	Quần Điểu Liên-Thiên Sơn	12	4	Triều Lộ Liên-Chí mạng
+DépLàoTYK	Thương Khung Giới-Chấn	12	7	Ứng Long Giới-Thanh Phong
+DépLàoTYK	Hỏa Lân Hộ Uyển-Thiên Sơn	12	8	Thiên Tàm Hộ Uyển-Tuyệt
+DépLàoTYK	Thiên Tàm Hộ Uyển-Tuyệt	12	9	Thiên Tàm Hộ Uyển-Cự Mộc
+DépLàoMN	Côn Bằng Bội-Chí mạng	12	9	Bắc Minh Bội-Chí mạng
+DépLàoMN	Hình Thiên Giới-Việt Quang	12	10	Ứng Long Giới-Việt Quang
+CConSóngDM	Bắc Thần Liên-Chí mạng	12	5	Triều Lộ Liên-Hàn
+LãoĐại	Trục Lộc Hoàng Long Triền Yêu	16	17	Thần Châu Viêm Đế Thúc Yêu-Minh
+LãoĐại	Bắc Minh Bội-Hoàng Quang	14	18	Côn Bằng Bội-Hoàng Quang
+LãoĐại	Thần Châu Viêm Đế Thúc Yêu-Cực	16	19	Trục Lộc Hoàng Long Triền Yêu
+ĐệNgũ	Phá Thiên Kích-Lạc Lôi	16	1	Huyền Thiết Kiếm-Nghịch Thủy
+BaoCứyt	Kinh Lôi Thương-Chích Viêm	15	2	Kinh Lôi Thương-Chích Viêm
+xaomeme	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+xaoxaome	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+xaomexao	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+mexaoxao	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+memexao	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+xaoxaoxao	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+SaoMai	Trục Lộc Thương Khung Quán	16	4	Trục Lộc Huyền Dương Khôi
+TomBien	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+CaLucBien	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+Cuabien	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+Ghebien	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+HauBien	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+Bebebien	Thanh Hư Phù-Tuyệt	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+NamDoaNe	Tiêu Dao Nộ Long Hộ Uyển	16	2	Tiêu Dao Nộ Long Hộ Uyển
+SóngThần	Huyền Thiết Kiếm-Việt Quang	16	11	Long Uyên Kiếm-Triệt Cốt
+anhbachacu	Huyền Thiết Kiếm-Việt Quang	16	6	Long Uyên Kiếm-Triệt Cốt
+DépLào	Thanh Sương Kiếm-Triệt Cốt	14	31	Thanh Long Triền Thủ-Triệt Cốt
+DépLào	Huyền Thiết Kiếm-Việt Quang	16	32	Long Uyên Kiếm-Triệt Cốt
+DoatMenh	Thất Tinh Thấu Cốt-Cự Mộc	16	2	Thiên Ngoại Phi Tiên-Chích Viêm
+DépLào	Ứng Long Giới-Cự Mộc	14	33	Lăng Vân Giới-Cực
+DépLào	Trục Lộc Hoàng Long Triền Yêu	16	34	Thần Châu Viêm Đế Thúc Yêu-Tuyệt
+DépLào	Trục Lộc Hoàng Long Triền Yêu	16	35	Thần Châu Viêm Đế Thúc Yêu-Cực
+DépLào	Trục Lộc Hoàng Long Triền Yêu	16	36	Thần Châu Viêm Đế Thúc Yêu-Tuyệt
+DépLào	Trục Lộc Hoàng Long Triền Yêu	16	37	Thần Châu Viêm Đế Thúc Yêu-Tuyệt
+DépLào	Trục Lộc Hoàng Long Triền Yêu	16	38	Thần Châu Viêm Đế Thúc Yêu-Tuyệt
+DépLào	Trục Lộc Hoàng Long Triền Yêu	16	39	Thần Châu Viêm Đế Thúc Yêu-Tuyệt
+DépLào	Trục Lộc Hoàng Long Triền Yêu	16	40	Thần Châu Viêm Đế Thúc Yêu-Tuyệt
+SaoTháiDương	Nghiệt Long Chùy-Bạch Hổ	14	0	Yển Nguyệt Đao-Thương Lang
+DépLào	Trục Lộc Hoàng Long Triền Yêu	16	41	Trục Lộc Hoàng Long Triền Yêu
+DépLào	Trục Lộc Hoàng Long Triền Yêu	16	42	Thần Châu Viêm Đế Thúc Yêu-Cực
+SpLine	Nghiệt Long Chùy-Chu Thiềm	16	2	Phá Thiên Chùy-Thương Lang
+ThuyKiem	Huyền Thiết Kiếm-Việt Quang	16	2	Long Uyên Kiếm-Triệt Cốt
+DépLàoDM	Hàm Sa Xạ Ảnh-Ô Sương	14	5	Thiên Ngoại Phi Tiên-Thương Lang
+DépLàoDM	Trục Lộc Huyền Dương Khôi	16	6	Trục Lộc Huyền Dương Khôi
+DépLàoDM	Sơn Quỷ Trang-Việt Quang	12	7	Kính Hoa Khải-Nghịch Thủy
+DépLàoDM	Trục Lộc Hoàng Long Triền Yêu	16	8	Trục Lộc Hoàng Long Triền Yêu
+DépLàoDM	Võ Thần Hộ Uyển-Cửu Mệnh	12	9	Thiên Tàm Hộ Uyển-Tuyệt
+DépLàoDM	Tuyệt Hỏa Ngoa-Tật Phong	12	10	Thiên Tàm Ngoa-Việt Quang
+DépLàoDM	Hổ Phách Thiên Tinh Phù-Vô Song	14	11	Hổ Phách Thiên Tinh Phù-Vô Song
+DépLàoDM	Côn Bằng Bội-Thanh Phong	12	12	Bắc Minh Bội-Cự Mộc
+DépLàoDM	Thương Khung Giới-Hoàng Quang	12	13	Ứng Long Giới-Phục Thạch
+DépLàoDM	Trục Lộc Thiên Hựu Liên	16	14	Trục Lộc Thiên Hựu Liên
+DépLàoDM	Trục Lộc Hoàng Long Triền Yêu	16	15	Trục Lộc Hoàng Long Triền Yêu
+DépLàoVĐ	Thanh Sương Kiếm-Vân Phách	14	11	Long Uyên Kiếm-Vân Phách
+DépLàoVĐ	Trục Lộc Hoàng Long Triền Yêu	15	12	Trục Lộc Hoàng Long Triền Yêu
+KẻMangTâmSự	Huyền Thiết Kiếm-Việt Quang	16	4	Long Uyên Kiếm-Nghiệp Hỏa
+DépLàoTYK	Kim Qua Chùy-Thương Lang	14	10	Phá Thiên Chùy-Thương Lang
+aduminn	Huyền Thiết Kiếm-Việt Quang	14	2	Yển Nguyệt Đao-Triệt Cốt
+DépLàoMN	Phá Sơn Đao-Nghiệp Hỏa	14	11	Yển Nguyệt Đao-Nghiệp Hỏa
+adumiin	Thất Tinh Thấu Cốt-Cự Mộc	14	2	Thiên Ngoại Phi Tiên-Hàn Băng
+PhongLinh	Huyền Thiết Kiếm-Việt Quang	16	20	Long Uyên Kiếm-Triệt Cốt
+DépLàoNM	Trục Lộc Hoàng Long Triền Yêu	16	6	Trục Lộc Hoàng Long Triền Yêu
+CConSóngDM	Hàm Sa Xạ Ảnh-Hàn Băng	14	6	Thiên Ngoại Phi Tiên-Hàn Băng
+ADIMINN	Tiên Duyên Phù-Chu Thiềm	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+DConSóngVĐ	Thanh Sương Kiếm-Vân Phách	14	6	Long Uyên Kiếm-Vân Phách
+NguTinh	Thất Tinh Thấu Cốt-Cự Mộc	16	2	Thiên Ngoại Phi Tiên-Thương Lang
+EConSóngTN	Phá Sơn Đao-Nghiệp Hỏa	14	4	Yển Nguyệt Đao-Nghiệp Hỏa
+TiểuHắc	Thất Tinh Thấu Cốt-Cự Mộc	14	0	Thiên Ngoại Phi Tiên-Thương Lang
+zBaKichz	Long Lân Đao-Nghiệp Hỏa	16	2	Yển Nguyệt Đao-Chích Viêm
+ADIMIN	Tiên Duyên Phù-Hoàng Quang	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+SaoChổi	Bạch Hổ Triền Thủ-Triệt Cốt	16	1	Thanh Long Triền Thủ-Triệt Cốt
+SaoMộcĐức	Thất Tinh Thấu Cốt-Thanh Long	14	0	Thiên Ngoại Phi Tiên-Chích Viêm
+SaoTháiÂm	Long Lân Đao-Nghiệp Hỏa	14	0	Yển Nguyệt Đao-Nghiệp Hỏa
+SaoThổTú	Huyền Thiết Kiếm-Nghịch Thủy	14	0	Long Uyên Kiếm-Vân Phách
+SóngThần	Long Uyên Kiếm-Triệt Cốt	16	12	Thiên Ngoại Phi Tiên-Hàn Băng
+adumin	Huyền Thiết Kiếm-Việt Quang	14	2	Yển Nguyệt Đao-Hàn Băng
+AConSóngMGC	Kim Qua Chùy-Thương Lang	14	5	Phá Thiên Chùy-Thương Lang
+NguyênBá	Long Lân Đao-Chu Thiềm	14	0	Phá Thiên Chùy-Thương Lang
+adminn	Huyền Thiết Kiếm-Việt Quang	16	4	Long Uyên Kiếm-Triệt Cốt
+TiểuHồng	Long Lân Đao-Nghiệp Hỏa	16	1	Yển Nguyệt Đao-Chích Viêm
+AConSóngMGC	Thương Khung Giới-Phục Thạch	12	6	Ứng Long Giới-Hoàng Quang
+SóngThần	Thanh Sương Kiếm-Triệt Cốt	14	13	Long Uyên Kiếm-Triệt Cốt
+CConSóngDM	Toàn Long Bào-Chu Thiềm	12	7	Kính Hoa Khải-Chu Thiềm
+CConSóngDM	Thương Khung Giới-Nghịch Thủy	12	8	Ứng Long Giới-Nghịch Thủy
+EConSóngTN	Thương Khung Giới-Việt Quang	12	5	Ứng Long Giới-Việt Quang
+TiềmLong	Vũ Uy Hổ Phách Thiên Tinh Phù	16	6	Vũ Uy Lẫm Nhật Tinh Huyễn Phù
+TiềmLong	Vũ Uy Trích Tinh Giới	16	7	Vũ Uy Lăng Vân Giới
+DépLàoDM	Hổ Phách Thiên Tinh Phù-Vô Song	14	16	Vũ Uy Hổ Phách Thiên Tinh Phù
+DépLàoVĐ	Hổ Phách Thiên Tinh Phù-Vô Song	14	13	Vũ Uy Hổ Phách Thiên Tinh Phù
+DépLàoVĐ	Thiên Nhẫn Bí Trang-Diên Dương	14	14	Vũ Uy Trục Nhật Y
+TiềmLong	Hổ Phách Thiên Tinh Phù-Vô Song	14	8	Vũ Uy Lẫm Nhật Tinh Huyễn Phù
+DépLàoTYK	Hổ Phách Thiên Tinh Phù-Vô Song	14	11	Vũ Uy Hổ Phách Thiên Tinh Phù
+DépLàoMN	Hổ Phách Thiên Tinh Phù-Vô Song	14	12	Vũ Uy Hổ Phách Thiên Tinh Phù
+DépLàoNM	Hổ Phách Thiên Tinh Phù-Vô Song	14	7	Vũ Uy Hổ Phách Thiên Tinh Phù
+TiểuHắc	Triều Lộ Liên-Chí mạng	14	1	Trục Lộc Thiên Hựu Liên
+ThầyTrừTàd	Long Lân Đao-Nghiệp Hỏa	16	2	Long Uyên Kiếm-Nghiệp Hỏa
+ThầyTrừTàa	Thất Tinh Thấu Cốt-Cự Mộc	16	2	Thiên Ngoại Phi Tiên-Thương Lang
+ThầyTrừTàb	Huyền Thiết Kiếm-Nghịch Thủy	16	2	Long Uyên Kiếm-Vân Phách
+zbufloilonz	Thanh Sương Kiếm-Thực Cốt	14	1	Long Uyên Kiếm-Triệt Cốt
+LãoĐại	Huyền Thiết Kiếm-Nghịch Thủy	16	20	Long Uyên Kiếm-Vân Phách
+thúyYênKiếm	Long Uyên Kiếm-Triệt Cốt	16	0	Long Uyên Kiếm-Triệt Cốt
+NgaMyChuong	Yển Nguyệt Đao-Nghiệp Hỏa	16	0	Yển Nguyệt Đao-Nghiệp Hỏa
+5DộcĐao	Tiên Duyên Phù-Hoàng Quang	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+NgaMyChuong	Tiên Duyên Phù-Nghịch Thủy	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+thúyYênKiếm	Tiên Duyên Phù-Cự Mộc	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+NgaMyKuTe	Vũ Uy Truy Nguyệt Phù	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+KẻMangTâmSự	Long Lân Đao-Nghiệp Hỏa	16	5	Thanh Long Triền Thủ-Nghiệp Hỏa
+SóngThần	Tiêu Dao Nộ Long Hộ Uyển	16	14	Tiêu Dao Nộ Long Hộ Uyển
+SóngThần	Trục Lộc Thiên Hựu Liên	16	15	Trục Lộc Thiên Hựu Liên
+ThuốcLắc	Bạch Hổ Triền Thủ-Việt Quang	14	0	Thanh Long Triền Thủ-Hàn Băng
+ThuốcLào	Bạch Hổ Triền Thủ-Hàn Băng	15	1	Thanh Long Triền Thủ-Hàn Băng
+BaoCát	Huyền Thiết Kiếm-Vân Phách	15	1	Phá Thiên Kích-Lạc Lôi
+ThầyTrừTà	Nghiệt Long Chùy-Chu Thiềm	16	2	Long Uyên Kiếm-Đoạn Hải
+DépLàoTYK	Trục Lộc Hoàng Long Triền Yêu	16	12	Trục Lộc Hoàng Long Triền Yêu
+HoiUcKT	Long Lân Đao-Nghiệp Hỏa	16	4	Thanh Long Triền Thủ-Nghiệp Hỏa
+LãoĐại	Côn Bằng Bội-Hoàng Quang	14	21	Bắc Minh Bội-Thanh Phong
+5DChuong	Tiên Duyên Phù-Nghịch Thủy	12	0	Hổ Phách Thiên Tinh Phù-Vô Song
+ADIMINNN	Tiên Duyên Phù-Việt Quang	14	0	Vũ Uy Hổ Phách Thiên Tinh Phù
+seasea	Thanh Sương Kiếm-Triệt Cốt	14	1	Long Uyên Kiếm-Triệt Cốt
+seasea2	Thanh Sương Kiếm-Triệt Cốt	14	1	Long Uyên Kiếm-Triệt Cốt
+seasea6	Thanh Sương Kiếm-Triệt Cốt	14	1	Long Uyên Kiếm-Triệt Cốt
+seasea5	Thanh Sương Kiếm-Triệt Cốt	14	1	Long Uyên Kiếm-Triệt Cốt
+seasea3	Thanh Sương Kiếm-Triệt Cốt	14	1	Long Uyên Kiếm-Triệt Cốt
+seasea4	Thanh Sương Kiếm-Triệt Cốt	14	1	Long Uyên Kiếm-Triệt Cốt
+KiếmVôCực	Huyền Thiết Kiếm-Nghịch Thủy	16	2	Long Uyên Kiếm-Vân Phách
+OhOooo	Huyền Thiết Kiếm-Việt Quang	16	2	Long Uyên Kiếm-Triệt Cốt
+NhatTinh	Huyền Thiết Kiếm-Triệt Cốt	16	4	Long Uyên Kiếm-Triệt Cốt
+LucTinh	Thanh Sương Kiếm-Triệt Cốt	14	1	Long Uyên Kiếm-Triệt Cốt
+VươngCường	Huyền Thiết Kiếm-Việt Quang	16	3	Long Uyên Kiếm-Triệt Cốt
+WuKong	Phách Phong Đao-Nghiệp Hỏa	12	0	Phách Phong Đao-Nghiệp Hỏa
+PằngAChíu	Long Uyên Kiếm-Linh Vũ	12	0	Thanh Sương Kiếm-Triệt Cốt
+LiễuNhưYên	Long Lân Đao-Nghiệp Hỏa	14	0	Kim Qua Chùy-Thương Lang
+SaoMai	Huyền Thiết Kiếm-Triệt Cốt	14	0	Thanh Sương Kiếm-Triệt Cốt
+HoiUcKT	Huyền Thiết Kiếm-Việt Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+Phoenix	Long Uyên Kiếm-Linh Vũ	14	0	Thanh Sương Kiếm-Vân Phách
+TrácKiếmThi	Tiên Xạ Hương Nang-Diên Dương	12	0	Già Nam Hương Nang-Phục Thạch
+LiễuNhưYên	Thương Khung Giới-Diên Dương	12	1	Thương Khung Giới-Hoàng Quang
+LiễuNhưYên	Bắc Thần Liên-Chí mạng	12	2	Quần Điểu Liên-Lâm Li
+LiễuNhưYên	Tiên Xạ Hương Nang-Chí mạng	12	3	Già Nam Hương Nang-Quy Nguyên
+LiễuNhưYên	Phượng Miên Khôi-Chu Thiềm	12	4	Trục Lộc Thương Khung Quán
+LiễuNhưYên	Hàn Quang Nhạn Linh Giáp-Nghịch Thủy	12	5	Hàn Quang Nhạn Linh Giáp-Diên Dương
+LiễuNhưYên	Kim Qua Chùy-Thương Lang	14	6	Thanh Sương Kiếm-Vân Phách
+LiễuNhưYên	Thiên Ma Phù-Diên Dương	12	7	Thanh Hư Phù-Quy Nguyên
+LiễuNhưYên	Ngạo Mai Ngọc Đái-Diên Dương	12	8	Lương Cúc Ngọc Đái-Tuyệt
+LiễuNhưYên	Thương Khung Giới-Hoàng Quang	12	9	Hình Thiên Giới-Tuyệt
+LiễuNhưYên	Khinh Vân Ngoa-Việt Quang	12	10	Sính Sa Ngoa-Hàn
+LiễuNhưYên	Bế Nguyệt Hoàn-Cự Mộc	12	11	Thiên Công Hoàn-Minh
+DạMa	Thương Khung Giới-Việt Quang	12	0	Hình Thiên Giới-Việt Quang
+MộcUyển	Thương Khung Giới-Chu Thiềm	12	0	Hình Thiên Giới-Thanh Phong
+MộcUyển	Bắc Thần Liên-Chí mạng	12	1	Quần Điểu Liên-Việt Quang
+PằngAChíu	Long Uyên Kiếm-Linh Vũ	14	1	Thanh Sương Kiếm-Triệt Cốt
+Phoenix	Minh Điệp Phát Kết-Nghịch Thủy	12	1	Trục Lộc Thương Khung Quán
+DạMa	Quần Điểu Liên-Cự Mộc	12	1	Quần Điểu Liên-Chí mạng
+LamTinh	Huyền Thiết Kiếm-Việt Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+phamhanh85	Huyền Thiết Kiếm-Toái Trần	14	0	Thanh Sương Kiếm-Triệt Cốt
+huhuhu	Hàm Sa Xạ Ảnh-Ô Sương	12	0	Thanh Sương Kiếm-Triệt Cốt
+huhuhu	Sơn Quỷ Trang-Việt Quang	12	1	Toàn Long Bào-Chu Thiềm
+huhuhu	Sơn Quỷ Phát Quán-Cự Mộc	12	2	Tử Kim Thúc Ngạch-Việt Quang
+huhuhu	Ngọa Hổ Thúc Yêu-Chu Thiềm	12	3	Ngọa Hổ Thúc Yêu-Nghịch Thủy
+huhuhu	Võ Thần Hộ Uyển-Nghịch Thủy	12	4	Võ Thần Hộ Uyển-Diên Dương
+huhuhu	Bắc Thần Liên-Việt Quang	12	5	Bắc Thần Liên-Chu Thiềm
+KẻMangTâmSự	Huyền Thiết Kiếm-Việt Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+SùngALú	Nghiệt Long Chùy-Thương Lang	14	0	Kim Qua Chùy-Thương Lang
+LiễuNhưYên	Lương Cúc Ngọc Đái-Tuyệt	12	12	Hoa Hạ Phi Phượng Ngọc Đái-Tuyệt
+huhuhu	Kinh Lôi Thương-Hoàng Quang	14	6	Thanh Sương Kiếm-Triệt Cốt
+LừaXongPhắn	Long Lân Đao-Nghiệp Hỏa	14	0	Phá Sơn Đao-Nghiệp Hỏa
+GiàngALử	Huyền Thiết Kiếm-Nghịch Thủy	14	0	Thanh Sương Kiếm-Vân Phách
+huhuhu	Tử Kim Thúc Ngạch-Việt Quang	12	7	Trục Lộc Thương Khung Quán
+HoiUcKT	Huyền Thiết Kiếm-Việt Quang	14	1	Phá Sơn Đao-Nghiệp Hỏa
+huhuhu	Ngọa Hổ Thúc Yêu-Nghịch Thủy	12	8	Trục Lộc Hoàng Long Triền Yêu
+PằngAChíu	Trục Lộc Hoàng Long Triền Yêu	16	2	Trục Lộc Hoàng Long Triền Yêu
+Phoenix	Trục Lộc Hoàng Long Triền Yêu	16	2	Trục Lộc Hoàng Long Triền Yêu
+SùngALú	Bắc Thần Liên-Chí mạng	12	1	Quần Điểu Liên-Chí mạng
+DạMa	Sơn Quỷ Phát Quán-Diên Dương	12	2	Trục Lộc Huyền Dương Khôi
+DạMa	Ngọa Hổ Thúc Yêu-Việt Quang	12	3	Trục Lộc Hoàng Long Triền Yêu
+DạMa	Quần Điểu Liên-Chí mạng	12	4	Trục Lộc Thiên Hựu Liên
+ThiênKiếm	Tử Kim Thúc Ngạch-Nghịch Thủy	12	0	Trục Lộc Huyền Dương Khôi
+ThiênKiếm	Quần Điểu Liên-Phục Thạch	12	1	Trục Lộc Thiên Hựu Liên
+ThiênKiếm	Ngọa Hổ Thúc Yêu-Cự Mộc	12	2	Trục Lộc Hoàng Long Triền Yêu
+huhuhu	Trục Lộc Hoàng Long Triền Yêu	16	9	Hoa Hạ Đằng Long Thúc Yêu-Cực
+huhuhu	Hoa Hạ Đằng Long Thúc Yêu-Cực	16	10	Trục Lộc Hoàng Long Triền Yêu
+huhuhu	Bắc Thần Liên-Chí mạng	12	11	Trục Lộc Thiên Hựu Liên
+huhuhu	Trục Lộc Hoàng Long Triền Yêu	16	12	Trục Lộc Hoàng Long Triền Yêu
+MộcUyển	Điêu Bì Diện Tráo-Cự Mộc	12	2	Trục Lộc Huyền Dương Khôi
+MộcUyển	Ngạo Mai Ngọc Đái-Chu Thiềm	12	3	Trục Lộc Hoàng Long Triền Yêu
+MộcUyển	Quần Điểu Liên-Việt Quang	12	4	Trục Lộc Thiên Hựu Liên
+HạoThiênChày	Thôn Long Khôi-Chu Thiềm	12	0	Trục Lộc Huyền Dương Khôi
+HạoThiênChày	Ngọa Hổ Thúc Yêu-Diên Dương	12	1	Trục Lộc Hoàng Long Triền Yêu
+HạoThiênChày	Quần Điểu Liên-Diên Dương	12	2	Trục Lộc Thiên Hựu Liên
+huhuhu	Tuyệt Hỏa Ngoa-Cự Mộc	12	13	Bá Vương Ngoa-Tật Phong
+XeLiễuKey	Minh Điệp Phát Kết-Việt Quang	12	0	Trục Lộc Huyền Dương Khôi
+XeLiễuKey	Ngạo Mai Ngọc Đái-Nghịch Thủy	12	1	Trục Lộc Hoàng Long Triền Yêu
+PằngAChíu	Tuyệt Hỏa Ngoa-Cự Mộc	12	3	Tung Hoành Ngoa-Cự Mộc
+zXznuquaizXz	Huyền Thiết Kiếm-Việt Quang	14	0	Thanh Sương Kiếm-Triệt Cốt
+TrácKiếmThi	Minh Điệp Phát Kết-Việt Quang	12	1	Trục Lộc Huyền Dương Khôi
+TrácKiếmThi	Ngạo Mai Ngọc Đái-Nghịch Thủy	12	2	Trục Lộc Hoàng Long Triền Yêu
+TrácKiếmThi	Bắc Thần Liên-Chu Thiềm	12	3	Trục Lộc Thiên Hựu Liên
+LiễuNhưYên	Long Uyên Kiếm-Linh Vũ	16	13	Long Lân Đao-Nghịch Thủy
+phamhanh85	Yển Nguyệt Đao-Phi Yến	16	1	Huyền Thiết Kiếm-Việt Quang
+LiễuNhưYên	Thanh Hư Phù-Quy Nguyên	12	14	Hổ Phách Thiên Tinh Phù-Vô Song
+SaoMai	Yển Nguyệt Đao-Hàn Băng	16	1	Long Lân Đao-Việt Quang
+huhuhu	Yển Nguyệt Đao-Hấp Tinh	16	14	Huyền Thiết Kiếm-Việt Quang
+ThiênKiếm	Long Uyên Kiếm-Linh Vũ	16	3	Huyền Thiết Kiếm-Nghịch Thủy
+PằngAChíu	Long Uyên Kiếm-Linh Vũ	16	4	Huyền Thiết Kiếm-Việt Quang
+PằngAChíu	Tung Hoành Ngoa-Cự Mộc	12	5	Thiên Tàm Ngoa-Cự Mộc
+KẻMangTâmSự	Thanh Long Triền Thủ-Triệt Cốt	16	1	Bạch Hổ Triền Thủ-Việt Quang
+Coffee	Thanh Long Triền Thủ-Hàn Băng	16	0	Bạch Hổ Triền Thủ-Việt Quang
+HạoThiênChày	Long Uyên Kiếm-Linh Vũ	16	3	Nghiệt Long Chùy-Chu Thiềm
+HoiUcKT	Thanh Long Triền Thủ-Nghiệp Hỏa	16	2	Bạch Hổ Triền Thủ-Nghiệp Hỏa
+DạMa	Long Uyên Kiếm-Linh Vũ	16	5	Long Lân Đao-Nghiệp Hỏa
+Phoenix	Long Uyên Kiếm-Linh Vũ	16	3	Huyền Thiết Kiếm-Nghịch Thủy
+PằngAChíu	Thiên Ma Phù-Cự Mộc	12	6	Tiên Duyên Phù-Cự Mộc
+KHUNGLONG	Yển Nguyệt Đao-Phi Yến	16	0	Long Lân Đao-Việt Quang
+PằngAChíu	Toàn Long Bào-Chu Thiềm	12	7	Giáng Sa Bào-Chu Thiềm
+PằngAChíu	Hình Thiên Giới-Thanh Phong	12	8	Ứng Long Giới-Nghịch Thủy
+LiễuNhưYên	Sính Sa Ngoa-Hàn	12	15	Huyền Nữ Ngoa-Tật Phong
+LiễuNhưYên	Thiên Công Hoàn-Minh	12	16	Tiêu Dao Tường Phượng Thủ Trạc
+LiễuNhưYên	Già Nam Hương Nang-Quy Nguyên	12	17	Tiêu Dao Băng Nguyệt Hương Nang
+MộcUyển	Thiên Ngoại Phi Tiên-Thương Lang	16	5	Thất Tinh Thấu Cốt-Cự Mộc
+LiễuNhưYên	Hình Thiên Giới-Tuyệt	12	18	Ứng Long Giới-Cự Mộc
+LiễuNhưYên	Hàn Quang Nhạn Linh Giáp-Diên Dương	12	19	Tích Lịch Kim Phượng Giáp-Hoàng Quang
+KHUNGLONG	Tuyệt Hỏa Ngoa-Cự Mộc	12	1	Thiên Tàm Ngoa-Cự Mộc
+LừaXongPhắn	Yển Nguyệt Đao-Nghiệp Hỏa	16	1	Long Lân Đao-Nghiệp Hỏa
+SùngALú	Kim Qua Chùy-Thương Lang	14	2	Nghiệt Long Chùy-Chu Thiềm
+Phoenix	Thanh Hư Phù-Quy Nguyên	12	4	Hổ Phách Thiên Tinh Phù-Vô Song
+Phoenix	Lăng La Sam-Diên Dương	12	5	Tích Lịch Kim Phượng Giáp-Hoàng Quang
+Phoenix	Thương Khung Giới-Cự Mộc	12	6	Ứng Long Giới-Cự Mộc
+GiàngAPáo	Hàm Sa Xạ Ảnh-Ô Sương	12	0	Thất Tinh Thấu Cốt-Cự Mộc
+Phoenix	Bế Nguyệt Hoàn-Việt Quang	12	7	Tiêu Dao Tường Phượng Thủ Trạc
+GiàngALử	Thanh Sương Kiếm-Vân Phách	14	1	Long Lân Đao-Nghịch Thủy
+PằngAChíu	Trục Lộc Thương Khung Quán	16	9	Trục Lộc Huyền Dương Khôi
+TrácKiếmThi	Thương Khung Giới-Nghịch Thủy	12	4	Ứng Long Giới-Nghịch Thủy
+TrácKiếmThi	Già Nam Hương Nang-Phục Thạch	12	5	Long Diên Hương Nang-Hoàng Quang
+GiàngAPáo	Trục Lộc Huyền Dương Khôi	14	1	Trục Lộc Huyền Dương Khôi
+LừaXongPhắn	Long Lân Đao-Nghiệp Hỏa	16	2	Long Lân Đao-Nghiệp Hỏa
+GoldenBird	Hàm Sa Xạ Ảnh-Ô Sương	12	0	Thất Tinh Thấu Cốt-Cự Mộc
+FireBird	Phá Sơn Đao-Nghiệp Hỏa	12	0	Long Lân Đao-Nghiệp Hỏa
+IronBird	Kim Qua Chùy-Thương Lang	12	0	Nghiệt Long Chùy-Chu Thiềm
+LightningBird	Thanh Sương Kiếm-Vân Phách	12	0	Huyền Thiết Kiếm-Nghịch Thủy
+IceBird	Thanh Sương Kiếm-Triệt Cốt	12	0	Huyền Thiết Kiếm-Việt Quang
+FireBird	Thiên Ma Phù-Nghịch Thủy	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+LightningBird	Thanh Hư Phù-Quy Nguyên	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+ThiênKiếm	Trục Lộc Hoàng Long Triền Yêu	13	4	Trục Lộc Hoàng Long Triền Yêu
+ThiênKiếm	Toàn Long Bào-Diên Dương	12	5	Giáng Sa Bào-Hoàng Quang
+ThiênKiếm	Võ Thần Hộ Uyển-Việt Quang	12	6	Thiên Tàm Hộ Uyển-Việt Quang
+ThiênKiếm	Tuyệt Hỏa Ngoa-Chu Thiềm	12	7	Thiên Tàm Ngoa-Chu Thiềm
+KHUNGLONG	Long Lân Đao-Việt Quang	16	2	Huyền Thiết Kiếm-Việt Quang
+HạoThiênChày	Thiên Ma Phù-Diên Dương	12	4	Hổ Phách Thiên Tinh Phù-Vô Song
+HạoThiênChày	Trục Lộc Hoàng Long Triền Yêu	13	5	Trục Lộc Hoàng Long Triền Yêu
+DạMa	Trục Lộc Hoàng Long Triền Yêu	13	6	Trục Lộc Hoàng Long Triền Yêu
+MộcUyển	Thiên Ma Phù-Diên Dương	12	6	Hổ Phách Thiên Tinh Phù-Vô Song
+MộcUyển	Trục Lộc Hoàng Long Triền Yêu	12	7	Trục Lộc Hoàng Long Triền Yêu
+MộcUyển	Khinh Vân Ngoa-Tật Phong	12	8	Phi Phượng Ngoa-Hoàng Quang
+PằngAChíu	Tiên Duyên Phù-Cự Mộc	14	10	Hổ Phách Thiên Tinh Phù-Vô Song
+TrácKiếmThi	Thiên Ma Phù-Cự Mộc	12	6	Hổ Phách Thiên Tinh Phù-Vô Song
+TrácKiếmThi	Khinh Vân Ngoa-Cự Mộc	12	7	Huyền Nữ Ngoa-Tật Phong
+GiàngALử	Yển Nguyệt Đao-Linh Vũ	16	1	Long Lân Đao-Nghịch Thủy
+HạoThiênChày	Hình Thiên Giới-Phục Thạch	12	6	Ứng Long Giới-Truy Ảnh
+GiàngAPáo	Thiên Tàm Hộ Uyển-Hoàng Quang	14	2	Thiên Tàm Hộ Uyển-Tâm Nhãn
+DạMa	Võ Thần Hộ Uyển-Chu Thiềm	12	7	Thiên Tàm Hộ Uyển-Chu Thiềm
+DạMa	Sơn Quỷ Trang-Cự Mộc	12	8	Giáng Sa Bào-Cự Mộc
+ThiênKiếm	Thiên Ma Phù-Diên Dương	12	8	Hổ Phách Thiên Tinh Phù-Vô Song
+PằngAChíu	Giáng Sa Bào-Chu Thiềm	14	11	Giáng Sa Bào-Hàn
+SùngALú	Yển Nguyệt Đao-Linh Vũ	16	3	Nghiệt Long Chùy-Chu Thiềm
+GoldenBird	Thiên Ma Phù-Diên Dương	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+IronBird	Thanh Hư Phù-Quy Nguyên	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+IceBird	Thiên Ma Phù-Cự Mộc	12	1	Hổ Phách Thiên Tinh Phù-Vô Song
+Phoenix	Khinh Vân Ngoa-Chu Thiềm	12	8	Phi Phượng Ngoa-Chu Thiềm
+SùngThịTẹt	Triều Lộ Liên-Chu Thiềm	14	0	Trục Lộc Thiên Hựu Liên
+Phoenix	Huyền Thiết Kiếm-Nghịch Thủy	16	9	Long Lân Đao-Lạc Lôi
+Phoenix	Già Nam Hương Nang-Chí mạng	12	10	Tiêu Dao Băng Nguyệt Hương Nang
+Phoenix	Tiêu Dao Tường Phượng Thủ Trạc	16	11	Tiêu Dao Tường Phượng Thủ Trạc
+Phoenix	Trục Lộc Thiên Hựu Liên	16	12	Trục Lộc Thiên Hựu Liên
+SaoMai	Long Lân Đao-Việt Quang	16	2	Bạch Hổ Triền Thủ-Việt Quang
+SùngThịTẹt	Trục Lộc Hoàng Long Triền Yêu	16	1	Trục Lộc Hoàng Long Triền Yêu
+GiàngAPáo	Trục Lộc Hoàng Long Triền Yêu	14	3	Trục Lộc Hoàng Long Triền Yêu
+SùngALú	Trục Lộc Hoàng Long Triền Yêu	14	4	Trục Lộc Hoàng Long Triền Yêu
+GiàngALử	Trục Lộc Thương Khung Quán	14	2	Trục Lộc Huyền Dương Khôi
+LừaXongPhắn	Triều Lộ Liên-Chí mạng	12	3	Trục Lộc Thiên Hựu Liên
+GiàngALử	Triều Lộ Liên-Chí mạng	12	3	Trục Lộc Thiên Hựu Liên
+LamTinh	Long Uyên Kiếm-Linh Vũ	16	1	Huyền Thiết Kiếm-Việt Quang
+KHUNGLONG	Thiên Ma Phù-Cự Mộc	12	3	Hổ Phách Thiên Tinh Phù-Vô Song
+caremtram	Hoa Hạ Đằng Long Thúc Yêu-Chấn	14	0	Hoa Hạ Đằng Long Thúc Yêu-Minh
+phamhanh85	Trục Lộc Thương Khung Quán	16	2	Trục Lộc Huyền Dương Khôi
+karema	Bắc Thần Liên-Chu Thiềm	12	0	Triều Lộ Liên-Chí mạng
+caeeaas	Thiên Ma Phù-Diên Dương	12	0	Thanh Hư Phù-Vô Song
+caremdd	Thương Khung Giới-Cự Mộc	12	0	Ứng Long Giới-Tuyệt
+caeeaas	Long Thủ Bội-Nghịch Thủy	12	1	Bắc Minh Bội-Chí mạng
+caremdd	Bắc Thần Liên-Chí mạng	12	1	Triều Lộ Liên-Phục Thạch
+SaoMai	Bạch Hổ Triền Thủ-Việt Quang	16	3	Huyền Thiết Kiếm-Việt Quang
+huhuhu	Ứng Long Giới-Nghịch Thủy	14	15	Ứng Long Giới-Cực
+caeeaas	Huyền Thiết Kiếm-Cự Mộc	14	2	Nghiệt Long Chùy-Ô Sương
+caremtram	Quần Điểu Liên-Thiên Sơn	12	1	Triều Lộ Liên-Chí mạng
+caremdd	Long Thủ Bội-Việt Quang	12	2	Côn Bằng Bội-Chí mạng
+huhuhu	Tiên Duyên Phù-Cự Mộc	14	16	Hổ Phách Thiên Tinh Phù-Vô Song
+cocainit	Ngọa Hổ Thúc Yêu-Chu Thiềm	12	0	Hoa Hạ Đằng Long Thúc Yêu-Hàn
+karema	Ngạo Mai Ngọc Đái-Nghịch Thủy	12	1	Hoa Hạ Phi Phượng Ngọc Đái-Cực
+karema	Lăng La Sam-Chu Thiềm	12	2	Tích Lịch Kim Phượng Giáp-Phản Phệ
+KẻMangTâmSự	Trục Lộc Thương Khung Quán	16	2	Trục Lộc Huyền Dương Khôi
+PằngAChíu	Huyền Thiết Kiếm-Việt Quang	16	12	Long Lân Đao-Phá Quân
+PằngAChíu	Long Lân Đao-Phá Quân	16	13	Long Lân Đao-Việt Quang
+KẻMangTâmSự	Bạch Hổ Triền Thủ-Việt Quang	16	3	Huyền Thiết Kiếm-Việt Quang
+PằngAChíu	Long Lân Đao-Việt Quang	16	14	Huyền Thiết Kiếm-Việt Quang
+Phoenix	Long Lân Đao-Lạc Lôi	16	13	Thất Tinh Thấu Cốt-Phá Quân
+huhuhu	Huyền Thiết Kiếm-Việt Quang	16	17	Bạch Hổ Triền Thủ-Việt Quang
+huhuhu	Bạch Hổ Triền Thủ-Việt Quang	16	18	Bạch Hổ Triền Thủ-Cự Mộc
+huhuhu	Giáng Sa Bào-Chu Thiềm	14	19	Thiên Nhẫn Bí Trang-Việt Quang
+GoldenBird	Thất Tinh Thấu Cốt-Cự Mộc	14	2	Long Lân Đao-Chu Thiềm
+huhuhu	Bạch Hổ Triền Thủ-Cự Mộc	16	20	Huyền Thiết Kiếm-Việt Quang
+huhuhu	Thiên Nhẫn Bí Trang-Việt Quang	14	21	Giáng Sa Bào-Chu Thiềm
+GoldenBird	Thương Khung Giới-Chu Thiềm	12	3	Ứng Long Giới-Hoàng Quang
+KHUNGLONG	Huyền Thiết Kiếm-Việt Quang	16	4	Thanh Long Triền Thủ-Triệt Cốt
+phamhanh85	Huyền Thiết Kiếm-Việt Quang	16	3	Thanh Long Triền Thủ-Triệt Cốt
+KẻMangTâmSự	Huyền Thiết Kiếm-Việt Quang	16	4	Long Uyên Kiếm-Triệt Cốt
+huhuhu	Huyền Thiết Kiếm-Việt Quang	16	22	Long Uyên Kiếm-Triệt Cốt
+HoiUcKT	Bạch Hổ Triền Thủ-Nghiệp Hỏa	16	3	Thanh Long Triền Thủ-Nghiệp Hỏa
+PằngAChíu	Huyền Thiết Kiếm-Việt Quang	16	15	Long Uyên Kiếm-Triệt Cốt
+SùngALú	Nghiệt Long Chùy-Chu Thiềm	16	5	Yển Nguyệt Đao-Thương Lang
+GiàngAPáo	Thất Tinh Thấu Cốt-Cự Mộc	14	4	Thiên Ngoại Phi Tiên-Chích Viêm
+LừaXongPhắn	Long Lân Đao-Nghiệp Hỏa	16	4	Yển Nguyệt Đao-Nghiệp Hỏa
+SaoMai	Huyền Thiết Kiếm-Việt Quang	16	4	Yển Nguyệt Đao-Hàn Băng
+Phoenix	Trục Lộc Hoàng Long Triền Yêu	16	14	Trục Lộc Hoàng Long Triền Yêu
+Phoenix	Thất Tinh Thấu Cốt-Phá Quân	16	15	Thiên Ngoại Phi Tiên-Lạc Lôi
+huhuhu	Trục Lộc Thương Khung Quán	16	23	Trục Lộc Huyền Dương Khôi
+SaoMai	Yển Nguyệt Đao-Hàn Băng	16	5	Yển Nguyệt Đao-Hàn Băng
+PằngAChíu	Trục Lộc Hoàng Long Triền Yêu	16	16	Trục Lộc Hoàng Long Triền Yêu
+GiàngALử	Long Lân Đao-Nghịch Thủy	16	4	Long Uyên Kiếm-Vân Phách
+huhuhu	Long Uyên Kiếm-Triệt Cốt	16	24	Yển Nguyệt Đao-Hàn Băng
+cocainit	Võ Thần Hộ Uyển-Nghịch Thủy	12	1	Thiên Tàm Hộ Uyển-Cực
+huhuhu	Yển Nguyệt Đao-Hàn Băng	16	25	Yển Nguyệt Đao-Ô Sương
+huhuhu	Giáng Sa Bào-Chu Thiềm	14	26	Thiên Nhẫn Bí Trang-Việt Quang
+huhuhu	Yển Nguyệt Đao-Ô Sương	16	27	Thanh Long Triền Thủ-Thực Cốt
+zXznuquaizXz	Huyền Thiết Kiếm-Việt Quang	14	1	Long Uyên Kiếm-Triệt Cốt
+phamhanh85	Thanh Long Triền Thủ-Triệt Cốt	16	4	Long Uyên Kiếm-Triệt Cốt
+Coffee	Bạch Hổ Triền Thủ-Việt Quang	16	1	Thanh Long Triền Thủ-Triệt Cốt
+huhuhu	Thanh Long Triền Thủ-Thực Cốt	16	28	Long Uyên Kiếm-Triệt Cốt
+huhuhu	Thiên Nhẫn Bí Trang-Việt Quang	14	29	Giáng Sa Bào-Chu Thiềm
+GoldenBird	Long Lân Đao-Chu Thiềm	14	4	Yển Nguyệt Đao-Thương Lang
+FireBird	Long Lân Đao-Nghiệp Hỏa	14	2	Yển Nguyệt Đao-Nghiệp Hỏa
+IronBird	Nghiệt Long Chùy-Chu Thiềm	14	2	Phá Thiên Chùy-Thương Lang
+LightningBird	Huyền Thiết Kiếm-Nghịch Thủy	14	2	Long Uyên Kiếm-Vân Phách
+IceBird	Huyền Thiết Kiếm-Việt Quang	14	2	Long Uyên Kiếm-Triệt Cốt
+huhuhu	Long Uyên Kiếm-Triệt Cốt	16	30	Long Uyên Kiếm-Triệt Cốt
+Phoenix	Trục Lộc Thương Khung Quán	16	16	Trục Lộc Huyền Dương Khôi
+caremtram	Trục Lộc Thương Khung Quán	16	2	Trục Lộc Thương Khung Quán
+caremtram	Thương Khung Giới-Nghịch Thủy	12	3	Ứng Long Giới-Hoàng Quang
+caremdd	Long Lân Đao-Nghịch Thủy	14	3	Yển Nguyệt Đao-Phi Yến
+karema	Thanh Sương Kiếm-Triệt Cốt	12	3	Long Uyên Kiếm-Linh Vũ
+huhuhu	Long Uyên Kiếm-Triệt Cốt	16	31	Thanh Long Triền Thủ-Triệt Cốt
+SaoMai	Yển Nguyệt Đao-Hàn Băng	16	6	Long Uyên Kiếm-Triệt Cốt
+HoiUcKT	Trục Lộc Hoàng Long Triền Yêu	16	4	Trục Lộc Hoàng Long Triền Yêu
+GoldenBird	Trục Lộc Hoàng Long Triền Yêu	16	5	Hoa Hạ Đằng Long Thúc Yêu-Chấn
+GoldenBird	Hoa Hạ Đằng Long Thúc Yêu-Chấn	16	6	Trục Lộc Hoàng Long Triền Yêu
+FireBird	Trục Lộc Hoàng Long Triền Yêu	16	3	Trục Lộc Hoàng Long Triền Yêu
+IronBird	Trục Lộc Hoàng Long Triền Yêu	16	3	Trục Lộc Hoàng Long Triền Yêu
+LightningBird	Trục Lộc Hoàng Long Triền Yêu	16	3	Trục Lộc Hoàng Long Triền Yêu
+caeeaas	Nghiệt Long Chùy-Ô Sương	14	3	Phá Thiên Chùy-Ô Sương
+IceBird	Trục Lộc Hoàng Long Triền Yêu	16	3	Hoa Hạ Phi Phượng Ngọc Đái-Cực
+IceBird	Hoa Hạ Phi Phượng Ngọc Đái-Cực	16	4	Trục Lộc Hoàng Long Triền Yêu
+cocainit	Thất Tinh Thấu Cốt-Cự Mộc	14	2	Thiên Ngoại Phi Tiên-Ô Sương
+caremtram	Long Lân Đao-Nghiệp Hỏa	14	4	Yển Nguyệt Đao-Nghiệp Hỏa
+KẻMangTâmSự	Trục Lộc Huyền Dương Khôi	15	5	Trục Lộc Kinh Vân Khôi
+LừaXongPhắn	Yển Nguyệt Đao-Nghiệp Hỏa	16	5	Yển Nguyệt Đao-Nghiệp Hỏa
+GiàngALử	Long Uyên Kiếm-Vân Phách	16	5	Long Uyên Kiếm-Vân Phách
+cocainit	Thiên Ngoại Phi Tiên-Ô Sương	16	3	Thiên Ngoại Phi Tiên-Chích Viêm
+KẻMangTâmSự	Long Uyên Kiếm-Triệt Cốt	16	6	Thanh Long Triền Thủ-Triệt Cốt
+huhuhu	Thanh Long Triền Thủ-Triệt Cốt	16	32	Long Uyên Kiếm-Triệt Cốt
+huhuhu	Long Uyên Kiếm-Triệt Cốt	16	33	Thanh Long Triền Thủ-Triệt Cốt
+huhuhu	Trục Lộc Hoàng Long Triền Yêu	16	34	Trục Lộc Hoàng Long Triền Yêu
+huhuhu	Thanh Long Triền Thủ-Triệt Cốt	16	35	Yển Nguyệt Đao-Hàn Băng
+huhuhu	Yển Nguyệt Đao-Hàn Băng	16	36	Thanh Long Triền Thủ-Triệt Cốt
+phamhanh85	Bắc Minh Bội-Thiên Sơn	14	5	Tiêu Dao Hỏa Vân Bội
+FireBird	Yển Nguyệt Đao-Nghiệp Hỏa	15	4	Thiên Ngoại Phi Tiên-Chích Viêm
+Phoenix	Thiên Ngoại Phi Tiên-Lạc Lôi	16	17	Thanh Long Triền Thủ-Vân Phách
+zXzphamhanhzXz	Thông Thiên Phát Quán-Cự Mộc	14	0	Trục Lộc Huyền Dương Khôi
+thiennhan85	Song Phượng Triều Thiên Quan-Hoàng Quang	14	0	Trục Lộc Huyền Dương Khôi
+huhuhu	Thanh Long Triền Thủ-Triệt Cốt	16	37	Yển Nguyệt Đao-Hàn Băng
+huhuhu	Yển Nguyệt Đao-Hàn Băng	16	38	Thanh Long Triền Thủ-Triệt Cốt
+zXznuquaizXz	Trục Lộc Thương Khung Quán	14	2	Trục Lộc Huyền Dương Khôi
+huhuhu	Thanh Long Triền Thủ-Triệt Cốt	16	39	Yển Nguyệt Đao-Hàn Băng
+huhuhu	Yển Nguyệt Đao-Hàn Băng	16	40	Thanh Long Triền Thủ-Triệt Cốt
+zXzphamhanhzXz	Triều Lộ Liên-Quy Nguyên	14	1	Trục Lộc Thiên Hựu Liên
+o0ogaihuo0o	Thất Tinh Thấu Cốt-Cự Mộc	14	0	Thiên Ngoại Phi Tiên-Chích Viêm
+caremtram	Yển Nguyệt Đao-Nghiệp Hỏa	16	5	Yển Nguyệt Đao-Nghiệp Hỏa
+karema	Long Uyên Kiếm-Linh Vũ	16	4	Long Uyên Kiếm-Triệt Cốt
+caremdd	Yển Nguyệt Đao-Phi Yến	16	4	Yển Nguyệt Đao-Lạc Lôi
+caeeaas	Phá Thiên Chùy-Ô Sương	16	4	Phá Thiên Chùy-Thương Lang
+phamhanh85	Long Uyên Kiếm-Triệt Cốt	16	6	Thanh Long Triền Thủ-Triệt Cốt
+o0ogaihuo0o	Triều Lộ Liên-Thiên Sơn	14	1	Trục Lộc Thiên Hựu Liên
+huhuhu	Thanh Long Triền Thủ-Triệt Cốt	16	41	Thiên Ngoại Phi Tiên-Hàn Băng
+huhuhu	Thiên Ngoại Phi Tiên-Hàn Băng	16	42	Thanh Long Triền Thủ-Triệt Cốt
+PằngAChíu	Long Uyên Kiếm-Triệt Cốt	16	17	Thanh Long Triền Thủ-Triệt Cốt
+Phoenix	Tiêu Dao Tường Phượng Thủ Trạc	16	18	Thủy Hoàng Long Hoàng Thủ Trạc
+Phoenix	Trục Lộc Thiên Hựu Liên	16	19	Trục Lộc Thiên Hựu Liên
+GoldenBird	Trục Lộc Huyền Dương Khôi	14	7	Trục Lộc Huyền Dương Khôi
+caremtram	Trục Lộc Thương Khung Quán	14	6	Trục Lộc Huyền Dương Khôi
+huhuhu	Thanh Long Triền Thủ-Triệt Cốt	16	43	Thiên Ngoại Phi Tiên-Hàn Băng
+cocainit	Thiên Ngoại Phi Tiên-Chích Viêm	16	4	Long Uyên Kiếm-Triệt Cốt
+huhuhu	Long Uyên Kiếm-Triệt Cốt	16	44	Thanh Long Triền Thủ-Hàn Băng
+phamhanh85	Tiêu Dao Nộ Long Hộ Uyển	16	7	Tiêu Dao Nộ Long Hộ Uyển
+phamhanh85	Tiêu Dao Nộ Long Hộ Uyển	16	8	Thủy Hoàng Long Hoàng Hộ Uyển
+GoldenBird	Trục Lộc Huyền Dương Khôi	14	8	Trục Lộc Huyền Dương Khôi
+KẻMangTâmSự	Thanh Long Triền Thủ-Triệt Cốt	16	7	Yển Nguyệt Đao-Triệt Cốt
+huhuhu	Thiên Ngoại Phi Tiên-Hàn Băng	16	45	Long Uyên Kiếm-Triệt Cốt
+huhuhu	Long Uyên Kiếm-Triệt Cốt	16	46	Hắc Vũ Tiễn-Hàn Băng
+PằngAChíu	Tiêu Dao Hỏa Vân Bội	16	18	Thủy Hoàng Long Vân Bội
+phamhanh85	Thanh Long Triền Thủ-Triệt Cốt	16	9	Băng Phách Hóa Kiếm-Triệt Cốt
+Phoenix	Tiêu Dao Băng Nguyệt Hương Nang	16	20	Thủy Hoàng Chiến Thần Minh Nguyệt Hương Nang
+Phoenix	Long Uyên Kiếm-Vân Phách	16	21	Thanh Long Triền Thủ-Vân Phách
+Phoenix	Thanh Long Triền Thủ-Vân Phách	16	22	Băng Phách Hóa Kiếm-Vân Phách
+huhuhu	Hổ Phách Thiên Tinh Phù-Vô Song	14	47	Vũ Uy Hổ Phách Thiên Tinh Phù
+zXzphamhanhzXz	Thanh Long Triền Thủ-Thực Cốt	16	2	Yển Nguyệt Đao-Ô Sương
+zXzphamhanhzXz	Yển Nguyệt Đao-Ô Sương	16	3	Thanh Long Triền Thủ-Thực Cốt
+huhuhu	Giáng Sa Bào-Chu Thiềm	14	48	Thủy Hoàng Long Lân Y
+zXzphamhanhzXz	Thanh Long Triền Thủ-Thực Cốt	16	4	Long Uyên Kiếm-Thực Cốt
+KẻMangTâmSự	Trục Lộc Hoàng Long Triền Yêu	16	8	Trục Lộc Hoàng Long Triền Yêu
+SaoMai	Trục Lộc Thương Khung Quán	16	7	Trục Lộc Huyền Dương Khôi
+KẻMangTâmSự	Long Uyên Kiếm-Triệt Cốt	16	9	Yển Nguyệt Đao-Triệt Cốt
+KẻMangTâmSự	Yển Nguyệt Đao-Triệt Cốt	16	10	Băng Phách Hóa Kiếm-Triệt Cốt
+huhuhu	Ứng Long Giới-Cực	14	49	Vũ Uy Trích Tinh Giới
+huhuhu	Vũ Uy Trích Tinh Giới	16	50	Vũ Uy Trích Tinh Giới
+phamhanh85	Ứng Long Giới-Nghịch Thủy	14	10	Ứng Long Giới-Nghịch Thủy
+phamhanh85	Ứng Long Giới-Nghịch Thủy	14	11	Vũ Uy Trích Tinh Giới
+o0ogaihuo0o	Hổ Phách Thiên Tinh Phù-Vô Song	14	2	Vũ Uy Hổ Phách Thiên Tinh Phù
+thiennhan85	Tích Lịch Kim Phượng Giáp-Cự Mộc	14	1	Vũ Uy Trục Nhật Y
+zXznuquaizXz	Vũ Uy Hổ Phách Thiên Tinh Phù	14	3	Lẫm Nhật Tinh Huyễn Phù-Vô Song
+zXznuquaizXz	Lẫm Nhật Tinh Huyễn Phù-Vô Song	14	4	Vũ Uy Lẫm Nhật Tinh Huyễn Phù
+zXznuquaizXz	Long Uyên Kiếm-Triệt Cốt	16	5	Thanh Long Triền Thủ-Triệt Cốt
+Phoenix	Vũ Uy Hổ Phách Thiên Tinh Phù	16	23	Vũ Uy Lẫm Nhật Tinh Huyễn Phù
+phamhanh85	Vũ Uy Hổ Phách Thiên Tinh Phù	16	12	Vũ Uy Lẫm Nhật Tinh Huyễn Phù
+SùngThịTẹt	Huyền Thiết Kiếm-Việt Quang	14	2	Long Uyên Kiếm-Triệt Cốt
+LừaXongPhắn	Trục Lộc Thương Khung Quán	16	6	Trục Lộc Huyền Dương Khôi
+PằngAChíu	Thanh Long Triền Thủ-Triệt Cốt	16	19	Băng Phách Hóa Kiếm-Triệt Cốt
+PằngAChíu	Vũ Uy Trích Tinh Giới	16	20	Vũ Uy Lăng Vân Giới
+HoiUcKT	Thủy Hoàng Long Vân Bội	16	5	Thủy Hoàng Chiến Thần Hàn Ngọc Bội
+phamhanh85	Tiêu Dao Hỏa Vân Bội	16	13	Tiêu Dao Chiến Thần Hàn Ngọc Bội
+Phoenix	Vũ Uy Trích Tinh Giới	16	24	Vũ Uy Lăng Vân Giới
+zXznuquaizXz	Thanh Long Triền Thủ-Triệt Cốt	16	6	Long Uyên Kiếm-Triệt Cốt
+zXznuquaizXz	Long Uyên Kiếm-Triệt Cốt	16	7	Ngưng Ngọc Triền Thủ-Triệt Cốt
+KẻMangTâmSự	Thủy Hoàng Long Vân Bội	15	11	Thủy Hoàng Chiến Thần Hàn Ngọc Bội
+Phoenix	Trục Lộc Huyền Dương Khôi	16	25	Trục Lộc Kinh Vân Khôi
+Phoenix	Băng Phách Hóa Kiếm-Vân Phách	16	26	Băng Phách Hóa Kiếm-Lạc Lôi
+Phoenix	Thủy Hoàng Long Hoàng Thủ Trạc	16	27	Thủy Hoàng Long Hoàng Thủ Trạc
+cocainit	Kính Hoa Khải-Diên Dương	14	5	Vũ Uy Trục Nhật Y
+caeeaas	Phá Thiên Chùy-Thương Lang	16	5	Thanh Long Triền Thủ-Đoạn Hải
+KẻMangTâmSự	Vũ Uy Hổ Phách Thiên Tinh Phù	16	12	Vũ Uy Lẫm Nhật Tinh Huyễn Phù
+PằngAChíu	Vũ Uy Hổ Phách Thiên Tinh Phù	16	21	Vũ Uy Lẫm Nhật Tinh Huyễn Phù
+caremdd	Trục Lộc Thương Khung Quán	16	5	Trục Lộc Huyền Dương Khôi
+KẻMangTâmSự	Băng Phách Hóa Kiếm-Triệt Cốt	16	13	Càn Khôn Hoài Đao-Hàn Băng
+Phoenix	Trục Lộc Thiên Hựu Liên	16	28	Trục Lộc Thiên Hựu Liên
+Phoenix	Vũ Uy Lăng Vân Giới	16	29	Vũ Uy Lăng Vân Giới
+caremdd	Thiên Nhẫn Bí Trang-Phản Phệ	14	6	Vũ Uy Trục Nhật Y
+caeeaas	Thiên Nhẫn Bí Trang-Nghịch Thủy	14	6	Vũ Uy Trục Nhật Y
+PằngAChíu	Vũ Uy Trục Nhật Y	16	22	Thủy Hoàng Long Lân Y
+GoldenBird	Hổ Phách Thiên Tinh Phù-Vô Song	14	9	Lẫm Nhật Tinh Huyễn Phù-Vô Song
+FireBird	Hổ Phách Thiên Tinh Phù-Vô Song	14	5	Lẫm Nhật Tinh Huyễn Phù-Vô Song
+IronBird	Hổ Phách Thiên Tinh Phù-Vô Song	14	4	Lẫm Nhật Tinh Huyễn Phù-Vô Song
+LightningBird	Hổ Phách Thiên Tinh Phù-Vô Song	14	4	Lẫm Nhật Tinh Huyễn Phù-Vô Song
+IceBird	Hổ Phách Thiên Tinh Phù-Vô Song	14	5	Lẫm Nhật Tinh Huyễn Phù-Vô Song
+HoiUcKT	Ngưng Ngọc Triền Thủ-Nghiệp Hỏa	16	6	Kim Cô Bổng-Chích Viêm
+GiàngAPáo	Thiên Tàm Hộ Uyển-Tâm Nhãn	14	5	Tiêu Dao Nộ Long Hộ Uyển
+GiàngALử	Thiên Tàm Hộ Uyển-Tâm Nhãn	14	6	Tiêu Dao Nộ Long Hộ Uyển
+GiàngAPáo	Thiên Ngoại Phi Tiên-Chích Viêm	16	6	Thiên Ngoại Phi Tiên-Ô Sương
+GiàngAPáo	Thiên Ngoại Phi Tiên-Ô Sương	16	7	Hắc Vũ Tiễn-Chích Viêm
+GiàngALử	Long Uyên Kiếm-Vân Phách	16	7	Long Uyên Kiếm-Hấp Tinh
+GiàngALử	Hổ Phách Thiên Tinh Phù-Vô Song	14	8	Lẫm Nhật Tinh Huyễn Phù-Vô Song
+PằngAChíu	Băng Phách Hóa Kiếm-Triệt Cốt	16	23	Phá Thiên Kích-Hàn Băng
+PằngAChíu	Phá Thiên Kích-Hàn Băng	16	24	Băng Phách Hóa Kiếm-Triệt Cốt
+PằngAChíu	Băng Phách Hóa Kiếm-Triệt Cốt	16	25	Quỷ Liệt Thương-Hàn Băng
+SùngALú	Yển Nguyệt Đao-Thương Lang	16	6	Phá Thiên Kích-Thương Lang
+GiàngAPáo	Hổ Phách Thiên Tinh Phù-Vô Song	14	8	Lẫm Nhật Tinh Huyễn Phù-Vô Song
+karema	Trục Lộc Thương Khung Quán	16	5	Trục Lộc Huyền Dương Khôi
+KẻMangTâmSự	Băng Phách Hóa Kiếm-Triệt Cốt	14	14	Thiên Ngoại Phi Tiên-Hàn Băng
+KẻMangTâmSự	Càn Khôn Hoài Đao-Hàn Băng	16	15	Băng Phách Hóa Kiếm-Triệt Cốt
+HoiUcKT	Kim Cô Bổng-Chích Viêm	16	7	Thanh Long Triền Thủ-Chích Viêm
+cocainit	Trục Lộc Thương Khung Quán	16	6	Trục Lộc Huyền Dương Khôi
+LừaXongPhắn	Hổ Phách Thiên Tinh Phù-Vô Song	14	7	Lẫm Nhật Tinh Huyễn Phù-Vô Song
+o0ogaihuo0o	Trục Lộc Hoàng Long Triền Yêu	15	3	Trục Lộc Hoàng Long Triền Yêu
+HoiUcKT	Thanh Long Triền Thủ-Chích Viêm	16	8	Ngưng Ngọc Triền Thủ-Nghiệp Hỏa
+HoiUcKT	Ngưng Ngọc Triền Thủ-Nghiệp Hỏa	16	9	Càn Khôn Hoài Đao-Chích Viêm
+KẻMangTâmSự	Thiên Ngoại Phi Tiên-Hàn Băng	16	16	Càn Khôn Hoài Đao-Hàn Băng
+zXznuquaizXz	Long Diên Hương Nang-Phục Thạch	14	8	Tiêu Dao Băng Nguyệt Hương Nang

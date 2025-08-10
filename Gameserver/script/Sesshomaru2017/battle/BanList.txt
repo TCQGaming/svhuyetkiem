@@ -1,0 +1,2 @@
+dwHardWareId	szName
+2027241408	TCQGaming

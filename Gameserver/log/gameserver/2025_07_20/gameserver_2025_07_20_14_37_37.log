@@ -1,0 +1,23 @@
+20250720-143737<DEBUG:00005468>: [PrevInitCore]:1, start tickers = 1100966919169781
+20250720-143738<DEBUG:00005468>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3390019047
+20250720-143739<ERROR:00005468>: GetInteger(38, 1) failed !
+20250720-143745<WARN :00005468>: LostFps: 93 (+93)
+20250720-143746<WARN :00005468>: LostFps: 46 (-47)
+20250720-143747<WARN :00005468>: LostFps: 0 (-46)
+20250720-153515<INFO :00005468>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153525<INFO :00005468>: [Player]TCQGaming Excute Save Data
+20250720-153633<INFO :00005468>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153635<INFO :00005468>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153637<INFO :00005468>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153639<INFO :00005468>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153641<INFO :00005468>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153643<INFO :00005468>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153646<INFO :00005468>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153647<INFO :00005468>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153649<INFO :00005468>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-153659<INFO :00005468>: [Player]TCQGaming Excute Save Data
+20250720-154501<INFO :00005468>: [Player]TCQGaming Apply Save Data By Reason Value
+20250720-154511<INFO :00005468>: [Player]TCQGaming Excute Save Data
+20250720-154705<DEBUG:00005468>: nSocket = 780, nSendFlag = 0, Error = 10054
+20250720-154705<DEBUG:00005468>: KGLOG_PROCESS_ERROR(DatabaseIsGood()) at line 2239 in KSwordOnLineSever::SendSavePlayerData
+20250720-154705<DEBUG:00005468>: main thread exit

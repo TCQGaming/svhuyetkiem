@@ -1,0 +1,37 @@
+ID	Picture	Des
+1	\image\effect\other\tanhao_map.spr	Chấm than trên bản đồ nhỏ_Chính tuyến
+2	\image\effect\other\wenhao_map.spr	Chấm hỏi trên bản đồ nhỏ_Chính tuyến
+3	\image\effect\other\tanhao_mapII.spr	Chấm than trên bản đồ nhỏ_Phụ tuyến
+4	\image\effect\other\tanhao_mapII.spr	Chấm hỏi trên bản đồ nhỏ_Phụ tuyến
+5	\image\ui\001a\battle\map_icon\attack.spr	Tấn công
+6	\image\ui\001a\battle\map_icon\dead.spr	Tử vong
+7	\image\ui\001a\battle\map_icon\flag_song.spr	Tống chiến kỳ
+8	\image\ui\001a\battle\map_icon\flag_jin.spr	Kim chiến kỳ
+9	\image\ui\001a\battle\map_icon\normal.spr	Điểm phổ thông
+10	\image\ui\001a\mail\training.spr	Hình hộp thư Sư đồ
+11	\image\ui\001a\battle\map_icon\flag_neutral.spr	Chiến Kỳ (Trung lập)
+12	\image\effect\other\kuafusongjin_blue.spr	Mông Cổ Tây Hạ Liên Server_Điểm lam
+13	\image\ui\002a\chariot\mapicon_jianta1.spr	Tiễn Tháp 1
+14	\image\ui\002a\chariot\mapicon_longmai.spr	Long Mạch
+15	\image\ui\002a\chariot\mapicon_paota1.spr	Pháo Tháp
+16	\image\ui\002a\chariot\mapicon_zhanche1.spr	Chiến Xa 1
+17	\image\ui\002a\chariot\mapicon_jianta3.spr	Tiễn Tháp 3
+18	\image\ui\002a\chariot\mapicon_zhanche3.spr	Chiến Xa 3
+19	\image\ui/002a\chariot\mapicon_zhanche_yellow.spr	Xe Khoáng phe ta
+20	\image\ui\002a\chariot\mapicon_zhanche_red.spr	Xe Khoáng-Địch
+21	\image\ui\002a\chariot\mapicon_zhanche_green.spr	Xe Khoáng-Ta
+22	\image\ui\001a\battle\map_icon\img_triangle_yellow.spr	Rương công cụ phe ta
+23	\image\ui\001a\battle\map_icon\img_triangle_red.spr	Rương công cụ-Địch
+24	\image\ui\001a\battle\map_icon\img_triangle_green.spr	Rương công cụ-Ta
+25	\image\ui\001a\battle\map_icon\img_block_yellow.spr	Người mang theo phe ta
+26	\image\ui\001a\battle\map_icon\img_block_red.spr	Người mang theo-Địch
+27	\image\ui\001a\battle\map_icon\img_block_green.spr	Người mang theo-Ta
+28	\image\ui\001a\minimap\icon_north.spr	Đầu Tên-Bắc
+29	\image\ui\001a\minimap\icon_south.spr	Đầu Tên-Nam
+30	\image\ui\001a\minimap\icon_west.spr	Đầu Tên-Tây
+31	\image\ui\001a\minimap\icon_east.spr	Đầu Tên-Đông
+32	\image\ui\001a\minimap\icon_northeast.spr	Đầu Tên-Đông Bắc
+33	\image\ui\001a\minimap\icon_southeast.spr	Đầu Tên-Đông Nam
+34	\image\ui\001a\minimap\icon_northwest.spr	Đầu Tên-Tây Bắc
+35	\image\ui\001a\minimap\icon_southwest.spr	Đầu Tên-Tây Nam
+36	\image\ui\001a\battle\map_icon\flag_jin.spr	Chiến Kỳ (Trung lập)

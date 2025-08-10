@@ -1,0 +1,8 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1	6	400000		6cấp huyền tinh 
+		18	1	1	7	50000		7cấp huyền tinh 
+		18	1	1	8	1000		8cấp huyền tinh 
+		18	1	54122	2	9000		thiệp bạc
+		18	1	554	2	1000		mật tịch
+750						277650		tiền tài 750
+7500						30000		tiền tài 7500

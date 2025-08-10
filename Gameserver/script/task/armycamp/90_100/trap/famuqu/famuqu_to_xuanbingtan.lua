@@ -1,0 +1,11 @@
+--đốn củi khu --tiến nhập huyền băng đàm 
+
+local tbMap	= Map:GetClass(557);
+local tbTrap_1 = tbMap:GetTrapClass("to_xuanbingtan");
+
+function tbTrap_1:OnPlayer()
+	me.NewWorld(me.nMapId, 1980, 2891);
+	TaskAct:StepOverEvent("tiến nhập huyền băng đàm");
+end
+
+

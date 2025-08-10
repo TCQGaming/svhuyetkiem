@@ -1,0 +1,23 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	150					250000		
+		1	1	1	1	10000		vải thô gay go 
+		1	1	2	1	10000		đồng kiếm 
+		1	1	3	1	10000		đơn đao 
+		1	1	4	1	10000		trọng mộc côn 
+		1	1	5	1	10000		trường thương 
+		1	1	6	1	10000		chiến chuy 
+		1	2	2	1	5000		phi đao 
+		1	2	3	1	5000		tụ lý tiến 
+		1	3	2	1	20000		giáp nhẹ 
+		1	3	3	1	20000		khinh da trang 
+		1	3	4	1	20000		vải thô trường bào 
+		1	3	6	1	10000		đồng nữ giáp 
+		1	3	7	1	10000		khinh bì giáp y 
+		1	3	8	1	10000		cẩm sam 
+		1	4	1	1	60000		đồng chiếc nhẫn 
+		1	5	1	1	60000		đồng hạng liên 
+		1	8	1	1	60000		to Ma đai lưng 
+		1	8	2	1	30000		thanh bố đai lưng 
+		1	10	1	1	60000		đồng bao cổ tay 
+		1	10	2	1	30000		thủ trạc 
+		18	1	80	1	40000		phúc túi 

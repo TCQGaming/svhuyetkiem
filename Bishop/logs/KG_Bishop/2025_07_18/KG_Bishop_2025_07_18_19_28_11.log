@@ -1,0 +1,9 @@
+20250718-192811<DEBUG:00001DB4>: nSocket = 660, nSendFlag = 0, Error = 10054
+20250718-192811<DEBUG:00001DB4>: KGLOG_PROCESS_ERROR(nRetCode) at line 394 in KG_BishopGoddess::ReceivePackages
+20250718-192811<INFO :00001DB4>: [Goddess] Logout() nResult = 1
+20250718-192811<INFO :00001DB4>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 00D471E0
+20250718-192811<INFO :00001DB4>: [Goddess] Login() nResult = 1
+20250718-192811<INFO :00001DB4>: [Goddess] Reconnect() nResult = 1
+20250718-192811<DEBUG:00004104>: nSocket = 16844, nSendFlag = 0, Error = 10054
+20250718-192811<DEBUG:00004104>: KGLOG_PROCESS_ERROR(nRetCode) at line 305 in KG_BishopRelay::ReceivePackagesFromRelay
+20250718-192811<INFO :00004104>: [Relay] === End ===

@@ -1,0 +1,129 @@
+16-05:25:25	TCQGaming	login 8
+16-05:25:25	TCQGaming	xboyhd	192.168.1.100:24214	LoginHwId_4291013361	639324413
+16-05:25:25	TCQGaming	NewWorld 8
+16-05:25:25	TCQGaming	AddItem	Túi Tân Thủ(1752618325)	Way100	Value2821109
+16-05:25:25	TCQGaming	LevelUp	2
+16-05:25:25	TCQGaming	LevelUp	3
+16-05:25:25	TCQGaming	LevelUp	4
+16-05:25:25	TCQGaming	LevelUp	5
+16-05:25:25	TCQGaming	LevelUp	6
+16-05:25:25	TCQGaming	LevelUp	7
+16-05:25:25	TCQGaming	LevelUp	8
+16-05:25:25	TCQGaming	LevelUp	9
+16-05:25:25	TCQGaming	LevelUp	10
+16-05:25:25	TCQGaming	LevelUp	11
+16-05:25:25	TCQGaming	LevelUp	12
+16-05:25:25	TCQGaming	LevelUp	13
+16-05:25:25	TCQGaming	LevelUp	14
+16-05:25:25	TCQGaming	LevelUp	15
+16-05:25:25	TCQGaming	LevelUp	16
+16-05:25:25	TCQGaming	LevelUp	17
+16-05:25:25	TCQGaming	LevelUp	18
+16-05:25:25	TCQGaming	LevelUp	19
+16-05:25:25	TCQGaming	LevelUp	20
+16-05:25:25	TCQGaming	LevelUp	21
+16-05:25:25	TCQGaming	LevelUp	22
+16-05:25:25	TCQGaming	LevelUp	23
+16-05:25:25	TCQGaming	LevelUp	24
+16-05:25:25	TCQGaming	LevelUp	25
+16-05:25:25	TCQGaming	LevelUp	26
+16-05:25:25	TCQGaming	LevelUp	27
+16-05:25:25	TCQGaming	LevelUp	28
+16-05:25:25	TCQGaming	LevelUp	29
+16-05:25:25	TCQGaming	LevelUp	30
+16-05:25:25	TCQGaming	LevelUp	31
+16-05:25:25	TCQGaming	LevelUp	32
+16-05:25:25	TCQGaming	LevelUp	33
+16-05:25:25	TCQGaming	LevelUp	34
+16-05:25:25	TCQGaming	LevelUp	35
+16-05:25:25	TCQGaming	LevelUp	36
+16-05:25:25	TCQGaming	LevelUp	37
+16-05:25:25	TCQGaming	LevelUp	38
+16-05:25:25	TCQGaming	LevelUp	39
+16-05:25:25	TCQGaming	LevelUp	40
+16-05:25:25	TCQGaming	LevelUp	41
+16-05:25:25	TCQGaming	LevelUp	42
+16-05:25:25	TCQGaming	LevelUp	43
+16-05:25:25	TCQGaming	LevelUp	44
+16-05:25:25	TCQGaming	LevelUp	45
+16-05:25:25	TCQGaming	LevelUp	46
+16-05:25:25	TCQGaming	LevelUp	47
+16-05:25:25	TCQGaming	LevelUp	48
+16-05:25:25	TCQGaming	LevelUp	49
+16-05:25:25	TCQGaming	LevelUp	50
+16-05:25:25	TCQGaming	LevelUp	51
+16-05:25:25	TCQGaming	LevelUp	52
+16-05:25:25	TCQGaming	LevelUp	53
+16-05:25:25	TCQGaming	LevelUp	54
+16-05:25:25	TCQGaming	LevelUp	55
+16-05:25:25	TCQGaming	LevelUp	56
+16-05:25:25	TCQGaming	LevelUp	57
+16-05:25:25	TCQGaming	LevelUp	58
+16-05:25:25	TCQGaming	LevelUp	59
+16-05:25:25	TCQGaming	LevelUp	60
+16-05:25:25	TCQGaming	LevelUp	61
+16-05:25:25	TCQGaming	LevelUp	62
+16-05:25:25	TCQGaming	LevelUp	63
+16-05:25:25	TCQGaming	LevelUp	64
+16-05:25:25	TCQGaming	LevelUp	65
+16-05:25:25	TCQGaming	LevelUp	66
+16-05:25:25	TCQGaming	LevelUp	67
+16-05:25:25	TCQGaming	LevelUp	68
+16-05:25:25	TCQGaming	LevelUp	69
+16-05:25:25	TCQGaming	LevelUp	70
+16-05:25:25	TCQGaming	LevelUp	71
+16-05:25:25	TCQGaming	LevelUp	72
+16-05:25:25	TCQGaming	LevelUp	73
+16-05:25:25	TCQGaming	LevelUp	74
+16-05:25:25	TCQGaming	LevelUp	75
+16-05:25:25	TCQGaming	LevelUp	76
+16-05:25:25	TCQGaming	LevelUp	77
+16-05:25:25	TCQGaming	LevelUp	78
+16-05:25:25	TCQGaming	LevelUp	79
+16-05:25:25	TCQGaming	LevelUp	80
+16-05:25:25	TCQGaming	AddItem	Túi Khởi La(1752618325)	Way100	Value1050000
+16-05:25:25	TCQGaming	AddItem	Túi Khởi La(1752618325)	Way100	Value1050000
+16-05:25:25	TCQGaming	AddItem	Lệnh bài Uy danh giang hồ(1752618325)	Way100	Value100000
+16-05:25:25	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752618325)	Way100	Value67184
+16-05:25:25	TCQGaming	AddItem	Ngọc Trúc Mai Hoa 50 (tháng)(1752618325)	Way100	Value100000
+16-05:25:25	TCQGaming	AddBindCoin	AddWay100	Count	150000
+16-05:25:25	TCQGaming	AddBindMoney	AddWay100	Count	2000000
+16-05:25:25	TCQGaming	AddItem	Ngũ Hành Hồn Thạch(1752618325)	Way100	Value999000
+16-05:25:25	TCQGaming	xboyhd	4291013361	1677830336	SetForbitCode0
+16-05:25:25	TCQGaming	NewWorld 8
+16-05:25:29	TCQGaming	UseItem	Ngọc Trúc Mai Hoa 50 (tháng)
+16-05:25:29	TCQGaming	RemoveItem	Ngọc Trúc Mai Hoa 50 (tháng)(1752618325)	Way5	Value100000
+16-05:25:32	TCQGaming	UseItem	Lệnh bài Uy danh giang hồ
+16-05:25:32	TCQGaming	RemoveItem	Lệnh bài Uy danh giang hồ(1752618325)	Way5	Value100000
+16-05:25:36	TCQGaming	UseItem	Táo Hồng
+16-05:25:44	TCQGaming	UseItem	Túi Khởi La
+16-05:25:59	TCQGaming	UseItem	Túi Tân Thủ
+16-05:26:02	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1752618362)	Way100	Value783641
+16-05:26:02	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1752618362)	Way100	Value783641
+16-05:26:02	TCQGaming	AddItem	Túi Thiên Tàm(1752618362)	Way100	Value3200000
+16-05:26:02	TCQGaming	AddBindCoin	AddWay100	Count	200000
+16-05:26:02	TCQGaming	AddBindMoney	AddWay100	Count	500000
+16-05:26:08	TCQGaming	UseItem	Túi Tân Thủ
+16-05:26:11	TCQGaming	UseItem	Túi Tân Thủ
+16-05:26:15	TCQGaming	UseItem	Túi Tân Thủ
+16-05:26:23	TCQGaming	UseItem	Túi Tân Thủ
+16-05:26:34	TCQGaming	UseItem	Túi Tân Thủ
+16-05:26:35	TCQGaming	AddItem	Vô Hạn Truyền Tống Phù(1752618395)	Way100	Value150000
+16-05:26:36	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+16-05:26:38	TCQGaming	Exchange 24
+16-05:28:01	TCQGaming	login 8
+16-05:28:02	TCQGaming	xboyhd	192.168.1.100:27798	LoginHwId_4087821177	639324413
+16-05:28:07	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+16-05:28:08	TCQGaming	Exchange 24
+16-05:29:20	TCQGaming	login 8
+16-05:29:20	TCQGaming	xboyhd	192.168.1.100:30358	LoginHwId_4087821177	639324413
+16-05:29:21	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+16-05:29:23	TCQGaming	Exchange 24
+16-05:30:45	TCQGaming	login 8
+16-05:30:45	TCQGaming	xboyhd	192.168.1.100:33686	LoginHwId_4087821177	639324413
+16-05:30:46	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+16-05:30:48	TCQGaming	Exchange 24
+16-05:34:22	TCQGaming	login 8
+16-05:34:23	TCQGaming	xboyhd	192.168.1.100:39062	LoginHwId_4087821177	639324413
+16-05:34:24	TCQGaming	dialog Sứ Giả Sự Kiện
+16-05:34:38	TCQGaming	dialog Lâu Lan Cổ Thành

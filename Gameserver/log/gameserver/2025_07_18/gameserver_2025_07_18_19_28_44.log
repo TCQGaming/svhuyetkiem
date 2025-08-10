@@ -1,0 +1,5 @@
+20250718-192844<DEBUG:00003DAC>: [PrevInitCore]:1, start tickers = 267009162564146
+20250718-192845<DEBUG:00003DAC>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 4166565954
+20250718-192845<ERROR:00003DAC>: GetInteger(38, 1) failed !
+20250718-193302<DEBUG:00003DAC>: nSocket = 524, nSendFlag = 0, Error = 10054
+20250718-193302<DEBUG:00003DAC>: main thread exit

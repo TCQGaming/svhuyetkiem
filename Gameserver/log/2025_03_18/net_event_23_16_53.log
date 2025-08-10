@@ -1,0 +1,9 @@
+[2025-03-18 23:16:53]	INFO	linkid:0 connect, free linkid count:998
+[2025-03-18 23:16:53]	INFO	Send syncend OK: Account[xboyhd], Role[TCQGaming], linkid:0, PlayerIndex:1
+[2025-03-18 23:16:54]	INFO	() linkid:0, disconnect: Normal
+[2025-03-18 23:16:54]	INFO	linkid:0 disconnect, free linkid count:999
+[2025-03-18 23:16:58]	INFO	linkid:0 connect, free linkid count:998
+[2025-03-18 23:16:58]	INFO	Send syncend OK: Account[xboyhd], Role[TCQGaming], linkid:0, PlayerIndex:1
+[2025-03-18 23:18:51]	INFO	Flush send data error, shutdown(0)
+[2025-03-18 23:18:51]	INFO	shutdown linkid:0, game status:2
+[2025-03-18 23:18:51]	INFO	xboyhd(TCQGaming) linkid:0, disconnect: Normal

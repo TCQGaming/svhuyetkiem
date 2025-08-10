@@ -1,0 +1,9 @@
+20250720-143647<INFO :000047E8>: [KG_CSLogServer] starting ...
+20250720-143647<INFO :000047E8>: [KG_CSLogServer] Loading KG_CSLogServer.ini
+20250720-143647<INFO :000047E8>: [KG_CSLogServer] Init Socket thread ...
+20250720-143647<INFO :000047E8>: start listen on 127.0.0.1:5101
+20250720-143647<INFO :000047E8>: [KG_CSLogServer] Init Log thread ...
+20250720-143647<INFO :000047E8>: [Database] character set switch to latin1
+20250720-143647<INFO :000047E8>: [KG_CSLogServer] start success
+20250720-143725<INFO :000039E0>: [1] (127.0.0.1:62484) Connected
+20250720-143725<INFO :000044C4>: [1] PacketID:1, Gateway "wsjx" Login, Result = 1

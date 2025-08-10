@@ -1,0 +1,7 @@
+20250718-192850<DEBUG:00004920>: [PrevInitCore]:1, start tickers = 18140945462512
+20250718-192851<DEBUG:00004868>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 4585619359
+20250718-192851<DEBUG:000048C4>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 4534664281
+20250718-192852<DEBUG:00004920>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 4307328530
+20250718-192852<ERROR:00004868>: GetInteger(38, 1) failed !
+20250718-192852<ERROR:000048C4>: GetInteger(38, 1) failed !
+20250718-192852<ERROR:00004920>: GetInteger(38, 1) failed !

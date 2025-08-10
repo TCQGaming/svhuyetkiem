@@ -1,0 +1,5 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	114	3	155000		3级玄晶(绑定)
+		18	1	114	3	135000		4级玄晶(绑定)
+		18	1	114	4	2000		5级玄晶(绑定)
+		18	1	289	9	100000		逍遥谷3级令牌

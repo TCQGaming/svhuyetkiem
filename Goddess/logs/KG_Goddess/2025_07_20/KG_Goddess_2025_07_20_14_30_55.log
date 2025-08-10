@@ -1,0 +1,22 @@
+20250720-143055<INFO :00005F8C>: [KG_Goddess] starting ...
+20250720-143055<INFO :00005F8C>: [KG_Goddess] Loading kg_goddess.ini
+20250720-143055<INFO :00005F8C>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20250720-143055<INFO :00005F8C>: [KG_Goddess] Initializing role database ...
+20250720-143055<DEBUG:00005F8C>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250720-143055<INFO :00005F8C>: [KG_Goddess] Initializing role statistic ...
+20250720-143055<INFO :00005F8C>: [KG_Goddess] Initializing server manager ...
+20250720-143055<INFO :00005F8C>: [KG_Goddess] Initializing Sequence ...
+20250720-143055<INFO :00005F8C>: [KG_Goddess] Initializing NameServer ...
+20250720-143055<DEBUG:00005F8C>: [Database] character set switch to latin1
+20250720-143055<INFO :00005F8C>: [ServerManager] Listening at 127.0.0.1:5001
+20250720-143055<INFO :00005F8C>: [KG_Goddess] RoleLock disable
+20250720-143055<INFO :00005F8C>: [KG_Goddess] Set log level to DEBUG
+20250720-143055<INFO :00005F8C>: [KG_Goddess] Start success
+20250720-143056<DEBUG:00005F8C>: nSocket = 688, nSendFlag = 0, Error = 10054
+20250720-143056<INFO :000005A0>: [ServerManager] Accept from (127.0.0.1: 5255) SocketStream = 010574F8
+20250720-143056<INFO :00005C24>: [Goddess Server 00] Started, service for 127.0.0.1:5255
+20250720-143056<DEBUG:00005C24>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250720-143116<DEBUG:00005C24>: nSocket = 692, nSendFlag = 0, Error = 10054
+20250720-143116<DEBUG:00005C24>: KGLOG_PROCESS_ERROR(nRetCode && "Receive packet failed") at line 1023 in KG_GoddessServer::ProcessRequest
+20250720-143116<DEBUG:00005C24>: KGLOG_PROCESS_ERROR(nRetCode && "Process Request failed, will stop") at line 1099 in KG_GoddessServer::_ThreadFunction
+20250720-143116<INFO :00005C24>: [Goddess Server 00] Stopped

@@ -1,0 +1,51 @@
+24-16:55:33	TCQGaming	login 8
+24-16:55:33	TCQGaming	xboyhd	192.168.1.100:41668	LoginHwId_731650183	639324413
+24-16:55:33	TCQGaming	xboyhd	731650183	1677830336	SetForbitCode0
+24-16:55:33	TCQGaming	NewWorld 8
+24-16:55:51	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+24-16:55:51	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+24-16:55:51	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+24-16:55:51	TCQGaming	AddBindCoin	AddWay100	Count	25000
+24-16:55:51	TCQGaming	AddBindMoney	AddWay100	Count	25000
+24-16:55:51	TCQGaming	UseItem	Thẻ GM
+24-16:56:02	TCQGaming	AddItem	[Mặt nạ] Tài Phú Ngất Trời(1753350962)	Way100	Value10000000
+24-16:59:06	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+24-16:59:06	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+24-16:59:06	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+24-16:59:06	TCQGaming	AddBindCoin	AddWay100	Count	25000
+24-16:59:06	TCQGaming	AddBindMoney	AddWay100	Count	25000
+24-16:59:06	TCQGaming	UseItem	Thẻ GM
+24-16:59:17	TCQGaming	AddItem	[Mặt nạ] Phục Hổ Quân Lâm Miện VIP 1(1753351157)	Way100	Value160000000
+24-17:01:25	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+24-17:01:25	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+24-17:01:25	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+24-17:01:25	TCQGaming	AddBindCoin	AddWay100	Count	25000
+24-17:01:25	TCQGaming	AddBindMoney	AddWay100	Count	25000
+24-17:01:25	TCQGaming	UseItem	Thẻ GM
+24-17:01:50	TCQGaming	UseItem	[Mặt nạ] Tây Độc Âu Dương Phong
+24-17:07:59	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+24-17:07:59	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+24-17:07:59	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+24-17:07:59	TCQGaming	AddBindCoin	AddWay100	Count	25000
+24-17:07:59	TCQGaming	AddBindMoney	AddWay100	Count	25000
+24-17:07:59	TCQGaming	UseItem	Thẻ GM
+24-17:08:05	TCQGaming	AddItem	[Mặt nạ] Phục Hổ Quân Lâm Miện VIP 4(1753351685)	Way100	Value160000000
+24-17:08:21	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+24-17:08:21	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+24-17:08:21	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+24-17:08:21	TCQGaming	AddBindCoin	AddWay100	Count	25000
+24-17:08:21	TCQGaming	AddBindMoney	AddWay100	Count	25000
+24-17:08:21	TCQGaming	UseItem	Thẻ GM
+24-17:08:23	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+24-17:08:23	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+24-17:08:23	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+24-17:08:23	TCQGaming	AddBindCoin	AddWay100	Count	25000
+24-17:08:23	TCQGaming	AddBindMoney	AddWay100	Count	25000
+24-17:08:23	TCQGaming	UseItem	Thẻ GM
+24-17:11:05	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+24-17:11:05	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+24-17:11:05	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+24-17:11:05	TCQGaming	AddBindCoin	AddWay100	Count	25000
+24-17:11:05	TCQGaming	AddBindMoney	AddWay100	Count	25000
+24-17:11:05	TCQGaming	UseItem	Thẻ GM
+24-17:11:09	TCQGaming	AddItem	Thanh Loan Kim Mã(1753351869)	Way100	Value259200000

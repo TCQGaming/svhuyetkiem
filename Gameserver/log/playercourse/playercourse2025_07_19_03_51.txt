@@ -1,0 +1,122 @@
+19-03:51:38	tessssssst	login 184
+19-03:51:38	tessssssst	xboyhd1	192.168.1.100:38139	LoginHwId_2168814073	639324413
+19-03:51:38	tessssssst	xboyhd1	2168814073	1677830336	SetForbitCode0
+19-03:51:44	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:52:08	TCQGaming	login 184
+19-03:52:08	TCQGaming	xboyhd	192.168.1.100:40187	LoginHwId_2539837046	639324413
+19-03:52:08	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+19-03:52:13	TCQGaming	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:52:14	TCQGaming	NewWorld 1635
+19-03:52:16	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:52:16	tessssssst	NewWorld 1635
+19-03:52:59	TCQGaming	NewWorld 1635
+19-03:53:04	tessssssst	NewWorld 1635
+19-03:53:12	tessssssst	NewWorld 1635
+19-03:53:15	tessssssst	dialog Quan Quân Nhu (Kim)
+19-03:53:17	tessssssst	NewWorld 184
+19-03:53:26	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:53:30	tessssssst	NewWorld 1635
+19-03:53:48	tessssssst	dialog Quan Quân Nhu (Kim)
+19-03:53:49	tessssssst	NewWorld 184
+19-03:54:28	tessssssst	UseItem	Vô Hạn Truyền Tống Phù
+19-03:54:31	tessssssst	NewWorld 184
+19-03:54:33	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:54:34	tessssssst	NewWorld 1635
+19-03:54:39	TCQGaming	NewWorld 1635
+19-03:54:39	tessssssst	NewWorld 1635
+19-03:54:51	tessssssst	NewWorld 1635
+19-03:54:53	tessssssst	dialog Quan Quân Nhu (Kim)
+19-03:54:54	tessssssst	NewWorld 184
+19-03:54:58	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:55:00	tessssssst	UseItem	Vô Hạn Truyền Tống Phù
+19-03:55:02	tessssssst	NewWorld 181
+19-03:55:05	tessssssst	dialog Hiệu Úy Mộ Binh (Tống)
+19-03:55:23	tessssssst	dialog Hiệu Úy Mộ Binh (Tống)
+19-03:55:25	tessssssst	dialog Hiệu Úy Mộ Binh (Tống)
+19-03:55:27	tessssssst	NewWorld 1635
+19-03:55:39	TCQGaming	NewWorld 184
+19-03:55:39	tessssssst	NewWorld 181
+19-03:55:42	TCQGaming	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:55:45	tessssssst	dialog Hiệu Úy Mộ Binh (Tống)
+19-03:55:49	TCQGaming	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:55:49	TCQGaming	NewWorld 1635
+19-03:55:51	tessssssst	dialog Hiệu Úy Mộ Binh (Tống)
+19-03:55:52	tessssssst	dialog Hiệu Úy Mộ Binh (Tống)
+19-03:56:17	TCQGaming	dialog Quan Quân Nhu (Kim)
+19-03:56:18	TCQGaming	NewWorld 184
+19-03:56:38	TCQGaming	login 184
+19-03:56:38	TCQGaming	xboyhd	192.168.1.100:45563	LoginHwId_2248007984	639324413
+19-03:56:38	TCQGaming	xboyhd	2248007984	1677830336	SetForbitCode0
+19-03:56:41	TCQGaming	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:56:41	TCQGaming	NewWorld 1635
+19-03:56:53	tessssssst	login 181
+19-03:56:53	tessssssst	xboyhd1	192.168.1.100:46587	LoginHwId_2248007984	639324413
+19-03:56:53	tessssssst	xboyhd1	2248007984	1677830336	SetForbitCode0
+19-03:56:55	tessssssst	dialog Hiệu Úy Mộ Binh (Tống)
+19-03:56:59	tessssssst	dialog Hiệu Úy Mộ Binh (Tống)
+19-03:57:04	tessssssst	UseItem	Vô Hạn Truyền Tống Phù
+19-03:57:07	tessssssst	NewWorld 184
+19-03:57:10	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:57:26	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:58:05	testttt	login 184
+19-03:58:05	testttt	xboyhd2	192.168.1.100:47867	LoginHwId_2248007984	639324413
+19-03:58:07	testttt	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:58:08	testttt	NewWorld 1635
+19-03:58:12	testttt	dialog Quan Quân Nhu (Kim)
+19-03:58:13	testttt	NewWorld 184
+19-03:58:15	testttt	UseItem	Vô Hạn Truyền Tống Phù
+19-03:58:17	testttt	NewWorld 181
+19-03:58:19	testttt	dialog Hiệu Úy Mộ Binh (Tống)
+19-03:58:20	testttt	UseItem	Vô Hạn Truyền Tống Phù
+19-03:58:22	testttt	NewWorld 184
+19-03:58:25	testttt	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:58:29	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:59:27	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:59:28	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:59:39	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:59:40	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:59:45	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-03:59:48	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:00:54	TVCSanBox	login 184
+19-04:00:54	TVCSanBox	sanbox	192.168.1.100:53499	LoginHwId_2248007984	639324413
+19-04:00:57	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:00:59	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:01:04	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:01:08	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:01:18	TVCSanBox	UseItem	Túi Tân Thủ
+19-04:01:25	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:01:38	testttt	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:02:01	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:02:02	TVCSanBox	UseItem	Vô Hạn Truyền Tống Phù
+19-04:02:04	TVCSanBox	NewWorld 181
+19-04:02:07	TVCSanBox	dialog Hiệu Úy Mộ Binh (Tống)
+19-04:02:11	TVCSanBox	UseItem	Vô Hạn Truyền Tống Phù
+19-04:02:14	TVCSanBox	NewWorld 184
+19-04:02:17	TVCSanBox	UseItem	Lệnh bài Uy danh giang hồ
+19-04:02:17	TVCSanBox	RemoveItem	Lệnh bài Uy danh giang hồ(1752872436)	Way5	Value100000
+19-04:02:18	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:05:48	TCQGaming	NewWorld 1635
+19-04:05:59	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:06:02	TVCSanBox	UseItem	Vô Hạn Truyền Tống Phù
+19-04:06:05	TVCSanBox	UseItem	Túi Tân Thủ
+19-04:07:02	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:07:06	TCQGaming	NewWorld 1635
+19-04:07:08	TCQGaming	dialog Quan Quân Nhu (Kim)
+19-04:07:10	TCQGaming	NewWorld 184
+19-04:07:11	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:07:23	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:07:24	TVCSanBox	NewWorld 1635
+19-04:07:39	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:07:47	tessssssst	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:07:57	TVCSanBox	dialog Quan Quân Nhu (Kim)
+19-04:08:03	TVCSanBox	NewWorld 184
+19-04:09:41	TCQGaming	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:09:42	TCQGaming	NewWorld 1635
+19-04:10:01	TVCSanBox	login 184
+19-04:10:01	TVCSanBox	sanbox	192.168.1.100:59899	LoginHwId_2248007984	639324413
+19-04:10:01	TVCSanBox	sanbox	2248007984	1677830336	SetForbitCode0
+19-04:10:04	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:10:06	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:13:56	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-04:14:01	TVCSanBox	dialog Hiệu Úy Mộ Binh (Kim)
+19-05:00:48	TCQGaming	NewWorld 184

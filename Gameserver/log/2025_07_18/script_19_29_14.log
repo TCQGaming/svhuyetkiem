@@ -1,0 +1,41 @@
+[2025-07-18 19:29:14]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	1	TCQGaming đạt cấp 69 đầu tiên!
+[2025-07-18 19:29:14]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	5	Đẳng cấp nhân vật cao nhất đã mở đến cấp 119
+[2025-07-18 19:29:14]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	6	07月18日国庆活动幸运卡民族
+[2025-07-18 19:29:14]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	4	Làm sao nhận được bạc
+[2025-07-18 19:29:14]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	19	Điều chỉnh giới hạn đẳng cấp tham gia thi đấu môn phái
+[2025-07-18 19:29:18]	ATTEN	[Player]	Cap cao nhat 80
+[2025-07-18 19:29:18]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	nTimeFrameStartSale
+[2025-07-18 19:29:18]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	nTimeFrameEndSale
+[2025-07-18 19:29:17]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	50
+[2025-07-18 19:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-18 19:30	5
+[2025-07-18 19:30:20]	ATTEN	[XoyoGame]	
+��i Thương Nhân Thần Bí ngẫu nhiên	25-07-18 19:30	10[2025-07-18 19:30:20]	ATTEN	[XoyoGame]	
+5-07-18 19:29:23]	INFO	[Player]	Offline	ProcessOfflineTime	TCQGaming	nCurLevel, nCurExp, nLevelLimit 	80	169200	69
+[2025-07-18 19:29:23]	INFO	[Player]	Offline	ProcessWasteTime	Player TCQGaming have nWasteTime 0, nNowAddExp 0 !
+[2025-07-18 19:29:23]	INFO	[Player]	plugin_log	玩家	TCQGaming	使用了插件，插件数量	30
+[2025-07-18 19:29:31]	INFO	[Player]	Offline	ProcessOfflineTime	tessssssst Last Logout time and now login time: 1752841765 1752841771
+[2025-07-18 19:29:31]	INFO	[Player]	Offline	ProcessOfflineTime	tessssssst nOffLiveTime, nTodayUsedtime = 0, 0
+[2025-07-18 19:29:31]	INFO	[Player]	Offline	ProcessOfflineTime	tessssssst	nCurLevel, nCurExp, nLevelLimit 	80	0	69
+[2025-07-18 19:29:31]	INFO	[Player]	Offline	ProcessWasteTime	Player tessssssst have nWasteTime 0, nNowAddExp 0 !
+[2025-07-18 19:29:31]	INFO	[Player]	plugin_log	玩家	tessssssst	使用了插件，插件数量	30
+[2025-07-18 19:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-18 19:30	11
+[2025-07-18 19:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-18 19:30	12
+[2025-07-18 19:30:20]	ATTEN	[XoyoGame]	
+[2025-07-18 19:34:59]	ATTEN	[Prestige]	TCQGaming	6	factionbattle
+[2025-07-18 19:34:59]	ATTEN	[Prestige]	tessssssst	6	factionbattle
+[2025-07-18 19:35:59]	ATTEN	[Prestige]	TCQGaming	6	factionbattle
+[2025-07-18 19:35:59]	ATTEN	[FactionBattle]	SetWinner	FactionId:2	TCQGamingở 16cườngbỉ tái đánh bại , nguyên nhân vi trực tiếp đánh bại	1
+[2025-07-18 19:35:59]	ATTEN	[Prestige]	tessssssst	6	factionbattle
+[2025-07-18 19:35:59]	ATTEN	[FactionBattle]	SetWinner	FactionId:2	tessssssstở 16cườngbỉ tái đánh bại , nguyên nhân vi trực tiếp đánh bại	5
+[2025-07-18 19:38:59]	ATTEN	[Prestige]	TCQGaming	10	factionbattle
+[2025-07-18 19:38:59]	ATTEN	[FactionBattle]	SetWinner	FactionId:2	TCQGamingở 8cườngbỉ tái đánh bại , nguyên nhân vi trực tiếp đánh bại	1
+[2025-07-18 19:38:59]	ATTEN	[Prestige]	tessssssst	10	factionbattle
+[2025-07-18 19:38:59]	ATTEN	[FactionBattle]	SetWinner	FactionId:2	tessssssstở 8cườngbỉ tái đánh bại , nguyên nhân vi trực tiếp đánh bại	3
+[2025-07-18 19:41:59]	ATTEN	[FactionBattle]	SetWinner	FactionId:2	TCQGamingở 4cườngbỉ tái đánh bại , nguyên nhân vi trực tiếp đánh bại	1
+[2025-07-18 19:41:59]	ATTEN	[FactionBattle]	SetWinner	FactionId:2	tessssssstở 4cườngbỉ tái đánh bại , nguyên nhân vi trực tiếp đánh bại	2
+[2025-07-18 19:45:32]	ATTEN	[Prestige]	TCQGaming	10	factionbattle
+[2025-07-18 19:45:32]	INFO	[FactionBattle]	Quán Quân:	TCQGaming	xboyhd
+[2025-07-18 19:45:32]	ATTEN	[FactionBattle]	SetWinner	FactionId:2	TCQGamingở 2cườngbỉ tái đánh bại tessssssst, nguyên nhân vi trực tiếp đánh bại	1
+[2025-07-18 19:45:32]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	20	tân một lần mười hai đại môn phái con người mới vương
+[2025-07-18 19:46:37]	ATTEN	[FactionBattle]	return from trap	TCQGaming	xboyhd
+[2025-07-18 19:47:03]	ATTEN	[Prestige]	tessssssst	20

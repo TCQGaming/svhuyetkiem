@@ -1,0 +1,36 @@
+[2025-07-16 05:25:08]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	5	Đẳng cấp nhân vật cao nhất đã mở đến cấp 119
+[2025-07-16 05:25:08]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	19	Điều chỉnh giới hạn đẳng cấp tham gia thi đấu môn phái
+[2025-07-16 05:25:08]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	4	Làm sao nhận được bạc
+[2025-07-16 05:25:08]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	6	07月16日国庆活动幸运卡民族
+[2025-07-16 05:25:08]	ATTEN	[Player]	Cap cao nhat 80
+[2025-07-16 05:25:08]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	nTimeFrameStartSale
+[2025-07-16 05:25:08]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	nTimeFrameEndSale
+[2025-07-16 05:25:08]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	50
+[2025-07-16 05:25:25]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	1	TCQGaming đạt cấp 69 đầu tiên!
+[2025-07-16 05:30:00]	ATTEN	[BaiHuTang]	9720	ShowGongGao	1	05:30-00
+[2025-07-16 05:38:59]	ATTEN	[BaiHuTang]	9720	ShowGongGao	2	05:38-59
+�u Hoàn	nTimeFrameEndSale
+[2025-07-16 05:25:11]	INFO	[Player]	Offline	Cường Hiệu Bạch Câu Hoàn	50
+[2025-07-16 05:25:25]	ERR!	[Mail]	Tuyến đường, võ nghệ thuật là không đúng!
+[2025-07-16 05:25:25]	ERR!	[Mail]	Năm Ấn Độ tóc, võ nghệ thuật là không đúng!
+[2025-07-16 05:25:25]	INFO	[Task]	Help	tbHelp:SetDynamicNews	1	TCQGaming đạt cấp 69 đầu tiên!	Võ lâm cao thủ đạt cấp 69 đầu tiên đã xuất hiện
+Họ tên: <color=gold>TCQGaming<color>
+Giới tính: <color=gold>Nam<color>
+Nhánh môn phái: <color=gold>Chưa<color>
+Tổng thời gian lên mạng: <color=gold>0.0<color> giờ	1752877525	1752618325
+[2025-07-16 05:25:25]	INFO	[PlayerHonor]	RefreshHonorLevel	TCQGaming	0		0	1
+[2025-07-16 05:25:25]	INFO	[PlayerHonor]	UpdataMaxWealth	TCQGaming	1	8	0	0
+[2025-07-16 05:25:25]	ERR!	[Mail]	发五行印，门派不正确！
+[2025-07-16 05:25:25]	INFO	[Player]	Offline	ProcessOfflineTime	TCQGaming Last Logout time and now login time: 0 1752618325
+[2025-07-16 05:25:25]	INFO	[Player]	Offline	ProcessWasteTime	Player TCQGaming have nWasteTime 0, nNowAddExp 0 !
+[2025-07-16 05:25:25]	INFO	[Task]	Help	Get The Dynamic new nKey: , szTitle:  	1	TCQGaming đạt cấp 69 đầu tiên!
+[2025-07-16 05:25:25]	INFO	[Player]	plugin_log	玩家	TCQGaming	使用了插件，插件数量	30
+[2025-07-16 05:25:32]	ATTEN	[Prestige]	TCQGaming	20
+[2025-07-16 05:25:36]	INFO	[PlayerHonor]	UpdataMaxWealth	TCQGaming	1	8	0	120
+[2025-07-16 05:26:10]	ATTEN	[Prestige]	TCQGaming	30
+[2025-07-16 05:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-16 05:30	11
+[2025-07-16 05:30:00]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-16 05:30	12
+[2025-07-16 05:30:00]	ATTEN	[BaiHuTang]	9720	ShowGongGao	1	05:30-00
+[2025-07-16 05:38:59]	ATTEN	[BaiHuTang]	9720	ShowGongGao	2	05:38-59
+[2025-07-16 05:47:59]	ATTEN	[BaiHuTang]	5400	ShowGongGao	3	05:47-59
+[2025-07-16 06:00:01]	ATTEN	[Merchant]	Gọi Thương Nhân Thần Bí ngẫu nhiên	25-07-16 06:00	11

@@ -1,0 +1,2598 @@
+16:04:12	Intranet ip: tuyetdinhkt2009
+16:04:12	Internet ip: tuyetdinhkt2009
+16:04:13	Intranet ip: tuyetdinhkt2009
+16:04:13	Internet ip: tuyetdinhkt2009
+16:04:13	Begin load script files...
+16:04:13	begin load vfactory.lua
+16:04:13	Preload gs script files...
+16:04:13	Start InitAward!
+16:04:13	37 loaded!
+16:04:13	...ver\script\1.File\Map_baodanh_tk\map_baodanh_kim.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ver\script\1.File\Map_baodanh_tk\map_baodanh_kim.lua:9: in main chunk
+16:04:13	
+Can't load file '\script\1.File\Map_baodanh_tk\map_baodanh_kim.lua', please check it!
+16:04:13	...er\script\1.File\Map_baodanh_tk\map_baodanh_tong.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...er\script\1.File\Map_baodanh_tk\map_baodanh_tong.lua:9: in main chunk
+16:04:13	
+Can't load file '\script\1.File\Map_baodanh_tk\map_baodanh_tong.lua', please check it!
+16:04:14	...iem\Gameserver\script\boss\atlantis\atlantis_map.lua:58: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...iem\Gameserver\script\boss\atlantis\atlantis_map.lua:58: in function 'LinkMapTrap'
+	...iem\Gameserver\script\boss\atlantis\atlantis_map.lua:73: in main chunk
+16:04:14	
+Can't load file '\script\boss\atlantis\atlantis_map.lua', please check it!
+16:04:14	...ver\script\boss\chenchongzhen\chenchongzhen_trap.lua:12: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ver\script\boss\chenchongzhen\chenchongzhen_trap.lua:12: in function 'InitTrap'
+	...ver\script\boss\chenchongzhen\chenchongzhen_trap.lua:32: in main chunk
+16:04:14	
+Can't load file '\script\boss\chenchongzhen\chenchongzhen_trap.lua', please check it!
+16:04:14	...ver\script\boss\crosstimeroom\crosstimeroom_trap.lua:12: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ver\script\boss\crosstimeroom\crosstimeroom_trap.lua:12: in function 'InitTrap'
+	...ver\script\boss\crosstimeroom\crosstimeroom_trap.lua:42: in main chunk
+16:04:14	
+Can't load file '\script\boss\crosstimeroom\crosstimeroom_trap.lua', please check it!
+16:04:14	...er\script\boss\qinshihuang\map\qinshihuangling_1.lua:10: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...er\script\boss\qinshihuang\map\qinshihuangling_1.lua:10: in main chunk
+16:04:14	
+Can't load file '\script\boss\qinshihuang\map\qinshihuangling_1.lua', please check it!
+16:04:14	...er\script\boss\qinshihuang\map\qinshihuangling_2.lua:10: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...er\script\boss\qinshihuang\map\qinshihuangling_2.lua:10: in main chunk
+16:04:14	
+Can't load file '\script\boss\qinshihuang\map\qinshihuangling_2.lua', please check it!
+16:04:14	...er\script\boss\qinshihuang\map\qinshihuangling_3.lua:10: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...er\script\boss\qinshihuang\map\qinshihuangling_3.lua:10: in main chunk
+16:04:14	
+Can't load file '\script\boss\qinshihuang\map\qinshihuangling_3.lua', please check it!
+16:04:14	...er\script\boss\qinshihuang\map\qinshihuangling_4.lua:10: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...er\script\boss\qinshihuang\map\qinshihuangling_4.lua:10: in main chunk
+16:04:14	
+Can't load file '\script\boss\qinshihuang\map\qinshihuangling_4.lua', please check it!
+16:04:14	...er\script\boss\qinshihuang\map\qinshihuangling_5.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...er\script\boss\qinshihuang\map\qinshihuangling_5.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\boss\qinshihuang\map\qinshihuangling_5.lua', please check it!
+16:04:14	...server\script\ChucNang\loidaibanghoi\map\loidai1.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...server\script\ChucNang\loidaibanghoi\map\loidai1.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\loidaibanghoi\map\loidai1.lua', please check it!
+16:04:14	...server\script\ChucNang\loidaibanghoi\map\loidai2.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...server\script\ChucNang\loidaibanghoi\map\loidai2.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\loidaibanghoi\map\loidai2.lua', please check it!
+16:04:14	...server\script\ChucNang\loidaibanghoi\map\loidai3.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...server\script\ChucNang\loidaibanghoi\map\loidai3.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\loidaibanghoi\map\loidai3.lua', please check it!
+16:04:14	...server\script\ChucNang\loidaibanghoi\map\loidai4.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...server\script\ChucNang\loidaibanghoi\map\loidai4.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\loidaibanghoi\map\loidai4.lua', please check it!
+16:04:14	...server\script\ChucNang\loidaibanghoi\map\loidai5.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...server\script\ChucNang\loidaibanghoi\map\loidai5.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\loidaibanghoi\map\loidai5.lua', please check it!
+16:04:14	...ver\script\ChucNang\loidaibanghoi\map\mapbaodanh.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ver\script\ChucNang\loidaibanghoi\map\mapbaodanh.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\loidaibanghoi\map\mapbaodanh.lua', please check it!
+16:04:14	...er\script\ChucNang\loidaibanghoi\map\maphoakylan.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...er\script\ChucNang\loidaibanghoi\map\maphoakylan.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\loidaibanghoi\map\maphoakylan.lua', please check it!
+16:04:14	...\Gameserver\script\ChucNang\taotuviet\map\maphoa.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...\Gameserver\script\ChucNang\taotuviet\map\maphoa.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\taotuviet\map\maphoa.lua', please check it!
+16:04:14	...meserver\script\ChucNang\taotuviet\map\maphoason.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...meserver\script\ChucNang\taotuviet\map\maphoason.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\taotuviet\map\maphoason.lua', please check it!
+16:04:14	...\Gameserver\script\ChucNang\taotuviet\map\mapkim.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...\Gameserver\script\ChucNang\taotuviet\map\mapkim.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\taotuviet\map\mapkim.lua', please check it!
+16:04:14	...\Gameserver\script\ChucNang\taotuviet\map\mapmoc.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...\Gameserver\script\ChucNang\taotuviet\map\mapmoc.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\taotuviet\map\mapmoc.lua', please check it!
+16:04:14	...\Gameserver\script\ChucNang\taotuviet\map\maptho.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...\Gameserver\script\ChucNang\taotuviet\map\maptho.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\taotuviet\map\maptho.lua', please check it!
+16:04:14	...Gameserver\script\ChucNang\taotuviet\map\mapthuy.lua:9: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...Gameserver\script\ChucNang\taotuviet\map\mapthuy.lua:9: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\taotuviet\map\mapthuy.lua', please check it!
+16:04:14	...g\that_thanh_dai_chien\map\trap\trapbienkinh_ctc.lua:2: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...g\that_thanh_dai_chien\map\trap\trapbienkinh_ctc.lua:2: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\that_thanh_dai_chien\map\trap\trapbienkinh_ctc.lua', please check it!
+16:04:14	...\that_thanh_dai_chien\map\trap\trapduongchau_ctc.lua:2: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...\that_thanh_dai_chien\map\trap\trapduongchau_ctc.lua:2: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\that_thanh_dai_chien\map\trap\trapduongchau_ctc.lua', please check it!
+16:04:14	...Nang\that_thanh_dai_chien\map\trap\traplaman_ctc.lua:2: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...Nang\that_thanh_dai_chien\map\trap\traplaman_ctc.lua:2: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\that_thanh_dai_chien\map\trap\traplaman_ctc.lua', please check it!
+16:04:14	...hat_thanh_dai_chien\map\trap\trapphuongtuong_ctc.lua:2: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...hat_thanh_dai_chien\map\trap\trapphuongtuong_ctc.lua:2: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\that_thanh_dai_chien\map\trap\trapphuongtuong_ctc.lua', please check it!
+16:04:14	...g\that_thanh_dai_chien\map\trap\trapthanh_do_ctc.lua:2: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...g\that_thanh_dai_chien\map\trap\trapthanh_do_ctc.lua:2: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\that_thanh_dai_chien\map\trap\trapthanh_do_ctc.lua', please check it!
+16:04:14	...that_thanh_dai_chien\map\trap\traptuongduong_ctc.lua:2: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...that_thanh_dai_chien\map\trap\traptuongduong_ctc.lua:2: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\that_thanh_dai_chien\map\trap\traptuongduong_ctc.lua', please check it!
+16:04:14	...ang\that_thanh_dai_chien\map\trap\trap_daily_ctc.lua:2: attempt to call method 'GetClass' (a nil value)
+stack traceback:
+	...ang\that_thanh_dai_chien\map\trap\trap_daily_ctc.lua:2: in main chunk
+16:04:14	
+Can't load file '\script\ChucNang\that_thanh_dai_chien\map\trap\trap_daily_ctc.lua', please check it!
+16:04:18	Intranet ip: tuyetdinhkt2009
+16:04:18	Internet ip: tuyetdinhkt2009
+16:04:25	Intranet ip: tuyetdinhkt2009
+16:04:25	Internet ip: tuyetdinhkt2009
+16:04:26	Begin load script files...
+16:04:26	begin load vfactory.lua
+16:04:26	Preload gs script files...
+16:04:26	Start InitAward!
+16:04:26	38 loaded!
+16:04:27	1966 loaded!
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[GBLVALUE]	ModuleInit..
+16:04:28	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:04:28	[GBLVALUE]	Base Data Init, Create RootTree...
+16:04:28	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:04:28	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:04:28	[GBLVALUE]	Base Data Init, Create RootTree...
+16:04:28	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:04:28	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:04:28	[GBLVALUE]	Base Data Init, Create RootTree...
+16:04:28	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[TRANSFER]	ModuleInit..
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[LEAGUE]	ModuleInit..
+16:04:28	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:04:28	[LEAGUE]	Base Data Init, Create RootTree...
+16:04:28	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[KIN]	ModuleInit..
+16:04:28	[KIN]	Base Data Init, Root Branch ID: 9
+16:04:28	[KIN]	Base Data Init, Create RootTree...
+16:04:28	[KIN]	Base Data Init, Create DataTree Completed!
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[TONG]	ModuleInit..
+16:04:28	[TONG]	Base Data Init, Root Branch ID: 11
+16:04:28	[TONG]	Base Data Init, Create RootTree...
+16:04:28	[TONG]	Base Data Init, Create DataTree Completed!
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[UNION]	ModuleInit..
+16:04:28	[UNION]	Base Data Init, Root Branch ID: 13
+16:04:28	[UNION]	Base Data Init, Create RootTree...
+16:04:28	[UNION]	Base Data Init, Create DataTree Completed!
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[PLAYERMAN]	ModuleInit..
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[TEAM]	ModuleInit..
+16:04:28	[TEAM]	Base Data Init, Root Branch ID: 15
+16:04:28	[TEAM]	Base Data Init, Create RootTree...
+16:04:28	[TEAM]	Base Data Init, Create DataTree Completed!
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[Map]	ModuleInit..
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[CHAT]	ModuleInit..
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[RELATION]	ModuleInit..
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[MAIL]	ModuleInit..
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[IBSHOP]	ModuleInit..
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[GMBOARD]	ModuleInit..
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[JBEXCHANGE]	ModuleInit..
+16:04:28	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:04:28	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:04:28	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[LADDER]	ModuleInit..
+16:04:28	[LADDER]	Base Data Init, Root Branch ID: 19
+16:04:28	[LADDER]	Base Data Init, Create RootTree...
+16:04:28	[LADDER]	Base Data Init, Create DataTree Completed!
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[GBLBUF]	ModuleInit..
+16:04:28	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:04:28	[GBLBUF]	Base Data Init, Create RootTree...
+16:04:28	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:04:28	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:04:28	[GBLBUF]	Base Data Init, Create RootTree...
+16:04:28	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[PROFILE]	ModuleInit..
+16:04:28	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:04:28	[PROFILE]	Base Data Init, Create RootTree...
+16:04:28	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[AUCTION]	ModuleInit..
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[NORMAL]	ModuleInit..
+16:04:28	-------------------------------------------------------------------------------
+16:04:28	[SPORT]	ModuleInit..
+16:04:28	[SPORT]	Base Data Init, Root Branch ID: 27
+16:04:28	[SPORT]	Base Data Init, Create RootTree...
+16:04:28	[SPORT]	Base Data Init, Create DataTree Completed!
+16:04:28	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 5306E6B8
+16:04:28	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:04:28	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:04:28	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:04:32	--- Receiving finished! Now GameServer is ready! ---
+16:04:33	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:04:33	TreasureMap Inited! 70 Treasure(s)loaded!
+16:05:02	Intranet ip: tuyetdinhkt2009
+16:05:02	Internet ip: tuyetdinhkt2009
+16:05:03	Begin load script files...
+16:05:03	begin load vfactory.lua
+16:05:03	Preload gs script files...
+16:05:03	Start InitAward!
+16:05:03	38 loaded!
+16:05:04	1966 loaded!
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[GBLVALUE]	ModuleInit..
+16:05:05	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:05:05	[GBLVALUE]	Base Data Init, Create RootTree...
+16:05:05	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:05:05	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:05:05	[GBLVALUE]	Base Data Init, Create RootTree...
+16:05:05	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:05:05	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:05:05	[GBLVALUE]	Base Data Init, Create RootTree...
+16:05:05	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[TRANSFER]	ModuleInit..
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[LEAGUE]	ModuleInit..
+16:05:05	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:05:05	[LEAGUE]	Base Data Init, Create RootTree...
+16:05:05	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[KIN]	ModuleInit..
+16:05:05	[KIN]	Base Data Init, Root Branch ID: 9
+16:05:05	[KIN]	Base Data Init, Create RootTree...
+16:05:05	[KIN]	Base Data Init, Create DataTree Completed!
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[TONG]	ModuleInit..
+16:05:05	[TONG]	Base Data Init, Root Branch ID: 11
+16:05:05	[TONG]	Base Data Init, Create RootTree...
+16:05:05	[TONG]	Base Data Init, Create DataTree Completed!
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[UNION]	ModuleInit..
+16:05:05	[UNION]	Base Data Init, Root Branch ID: 13
+16:05:05	[UNION]	Base Data Init, Create RootTree...
+16:05:05	[UNION]	Base Data Init, Create DataTree Completed!
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[PLAYERMAN]	ModuleInit..
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[TEAM]	ModuleInit..
+16:05:05	[TEAM]	Base Data Init, Root Branch ID: 15
+16:05:05	[TEAM]	Base Data Init, Create RootTree...
+16:05:05	[TEAM]	Base Data Init, Create DataTree Completed!
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[Map]	ModuleInit..
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[CHAT]	ModuleInit..
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[RELATION]	ModuleInit..
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[MAIL]	ModuleInit..
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[IBSHOP]	ModuleInit..
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[GMBOARD]	ModuleInit..
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[JBEXCHANGE]	ModuleInit..
+16:05:05	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:05:05	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:05:05	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[LADDER]	ModuleInit..
+16:05:05	[LADDER]	Base Data Init, Root Branch ID: 19
+16:05:05	[LADDER]	Base Data Init, Create RootTree...
+16:05:05	[LADDER]	Base Data Init, Create DataTree Completed!
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[GBLBUF]	ModuleInit..
+16:05:05	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:05:05	[GBLBUF]	Base Data Init, Create RootTree...
+16:05:05	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:05:05	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:05:05	[GBLBUF]	Base Data Init, Create RootTree...
+16:05:05	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[PROFILE]	ModuleInit..
+16:05:05	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:05:05	[PROFILE]	Base Data Init, Create RootTree...
+16:05:05	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[AUCTION]	ModuleInit..
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[NORMAL]	ModuleInit..
+16:05:05	-------------------------------------------------------------------------------
+16:05:05	[SPORT]	ModuleInit..
+16:05:05	[SPORT]	Base Data Init, Root Branch ID: 27
+16:05:05	[SPORT]	Base Data Init, Create RootTree...
+16:05:05	[SPORT]	Base Data Init, Create DataTree Completed!
+16:05:05	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 532B7300
+16:05:05	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:05:05	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:05:05	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:05:09	--- Receiving finished! Now GameServer is ready! ---
+16:05:09	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:05:09	TreasureMap Inited! 70 Treasure(s)loaded!
+16:05:10	Intranet ip: tuyetdinhkt2009
+16:05:10	Internet ip: tuyetdinhkt2009
+16:05:11	Begin load script files...
+16:05:11	begin load vfactory.lua
+16:05:11	Preload gs script files...
+16:05:11	Start InitAward!
+16:05:11	38 loaded!
+16:05:12	1966 loaded!
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[GBLVALUE]	ModuleInit..
+16:05:13	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:05:13	[GBLVALUE]	Base Data Init, Create RootTree...
+16:05:13	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:05:13	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:05:13	[GBLVALUE]	Base Data Init, Create RootTree...
+16:05:13	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:05:13	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:05:13	[GBLVALUE]	Base Data Init, Create RootTree...
+16:05:13	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[TRANSFER]	ModuleInit..
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[LEAGUE]	ModuleInit..
+16:05:13	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:05:13	[LEAGUE]	Base Data Init, Create RootTree...
+16:05:13	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[KIN]	ModuleInit..
+16:05:13	[KIN]	Base Data Init, Root Branch ID: 9
+16:05:13	[KIN]	Base Data Init, Create RootTree...
+16:05:13	[KIN]	Base Data Init, Create DataTree Completed!
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[TONG]	ModuleInit..
+16:05:13	[TONG]	Base Data Init, Root Branch ID: 11
+16:05:13	[TONG]	Base Data Init, Create RootTree...
+16:05:13	[TONG]	Base Data Init, Create DataTree Completed!
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[UNION]	ModuleInit..
+16:05:13	[UNION]	Base Data Init, Root Branch ID: 13
+16:05:13	[UNION]	Base Data Init, Create RootTree...
+16:05:13	[UNION]	Base Data Init, Create DataTree Completed!
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[PLAYERMAN]	ModuleInit..
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[TEAM]	ModuleInit..
+16:05:13	[TEAM]	Base Data Init, Root Branch ID: 15
+16:05:13	[TEAM]	Base Data Init, Create RootTree...
+16:05:13	[TEAM]	Base Data Init, Create DataTree Completed!
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[Map]	ModuleInit..
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[CHAT]	ModuleInit..
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[RELATION]	ModuleInit..
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[MAIL]	ModuleInit..
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[IBSHOP]	ModuleInit..
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[GMBOARD]	ModuleInit..
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[JBEXCHANGE]	ModuleInit..
+16:05:13	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:05:13	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:05:13	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[LADDER]	ModuleInit..
+16:05:13	[LADDER]	Base Data Init, Root Branch ID: 19
+16:05:13	[LADDER]	Base Data Init, Create RootTree...
+16:05:13	[LADDER]	Base Data Init, Create DataTree Completed!
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[GBLBUF]	ModuleInit..
+16:05:13	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:05:13	[GBLBUF]	Base Data Init, Create RootTree...
+16:05:13	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:05:13	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:05:13	[GBLBUF]	Base Data Init, Create RootTree...
+16:05:13	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[PROFILE]	ModuleInit..
+16:05:13	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:05:13	[PROFILE]	Base Data Init, Create RootTree...
+16:05:13	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[AUCTION]	ModuleInit..
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[NORMAL]	ModuleInit..
+16:05:13	-------------------------------------------------------------------------------
+16:05:13	[SPORT]	ModuleInit..
+16:05:13	[SPORT]	Base Data Init, Root Branch ID: 27
+16:05:13	[SPORT]	Base Data Init, Create RootTree...
+16:05:13	[SPORT]	Base Data Init, Create DataTree Completed!
+16:05:13	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 52FF3EB8
+16:05:13	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:05:13	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:05:13	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:05:14	Intranet ip: tuyetdinhkt2009
+16:05:14	Internet ip: tuyetdinhkt2009
+16:05:15	Begin load script files...
+16:05:15	begin load vfactory.lua
+16:05:15	Preload gs script files...
+16:05:15	Start InitAward!
+16:05:15	38 loaded!
+16:05:16	--- Receiving finished! Now GameServer is ready! ---
+16:05:16	1966 loaded!
+16:05:17	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:05:17	TreasureMap Inited! 70 Treasure(s)loaded!
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[GBLVALUE]	ModuleInit..
+16:05:17	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:05:17	[GBLVALUE]	Base Data Init, Create RootTree...
+16:05:17	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:05:17	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:05:17	[GBLVALUE]	Base Data Init, Create RootTree...
+16:05:17	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:05:17	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:05:17	[GBLVALUE]	Base Data Init, Create RootTree...
+16:05:17	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[TRANSFER]	ModuleInit..
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[LEAGUE]	ModuleInit..
+16:05:17	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:05:17	[LEAGUE]	Base Data Init, Create RootTree...
+16:05:17	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[KIN]	ModuleInit..
+16:05:17	[KIN]	Base Data Init, Root Branch ID: 9
+16:05:17	[KIN]	Base Data Init, Create RootTree...
+16:05:17	[KIN]	Base Data Init, Create DataTree Completed!
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[TONG]	ModuleInit..
+16:05:17	[TONG]	Base Data Init, Root Branch ID: 11
+16:05:17	[TONG]	Base Data Init, Create RootTree...
+16:05:17	[TONG]	Base Data Init, Create DataTree Completed!
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[UNION]	ModuleInit..
+16:05:17	[UNION]	Base Data Init, Root Branch ID: 13
+16:05:17	[UNION]	Base Data Init, Create RootTree...
+16:05:17	[UNION]	Base Data Init, Create DataTree Completed!
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[PLAYERMAN]	ModuleInit..
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[TEAM]	ModuleInit..
+16:05:17	[TEAM]	Base Data Init, Root Branch ID: 15
+16:05:17	[TEAM]	Base Data Init, Create RootTree...
+16:05:17	[TEAM]	Base Data Init, Create DataTree Completed!
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[Map]	ModuleInit..
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[CHAT]	ModuleInit..
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[RELATION]	ModuleInit..
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[MAIL]	ModuleInit..
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[IBSHOP]	ModuleInit..
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[GMBOARD]	ModuleInit..
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[JBEXCHANGE]	ModuleInit..
+16:05:17	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:05:17	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:05:17	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[LADDER]	ModuleInit..
+16:05:17	[LADDER]	Base Data Init, Root Branch ID: 19
+16:05:17	[LADDER]	Base Data Init, Create RootTree...
+16:05:17	[LADDER]	Base Data Init, Create DataTree Completed!
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[GBLBUF]	ModuleInit..
+16:05:17	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:05:17	[GBLBUF]	Base Data Init, Create RootTree...
+16:05:17	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:05:17	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:05:17	[GBLBUF]	Base Data Init, Create RootTree...
+16:05:17	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[PROFILE]	ModuleInit..
+16:05:17	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:05:17	[PROFILE]	Base Data Init, Create RootTree...
+16:05:17	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[AUCTION]	ModuleInit..
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[NORMAL]	ModuleInit..
+16:05:17	-------------------------------------------------------------------------------
+16:05:17	[SPORT]	ModuleInit..
+16:05:17	[SPORT]	Base Data Init, Root Branch ID: 27
+16:05:17	[SPORT]	Base Data Init, Create RootTree...
+16:05:17	[SPORT]	Base Data Init, Create DataTree Completed!
+16:05:17	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 52FAC720
+16:05:18	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:05:18	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:05:18	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:05:19	Intranet ip: tuyetdinhkt2009
+16:05:19	Internet ip: tuyetdinhkt2009
+16:05:19	Intranet ip: tuyetdinhkt2009
+16:05:19	Internet ip: tuyetdinhkt2009
+16:05:20	Intranet ip: tuyetdinhkt2009
+16:05:20	Internet ip: tuyetdinhkt2009
+16:05:20	Begin load script files...
+16:05:20	begin load vfactory.lua
+16:05:20	Preload gs script files...
+16:05:20	Start InitAward!
+16:05:20	38 loaded!
+16:05:20	Intranet ip: tuyetdinhkt2009
+16:05:20	Internet ip: tuyetdinhkt2009
+16:07:02	Intranet ip: tuyetdinhkt2009
+16:07:02	Internet ip: tuyetdinhkt2009
+16:07:03	Intranet ip: tuyetdinhkt2009
+16:07:03	Internet ip: tuyetdinhkt2009
+16:07:03	Intranet ip: tuyetdinhkt2009
+16:07:03	Internet ip: tuyetdinhkt2009
+16:07:03	Begin load script files...
+16:07:03	begin load vfactory.lua
+16:07:03	Preload gs script files...
+16:07:03	Start InitAward!
+16:07:03	38 loaded!
+16:07:04	Intranet ip: tuyetdinhkt2009
+16:07:04	Internet ip: tuyetdinhkt2009
+16:07:04	Begin load script files...
+16:07:04	begin load vfactory.lua
+16:07:04	Preload gs script files...
+16:07:04	Start InitAward!
+16:07:04	38 loaded!
+16:07:04	Intranet ip: tuyetdinhkt2009
+16:07:04	Internet ip: tuyetdinhkt2009
+16:07:04	Begin load script files...
+16:07:04	begin load vfactory.lua
+16:07:04	Preload gs script files...
+16:07:04	Start InitAward!
+16:07:04	38 loaded!
+16:07:04	Intranet ip: tuyetdinhkt2009
+16:07:04	Internet ip: tuyetdinhkt2009
+16:07:04	1966 loaded!
+16:07:05	Begin load script files...
+16:07:05	begin load vfactory.lua
+16:07:05	Preload gs script files...
+16:07:05	Start InitAward!
+16:07:05	38 loaded!
+16:07:05	Intranet ip: tuyetdinhkt2009
+16:07:05	Internet ip: tuyetdinhkt2009
+16:07:05	1966 loaded!
+16:07:05	Begin load script files...
+16:07:05	begin load vfactory.lua
+16:07:05	Preload gs script files...
+16:07:05	Start InitAward!
+16:07:05	38 loaded!
+16:07:05	1966 loaded!
+16:07:06	Begin load script files...
+16:07:06	begin load vfactory.lua
+16:07:06	Preload gs script files...
+16:07:06	Start InitAward!
+16:07:06	38 loaded!
+16:07:06	1966 loaded!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[GBLVALUE]	ModuleInit..
+16:07:06	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:07:06	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:06	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:06	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:07:06	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:06	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:06	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:07:06	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:06	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[TRANSFER]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[LEAGUE]	ModuleInit..
+16:07:06	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:07:06	[LEAGUE]	Base Data Init, Create RootTree...
+16:07:06	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[KIN]	ModuleInit..
+16:07:06	[KIN]	Base Data Init, Root Branch ID: 9
+16:07:06	[KIN]	Base Data Init, Create RootTree...
+16:07:06	[KIN]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[TONG]	ModuleInit..
+16:07:06	[TONG]	Base Data Init, Root Branch ID: 11
+16:07:06	[TONG]	Base Data Init, Create RootTree...
+16:07:06	[TONG]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[UNION]	ModuleInit..
+16:07:06	[UNION]	Base Data Init, Root Branch ID: 13
+16:07:06	[UNION]	Base Data Init, Create RootTree...
+16:07:06	[UNION]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[PLAYERMAN]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[TEAM]	ModuleInit..
+16:07:06	[TEAM]	Base Data Init, Root Branch ID: 15
+16:07:06	[TEAM]	Base Data Init, Create RootTree...
+16:07:06	[TEAM]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[Map]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[CHAT]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[RELATION]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[MAIL]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[IBSHOP]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[GMBOARD]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[JBEXCHANGE]	ModuleInit..
+16:07:06	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:07:06	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:07:06	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[LADDER]	ModuleInit..
+16:07:06	[LADDER]	Base Data Init, Root Branch ID: 19
+16:07:06	[LADDER]	Base Data Init, Create RootTree...
+16:07:06	[LADDER]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[GBLBUF]	ModuleInit..
+16:07:06	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:07:06	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:06	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:06	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:07:06	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:06	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[PROFILE]	ModuleInit..
+16:07:06	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:07:06	[PROFILE]	Base Data Init, Create RootTree...
+16:07:06	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[AUCTION]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[NORMAL]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[SPORT]	ModuleInit..
+16:07:06	[SPORT]	Base Data Init, Root Branch ID: 27
+16:07:06	[SPORT]	Base Data Init, Create RootTree...
+16:07:06	[SPORT]	Base Data Init, Create DataTree Completed!
+16:07:06	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 52FE1F88
+16:07:06	Begin load script files...
+16:07:06	begin load vfactory.lua
+16:07:06	Preload gs script files...
+16:07:06	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:07:06	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:07:06	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:07:06	Start InitAward!
+16:07:06	38 loaded!
+16:07:06	1966 loaded!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[GBLVALUE]	ModuleInit..
+16:07:06	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:07:06	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:06	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:06	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:07:06	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:06	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:06	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:07:06	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:06	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[TRANSFER]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[LEAGUE]	ModuleInit..
+16:07:06	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:07:06	[LEAGUE]	Base Data Init, Create RootTree...
+16:07:06	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[KIN]	ModuleInit..
+16:07:06	[KIN]	Base Data Init, Root Branch ID: 9
+16:07:06	[KIN]	Base Data Init, Create RootTree...
+16:07:06	[KIN]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[TONG]	ModuleInit..
+16:07:06	[TONG]	Base Data Init, Root Branch ID: 11
+16:07:06	[TONG]	Base Data Init, Create RootTree...
+16:07:06	[TONG]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[UNION]	ModuleInit..
+16:07:06	[UNION]	Base Data Init, Root Branch ID: 13
+16:07:06	[UNION]	Base Data Init, Create RootTree...
+16:07:06	[UNION]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[PLAYERMAN]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[TEAM]	ModuleInit..
+16:07:06	[TEAM]	Base Data Init, Root Branch ID: 15
+16:07:06	[TEAM]	Base Data Init, Create RootTree...
+16:07:06	[TEAM]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[Map]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[CHAT]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[RELATION]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[MAIL]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[IBSHOP]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[GMBOARD]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[JBEXCHANGE]	ModuleInit..
+16:07:06	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:07:06	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:07:06	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[LADDER]	ModuleInit..
+16:07:06	[LADDER]	Base Data Init, Root Branch ID: 19
+16:07:06	[LADDER]	Base Data Init, Create RootTree...
+16:07:06	[LADDER]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[GBLBUF]	ModuleInit..
+16:07:06	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:07:06	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:06	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:06	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:07:06	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:06	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[PROFILE]	ModuleInit..
+16:07:06	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:07:06	[PROFILE]	Base Data Init, Create RootTree...
+16:07:06	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[AUCTION]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[NORMAL]	ModuleInit..
+16:07:06	-------------------------------------------------------------------------------
+16:07:06	[SPORT]	ModuleInit..
+16:07:06	[SPORT]	Base Data Init, Root Branch ID: 27
+16:07:06	[SPORT]	Base Data Init, Create RootTree...
+16:07:06	[SPORT]	Base Data Init, Create DataTree Completed!
+16:07:06	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 5306AC60
+16:07:06	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:07:06	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:07:06	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:07:07	1966 loaded!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[GBLVALUE]	ModuleInit..
+16:07:07	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:07:07	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:07	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:07	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:07:07	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:07	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:07	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:07:07	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:07	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[TRANSFER]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[LEAGUE]	ModuleInit..
+16:07:07	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:07:07	[LEAGUE]	Base Data Init, Create RootTree...
+16:07:07	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[KIN]	ModuleInit..
+16:07:07	[KIN]	Base Data Init, Root Branch ID: 9
+16:07:07	[KIN]	Base Data Init, Create RootTree...
+16:07:07	[KIN]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[TONG]	ModuleInit..
+16:07:07	[TONG]	Base Data Init, Root Branch ID: 11
+16:07:07	[TONG]	Base Data Init, Create RootTree...
+16:07:07	[TONG]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[UNION]	ModuleInit..
+16:07:07	[UNION]	Base Data Init, Root Branch ID: 13
+16:07:07	[UNION]	Base Data Init, Create RootTree...
+16:07:07	[UNION]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[PLAYERMAN]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[TEAM]	ModuleInit..
+16:07:07	[TEAM]	Base Data Init, Root Branch ID: 15
+16:07:07	[TEAM]	Base Data Init, Create RootTree...
+16:07:07	[TEAM]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[Map]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[CHAT]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[RELATION]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[MAIL]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[IBSHOP]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[GMBOARD]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[JBEXCHANGE]	ModuleInit..
+16:07:07	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:07:07	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:07:07	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[LADDER]	ModuleInit..
+16:07:07	[LADDER]	Base Data Init, Root Branch ID: 19
+16:07:07	[LADDER]	Base Data Init, Create RootTree...
+16:07:07	[LADDER]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[GBLBUF]	ModuleInit..
+16:07:07	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:07:07	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:07	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:07	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:07:07	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:07	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[PROFILE]	ModuleInit..
+16:07:07	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:07:07	[PROFILE]	Base Data Init, Create RootTree...
+16:07:07	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[AUCTION]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[NORMAL]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[SPORT]	ModuleInit..
+16:07:07	[SPORT]	Base Data Init, Root Branch ID: 27
+16:07:07	[SPORT]	Base Data Init, Create RootTree...
+16:07:07	[SPORT]	Base Data Init, Create DataTree Completed!
+16:07:07	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 53036410
+16:07:07	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:07:07	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:07:07	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:07:07	1966 loaded!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[GBLVALUE]	ModuleInit..
+16:07:07	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:07:07	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:07	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:07	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:07:07	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:07	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:07	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:07:07	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:07	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[TRANSFER]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[LEAGUE]	ModuleInit..
+16:07:07	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:07:07	[LEAGUE]	Base Data Init, Create RootTree...
+16:07:07	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[KIN]	ModuleInit..
+16:07:07	[KIN]	Base Data Init, Root Branch ID: 9
+16:07:07	[KIN]	Base Data Init, Create RootTree...
+16:07:07	[KIN]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[TONG]	ModuleInit..
+16:07:07	[TONG]	Base Data Init, Root Branch ID: 11
+16:07:07	[TONG]	Base Data Init, Create RootTree...
+16:07:07	[TONG]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[UNION]	ModuleInit..
+16:07:07	[UNION]	Base Data Init, Root Branch ID: 13
+16:07:07	[UNION]	Base Data Init, Create RootTree...
+16:07:07	[UNION]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[PLAYERMAN]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[TEAM]	ModuleInit..
+16:07:07	[TEAM]	Base Data Init, Root Branch ID: 15
+16:07:07	[TEAM]	Base Data Init, Create RootTree...
+16:07:07	[TEAM]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[Map]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[CHAT]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[RELATION]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[MAIL]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[IBSHOP]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[GMBOARD]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[JBEXCHANGE]	ModuleInit..
+16:07:07	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:07:07	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:07:07	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[LADDER]	ModuleInit..
+16:07:07	[LADDER]	Base Data Init, Root Branch ID: 19
+16:07:07	[LADDER]	Base Data Init, Create RootTree...
+16:07:07	[LADDER]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[GBLBUF]	ModuleInit..
+16:07:07	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:07:07	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:07	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:07	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:07:07	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:07	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[PROFILE]	ModuleInit..
+16:07:07	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:07:07	[PROFILE]	Base Data Init, Create RootTree...
+16:07:07	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[AUCTION]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[NORMAL]	ModuleInit..
+16:07:07	-------------------------------------------------------------------------------
+16:07:07	[SPORT]	ModuleInit..
+16:07:07	[SPORT]	Base Data Init, Root Branch ID: 27
+16:07:07	[SPORT]	Base Data Init, Create RootTree...
+16:07:07	[SPORT]	Base Data Init, Create DataTree Completed!
+16:07:07	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 53192830
+16:07:07	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:07:07	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:07:07	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[GBLVALUE]	ModuleInit..
+16:07:08	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:07:08	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:08	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:08	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:07:08	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:08	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:08	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:07:08	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:08	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[TRANSFER]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[LEAGUE]	ModuleInit..
+16:07:08	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:07:08	[LEAGUE]	Base Data Init, Create RootTree...
+16:07:08	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[KIN]	ModuleInit..
+16:07:08	[KIN]	Base Data Init, Root Branch ID: 9
+16:07:08	[KIN]	Base Data Init, Create RootTree...
+16:07:08	[KIN]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[TONG]	ModuleInit..
+16:07:08	[TONG]	Base Data Init, Root Branch ID: 11
+16:07:08	[TONG]	Base Data Init, Create RootTree...
+16:07:08	[TONG]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[UNION]	ModuleInit..
+16:07:08	[UNION]	Base Data Init, Root Branch ID: 13
+16:07:08	[UNION]	Base Data Init, Create RootTree...
+16:07:08	[UNION]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[PLAYERMAN]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[TEAM]	ModuleInit..
+16:07:08	[TEAM]	Base Data Init, Root Branch ID: 15
+16:07:08	[TEAM]	Base Data Init, Create RootTree...
+16:07:08	[TEAM]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[Map]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[CHAT]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[RELATION]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[MAIL]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[IBSHOP]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[GMBOARD]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[JBEXCHANGE]	ModuleInit..
+16:07:08	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:07:08	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:07:08	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[LADDER]	ModuleInit..
+16:07:08	[LADDER]	Base Data Init, Root Branch ID: 19
+16:07:08	[LADDER]	Base Data Init, Create RootTree...
+16:07:08	[LADDER]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[GBLBUF]	ModuleInit..
+16:07:08	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:07:08	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:08	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:08	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:07:08	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:08	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[PROFILE]	ModuleInit..
+16:07:08	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:07:08	[PROFILE]	Base Data Init, Create RootTree...
+16:07:08	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[AUCTION]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[NORMAL]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[SPORT]	ModuleInit..
+16:07:08	[SPORT]	Base Data Init, Root Branch ID: 27
+16:07:08	[SPORT]	Base Data Init, Create RootTree...
+16:07:08	[SPORT]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[GBLVALUE]	ModuleInit..
+16:07:08	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:07:08	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:08	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:08	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:07:08	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:08	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:08	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:07:08	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:08	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[TRANSFER]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[LEAGUE]	ModuleInit..
+16:07:08	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:07:08	[LEAGUE]	Base Data Init, Create RootTree...
+16:07:08	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[KIN]	ModuleInit..
+16:07:08	[KIN]	Base Data Init, Root Branch ID: 9
+16:07:08	[KIN]	Base Data Init, Create RootTree...
+16:07:08	[KIN]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[TONG]	ModuleInit..
+16:07:08	[TONG]	Base Data Init, Root Branch ID: 11
+16:07:08	[TONG]	Base Data Init, Create RootTree...
+16:07:08	[TONG]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[UNION]	ModuleInit..
+16:07:08	[UNION]	Base Data Init, Root Branch ID: 13
+16:07:08	[UNION]	Base Data Init, Create RootTree...
+16:07:08	[UNION]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[PLAYERMAN]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[TEAM]	ModuleInit..
+16:07:08	[TEAM]	Base Data Init, Root Branch ID: 15
+16:07:08	[TEAM]	Base Data Init, Create RootTree...
+16:07:08	[TEAM]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[Map]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[CHAT]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[RELATION]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[MAIL]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[IBSHOP]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[GMBOARD]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[JBEXCHANGE]	ModuleInit..
+16:07:08	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:07:08	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:07:08	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[LADDER]	ModuleInit..
+16:07:08	[LADDER]	Base Data Init, Root Branch ID: 19
+16:07:08	[LADDER]	Base Data Init, Create RootTree...
+16:07:08	[LADDER]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[GBLBUF]	ModuleInit..
+16:07:08	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:07:08	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:08	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:08	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:07:08	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:08	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[PROFILE]	ModuleInit..
+16:07:08	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:07:08	[PROFILE]	Base Data Init, Create RootTree...
+16:07:08	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[AUCTION]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[NORMAL]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[SPORT]	ModuleInit..
+16:07:08	[SPORT]	Base Data Init, Root Branch ID: 27
+16:07:08	[SPORT]	Base Data Init, Create RootTree...
+16:07:08	[SPORT]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[GBLVALUE]	ModuleInit..
+16:07:08	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:07:08	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:08	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:08	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:07:08	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:08	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:08	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:07:08	[GBLVALUE]	Base Data Init, Create RootTree...
+16:07:08	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[TRANSFER]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[LEAGUE]	ModuleInit..
+16:07:08	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:07:08	[LEAGUE]	Base Data Init, Create RootTree...
+16:07:08	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[KIN]	ModuleInit..
+16:07:08	[KIN]	Base Data Init, Root Branch ID: 9
+16:07:08	[KIN]	Base Data Init, Create RootTree...
+16:07:08	[KIN]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[TONG]	ModuleInit..
+16:07:08	[TONG]	Base Data Init, Root Branch ID: 11
+16:07:08	[TONG]	Base Data Init, Create RootTree...
+16:07:08	[TONG]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[UNION]	ModuleInit..
+16:07:08	[UNION]	Base Data Init, Root Branch ID: 13
+16:07:08	[UNION]	Base Data Init, Create RootTree...
+16:07:08	[UNION]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[PLAYERMAN]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[TEAM]	ModuleInit..
+16:07:08	[TEAM]	Base Data Init, Root Branch ID: 15
+16:07:08	[TEAM]	Base Data Init, Create RootTree...
+16:07:08	[TEAM]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[Map]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[CHAT]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[RELATION]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[MAIL]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[IBSHOP]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[GMBOARD]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[JBEXCHANGE]	ModuleInit..
+16:07:08	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:07:08	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:07:08	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[LADDER]	ModuleInit..
+16:07:08	[LADDER]	Base Data Init, Root Branch ID: 19
+16:07:08	[LADDER]	Base Data Init, Create RootTree...
+16:07:08	[LADDER]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[GBLBUF]	ModuleInit..
+16:07:08	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:07:08	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:08	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:08	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:07:08	[GBLBUF]	Base Data Init, Create RootTree...
+16:07:08	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[PROFILE]	ModuleInit..
+16:07:08	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:07:08	[PROFILE]	Base Data Init, Create RootTree...
+16:07:08	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[AUCTION]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[NORMAL]	ModuleInit..
+16:07:08	-------------------------------------------------------------------------------
+16:07:08	[SPORT]	ModuleInit..
+16:07:08	[SPORT]	Base Data Init, Root Branch ID: 27
+16:07:08	[SPORT]	Base Data Init, Create RootTree...
+16:07:08	[SPORT]	Base Data Init, Create DataTree Completed!
+16:07:08	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 53134A88
+16:07:09	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:07:09	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:07:09	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:07:10	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 530EC420
+16:07:10	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:07:10	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:07:10	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:07:10	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 52F54980
+16:07:10	--- Receiving finished! Now GameServer is ready! ---
+16:07:10	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:07:10	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:07:10	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:07:11	--- Receiving finished! Now GameServer is ready! ---
+16:07:11	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:07:11	TreasureMap Inited! 70 Treasure(s)loaded!
+16:07:11	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:07:11	TreasureMap Inited! 70 Treasure(s)loaded!
+16:07:12	--- Receiving finished! Now GameServer is ready! ---
+16:07:12	--- Receiving finished! Now GameServer is ready! ---
+16:07:13	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:07:13	TreasureMap Inited! 70 Treasure(s)loaded!
+16:07:13	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:07:13	TreasureMap Inited! 70 Treasure(s)loaded!
+16:07:14	===========================================
+Add Tuong Top 1 :  - 1
+===========================================
+
+16:07:14	--- Receiving finished! Now GameServer is ready! ---
+16:07:14	--- Receiving finished! Now GameServer is ready! ---
+16:07:14	--- Receiving finished! Now GameServer is ready! ---
+16:07:14	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:07:14	TreasureMap Inited! 70 Treasure(s)loaded!
+16:07:15	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:07:15	TreasureMap Inited! 70 Treasure(s)loaded!
+16:07:15	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:07:15	TreasureMap Inited! 70 Treasure(s)loaded!
+16:07:58	Player[TCQGaming] 0 task(s) loaded.
+16:07:58	Player[TCQGaming] 0 task(s) saved.
+16:07:59	Player[TCQGaming] 0 task(s) loaded.
+16:08:03	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:63
+16:08:04	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:44
+16:08:05	[INFO] Ply(Off):1(0), Map:121, Rgn(Act):88197(9), Npc:11658, Item:24, Obj:0, Msl:0
+16:08:07	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:08:07	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:08:08	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:44
+16:08:10	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:52
+16:09:00	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:61
+16:09:01	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:42
+16:09:02	[INFO] Ply(Off):1(0), Map:121, Rgn(Act):88197(9), Npc:11658, Item:30, Obj:0, Msl:0
+16:09:04	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:09:04	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:09:05	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:42
+16:09:07	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:50
+16:09:21	Player[TCQGaming] 0 task(s) saved.
+16:09:22	Player[TCQGaming] 0 task(s) loaded.
+16:09:57	[INFO] Ply(Off):1(0), Map:96, Rgn(Act):76928(60), Npc:11782, Item:31, Obj:0, Msl:90
+16:09:58	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:56
+16:09:59	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11657, Item:0, Obj:0, Msl:0
+16:10:00	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:10:01	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:10:02	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:58
+16:10:04	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:82
+16:10:54	[INFO] Ply(Off):1(0), Map:96, Rgn(Act):76928(60), Npc:11782, Item:32, Obj:1, Msl:63
+16:10:55	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:42
+16:10:56	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11657, Item:0, Obj:0, Msl:0
+16:10:57	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:10:58	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:10:59	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:42
+16:11:01	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:50
+16:11:50	[INFO] Ply(Off):1(0), Map:96, Rgn(Act):76928(60), Npc:11782, Item:32, Obj:1, Msl:61
+16:11:52	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:42
+16:11:53	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11657, Item:0, Obj:0, Msl:0
+16:11:54	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:11:55	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:11:56	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:42
+16:11:58	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:50
+16:12:47	[INFO] Ply(Off):1(0), Map:96, Rgn(Act):76928(60), Npc:11782, Item:31, Obj:0, Msl:63
+16:12:49	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:44
+16:12:50	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11657, Item:0, Obj:0, Msl:0
+16:12:51	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:12:52	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:12:52	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:44
+16:12:55	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:52
+16:13:44	[INFO] Ply(Off):1(0), Map:96, Rgn(Act):76928(60), Npc:11782, Item:31, Obj:0, Msl:61
+16:13:46	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:42
+16:13:47	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11657, Item:0, Obj:0, Msl:0
+16:13:48	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:13:48	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:13:49	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:42
+16:13:51	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:50
+16:14:41	[INFO] Ply(Off):1(0), Map:96, Rgn(Act):76928(63), Npc:11782, Item:31, Obj:0, Msl:193
+16:14:42	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:124
+16:14:44	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11657, Item:0, Obj:0, Msl:0
+16:14:45	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:14:45	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:14:46	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:122
+16:14:48	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:146
+16:15:17	Player[TCQGaming] 0 task(s) saved.
+16:15:38	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:63
+16:15:39	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:44
+16:15:41	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11657, Item:0, Obj:0, Msl:0
+16:15:42	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:15:42	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:15:43	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:44
+16:15:45	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:52
+16:15:49	Player[TCQGaming] 0 task(s) loaded.
+16:15:49	Player[TCQGaming] 0 task(s) saved.
+16:15:49	Player[TCQGaming] 0 task(s) loaded.
+16:16:35	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:61
+16:16:36	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:42
+16:16:37	[INFO] Ply(Off):1(0), Map:121, Rgn(Act):88197(9), Npc:11658, Item:31, Obj:0, Msl:0
+16:16:39	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:16:39	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:16:40	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:42
+16:16:42	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:50
+16:17:01	Player[TCQGaming] 0 task(s) saved.
+16:17:32	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:89
+16:17:33	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:53
+16:17:34	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11657, Item:0, Obj:0, Msl:0
+16:17:36	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:17:36	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:17:37	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:53
+16:17:39	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:79
+16:17:49	Intranet ip: tuyetdinhkt2009
+16:17:49	Internet ip: tuyetdinhkt2009
+16:17:49	Intranet ip: tuyetdinhkt2009
+16:17:49	Internet ip: tuyetdinhkt2009
+16:17:50	Intranet ip: tuyetdinhkt2009
+16:17:50	Internet ip: tuyetdinhkt2009
+16:17:50	Begin load script files...
+16:17:50	begin load vfactory.lua
+16:17:50	Preload gs script files...
+16:17:50	Start InitAward!
+16:17:50	38 loaded!
+16:17:50	Intranet ip: tuyetdinhkt2009
+16:17:50	Internet ip: tuyetdinhkt2009
+16:17:50	Intranet ip: tuyetdinhkt2009
+16:17:50	Internet ip: tuyetdinhkt2009
+16:17:50	Begin load script files...
+16:17:50	begin load vfactory.lua
+16:17:50	Preload gs script files...
+16:17:50	Start InitAward!
+16:17:50	38 loaded!
+16:17:51	Intranet ip: tuyetdinhkt2009
+16:17:51	Internet ip: tuyetdinhkt2009
+16:17:51	Begin load script files...
+16:17:51	begin load vfactory.lua
+16:17:51	Preload gs script files...
+16:17:51	Start InitAward!
+16:17:51	38 loaded!
+16:17:51	Intranet ip: tuyetdinhkt2009
+16:17:51	Internet ip: tuyetdinhkt2009
+16:17:51	1966 loaded!
+16:17:51	Begin load script files...
+16:17:51	begin load vfactory.lua
+16:17:51	Preload gs script files...
+16:17:51	Start InitAward!
+16:17:51	38 loaded!
+16:17:52	Begin load script files...
+16:17:52	begin load vfactory.lua
+16:17:52	Preload gs script files...
+16:17:52	1966 loaded!
+16:17:52	Start InitAward!
+16:17:52	38 loaded!
+16:17:52	Begin load script files...
+16:17:52	begin load vfactory.lua
+16:17:52	Preload gs script files...
+16:17:52	Start InitAward!
+16:17:52	38 loaded!
+16:17:52	1966 loaded!
+16:17:52	Begin load script files...
+16:17:52	begin load vfactory.lua
+16:17:52	Preload gs script files...
+16:17:52	Start InitAward!
+16:17:52	38 loaded!
+16:17:52	1966 loaded!
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[GBLVALUE]	ModuleInit..
+16:17:52	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:17:52	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:52	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:52	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:17:52	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:52	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:52	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:17:52	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:52	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[TRANSFER]	ModuleInit..
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[LEAGUE]	ModuleInit..
+16:17:52	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:17:52	[LEAGUE]	Base Data Init, Create RootTree...
+16:17:52	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[KIN]	ModuleInit..
+16:17:52	[KIN]	Base Data Init, Root Branch ID: 9
+16:17:52	[KIN]	Base Data Init, Create RootTree...
+16:17:52	[KIN]	Base Data Init, Create DataTree Completed!
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[TONG]	ModuleInit..
+16:17:52	[TONG]	Base Data Init, Root Branch ID: 11
+16:17:52	[TONG]	Base Data Init, Create RootTree...
+16:17:52	[TONG]	Base Data Init, Create DataTree Completed!
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[UNION]	ModuleInit..
+16:17:52	[UNION]	Base Data Init, Root Branch ID: 13
+16:17:52	[UNION]	Base Data Init, Create RootTree...
+16:17:52	[UNION]	Base Data Init, Create DataTree Completed!
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[PLAYERMAN]	ModuleInit..
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[TEAM]	ModuleInit..
+16:17:52	[TEAM]	Base Data Init, Root Branch ID: 15
+16:17:52	[TEAM]	Base Data Init, Create RootTree...
+16:17:52	[TEAM]	Base Data Init, Create DataTree Completed!
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[Map]	ModuleInit..
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[CHAT]	ModuleInit..
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[RELATION]	ModuleInit..
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[MAIL]	ModuleInit..
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[IBSHOP]	ModuleInit..
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[GMBOARD]	ModuleInit..
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[JBEXCHANGE]	ModuleInit..
+16:17:52	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:17:52	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:17:52	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[LADDER]	ModuleInit..
+16:17:52	[LADDER]	Base Data Init, Root Branch ID: 19
+16:17:52	[LADDER]	Base Data Init, Create RootTree...
+16:17:52	[LADDER]	Base Data Init, Create DataTree Completed!
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[GBLBUF]	ModuleInit..
+16:17:52	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:17:52	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:52	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:52	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:17:52	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:52	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[PROFILE]	ModuleInit..
+16:17:52	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:17:52	[PROFILE]	Base Data Init, Create RootTree...
+16:17:52	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[AUCTION]	ModuleInit..
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[NORMAL]	ModuleInit..
+16:17:52	-------------------------------------------------------------------------------
+16:17:52	[SPORT]	ModuleInit..
+16:17:52	[SPORT]	Base Data Init, Root Branch ID: 27
+16:17:52	[SPORT]	Base Data Init, Create RootTree...
+16:17:52	[SPORT]	Base Data Init, Create DataTree Completed!
+16:17:52	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 530330B0
+16:17:53	1966 loaded!
+16:17:53	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:17:53	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:17:53	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:17:53	1966 loaded!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[GBLVALUE]	ModuleInit..
+16:17:53	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:17:53	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:53	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:53	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:17:53	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:53	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:53	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:17:53	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:53	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[TRANSFER]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[LEAGUE]	ModuleInit..
+16:17:53	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:17:53	[LEAGUE]	Base Data Init, Create RootTree...
+16:17:53	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[KIN]	ModuleInit..
+16:17:53	[KIN]	Base Data Init, Root Branch ID: 9
+16:17:53	[KIN]	Base Data Init, Create RootTree...
+16:17:53	[KIN]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[TONG]	ModuleInit..
+16:17:53	[TONG]	Base Data Init, Root Branch ID: 11
+16:17:53	[TONG]	Base Data Init, Create RootTree...
+16:17:53	[TONG]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[UNION]	ModuleInit..
+16:17:53	[UNION]	Base Data Init, Root Branch ID: 13
+16:17:53	[UNION]	Base Data Init, Create RootTree...
+16:17:53	[UNION]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[PLAYERMAN]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[TEAM]	ModuleInit..
+16:17:53	[TEAM]	Base Data Init, Root Branch ID: 15
+16:17:53	[TEAM]	Base Data Init, Create RootTree...
+16:17:53	[TEAM]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[Map]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[CHAT]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[RELATION]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[MAIL]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[IBSHOP]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[GMBOARD]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[JBEXCHANGE]	ModuleInit..
+16:17:53	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:17:53	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:17:53	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[LADDER]	ModuleInit..
+16:17:53	[LADDER]	Base Data Init, Root Branch ID: 19
+16:17:53	[LADDER]	Base Data Init, Create RootTree...
+16:17:53	[LADDER]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[GBLBUF]	ModuleInit..
+16:17:53	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:17:53	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:53	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:53	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:17:53	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:53	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[PROFILE]	ModuleInit..
+16:17:53	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:17:53	[PROFILE]	Base Data Init, Create RootTree...
+16:17:53	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[AUCTION]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[NORMAL]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[SPORT]	ModuleInit..
+16:17:53	[SPORT]	Base Data Init, Root Branch ID: 27
+16:17:53	[SPORT]	Base Data Init, Create RootTree...
+16:17:53	[SPORT]	Base Data Init, Create DataTree Completed!
+16:17:53	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 52F4EE30
+16:17:53	1966 loaded!
+16:17:53	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:17:53	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:17:53	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[GBLVALUE]	ModuleInit..
+16:17:53	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:17:53	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:53	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:53	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:17:53	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:53	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:53	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:17:53	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:53	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[TRANSFER]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[LEAGUE]	ModuleInit..
+16:17:53	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:17:53	[LEAGUE]	Base Data Init, Create RootTree...
+16:17:53	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[KIN]	ModuleInit..
+16:17:53	[KIN]	Base Data Init, Root Branch ID: 9
+16:17:53	[KIN]	Base Data Init, Create RootTree...
+16:17:53	[KIN]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[TONG]	ModuleInit..
+16:17:53	[TONG]	Base Data Init, Root Branch ID: 11
+16:17:53	[TONG]	Base Data Init, Create RootTree...
+16:17:53	[TONG]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[UNION]	ModuleInit..
+16:17:53	[UNION]	Base Data Init, Root Branch ID: 13
+16:17:53	[UNION]	Base Data Init, Create RootTree...
+16:17:53	[UNION]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[PLAYERMAN]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[TEAM]	ModuleInit..
+16:17:53	[TEAM]	Base Data Init, Root Branch ID: 15
+16:17:53	[TEAM]	Base Data Init, Create RootTree...
+16:17:53	[TEAM]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[Map]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[CHAT]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[RELATION]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[MAIL]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[IBSHOP]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[GMBOARD]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[JBEXCHANGE]	ModuleInit..
+16:17:53	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:17:53	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:17:53	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[LADDER]	ModuleInit..
+16:17:53	[LADDER]	Base Data Init, Root Branch ID: 19
+16:17:53	[LADDER]	Base Data Init, Create RootTree...
+16:17:53	[LADDER]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[GBLBUF]	ModuleInit..
+16:17:53	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:17:53	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:53	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:53	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:17:53	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:53	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[PROFILE]	ModuleInit..
+16:17:53	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:17:53	[PROFILE]	Base Data Init, Create RootTree...
+16:17:53	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[AUCTION]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[NORMAL]	ModuleInit..
+16:17:53	-------------------------------------------------------------------------------
+16:17:53	[SPORT]	ModuleInit..
+16:17:53	[SPORT]	Base Data Init, Root Branch ID: 27
+16:17:53	[SPORT]	Base Data Init, Create RootTree...
+16:17:53	[SPORT]	Base Data Init, Create DataTree Completed!
+16:17:53	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 52FC85A0
+16:17:53	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:17:53	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:17:53	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[GBLVALUE]	ModuleInit..
+16:17:54	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:17:54	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:54	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:54	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:17:54	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:54	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:54	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:17:54	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:54	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[TRANSFER]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[LEAGUE]	ModuleInit..
+16:17:54	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:17:54	[LEAGUE]	Base Data Init, Create RootTree...
+16:17:54	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[KIN]	ModuleInit..
+16:17:54	[KIN]	Base Data Init, Root Branch ID: 9
+16:17:54	[KIN]	Base Data Init, Create RootTree...
+16:17:54	[KIN]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[TONG]	ModuleInit..
+16:17:54	[TONG]	Base Data Init, Root Branch ID: 11
+16:17:54	[TONG]	Base Data Init, Create RootTree...
+16:17:54	[TONG]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[UNION]	ModuleInit..
+16:17:54	[UNION]	Base Data Init, Root Branch ID: 13
+16:17:54	[UNION]	Base Data Init, Create RootTree...
+16:17:54	[UNION]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[PLAYERMAN]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[TEAM]	ModuleInit..
+16:17:54	[TEAM]	Base Data Init, Root Branch ID: 15
+16:17:54	[TEAM]	Base Data Init, Create RootTree...
+16:17:54	[TEAM]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[Map]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[CHAT]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[RELATION]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[MAIL]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[IBSHOP]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[GMBOARD]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[JBEXCHANGE]	ModuleInit..
+16:17:54	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:17:54	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:17:54	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[LADDER]	ModuleInit..
+16:17:54	[LADDER]	Base Data Init, Root Branch ID: 19
+16:17:54	[LADDER]	Base Data Init, Create RootTree...
+16:17:54	[LADDER]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[GBLBUF]	ModuleInit..
+16:17:54	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:17:54	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:54	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:54	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:17:54	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:54	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[PROFILE]	ModuleInit..
+16:17:54	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:17:54	[PROFILE]	Base Data Init, Create RootTree...
+16:17:54	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[AUCTION]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[NORMAL]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[SPORT]	ModuleInit..
+16:17:54	[SPORT]	Base Data Init, Root Branch ID: 27
+16:17:54	[SPORT]	Base Data Init, Create RootTree...
+16:17:54	[SPORT]	Base Data Init, Create DataTree Completed!
+16:17:54	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 5303EAE0
+16:17:54	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:17:54	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:17:54	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[GBLVALUE]	ModuleInit..
+16:17:54	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:17:54	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:54	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:54	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:17:54	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:54	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:54	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:17:54	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:54	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[TRANSFER]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[LEAGUE]	ModuleInit..
+16:17:54	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:17:54	[LEAGUE]	Base Data Init, Create RootTree...
+16:17:54	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[KIN]	ModuleInit..
+16:17:54	[KIN]	Base Data Init, Root Branch ID: 9
+16:17:54	[KIN]	Base Data Init, Create RootTree...
+16:17:54	[KIN]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[TONG]	ModuleInit..
+16:17:54	[TONG]	Base Data Init, Root Branch ID: 11
+16:17:54	[TONG]	Base Data Init, Create RootTree...
+16:17:54	[TONG]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[UNION]	ModuleInit..
+16:17:54	[UNION]	Base Data Init, Root Branch ID: 13
+16:17:54	[UNION]	Base Data Init, Create RootTree...
+16:17:54	[UNION]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[PLAYERMAN]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[TEAM]	ModuleInit..
+16:17:54	[TEAM]	Base Data Init, Root Branch ID: 15
+16:17:54	[TEAM]	Base Data Init, Create RootTree...
+16:17:54	[TEAM]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[Map]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[CHAT]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[RELATION]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[MAIL]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[IBSHOP]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[GMBOARD]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[JBEXCHANGE]	ModuleInit..
+16:17:54	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:17:54	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:17:54	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[LADDER]	ModuleInit..
+16:17:54	[LADDER]	Base Data Init, Root Branch ID: 19
+16:17:54	[LADDER]	Base Data Init, Create RootTree...
+16:17:54	[LADDER]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[GBLBUF]	ModuleInit..
+16:17:54	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:17:54	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:54	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:54	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:17:54	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:54	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[PROFILE]	ModuleInit..
+16:17:54	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:17:54	[PROFILE]	Base Data Init, Create RootTree...
+16:17:54	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[AUCTION]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[NORMAL]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[SPORT]	ModuleInit..
+16:17:54	[SPORT]	Base Data Init, Root Branch ID: 27
+16:17:54	[SPORT]	Base Data Init, Create RootTree...
+16:17:54	[SPORT]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[GBLVALUE]	ModuleInit..
+16:17:54	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:17:54	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:54	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:54	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:17:54	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:54	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:54	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:17:54	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:54	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[TRANSFER]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[LEAGUE]	ModuleInit..
+16:17:54	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:17:54	[LEAGUE]	Base Data Init, Create RootTree...
+16:17:54	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[KIN]	ModuleInit..
+16:17:54	[KIN]	Base Data Init, Root Branch ID: 9
+16:17:54	[KIN]	Base Data Init, Create RootTree...
+16:17:54	[KIN]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[TONG]	ModuleInit..
+16:17:54	[TONG]	Base Data Init, Root Branch ID: 11
+16:17:54	[TONG]	Base Data Init, Create RootTree...
+16:17:54	[TONG]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[UNION]	ModuleInit..
+16:17:54	[UNION]	Base Data Init, Root Branch ID: 13
+16:17:54	[UNION]	Base Data Init, Create RootTree...
+16:17:54	[UNION]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[PLAYERMAN]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[TEAM]	ModuleInit..
+16:17:54	[TEAM]	Base Data Init, Root Branch ID: 15
+16:17:54	[TEAM]	Base Data Init, Create RootTree...
+16:17:54	[TEAM]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[Map]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[CHAT]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[RELATION]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[MAIL]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[IBSHOP]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[GMBOARD]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[JBEXCHANGE]	ModuleInit..
+16:17:54	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:17:54	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:17:54	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[LADDER]	ModuleInit..
+16:17:54	[LADDER]	Base Data Init, Root Branch ID: 19
+16:17:54	[LADDER]	Base Data Init, Create RootTree...
+16:17:54	[LADDER]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[GBLBUF]	ModuleInit..
+16:17:54	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:17:54	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:54	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:54	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:17:54	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:54	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[PROFILE]	ModuleInit..
+16:17:54	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:17:54	[PROFILE]	Base Data Init, Create RootTree...
+16:17:54	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[AUCTION]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[NORMAL]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[SPORT]	ModuleInit..
+16:17:54	[SPORT]	Base Data Init, Root Branch ID: 27
+16:17:54	[SPORT]	Base Data Init, Create RootTree...
+16:17:54	[SPORT]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[GBLVALUE]	ModuleInit..
+16:17:54	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+16:17:54	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:54	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:54	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+16:17:54	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:54	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:54	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+16:17:54	[GBLVALUE]	Base Data Init, Create RootTree...
+16:17:54	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[TRANSFER]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[LEAGUE]	ModuleInit..
+16:17:54	[LEAGUE]	Base Data Init, Root Branch ID: 7
+16:17:54	[LEAGUE]	Base Data Init, Create RootTree...
+16:17:54	[LEAGUE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[KIN]	ModuleInit..
+16:17:54	[KIN]	Base Data Init, Root Branch ID: 9
+16:17:54	[KIN]	Base Data Init, Create RootTree...
+16:17:54	[KIN]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[TONG]	ModuleInit..
+16:17:54	[TONG]	Base Data Init, Root Branch ID: 11
+16:17:54	[TONG]	Base Data Init, Create RootTree...
+16:17:54	[TONG]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[UNION]	ModuleInit..
+16:17:54	[UNION]	Base Data Init, Root Branch ID: 13
+16:17:54	[UNION]	Base Data Init, Create RootTree...
+16:17:54	[UNION]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[PLAYERMAN]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[TEAM]	ModuleInit..
+16:17:54	[TEAM]	Base Data Init, Root Branch ID: 15
+16:17:54	[TEAM]	Base Data Init, Create RootTree...
+16:17:54	[TEAM]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[Map]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[CHAT]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[RELATION]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[MAIL]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[IBSHOP]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[GMBOARD]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[JBEXCHANGE]	ModuleInit..
+16:17:54	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+16:17:54	[JBEXCHANGE]	Base Data Init, Create RootTree...
+16:17:54	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[LADDER]	ModuleInit..
+16:17:54	[LADDER]	Base Data Init, Root Branch ID: 19
+16:17:54	[LADDER]	Base Data Init, Create RootTree...
+16:17:54	[LADDER]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[GBLBUF]	ModuleInit..
+16:17:54	[GBLBUF]	Base Data Init, Root Branch ID: 22
+16:17:54	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:54	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:54	[GBLBUF]	Base Data Init, Root Branch ID: 24
+16:17:54	[GBLBUF]	Base Data Init, Create RootTree...
+16:17:54	[GBLBUF]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[PROFILE]	ModuleInit..
+16:17:54	[PROFILE]	Base Data Init, Root Branch ID: 26
+16:17:54	[PROFILE]	Base Data Init, Create RootTree...
+16:17:54	[PROFILE]	Base Data Init, Create DataTree Completed!
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[AUCTION]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[NORMAL]	ModuleInit..
+16:17:54	-------------------------------------------------------------------------------
+16:17:54	[SPORT]	ModuleInit..
+16:17:54	[SPORT]	Base Data Init, Root Branch ID: 27
+16:17:54	[SPORT]	Base Data Init, Create RootTree...
+16:17:54	[SPORT]	Base Data Init, Create DataTree Completed!
+16:17:54	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 52F97E30
+16:17:55	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:17:55	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:17:55	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:17:56	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 530DA270
+16:17:56	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:17:56	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:17:56	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:17:56	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 5303EF58
+16:17:56	[TEAM]	Data Accept, Add Root Data Table: tblTeamSearch
+16:17:56	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeTask
+16:17:56	[JBEXCHANGE]	Data Accept, Add Root Data Table: tblJbExchangeBill
+16:17:57	--- Receiving finished! Now GameServer is ready! ---
+16:17:57	--- Receiving finished! Now GameServer is ready! ---
+16:17:57	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:17:57	TreasureMap Inited! 70 Treasure(s)loaded!
+16:17:58	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:17:58	TreasureMap Inited! 70 Treasure(s)loaded!
+16:17:58	--- Receiving finished! Now GameServer is ready! ---
+16:17:59	--- Receiving finished! Now GameServer is ready! ---
+16:17:59	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:17:59	TreasureMap Inited! 70 Treasure(s)loaded!
+16:18:00	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:18:00	TreasureMap Inited! 70 Treasure(s)loaded!
+16:18:00	===========================================
+Add Tuong Top 1 :  - 1
+===========================================
+
+16:18:00	--- Receiving finished! Now GameServer is ready! ---
+16:18:00	--- Receiving finished! Now GameServer is ready! ---
+16:18:00	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:18:00	TreasureMap Inited! 70 Treasure(s)loaded!
+16:18:01	--- Receiving finished! Now GameServer is ready! ---
+16:18:01	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:18:01	TreasureMap Inited! 70 Treasure(s)loaded!
+16:18:01	Task System Inited! 26 task(s) and 631 subtask(s) loaded!
+16:18:01	TreasureMap Inited! 70 Treasure(s)loaded!
+16:18:09	Player[TCQGaming] 0 task(s) loaded.
+16:18:49	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:63
+16:18:50	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:44
+16:18:50	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:44
+16:18:51	[INFO] Ply(Off):1(0), Map:121, Rgn(Act):88197(9), Npc:11661, Item:31, Obj:0, Msl:0
+16:18:56	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:52
+16:18:58	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:18:58	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:19:01	Player[aaaaaâ] 0 task(s) loaded.
+16:19:46	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:61
+16:19:47	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:42
+16:19:47	Player[aaaaaâ] 0 task(s) saved.
+16:19:47	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:42
+16:19:47	Player[aaaaaâ] 0 task(s) loaded.
+16:19:48	[INFO] Ply(Off):1(0), Map:121, Rgn(Act):88197(9), Npc:11661, Item:31, Obj:0, Msl:0
+16:19:52	Player[TCQGaming] 0 task(s) saved.
+16:19:53	Player[TCQGaming] 0 task(s) loaded.
+16:19:53	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:50
+16:19:55	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:19:55	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:20:43	[INFO] Ply(Off):2(0), Map:96, Rgn(Act):76928(60), Npc:11783, Item:53, Obj:0, Msl:92
+16:20:44	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:59
+16:20:44	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:56
+16:20:45	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11660, Item:0, Obj:0, Msl:0
+16:20:50	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:82
+16:20:51	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:20:52	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:21:11	Player[aaaaaâ] 0 task(s) saved.
+16:21:12	Player[aaaaaâ] 0 task(s) loaded.
+16:21:40	[INFO] Ply(Off):1(0), Map:96, Rgn(Act):76928(60), Npc:11782, Item:31, Obj:0, Msl:61
+16:21:41	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:42
+16:21:41	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:42
+16:21:42	[INFO] Ply(Off):1(0), Map:121, Rgn(Act):88197(9), Npc:11661, Item:22, Obj:0, Msl:0
+16:21:47	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:50
+16:21:48	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:21:49	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:21:58	Player[aaaaaâ] 0 task(s) saved.
+16:21:59	Player[aaaaaâ] 0 task(s) loaded.
+16:22:26	Player[aaaaaâ] 0 task(s) saved.
+16:22:27	Player[aaaaaâ] 0 task(s) loaded.
+16:22:32	Player[TCQGaming] 0 task(s) saved.
+16:22:32	Player[TCQGaming] 0 task(s) loaded.
+16:22:37	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:61
+16:22:37	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:42
+16:22:38	[INFO] Ply(Off):2(0), Map:81, Rgn(Act):73824(46), Npc:9899, Item:53, Obj:0, Msl:42
+16:22:39	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11660, Item:0, Obj:0, Msl:0
+16:22:44	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:50
+16:22:45	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:22:46	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:23:34	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:63
+16:23:34	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:44
+16:23:35	[INFO] Ply(Off):2(0), Map:81, Rgn(Act):73824(42), Npc:9899, Item:53, Obj:0, Msl:44
+16:23:36	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11660, Item:0, Obj:0, Msl:0
+16:23:41	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:52
+16:23:42	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:23:43	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:24:31	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:61
+16:24:31	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:42
+16:24:32	[INFO] Ply(Off):2(0), Map:81, Rgn(Act):73824(44), Npc:9899, Item:53, Obj:0, Msl:42
+16:24:33	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11660, Item:0, Obj:0, Msl:0
+16:24:38	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:50
+16:24:39	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:24:40	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:25:28	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(54), Npc:11781, Item:0, Obj:0, Msl:193
+16:25:28	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(41), Npc:9716, Item:0, Obj:0, Msl:160
+16:25:29	[INFO] Ply(Off):2(0), Map:81, Rgn(Act):73824(44), Npc:9899, Item:53, Obj:0, Msl:124
+16:25:30	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11660, Item:0, Obj:0, Msl:0
+16:25:35	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:146
+16:25:36	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:25:36	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:25:49	Player[aaaaaâ] 0 task(s) saved.
+16:25:52	Player[TCQGaming] 0 task(s) saved.
+16:26:25	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:63
+16:26:25	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:44
+16:26:26	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:44
+16:26:26	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11660, Item:0, Obj:0, Msl:0
+16:26:32	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:52
+16:26:33	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:26:33	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:27:21	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:61
+16:27:22	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:42
+16:27:22	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:42
+16:27:23	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11660, Item:0, Obj:0, Msl:0
+16:27:28	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:50
+16:27:30	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:27:30	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:28:18	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:89
+16:28:19	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:58
+16:28:19	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:53
+16:28:20	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11660, Item:0, Obj:0, Msl:0
+16:28:25	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:79
+16:28:26	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:28:27	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:29:15	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11781, Item:0, Obj:0, Msl:61
+16:29:16	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9716, Item:0, Obj:0, Msl:42
+16:29:16	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9897, Item:0, Obj:0, Msl:42
+16:29:17	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11660, Item:0, Obj:0, Msl:0
+16:29:22	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10908, Item:0, Obj:0, Msl:50
+16:29:23	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11110, Item:0, Obj:0, Msl:0
+16:29:24	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9254, Item:0, Obj:0, Msl:0
+16:30:12	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:30:13	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:42
+16:30:13	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:42
+16:30:14	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11662, Item:0, Obj:0, Msl:0
+16:30:19	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:30:20	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:30:21	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:31:09	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+16:31:09	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:44
+16:31:10	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:44
+16:31:11	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11662, Item:0, Obj:0, Msl:0
+16:31:16	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+16:31:17	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:31:18	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:32:06	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:32:06	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:42
+16:32:07	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:42
+16:32:08	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11662, Item:0, Obj:0, Msl:0
+16:32:13	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:32:14	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:32:15	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:33:03	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:181
+16:33:03	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:124
+16:33:04	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:124
+16:33:05	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11662, Item:0, Obj:0, Msl:0
+16:33:10	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:148
+16:33:11	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:33:12	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:34:00	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+16:34:00	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:44
+16:34:01	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:44
+16:34:02	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11670, Item:0, Obj:0, Msl:0
+16:34:07	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+16:34:08	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:34:08	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:34:56	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:34:57	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:42
+16:34:58	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:42
+16:34:58	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:35:04	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:35:05	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:35:05	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:35:53	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:86
+16:35:54	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:55
+16:35:54	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:52
+16:35:55	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:36:00	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:77
+16:36:02	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:36:02	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:36:50	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:36:51	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:42
+16:36:51	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:42
+16:36:52	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:36:57	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:36:59	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:36:59	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:37:47	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:37:48	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:42
+16:37:48	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:42
+16:37:49	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:37:54	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:37:55	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:37:56	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:38:44	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+16:38:45	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:44
+16:38:45	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:44
+16:38:46	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:38:51	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+16:38:52	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:38:53	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:39:41	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:39:41	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:42
+16:39:42	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:42
+16:39:43	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:39:48	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:39:49	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:39:50	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:40:38	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:166
+16:40:38	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:107
+16:40:39	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:104
+16:40:40	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:40:45	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:138
+16:40:46	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:40:47	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:41:35	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+16:41:35	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:44
+16:41:36	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:44
+16:41:37	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:41:42	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:41:43	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:41:44	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:42:32	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:42:32	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:42
+16:42:33	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:42
+16:42:34	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:42:39	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:42:40	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:42:40	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:43:29	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+16:43:29	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:44
+16:43:30	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:44
+16:43:30	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:43:36	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+16:43:37	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:43:37	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:44:25	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:44:26	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:42
+16:44:26	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:42
+16:44:27	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:44:32	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:44:34	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:44:34	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:45:22	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:45:23	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:42
+16:45:23	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:42
+16:45:24	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:45:29	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:45:30	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:45:31	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:46:19	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+16:46:20	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:44
+16:46:20	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:44
+16:46:21	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:46:26	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+16:46:27	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:46:28	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:47:16	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:47:17	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:42
+16:47:17	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:42
+16:47:18	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:47:23	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:47:24	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:47:25	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:48:13	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:181
+16:48:13	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:124
+16:48:14	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:124
+16:48:15	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:48:20	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:100
+16:48:21	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:48:22	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:49:10	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:49:10	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9718, Item:0, Obj:0, Msl:42
+16:49:11	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9898, Item:0, Obj:0, Msl:42
+16:49:12	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11668, Item:0, Obj:0, Msl:0
+16:49:17	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:49:18	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:49:19	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:50:07	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:50:07	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9726, Item:0, Obj:0, Msl:42
+16:50:08	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9906, Item:0, Obj:0, Msl:42
+16:50:09	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11684, Item:0, Obj:0, Msl:0
+16:50:14	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:50:15	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:50:16	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:51:04	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+16:51:04	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9726, Item:0, Obj:0, Msl:44
+16:51:05	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9906, Item:0, Obj:0, Msl:44
+16:51:06	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11686, Item:0, Obj:0, Msl:0
+16:51:11	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+16:51:12	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:51:12	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:52:00	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:52:01	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9726, Item:0, Obj:0, Msl:42
+16:52:02	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9906, Item:0, Obj:0, Msl:42
+16:52:02	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11684, Item:0, Obj:0, Msl:0
+16:52:08	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:52:09	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:52:09	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:52:57	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:52:58	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9726, Item:0, Obj:0, Msl:42
+16:52:58	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9906, Item:0, Obj:0, Msl:42
+16:52:59	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11684, Item:0, Obj:0, Msl:0
+16:53:04	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:53:06	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11114, Item:0, Obj:0, Msl:0
+16:53:06	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:53:54	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+16:53:55	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9726, Item:0, Obj:0, Msl:44
+16:53:55	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9906, Item:0, Obj:0, Msl:44
+16:53:56	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11684, Item:0, Obj:0, Msl:0
+16:54:01	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+16:54:02	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:54:03	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:54:51	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:54:52	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9726, Item:0, Obj:0, Msl:42
+16:54:52	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9906, Item:0, Obj:0, Msl:42
+16:54:53	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11684, Item:0, Obj:0, Msl:0
+16:54:58	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:54:59	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:55:00	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:55:48	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:96
+16:55:49	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9726, Item:0, Obj:0, Msl:63
+16:55:49	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9906, Item:0, Obj:0, Msl:64
+16:55:50	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11684, Item:0, Obj:0, Msl:0
+16:55:55	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:88
+16:55:56	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:55:57	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:56:45	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:56:45	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9726, Item:0, Obj:0, Msl:42
+16:56:46	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9906, Item:0, Obj:0, Msl:42
+16:56:47	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11684, Item:0, Obj:0, Msl:0
+16:56:52	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:56:53	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:56:54	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:57:42	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:57:42	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9726, Item:0, Obj:0, Msl:42
+16:57:43	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9906, Item:0, Obj:0, Msl:42
+16:57:44	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11684, Item:0, Obj:0, Msl:0
+16:57:49	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:57:50	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:57:51	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:58:39	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+16:58:39	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9726, Item:0, Obj:0, Msl:44
+16:58:40	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9906, Item:0, Obj:0, Msl:44
+16:58:41	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11684, Item:0, Obj:0, Msl:0
+16:58:46	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+16:58:47	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:58:48	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+16:59:36	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+16:59:36	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:9726, Item:0, Obj:0, Msl:42
+16:59:37	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:9906, Item:0, Obj:0, Msl:42
+16:59:38	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:11684, Item:0, Obj:0, Msl:0
+16:59:43	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+16:59:44	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11112, Item:0, Obj:0, Msl:0
+16:59:44	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:9255, Item:0, Obj:0, Msl:0
+17:00:33	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:00:33	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:42
+17:00:34	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:42
+17:00:34	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:00:40	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:148
+17:00:41	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11497, Item:0, Obj:0, Msl:0
+17:00:41	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10025, Item:0, Obj:0, Msl:0
+17:01:29	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+17:01:30	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:44
+17:01:30	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:44
+17:01:31	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:01:36	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+17:01:38	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11497, Item:0, Obj:0, Msl:0
+17:01:38	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10025, Item:0, Obj:0, Msl:0
+17:02:26	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:02:27	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:42
+17:02:27	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:42
+17:02:28	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:02:33	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:02:34	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11497, Item:0, Obj:0, Msl:0
+17:02:35	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10025, Item:0, Obj:0, Msl:0
+17:03:23	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:92
+17:03:24	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:59
+17:03:24	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:56
+17:03:25	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:03:30	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:82
+17:03:31	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11497, Item:0, Obj:0, Msl:0
+17:03:32	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10025, Item:0, Obj:0, Msl:0
+17:04:20	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:04:21	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:42
+17:04:21	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:42
+17:04:22	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:04:27	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:04:28	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11497, Item:0, Obj:0, Msl:0
+17:04:29	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10025, Item:0, Obj:0, Msl:0
+17:05:17	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:05:17	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:42
+17:05:18	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:42
+17:05:19	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:05:24	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:05:25	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11501, Item:0, Obj:0, Msl:0
+17:05:26	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10029, Item:0, Obj:0, Msl:0
+17:06:14	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+17:06:14	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:44
+17:06:15	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:44
+17:06:16	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:06:21	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+17:06:22	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11501, Item:0, Obj:0, Msl:0
+17:06:23	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10029, Item:0, Obj:0, Msl:0
+17:07:11	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11785, Item:0, Obj:0, Msl:61
+17:07:11	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:42
+17:07:12	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:42
+17:07:13	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:07:18	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:07:19	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11501, Item:0, Obj:0, Msl:0
+17:07:20	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10029, Item:0, Obj:0, Msl:0
+17:08:08	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(54), Npc:11783, Item:0, Obj:0, Msl:193
+17:08:08	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(41), Npc:10214, Item:0, Obj:0, Msl:160
+17:08:09	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:124
+17:08:10	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:08:15	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:146
+17:08:16	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11501, Item:0, Obj:0, Msl:0
+17:08:16	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10029, Item:0, Obj:0, Msl:0
+17:09:04	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+17:09:05	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:44
+17:09:06	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:44
+17:09:06	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:09:12	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+17:09:13	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11501, Item:0, Obj:0, Msl:0
+17:09:13	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10029, Item:0, Obj:0, Msl:0
+17:10:01	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:10:02	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:42
+17:10:02	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:42
+17:10:03	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:10:08	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:10:10	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11501, Item:0, Obj:0, Msl:0
+17:10:10	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10029, Item:0, Obj:0, Msl:0
+17:10:58	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:89
+17:10:59	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:58
+17:10:59	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:53
+17:11:00	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:11:05	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:79
+17:11:06	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11501, Item:0, Obj:0, Msl:0
+17:11:07	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10029, Item:0, Obj:0, Msl:0
+17:11:55	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:11:56	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:42
+17:11:56	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:42
+17:11:57	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:12:02	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:12:03	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11503, Item:0, Obj:0, Msl:0
+17:12:04	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10031, Item:0, Obj:0, Msl:0
+17:12:52	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:12:53	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:42
+17:12:53	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:42
+17:12:54	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:12:59	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:13:00	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11503, Item:0, Obj:0, Msl:0
+17:13:01	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10031, Item:0, Obj:0, Msl:0
+17:13:49	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+17:13:49	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:44
+17:13:50	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:44
+17:13:51	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:13:56	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+17:13:57	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11503, Item:0, Obj:0, Msl:0
+17:13:58	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10031, Item:0, Obj:0, Msl:0
+17:14:46	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:14:46	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10214, Item:0, Obj:0, Msl:42
+17:14:47	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10008, Item:0, Obj:0, Msl:42
+17:14:48	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12273, Item:0, Obj:0, Msl:0
+17:14:53	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:14:54	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11503, Item:0, Obj:0, Msl:0
+17:14:55	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10031, Item:0, Obj:0, Msl:0
+17:15:43	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:179
+17:15:43	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:122
+17:15:44	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:106
+17:15:45	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:15:50	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:141
+17:15:51	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11503, Item:0, Obj:0, Msl:0
+17:15:52	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10031, Item:0, Obj:0, Msl:0
+17:16:40	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+17:16:40	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:44
+17:16:41	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:44
+17:16:42	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:16:47	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+17:16:48	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11503, Item:0, Obj:0, Msl:0
+17:16:48	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10031, Item:0, Obj:0, Msl:0
+17:17:37	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:17:37	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:42
+17:17:38	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:42
+17:17:38	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:17:44	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:17:45	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11503, Item:0, Obj:0, Msl:0
+17:17:45	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10031, Item:0, Obj:0, Msl:0
+17:18:33	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:86
+17:18:34	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:55
+17:18:34	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:52
+17:18:35	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:18:40	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:77
+17:18:42	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11503, Item:0, Obj:0, Msl:0
+17:18:42	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10031, Item:0, Obj:0, Msl:0
+17:19:30	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:19:31	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:42
+17:19:31	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:42
+17:19:32	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:19:37	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:19:38	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11504, Item:0, Obj:0, Msl:0
+17:19:39	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10032, Item:0, Obj:0, Msl:0
+17:20:27	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:20:28	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:42
+17:20:28	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:42
+17:20:29	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:20:34	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:20:35	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11504, Item:0, Obj:0, Msl:0
+17:20:36	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10032, Item:0, Obj:0, Msl:0
+17:21:24	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+17:21:25	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:44
+17:21:25	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:44
+17:21:26	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:21:31	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+17:21:32	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11504, Item:0, Obj:0, Msl:0
+17:21:33	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10032, Item:0, Obj:0, Msl:0
+17:22:21	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:22:21	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:42
+17:22:22	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:42
+17:22:23	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:22:28	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:22:29	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11504, Item:0, Obj:0, Msl:0
+17:22:30	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10032, Item:0, Obj:0, Msl:0
+17:23:18	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:179
+17:23:18	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:122
+17:23:19	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:122
+17:23:20	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:23:25	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:146
+17:23:26	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11504, Item:0, Obj:0, Msl:0
+17:23:27	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10032, Item:0, Obj:0, Msl:0
+17:24:15	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+17:24:15	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:44
+17:24:16	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:44
+17:24:17	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:24:22	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:24:23	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11504, Item:0, Obj:0, Msl:0
+17:24:24	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10032, Item:0, Obj:0, Msl:0
+17:25:12	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:25:12	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:42
+17:25:13	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:42
+17:25:14	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:25:19	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10912, Item:0, Obj:0, Msl:50
+17:25:20	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11504, Item:0, Obj:0, Msl:0
+17:25:20	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10032, Item:0, Obj:0, Msl:0
+17:26:08	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:83
+17:26:09	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:52
+17:26:10	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:44
+17:26:10	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:26:16	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+17:26:17	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11504, Item:0, Obj:0, Msl:0
+17:26:17	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10032, Item:0, Obj:0, Msl:0
+17:27:05	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:27:06	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:42
+17:27:06	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:42
+17:27:07	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:27:12	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:27:14	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11504, Item:0, Obj:0, Msl:0
+17:27:14	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10032, Item:0, Obj:0, Msl:0
+17:28:02	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:61
+17:28:03	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:42
+17:28:03	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:42
+17:28:04	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:28:09	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:50
+17:28:10	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11504, Item:0, Obj:0, Msl:0
+17:28:11	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10032, Item:0, Obj:0, Msl:0
+17:28:59	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):76928(51), Npc:11783, Item:0, Obj:0, Msl:63
+17:29:00	[INFO] Ply(Off):0(0), Map:96, Rgn(Act):58652(32), Npc:10224, Item:0, Obj:0, Msl:44
+17:29:00	[INFO] Ply(Off):0(0), Map:81, Rgn(Act):73824(30), Npc:10018, Item:0, Obj:0, Msl:44
+17:29:01	[INFO] Ply(Off):0(0), Map:121, Rgn(Act):88197(0), Npc:12293, Item:0, Obj:0, Msl:0
+17:29:06	[INFO] Ply(Off):0(0), Map:142, Rgn(Act):88425(33), Npc:10910, Item:0, Obj:0, Msl:52
+17:29:07	[INFO] Ply(Off):0(0), Map:105, Rgn(Act):60062(0), Npc:11504, Item:0, Obj:0, Msl:0
+17:29:08	[INFO] Ply(Off):0(0), Map:102, Rgn(Act):83831(0), Npc:10032, Item:0, Obj:0, Msl:0
+17:29:32	[CenServe17:29:32	r] Receive packet failed!
+[CenServer] Receive packet failed!
+17:29:32	Gamecenter Connection Lost!
+Gamecenter Connection Lost!
+17:29:32	[CenServer] Receive packet failed!
+17:29:32	Gamecenter Connection Lost!

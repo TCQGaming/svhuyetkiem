@@ -1,0 +1,3 @@
+[2025-03-18 23:01:09]	INFO	Login AddCharacter: Account[xboyhd], Role[GameMaster]
+[2025-03-18 23:01:10]	INFO	xboyhd(GameMaster) login
+[2025-03-18 23:01:10]	INFO	LoadPlayerData fail: step:4, Account[xboyhd], RoleName[GameMaster]

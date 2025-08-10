@@ -1,0 +1,22 @@
+24-20:38:37	TCQGaming	login 8
+24-20:38:37	TCQGaming	xboyhd	192.168.1.100:41926	LoginHwId_788308019	639324413
+24-20:38:37	TCQGaming	xboyhd	788308019	1677830336	SetForbitCode0
+24-20:38:37	TCQGaming	NewWorld 8
+24-20:38:44	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+24-20:38:44	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+24-20:38:44	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+24-20:38:44	TCQGaming	AddBindCoin	AddWay100	Count	25000
+24-20:38:44	TCQGaming	AddBindMoney	AddWay100	Count	25000
+24-20:38:44	TCQGaming	UseItem	Thẻ GM
+24-20:38:48	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752997161)	Way100	Value60466
+24-20:38:48	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value50000
+24-20:38:48	TCQGaming	AddItem	Tiền Du Long(1752997161)	Way100	Value4950000
+24-20:38:48	TCQGaming	AddBindCoin	AddWay100	Count	25000
+24-20:38:48	TCQGaming	AddBindMoney	AddWay100	Count	25000
+24-20:38:48	TCQGaming	UseItem	Thẻ GM
+24-20:38:51	TCQGaming	AddItem	Kim Mã - Huyết Kiếm(1753364331)	Way100	Value25000000
+24-20:39:00	TCQGaming	UseItem	Kim Mã - Huyết Kiếm
+24-20:51:11	TCQGaming	login 8
+24-20:51:11	TCQGaming	xboyhd	192.168.1.100:14535	LoginHwId_788308019	639324413
+24-20:51:11	TCQGaming	xboyhd	788308019	1677830336	SetForbitCode0
+24-20:51:11	TCQGaming	NewWorld 8

@@ -1,0 +1,9 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	108	1	200000		cổ đồng tiền 
+		18	1	114	2	194500		huyền tinh mảnh nhỏ （2cấp huyền tinh ）
+		18	1	114	3	200000		miếng nhỏ huyền tinh mảnh vụn （3cấp huyền tinh ）
+		18	1	114	4	200000		huyền tinh mảnh vụn （4cấp huyền tinh ）
+		18	1	114	5	150000		vị điêu khắc huyền tinh （5cấp huyền tinh ）
+		18	1	114	6	50000		có vết rách đích huyền tinh （6cấp huyền tinh ）
+		18	1	114	7	5000		thông thường huyền tinh （7cấp huyền tinh ）
+		18	1	114	8	500		có tỳ vết nào đích huyền tinh （8cấp huyền tinh ）

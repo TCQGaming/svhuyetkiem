@@ -1,0 +1,43 @@
+20250322-160409<INFO :00000FB4>: [Bishop] Begin to start ... ...
+20250322-160409<INFO :00000FB4>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20250322-160409<INFO :00000FB4>: [Paysys] Login() Connect to (127.0.0.1 : 8000) SocketStream = 00E86E48
+20250322-160409<INFO :00000FB4>: [machine info for paysys] MatchMacAddress: 00-00-00-00-00-00, MatchIPAddress: 0.0.0.0
+20250322-160409<DEBUG:00000FB4>: [Paysys] Login() Send Login Information to PaySys nRetCode = 1
+20250322-160409<DEBUG:00000FB4>: [Paysys] Login() Recv Verify Information From PaySys nRetCode = 1
+20250322-160409<INFO :00000FB4>: [Paysys] Login() Paysys Verify , RetCode  = 1 ... ... [OK]
+20250322-160409<INFO :00000FB4>: [Paysys] Login() nResult = 1
+20250322-160409<INFO :00000FB4>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 00E873A0
+20250322-160409<INFO :00000FB4>: [Goddess] Login() nResult = 1
+20250322-160409<INFO :00000FB4>: [Relay] Init() Acceptor Open(: 5632), nRetCode = 1
+20250322-160409<INFO :00000FB4>: [PlayerManager] Init() Acceptor Open(: 1231), nRetCode = 1
+20250322-160409<INFO :00000FB4>: [Report] Init() Acceptor Open(: 5636), nRetCode = 1
+20250322-160410<INFO :00001EC4>: [Relay] ThreadFunction() Accept from (127.0.0.1: 51461) SocketStream = 00E86F68
+20250322-160410<INFO :00001EC4>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20250322-160410<DEBUG:00001EC4>: [Relay] ReceivePackagesFromRelay() RecvPackage From Relay Protocol = 50; Size = 9; Key = 2851
+20250322-160428<INFO :00001470>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 51485) SocketStream = 00E87118
+20250322-160428<INFO :00008E0C>: [GameServer 0]  === Start ===
+20250322-160428<INFO :00008E0C>: [GameServer 0] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6041, protocol version (79-->79)
+20250322-160433<DEBUG:00008E0C>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20250322-160433<DEBUG:00001EC4>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 397; Key = 1
+20250322-160435<DEBUG:00008E0C>: nSocket = 16880, nSendFlag = 0, Error = 10054
+20250322-160435<DEBUG:00008E0C>: KGLOG_PROCESS_ERROR(nRetCode) at line 1647 in KG_BishopGameServer::RecvRequestsReplysFromGameServer
+20250322-160435<DEBUG:00008E0C>: KGLOG_PROCESS_ERROR(nRetCode) at line 2874 in KG_BishopGameServer::ThreadFunction
+20250322-160435<INFO :00008E0C>: [GameServer 0]  === End ===
+20250322-160505<INFO :00001470>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 51494) SocketStream = 00E873E8
+20250322-160505<INFO :00002930>: [GameServer 1]  === Start ===
+20250322-160505<INFO :00002930>: [GameServer 1] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6041, protocol version (79-->79)
+20250322-160509<DEBUG:00002930>: [GameServer 1] GameServerConnectedInit() nResult = 1
+20250322-160509<DEBUG:00001EC4>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 397; Key = 2
+20250322-160513<INFO :00001470>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 51501) SocketStream = 00E872C8
+20250322-160513<INFO :000016C8>: [GameServer 2]  === Start ===
+20250322-160513<INFO :000016C8>: [GameServer 2] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6042, protocol version (79-->79)
+20250322-160517<DEBUG:000016C8>: [GameServer 2] GameServerConnectedInit() nResult = 1
+20250322-160517<DEBUG:00001EC4>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 397; Key = 3
+20250322-160517<INFO :00001470>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 51507) SocketStream = 00E86F20
+20250322-160517<INFO :00005E20>: [GameServer 3]  === Start ===
+20250322-160517<INFO :00005E20>: [GameServer 3] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6043, protocol version (79-->79)
+20250322-160521<DEBUG:00005E20>: nSocket = 16968, nSendFlag = 0, Error = 10054
+20250322-160521<DEBUG:00005E20>: KGLOG_PROCESS_ERROR(nRetCode > 0) at line 1428 in KG_BishopGameServer::GameServerConnectedInit
+20250322-160521<DEBUG:00005E20>: [GameServer 3] GameServerConnectedInit() nResult = 0
+20250322-160521<DEBUG:00005E20>: KGLOG_PROCESS_ERROR(nRetCode) at line 2859 in KG_BishopGameServer::ThreadFunction
+20250322-160521<INFO :00005E20>: [GameServer 3]  === End ===

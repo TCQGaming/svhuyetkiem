@@ -1,0 +1,15 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name		PickUpPro
+		18	1	1	7	60368		Huyền Tinh (cấp 7)		1
+		18	1	1	8	8624		Huyền Tinh (cấp 8)		1
+		18	1	1	9	1232		Huyền Tinh (cấp 9)		1
+		18	1	1	10	176		Huyền Tinh (cấp 10)		1
+		22	1	113	1	57703		Mảnh Long Hồn Giám-Nhẫn (Cấp 1)		1
+		22	1	112	1	100981		Mảnh Long Hồn Giám-Áo (Cấp 1)		1
+		22	1	114	1	129832		Mảnh Long Hồn Giám-Hộ Thân Phù (Cấp 1)		1
+		22	1	113	2	35509		Mảnh Long Hồn Giám-Nhẫn (Cấp 2)			1
+		22	1	112	2	62142		Mảnh Long Hồn Giám-Áo (Cấp 2)		1
+		22	1	114	2	79897		Mảnh Long Hồn Giám-Hộ Thân Phù (Cấp 2)		1
+		22	1	113	3	26632		Mảnh Long Hồn Giám-Nhẫn (Cấp 3)			1
+		22	1	112	3	46606		Mảnh Long Hồn Giám-Áo (Cấp 3)		1
+		22	1	114	3	59922		Mảnh Long Hồn Giám-Hộ Thân Phù (Cấp 3)		1
+		18	1	1675	1	120000		Mảnh Xích Dạ Phi Linh		1

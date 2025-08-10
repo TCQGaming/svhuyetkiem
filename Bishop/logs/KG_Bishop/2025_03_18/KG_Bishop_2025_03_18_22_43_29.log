@@ -1,0 +1,15 @@
+20250318-224329<INFO :00002AD8>: [Bishop] Begin to start ... ...
+20250318-224329<INFO :00002AD8>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20250318-224329<INFO :00002AD8>: [Paysys] Login() Connect to (127.0.0.1 : 8000) SocketStream = 00646FA0
+20250318-224329<INFO :00002AD8>: [machine info for paysys] MatchMacAddress: 00-00-00-00-00-00, MatchIPAddress: 0.0.0.0
+20250318-224329<DEBUG:00002AD8>: [Paysys] Login() Send Login Information to PaySys nRetCode = 1
+20250318-224329<DEBUG:00002AD8>: [Paysys] Login() Recv Verify Information From PaySys nRetCode = 1
+20250318-224329<INFO :00002AD8>: [Paysys] Login() Paysys Verify , RetCode  = 1 ... ... [OK]
+20250318-224329<INFO :00002AD8>: [Paysys] Login() nResult = 1
+20250318-224331<INFO :00002AD8>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 00000000
+20250318-224331<DEBUG:00002AD8>: KGLOG_PROCESS_ERROR(piSocketStream) at line 137 in KG_BishopGoddess::Login
+20250318-224331<INFO :00002AD8>: [Goddess] Login() nResult = 0
+20250318-224331<DEBUG:00002AD8>: KGLOG_PROCESS_ERROR(nRetCode) at line 49 in KG_BishopGoddess::Init
+20250318-224331<DEBUG:00002AD8>: KGLOG_PROCESS_ERROR(nRetCode) at line 358 in KG_Bishop::Init
+20250318-224331<INFO :00002AD8>: [machine info for paysys] MatchMacAddress: 00-00-00-00-00-00, MatchIPAddress: 0.0.0.0
+20250318-224333<INFO :00002AD8>: [Paysys] Logout() nResult = 1

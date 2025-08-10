@@ -1,0 +1,155 @@
+18-23:05:37	TCQGaming	login 2
+18-23:05:37	TCQGaming	xboyhd	192.168.1.100:32147	LoginHwId_1400849469	639324413
+18-23:05:37	TCQGaming	Exchange 8
+18-23:05:37	TCQGaming	AddItem	Túi Tân Thủ(1742313937)	Way100	Value2821109
+18-23:05:37	TCQGaming	LevelUp	2
+18-23:05:37	TCQGaming	LevelUp	3
+18-23:05:37	TCQGaming	LevelUp	4
+18-23:05:37	TCQGaming	LevelUp	5
+18-23:05:37	TCQGaming	LevelUp	6
+18-23:05:37	TCQGaming	LevelUp	7
+18-23:05:37	TCQGaming	LevelUp	8
+18-23:05:37	TCQGaming	LevelUp	9
+18-23:05:37	TCQGaming	LevelUp	10
+18-23:05:37	TCQGaming	LevelUp	11
+18-23:05:37	TCQGaming	LevelUp	12
+18-23:05:37	TCQGaming	LevelUp	13
+18-23:05:37	TCQGaming	LevelUp	14
+18-23:05:37	TCQGaming	LevelUp	15
+18-23:05:37	TCQGaming	LevelUp	16
+18-23:05:37	TCQGaming	LevelUp	17
+18-23:05:37	TCQGaming	LevelUp	18
+18-23:05:37	TCQGaming	LevelUp	19
+18-23:05:37	TCQGaming	LevelUp	20
+18-23:05:37	TCQGaming	LevelUp	21
+18-23:05:37	TCQGaming	LevelUp	22
+18-23:05:37	TCQGaming	LevelUp	23
+18-23:05:37	TCQGaming	LevelUp	24
+18-23:05:37	TCQGaming	LevelUp	25
+18-23:05:37	TCQGaming	LevelUp	26
+18-23:05:37	TCQGaming	LevelUp	27
+18-23:05:37	TCQGaming	LevelUp	28
+18-23:05:37	TCQGaming	LevelUp	29
+18-23:05:37	TCQGaming	LevelUp	30
+18-23:05:37	TCQGaming	LevelUp	31
+18-23:05:37	TCQGaming	LevelUp	32
+18-23:05:37	TCQGaming	LevelUp	33
+18-23:05:37	TCQGaming	LevelUp	34
+18-23:05:37	TCQGaming	LevelUp	35
+18-23:05:37	TCQGaming	LevelUp	36
+18-23:05:37	TCQGaming	LevelUp	37
+18-23:05:37	TCQGaming	LevelUp	38
+18-23:05:37	TCQGaming	LevelUp	39
+18-23:05:37	TCQGaming	LevelUp	40
+18-23:05:37	TCQGaming	LevelUp	41
+18-23:05:37	TCQGaming	LevelUp	42
+18-23:05:37	TCQGaming	LevelUp	43
+18-23:05:37	TCQGaming	LevelUp	44
+18-23:05:37	TCQGaming	LevelUp	45
+18-23:05:37	TCQGaming	LevelUp	46
+18-23:05:37	TCQGaming	LevelUp	47
+18-23:05:37	TCQGaming	LevelUp	48
+18-23:05:37	TCQGaming	LevelUp	49
+18-23:05:37	TCQGaming	LevelUp	50
+18-23:05:37	TCQGaming	LevelUp	51
+18-23:05:37	TCQGaming	LevelUp	52
+18-23:05:37	TCQGaming	LevelUp	53
+18-23:05:37	TCQGaming	LevelUp	54
+18-23:05:37	TCQGaming	LevelUp	55
+18-23:05:37	TCQGaming	LevelUp	56
+18-23:05:37	TCQGaming	LevelUp	57
+18-23:05:37	TCQGaming	LevelUp	58
+18-23:05:37	TCQGaming	LevelUp	59
+18-23:05:37	TCQGaming	LevelUp	60
+18-23:05:37	TCQGaming	LevelUp	61
+18-23:05:37	TCQGaming	LevelUp	62
+18-23:05:37	TCQGaming	LevelUp	63
+18-23:05:37	TCQGaming	LevelUp	64
+18-23:05:37	TCQGaming	LevelUp	65
+18-23:05:37	TCQGaming	LevelUp	66
+18-23:05:37	TCQGaming	LevelUp	67
+18-23:05:37	TCQGaming	LevelUp	68
+18-23:05:37	TCQGaming	LevelUp	69
+18-23:05:37	TCQGaming	LevelUp	70
+18-23:05:37	TCQGaming	LevelUp	71
+18-23:05:37	TCQGaming	LevelUp	72
+18-23:05:37	TCQGaming	LevelUp	73
+18-23:05:37	TCQGaming	LevelUp	74
+18-23:05:37	TCQGaming	LevelUp	75
+18-23:05:37	TCQGaming	LevelUp	76
+18-23:05:37	TCQGaming	LevelUp	77
+18-23:05:37	TCQGaming	LevelUp	78
+18-23:05:37	TCQGaming	LevelUp	79
+18-23:05:37	TCQGaming	LevelUp	80
+18-23:05:37	TCQGaming	LevelUp	81
+18-23:05:37	TCQGaming	LevelUp	82
+18-23:05:37	TCQGaming	LevelUp	83
+18-23:05:37	TCQGaming	LevelUp	84
+18-23:05:37	TCQGaming	LevelUp	85
+18-23:05:37	TCQGaming	LevelUp	86
+18-23:05:37	TCQGaming	LevelUp	87
+18-23:05:37	TCQGaming	LevelUp	88
+18-23:05:37	TCQGaming	LevelUp	89
+18-23:05:37	TCQGaming	LevelUp	90
+18-23:05:37	TCQGaming	LevelUp	91
+18-23:05:37	TCQGaming	LevelUp	92
+18-23:05:37	TCQGaming	LevelUp	93
+18-23:05:37	TCQGaming	LevelUp	94
+18-23:05:37	TCQGaming	LevelUp	95
+18-23:05:37	TCQGaming	LevelUp	96
+18-23:05:37	TCQGaming	LevelUp	97
+18-23:05:37	TCQGaming	LevelUp	98
+18-23:05:37	TCQGaming	LevelUp	99
+18-23:05:37	TCQGaming	LevelUp	100
+18-23:05:37	TCQGaming	AddItem	Túi Khởi La(1742313937)	Way100	Value1050000
+18-23:05:37	TCQGaming	AddItem	Túi Khởi La(1742313937)	Way100	Value1050000
+18-23:05:37	TCQGaming	AddItem	Lệnh bài Uy danh giang hồ(1742313937)	Way100	Value100000
+18-23:05:37	TCQGaming	AddItem	Huyền Tinh Cấp 5(1742313937)	Way100	Value67184
+18-23:05:37	TCQGaming	AddItem	Ngọc Trúc Mai Hoa (tháng)(1742313937)	Way100	Value100000
+18-23:05:37	TCQGaming	xboyhd	1400849469	1677830336	SetForbitCode0
+18-23:05:37	TCQGaming	Exchange 8
+18-23:05:37	TCQGaming	login 8
+18-23:05:38	TCQGaming	xboyhd	192.168.1.100:32403	LoginHwId_1400849469	639324413
+18-23:05:41	TCQGaming	UseItem	Ngọc Trúc Mai Hoa (tháng)
+18-23:05:41	TCQGaming	RemoveItem	Ngọc Trúc Mai Hoa (tháng)(1742313937)	Way5	Value100000
+18-23:05:41	TCQGaming	UseItem	Táo Hồng
+18-23:05:45	TCQGaming	dialog Trâu Đức Khoái
+18-23:05:53	TCQGaming	UseItem	Túi Tân Thủ
+18-23:05:58	TCQGaming	UseItem	Túi Tân Thủ
+18-23:06:02	TCQGaming	UseItem	Thẻ GM
+18-23:06:07	TCQGaming	UseItem	Thẻ GM
+18-23:06:12	TCQGaming	UseItem	Thẻ GM
+18-23:06:25	TCQGaming	UseItem	Lệnh bài Uy danh giang hồ
+18-23:06:25	TCQGaming	RemoveItem	Lệnh bài Uy danh giang hồ(1742313937)	Way5	Value100000
+18-23:06:26	TCQGaming	UseItem	Thẻ GM
+18-23:06:33	TCQGaming	UseItem	Thẻ GM
+18-23:06:43	TCQGaming	UseItem	Túi Tân Thủ
+18-23:06:45	TCQGaming	AddItem	Ma Đao Thạch (cấp 6)(1742314005)	Way100	Value0
+18-23:06:45	TCQGaming	AddItem	Hộ Giáp Phiến (cấp 6)(1742314005)	Way100	Value0
+18-23:06:45	TCQGaming	AddItem	Ngũ Hành Thạch (cấp 6)(1742314005)	Way100	Value0
+18-23:06:45	TCQGaming	AddItem	Chiến Thư-Mật Thất Du Long(1742314005)	Way100	Value50000
+18-23:06:45	TCQGaming	AddItem	Chiến Thư-Mật Thất Du Long(1742314005)	Way100	Value700000
+18-23:06:46	TCQGaming	UseItem	Túi Tân Thủ
+18-23:06:47	TCQGaming	AddItem	Rương trang bị Tân Thủ(1742314007)	Way100	Value100000
+18-23:06:54	TCQGaming	UseItem	Rương trang bị Tân Thủ
+18-23:06:55	TCQGaming	AddItem	Kim Cô Bổng-Thương Lang(1742314015)	Way100	Value21211532
+18-23:06:55	TCQGaming	AddItem	Kính Hoa Khải-Nghịch Thủy(1742314015)	Way100	Value5127902
+18-23:06:55	TCQGaming	AddItem	Yểm Nhật Khôi-Chu Thiềm(1742314015)	Way100	Value5111048
+18-23:06:55	TCQGaming	AddItem	Võ Hầu Thúc Đái-Hoàng Quang(1742314015)	Way100	Value5146190
+18-23:06:55	TCQGaming	AddItem	Thiên Tàm Ngoa-Việt Quang(1742314015)	Way100	Value5210263
+18-23:06:55	TCQGaming	AddItem	Thiên Tàm Hộ Uyển-Cự Mộc(1742314015)	Way100	Value5113980
+18-23:06:55	TCQGaming	AddItem	Triều Lộ Liên-Nghịch Thủy(1742314015)	Way100	Value7724917
+18-23:06:55	TCQGaming	AddItem	Ứng Long Giới-Hoàng Quang(1742314015)	Way100	Value7774723
+18-23:06:55	TCQGaming	AddItem	Bắc Minh Bội-Cự Mộc(1742314015)	Way100	Value7670970
+18-23:06:55	TCQGaming	AddItem	Tiên Duyên Phù-Việt Quang(1742314015)	Way100	Value7779372
+18-23:06:55	TCQGaming	RemoveItem	Rương trang bị Tân Thủ(1742314007)	Way100	Value100000
+18-23:06:56	TCQGaming	UseItem	Kim Cô Bổng-Thương Lang
+18-23:06:57	TCQGaming	UseItem	Kính Hoa Khải-Nghịch Thủy
+18-23:06:57	TCQGaming	UseItem	Yểm Nhật Khôi-Chu Thiềm
+18-23:06:57	TCQGaming	UseItem	Võ Hầu Thúc Đái-Hoàng Quang
+18-23:06:57	TCQGaming	UseItem	Bắc Minh Bội-Cự Mộc
+18-23:06:58	TCQGaming	UseItem	Ứng Long Giới-Hoàng Quang
+18-23:06:58	TCQGaming	UseItem	Triều Lộ Liên-Nghịch Thủy
+18-23:06:58	TCQGaming	UseItem	Thiên Tàm Hộ Uyển-Cự Mộc
+18-23:06:58	TCQGaming	UseItem	Thiên Tàm Ngoa-Việt Quang
+18-23:06:59	TCQGaming	UseItem	Tiên Duyên Phù-Việt Quang

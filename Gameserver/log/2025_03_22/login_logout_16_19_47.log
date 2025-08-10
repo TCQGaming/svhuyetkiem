@@ -1,0 +1,14 @@
+[2025-03-22 16:19:47]	INFO	Exchange AddCharacter Account[aducbva], Role[aaaaaâ]
+[2025-03-22 16:19:47]	INFO	aducbva(aaaaaâ) login
+[2025-03-22 16:19:47]	INFO	LoadPlayerData OK: Account[aducbva], RoleName[aaaaaâ], CRC[EB41E375], LastSaveTime[2025-03-22 16:19:47]
+[2025-03-22 16:19:52]	INFO	Exchange AddCharacter Account[xboyhd], Role[TCQGaming]
+[2025-03-22 16:19:52]	INFO	xboyhd(TCQGaming) login
+[2025-03-22 16:19:52]	INFO	LoadPlayerData OK: Account[xboyhd], RoleName[TCQGaming], CRC[F766598C], LastSaveTime[2025-03-22 16:19:52]
+[2025-03-22 16:21:11]	INFO	SendPlayerSave OK: Account[aducbva], RoleName[aaaaaâ], CRC[AB7911F4]
+[2025-03-22 16:21:11]	INFO	aducbva(aaaaaâ) transfer
+[2025-03-22 16:21:58]	INFO	Exchange AddCharacter Account[aducbva], Role[aaaaaâ]
+[2025-03-22 16:21:59]	INFO	aducbva(aaaaaâ) login
+[2025-03-22 16:21:59]	INFO	LoadPlayerData OK: Account[aducbva], RoleName[aaaaaâ], CRC[76FE6EFD], LastSaveTime[2025-03-22 16:21:58]
+[2025-03-22 16:22:26]	INFO	SendPlayerSave OK: Account[aducbva], RoleName[aaaaaâ], CRC[FD4E7C50]
+[2025-03-22 16:22:26]	INFO	aducbva(aaaaaâ) transfer
+[2025-03-22 16:22:32]	INFO	SendPlayerSave OK: Account[xboyhd], RoleName[TCQGaming], CRC[AB0954E5]

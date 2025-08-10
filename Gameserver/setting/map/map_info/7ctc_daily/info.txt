@@ -1,0 +1,7 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đi Dương Châu	0	2525	4	5	1	1	20	20	20	20	20	1		53504	99392		1		
+Đi Lâm An	0	2525	4	5	1	1	20	20	20	20	20	1		53536	111552		1		
+Đi Tương Dương	0	2525	4	5	1	1	20	20	20	20	20	1		43360	100960		1		
+to_laman	1															\setting\map\map_info\7ctc_daily\trap\to_laman.txt			
+to_duongchau	1															\setting\map\map_info\7ctc_daily\trap\to_duongchau.txt			
+to_tuongduong	1															\setting\map\map_info\7ctc_daily\trap\to_tuongduong.txt			

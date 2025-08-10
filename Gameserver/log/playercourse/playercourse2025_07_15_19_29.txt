@@ -1,0 +1,149 @@
+15-19:29:25	TCQGaming	login 8
+15-19:29:25	TCQGaming	xboyhd	192.168.1.100:6124	LoginHwId_2539837046	639324413
+15-19:29:25	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+15-19:29:25	TCQGaming	NewWorld 8
+15-19:29:30	tessssssst	login 8
+15-19:29:30	tessssssst	xboyhd1	192.168.1.100:6380	LoginHwId_3867965182	639324413
+15-19:29:30	tessssssst	xboyhd1	3867965182	1677830336	SetForbitCode0
+15-19:29:30	tessssssst	NewWorld 8
+15-19:29:31	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+15-19:29:32	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+15-19:29:35	TCQGaming	NewWorld 22
+15-19:29:38	tessssssst	UseItem	Vô Hạn Truyền Tống Phù
+15-19:29:41	tessssssst	NewWorld 22
+15-19:29:53	TCQGaming	dialog Dương Thiết Tâm
+15-19:30:05	TCQGaming	Exchange 241
+15-19:30:13	tessssssst	dialog Dương Thiết Tâm
+15-19:30:14	tessssssst	Exchange 241
+15-19:29:09	TCQGaming	login 22
+15-19:29:09	TCQGaming	xboyhd	192.168.1.100:11501	LoginHwId_2539837046	639324413
+15-19:29:09	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+15-19:29:09	TCQGaming	NewWorld 8
+15-19:29:11	TCQGaming	dialog Sứ Giả Sự Kiện
+15-19:29:11	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+15-19:29:11	testttt	login 10
+15-19:29:12	testttt	xboyhd2	192.168.1.100:11757	LoginHwId_3861681070	639324413
+15-19:29:12	testttt	xboyhd2	3861681070	1677830336	SetForbitCode0
+15-19:29:12	testttt	Exchange 8
+15-19:29:12	testttt	login 8
+15-19:29:12	testttt	xboyhd2	192.168.1.100:12013	LoginHwId_3861681070	639324413
+15-19:29:14	TCQGaming	NewWorld 22
+15-19:29:17	testttt	UseItem	Vô Hạn Truyền Tống Phù
+15-19:29:18	tessssssst	login 22
+15-19:29:18	tessssssst	xboyhd1	192.168.1.100:12269	LoginHwId_3867965182	639324413
+15-19:29:18	tessssssst	xboyhd1	3867965182	1677830336	SetForbitCode0
+15-19:29:18	tessssssst	NewWorld 8
+15-19:29:19	testttt	Exchange 10
+15-19:29:19	testttt	login 10
+15-19:29:20	testttt	xboyhd2	192.168.1.100:12525	LoginHwId_3861681070	639324413
+15-19:29:23	tessssssst	UseItem	Vô Hạn Truyền Tống Phù
+15-19:29:25	tessssssst	NewWorld 22
+15-19:29:38	TCQGaming	dialog Dương Thiết Tâm
+15-19:30:03	testttt	dialog Hoàn Nhan Tương
+15-19:30:04	testttt	NewWorld 241
+15-19:30:04	testttt	NewWorld 241
+15-19:30:07	TCQGaming	dialog Dương Thiết Tâm
+15-19:30:09	TCQGaming	Exchange 241
+15-19:30:10	TCQGaming	login 241
+15-19:30:10	TCQGaming	xboyhd	192.168.1.100:13549	LoginHwId_2539837046	639324413
+15-19:30:10	TCQGaming	NewWorld 241
+15-19:30:12	tessssssst	dialog Dương Thiết Tâm
+15-19:30:14	tessssssst	Exchange 241
+15-19:30:14	tessssssst	login 241
+15-19:30:15	tessssssst	xboyhd1	192.168.1.100:13805	LoginHwId_3867965182	639324413
+15-19:30:15	tessssssst	NewWorld 241
+15-19:31:00	TCQGaming	NewWorld 241
+15-19:31:00	tessssssst	NewWorld 241
+15-19:31:00	testttt	NewWorld 241
+15-19:31:15	testttt	UseItem	Túi Tân Thủ
+15-19:31:16	testttt	UseItem	Túi Tân Thủ
+15-19:31:19	testttt	AddItem	Rương trang bị Tân Thủ(1752582679)	Way100	Value100000
+15-19:31:25	testttt	UseItem	Rương trang bị Tân Thủ
+15-19:31:25	testttt	AddItem	Phá Sơn Đao-Nghiệp Hỏa(1752582685)	Way100	Value4389828
+15-19:31:25	testttt	AddItem	Sơn Quỷ Trang-Cự Mộc(1752582685)	Way100	Value1038421
+15-19:31:25	testttt	AddItem	Sơn Quỷ Phát Quán-Diên Dương(1752582685)	Way100	Value1050440
+15-19:31:25	testttt	AddItem	Ngọa Hổ Thúc Yêu-Việt Quang(1752582685)	Way100	Value1038421
+15-19:31:25	testttt	AddItem	Tuyệt Hỏa Ngoa-Nghịch Thủy(1752582685)	Way100	Value1058445
+15-19:31:25	testttt	AddItem	Võ Thần Hộ Uyển-Chu Thiềm(1752582685)	Way100	Value1031446
+15-19:31:25	testttt	AddItem	Bắc Thần Liên-Cự Mộc(1752582685)	Way100	Value1570578
+15-19:31:25	testttt	AddItem	Thương Khung Giới-Việt Quang(1752582685)	Way100	Value1570158
+15-19:31:25	testttt	AddItem	Long Thủ Bội-Chu Thiềm(1752582685)	Way100	Value1562230
+15-19:31:25	testttt	AddItem	Thiên Ma Phù-Nghịch Thủy(1752582685)	Way100	Value1594722
+15-19:31:25	testttt	RemoveItem	Rương trang bị Tân Thủ(1752582679)	Way100	Value100000
+15-19:31:27	testttt	UseItem	Phá Sơn Đao-Nghiệp Hỏa
+15-19:31:27	testttt	UseItem	Tuyệt Hỏa Ngoa-Nghịch Thủy
+15-19:31:27	testttt	UseItem	Ngọa Hổ Thúc Yêu-Việt Quang
+15-19:31:27	testttt	UseItem	Sơn Quỷ Phát Quán-Diên Dương
+15-19:31:28	testttt	UseItem	Thương Khung Giới-Việt Quang
+15-19:31:28	testttt	UseItem	Long Thủ Bội-Chu Thiềm
+15-19:31:28	testttt	UseItem	Thiên Ma Phù-Nghịch Thủy
+15-19:31:28	testttt	UseItem	Võ Thần Hộ Uyển-Chu Thiềm
+15-19:31:29	testttt	UseItem	Bắc Thần Liên-Cự Mộc
+15-19:31:29	testttt	UseItem	Sơn Quỷ Trang-Cự Mộc
+15-19:32:00	testttt	NewWorld 241
+15-19:32:00	TCQGaming	NewWorld 241
+15-19:32:00	tessssssst	NewWorld 241
+15-19:33:00	testttt	NewWorld 241
+15-19:33:00	TCQGaming	NewWorld 241
+15-19:33:00	tessssssst	NewWorld 241
+15-19:34:00	testttt	NewWorld 241
+15-19:34:00	TCQGaming	NewWorld 241
+15-19:34:00	tessssssst	NewWorld 241
+15-19:35:00	TCQGaming	NewWorld 241
+15-19:35:00	testttt	NewWorld 241
+15-19:35:00	tessssssst	NewWorld 241
+15-19:42:00	TCQGaming	NewWorld 241
+15-19:42:00	tessssssst	NewWorld 241
+15-19:42:48	tessssssst	NewWorld 241
+15-19:42:48	TCQGaming	NewWorld 241
+15-19:45:00	testttt	NewWorld 241
+15-19:45:00	TCQGaming	NewWorld 241
+15-19:45:44	testttt	NewWorld 241
+15-19:45:44	TCQGaming	NewWorld 241
+15-19:46:47	TCQGaming	dialog Quan Ghi Danh
+15-19:46:49	TCQGaming	NewWorld 9
+15-19:46:54	TCQGaming	dialog Huyền Từ
+15-19:46:56	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+15-19:46:59	TCQGaming	Exchange 22
+15-19:46:59	TCQGaming	login 22
+15-19:46:59	TCQGaming	xboyhd	192.168.1.100:24301	LoginHwId_2539837046	639324413
+15-19:47:02	testttt	dialog Quan Ghi Danh
+15-19:47:03	testttt	NewWorld 9
+15-19:47:05	testttt	UseItem	Vô Hạn Truyền Tống Phù
+15-19:47:09	testttt	NewWorld 10
+15-19:47:09	TCQGaming	dialog Dương Thiết Tâm
+15-19:47:16	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1752842904)	Way100	Value783641
+15-19:47:16	TCQGaming	AddItem	Rương Ngọc (vỡ) (cấp 1)(1752842904)	Way100	Value1
+15-19:47:16	TCQGaming	AddItem	Rương Ngọc (vỡ) (cấp 1)(1752842904)	Way100	Value9
+15-19:47:33	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1752583653)	Way100	Value217678
+15-19:47:33	TCQGaming	UseItem	Bảo rương
+15-19:47:33	TCQGaming	UseItem	Bảo rương
+15-19:47:33	TCQGaming	UseItem	Bảo rương
+15-19:47:33	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752583653)	Way100	Value16796
+15-19:47:33	TCQGaming	UseItem	Bảo rương
+15-19:47:34	TCQGaming	UseItem	Bảo rương
+15-19:47:34	TCQGaming	AddItem	Huyền Tinh Cấp 4(1752583654)	Way100	Value4665
+15-19:47:34	TCQGaming	UseItem	Bảo rương
+15-19:47:34	TCQGaming	UseItem	Bảo rương
+15-19:47:34	TCQGaming	UseItem	Bảo rương
+15-19:47:35	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752583655)	Way100	Value60466
+15-19:47:35	TCQGaming	UseItem	Bảo rương
+15-19:47:35	TCQGaming	AddItem	Huyền Tinh Cấp 4(1752583654)	Way100	Value4665
+15-19:47:35	TCQGaming	UseItem	Bảo rương
+15-19:47:35	TCQGaming	UseItem	Bảo rương
+15-19:47:36	TCQGaming	UseItem	Bảo rương
+15-19:47:36	TCQGaming	UseItem	Bảo rương
+15-19:47:36	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1752583653)	Way100	Value217678
+15-19:47:36	TCQGaming	UseItem	Bảo rương
+15-19:47:36	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752583653)	Way100	Value16796
+15-19:47:36	TCQGaming	UseItem	Bảo rương
+15-19:47:37	TCQGaming	AddItem	Huyền Tinh Cấp 5(1752583653)	Way100	Value16796
+15-19:47:37	TCQGaming	UseItem	Bảo rương
+15-19:48:09	testttt	dialog Hoàn Nhan Tương
+15-19:48:13	testttt	AddItem	Huyền Tinh thường (cấp 7)(1752583693)	Way100	Value217678
+15-19:48:13	testttt	AddItem	Huyền Tinh thường (cấp 7)(1752583693)	Way100	Value217678
+15-19:48:13	testttt	AddItem	Huyền Tinh thường (cấp 7)(1752583693)	Way100	Value217678
+15-19:48:13	testttt	AddItem	Huyền Tinh thường (cấp 7)(1752583693)	Way100	Value217678
+15-19:48:13	testttt	AddItem	Rương Ngọc (vỡ) (cấp 1)(1752583693)	Way100	Value6
+15-19:48:18	testttt	UseItem	Túi Tân Thủ
+15-19:48:36	TCQGaming	dialog Dương Thiết Tâm

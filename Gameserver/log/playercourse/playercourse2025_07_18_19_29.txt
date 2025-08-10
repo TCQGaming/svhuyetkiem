@@ -1,0 +1,994 @@
+18-19:29:17	TCQGaming	login 8
+18-19:29:17	TCQGaming	xboyhd	192.168.1.100:23237	LoginHwId_2369372353	639324413
+18-19:29:17	TCQGaming	xboyhd	2369372353	1677830336	SetForbitCode0
+18-19:29:17	TCQGaming	NewWorld 8
+18-19:29:19	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:24	TCQGaming	NewWorld 22
+18-19:29:37	TCQGaming	UseItem	Thẻ GM
+18-19:30:22	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:31	TCQGaming	dialog Dương Thiết Tâm
+18-19:32:06	TCQGaming	UseItem	Thẻ GM
+18-19:32:11	TCQGaming	UseItem	Thẻ GM
+18-19:32:16	TCQGaming	UseItem	Thẻ GM
+18-19:33:02	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:33:03	TCQGaming	UseItem	Thẻ GM
+18-19:33:05	TCQGaming	UseItem	Thẻ GM
+18-19:33:08	TCQGaming	dialog Dương Thiết Tâm
+18-19:29:03	TCQGaming	login 22
+18-19:29:03	TCQGaming	xboyhd	192.168.1.100:50886	LoginHwId_2539837046	639324413
+18-19:29:03	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:03	TCQGaming	NewWorld 8
+18-19:29:05	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:11	TCQGaming	NewWorld 22
+18-19:29:22	TCQGaming	dialog Dương Thiết Tâm
+18-19:29:22	TCQGaming	login 22
+18-19:29:22	TCQGaming	xboyhd	192.168.1.100:34247	LoginHwId_2539837046	639324413
+18-19:29:22	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:22	TCQGaming	NewWorld 8
+18-19:29:24	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:26	TCQGaming	NewWorld 22
+18-19:29:37	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:02	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:05	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:18	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:21	TCQGaming	dialog Dương Thiết Tâm
+18-19:29:39	TCQGaming	login 22
+18-19:29:40	TCQGaming	xboyhd	192.168.1.100:54983	LoginHwId_2539837046	639324413
+18-19:29:40	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:40	TCQGaming	NewWorld 8
+18-19:29:43	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:47	TCQGaming	NewWorld 22
+18-19:29:57	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:02	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:04	TCQGaming	Exchange 241
+18-19:29:17	TCQGaming	login 8
+18-19:29:18	TCQGaming	xboyhd	192.168.1.100:35298	LoginHwId_2539837046	639324413
+18-19:29:18	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:18	TCQGaming	NewWorld 8
+18-19:29:21	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:27	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:32	TCQGaming	NewWorld 22
+18-19:29:43	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:00	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:03	TCQGaming	Exchange 241
+18-19:30:39	tessssssst	login 8
+18-19:30:39	tessssssst	xboyhd1	192.168.1.100:39394	LoginHwId_1513724674	639324413
+18-19:30:39	tessssssst	NewWorld 8
+18-19:30:39	tessssssst	AddItem	Túi Tân Thủ(1752841839)	Way100	Value2821109
+18-19:30:39	tessssssst	LevelUp	2
+18-19:30:39	tessssssst	LevelUp	3
+18-19:30:39	tessssssst	LevelUp	4
+18-19:30:39	tessssssst	LevelUp	5
+18-19:30:39	tessssssst	LevelUp	6
+18-19:30:39	tessssssst	LevelUp	7
+18-19:30:39	tessssssst	LevelUp	8
+18-19:30:39	tessssssst	LevelUp	9
+18-19:30:39	tessssssst	LevelUp	10
+18-19:30:39	tessssssst	LevelUp	11
+18-19:30:39	tessssssst	LevelUp	12
+18-19:30:39	tessssssst	LevelUp	13
+18-19:30:39	tessssssst	LevelUp	14
+18-19:30:39	tessssssst	LevelUp	15
+18-19:30:39	tessssssst	LevelUp	16
+18-19:30:39	tessssssst	LevelUp	17
+18-19:30:39	tessssssst	LevelUp	18
+18-19:30:39	tessssssst	LevelUp	19
+18-19:30:39	tessssssst	LevelUp	20
+18-19:30:39	tessssssst	LevelUp	21
+18-19:30:39	tessssssst	LevelUp	22
+18-19:30:39	tessssssst	LevelUp	23
+18-19:30:39	tessssssst	LevelUp	24
+18-19:30:39	tessssssst	LevelUp	25
+18-19:30:39	tessssssst	LevelUp	26
+18-19:30:39	tessssssst	LevelUp	27
+18-19:30:39	tessssssst	LevelUp	28
+18-19:30:39	tessssssst	LevelUp	29
+18-19:30:39	tessssssst	LevelUp	30
+18-19:30:39	tessssssst	LevelUp	31
+18-19:30:39	tessssssst	LevelUp	32
+18-19:30:39	tessssssst	LevelUp	33
+18-19:30:39	tessssssst	LevelUp	34
+18-19:30:39	tessssssst	LevelUp	35
+18-19:30:39	tessssssst	LevelUp	36
+18-19:30:39	tessssssst	LevelUp	37
+18-19:30:39	tessssssst	LevelUp	38
+18-19:30:39	tessssssst	LevelUp	39
+18-19:30:39	tessssssst	LevelUp	40
+18-19:30:39	tessssssst	LevelUp	41
+18-19:30:39	tessssssst	LevelUp	42
+18-19:30:39	tessssssst	LevelUp	43
+18-19:30:39	tessssssst	LevelUp	44
+18-19:30:39	tessssssst	LevelUp	45
+18-19:30:39	tessssssst	LevelUp	46
+18-19:30:39	tessssssst	LevelUp	47
+18-19:30:39	tessssssst	LevelUp	48
+18-19:30:39	tessssssst	LevelUp	49
+18-19:30:39	tessssssst	LevelUp	50
+18-19:30:39	tessssssst	LevelUp	51
+18-19:30:39	tessssssst	LevelUp	52
+18-19:30:39	tessssssst	LevelUp	53
+18-19:30:39	tessssssst	LevelUp	54
+18-19:30:39	tessssssst	LevelUp	55
+18-19:30:39	tessssssst	LevelUp	56
+18-19:30:39	tessssssst	LevelUp	57
+18-19:30:39	tessssssst	LevelUp	58
+18-19:30:39	tessssssst	LevelUp	59
+18-19:30:39	tessssssst	LevelUp	60
+18-19:30:39	tessssssst	LevelUp	61
+18-19:30:39	tessssssst	LevelUp	62
+18-19:30:39	tessssssst	LevelUp	63
+18-19:30:39	tessssssst	LevelUp	64
+18-19:30:39	tessssssst	LevelUp	65
+18-19:30:39	tessssssst	LevelUp	66
+18-19:30:39	tessssssst	LevelUp	67
+18-19:30:39	tessssssst	LevelUp	68
+18-19:30:39	tessssssst	LevelUp	69
+18-19:30:39	tessssssst	LevelUp	70
+18-19:30:39	tessssssst	LevelUp	71
+18-19:30:39	tessssssst	LevelUp	72
+18-19:30:39	tessssssst	LevelUp	73
+18-19:30:39	tessssssst	LevelUp	74
+18-19:30:39	tessssssst	LevelUp	75
+18-19:30:39	tessssssst	LevelUp	76
+18-19:30:39	tessssssst	LevelUp	77
+18-19:30:39	tessssssst	LevelUp	78
+18-19:30:39	tessssssst	LevelUp	79
+18-19:30:39	tessssssst	LevelUp	80
+18-19:30:39	tessssssst	AddItem	Túi Khởi La(1752841839)	Way100	Value1050000
+18-19:30:39	tessssssst	AddItem	Túi Khởi La(1752841839)	Way100	Value1050000
+18-19:30:39	tessssssst	AddItem	Lệnh bài Uy danh giang hồ(1752841839)	Way100	Value100000
+18-19:30:39	tessssssst	AddItem	Huyền Tinh Cấp 5(1752841839)	Way100	Value67184
+18-19:30:39	tessssssst	AddItem	Ngọc Trúc Mai Hoa 50 (tháng)(1752841839)	Way100	Value100000
+18-19:30:39	tessssssst	AddBindCoin	AddWay100	Count	150000
+18-19:30:39	tessssssst	AddBindMoney	AddWay100	Count	2000000
+18-19:30:39	tessssssst	AddItem	Ngũ Hành Hồn Thạch(1752841839)	Way100	Value999000
+18-19:30:39	tessssssst	xboyhd1	1513724674	1677830336	SetForbitCode0
+18-19:30:39	tessssssst	NewWorld 8
+18-19:30:42	tessssssst	UseItem	Túi Tân Thủ
+18-19:30:43	tessssssst	UseItem	Ngọc Trúc Mai Hoa 50 (tháng)
+18-19:30:43	tessssssst	RemoveItem	Ngọc Trúc Mai Hoa 50 (tháng)(1752841839)	Way5	Value100000
+18-19:30:46	tessssssst	UseItem	Túi Tân Thủ
+18-19:30:49	tessssssst	AddItem	Vô Hạn Truyền Tống Phù(1752841849)	Way100	Value150000
+18-19:30:50	tessssssst	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:54	tessssssst	NewWorld 22
+18-19:30:55	tessssssst	UseItem	Táo Hồng
+18-19:31:06	tessssssst	dialog Dương Thiết Tâm
+18-19:33:24	TCQGaming	login 22
+18-19:33:24	TCQGaming	xboyhd	192.168.1.100:42466	LoginHwId_2539837046	639324413
+18-19:33:26	TCQGaming	UseItem	Thẻ GM
+18-19:33:34	TCQGaming	dialog Dương Thiết Tâm
+18-19:33:52	TCQGaming	UseItem	Thẻ GM
+18-19:33:54	TCQGaming	dialog Dương Thiết Tâm
+18-19:33:56	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1752842036)	Way100	Value217678
+18-19:29:14	TCQGaming	login 22
+18-19:29:14	TCQGaming	xboyhd	192.168.1.100:28131	LoginHwId_2539837046	639324413
+18-19:29:14	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:14	TCQGaming	NewWorld 8
+18-19:29:19	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:22	TCQGaming	NewWorld 22
+18-19:29:29	tessssssst	login 22
+18-19:29:29	tessssssst	xboyhd1	192.168.1.100:28643	LoginHwId_1513724674	639324413
+18-19:29:29	tessssssst	xboyhd1	1513724674	1677830336	SetForbitCode0
+18-19:29:29	tessssssst	NewWorld 8
+18-19:29:48	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:04	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:07	TCQGaming	Exchange 241
+18-19:31:43	TCQGaming	login 22
+18-19:31:43	TCQGaming	xboyhd	192.168.1.100:31715	LoginHwId_2539837046	639324413
+18-19:31:54	TCQGaming	dialog Dương Thiết Tâm
+18-19:31:57	TCQGaming	Exchange 241
+18-19:33:03	testttt	login 8
+18-19:33:04	testttt	xboyhd2	192.168.1.100:32995	LoginHwId_1513724674	639324413
+18-19:33:04	testttt	NewWorld 8
+18-19:33:04	testttt	AddItem	Túi Tân Thủ(1752841984)	Way100	Value2821109
+18-19:33:04	testttt	LevelUp	2
+18-19:33:04	testttt	LevelUp	3
+18-19:33:04	testttt	LevelUp	4
+18-19:33:04	testttt	LevelUp	5
+18-19:33:04	testttt	LevelUp	6
+18-19:33:04	testttt	LevelUp	7
+18-19:33:04	testttt	LevelUp	8
+18-19:33:04	testttt	LevelUp	9
+18-19:33:04	testttt	LevelUp	10
+18-19:33:04	testttt	LevelUp	11
+18-19:33:04	testttt	LevelUp	12
+18-19:33:04	testttt	LevelUp	13
+18-19:33:04	testttt	LevelUp	14
+18-19:33:04	testttt	LevelUp	15
+18-19:33:04	testttt	LevelUp	16
+18-19:33:04	testttt	LevelUp	17
+18-19:33:04	testttt	LevelUp	18
+18-19:33:04	testttt	LevelUp	19
+18-19:33:04	testttt	LevelUp	20
+18-19:33:04	testttt	LevelUp	21
+18-19:33:04	testttt	LevelUp	22
+18-19:33:04	testttt	LevelUp	23
+18-19:33:04	testttt	LevelUp	24
+18-19:33:04	testttt	LevelUp	25
+18-19:33:04	testttt	LevelUp	26
+18-19:33:04	testttt	LevelUp	27
+18-19:33:04	testttt	LevelUp	28
+18-19:33:04	testttt	LevelUp	29
+18-19:33:04	testttt	LevelUp	30
+18-19:33:04	testttt	LevelUp	31
+18-19:33:04	testttt	LevelUp	32
+18-19:33:04	testttt	LevelUp	33
+18-19:33:04	testttt	LevelUp	34
+18-19:33:04	testttt	LevelUp	35
+18-19:33:04	testttt	LevelUp	36
+18-19:33:04	testttt	LevelUp	37
+18-19:33:04	testttt	LevelUp	38
+18-19:33:04	testttt	LevelUp	39
+18-19:33:04	testttt	LevelUp	40
+18-19:33:04	testttt	LevelUp	41
+18-19:33:04	testttt	LevelUp	42
+18-19:33:04	testttt	LevelUp	43
+18-19:33:04	testttt	LevelUp	44
+18-19:33:04	testttt	LevelUp	45
+18-19:33:04	testttt	LevelUp	46
+18-19:33:04	testttt	LevelUp	47
+18-19:33:04	testttt	LevelUp	48
+18-19:33:04	testttt	LevelUp	49
+18-19:33:04	testttt	LevelUp	50
+18-19:33:04	testttt	LevelUp	51
+18-19:33:04	testttt	LevelUp	52
+18-19:33:04	testttt	LevelUp	53
+18-19:33:04	testttt	LevelUp	54
+18-19:33:04	testttt	LevelUp	55
+18-19:33:04	testttt	LevelUp	56
+18-19:33:04	testttt	LevelUp	57
+18-19:33:04	testttt	LevelUp	58
+18-19:33:04	testttt	LevelUp	59
+18-19:33:04	testttt	LevelUp	60
+18-19:33:04	testttt	LevelUp	61
+18-19:33:04	testttt	LevelUp	62
+18-19:33:04	testttt	LevelUp	63
+18-19:33:04	testttt	LevelUp	64
+18-19:33:04	testttt	LevelUp	65
+18-19:33:04	testttt	LevelUp	66
+18-19:33:04	testttt	LevelUp	67
+18-19:33:04	testttt	LevelUp	68
+18-19:33:04	testttt	LevelUp	69
+18-19:33:04	testttt	LevelUp	70
+18-19:33:04	testttt	LevelUp	71
+18-19:33:04	testttt	LevelUp	72
+18-19:33:04	testttt	LevelUp	73
+18-19:33:04	testttt	LevelUp	74
+18-19:33:04	testttt	LevelUp	75
+18-19:33:04	testttt	LevelUp	76
+18-19:33:04	testttt	LevelUp	77
+18-19:33:04	testttt	LevelUp	78
+18-19:33:04	testttt	LevelUp	79
+18-19:33:04	testttt	LevelUp	80
+18-19:33:04	testttt	AddItem	Túi Khởi La(1752841984)	Way100	Value1050000
+18-19:33:04	testttt	AddItem	Túi Khởi La(1752841984)	Way100	Value1050000
+18-19:33:04	testttt	AddItem	Lệnh bài Uy danh giang hồ(1752841984)	Way100	Value100000
+18-19:33:04	testttt	AddItem	Huyền Tinh Cấp 5(1752841984)	Way100	Value67184
+18-19:33:04	testttt	AddItem	Ngọc Trúc Mai Hoa 50 (tháng)(1752841984)	Way100	Value100000
+18-19:33:04	testttt	AddBindCoin	AddWay100	Count	150000
+18-19:33:04	testttt	AddBindMoney	AddWay100	Count	2000000
+18-19:33:04	testttt	AddItem	Ngũ Hành Hồn Thạch(1752841984)	Way100	Value999000
+18-19:33:04	testttt	xboyhd2	1513724674	1677830336	SetForbitCode0
+18-19:33:04	testttt	NewWorld 8
+18-19:33:05	testttt	UseItem	Ngọc Trúc Mai Hoa 50 (tháng)
+18-19:33:05	testttt	RemoveItem	Ngọc Trúc Mai Hoa 50 (tháng)(1752841984)	Way5	Value100000
+18-19:33:08	testttt	UseItem	Túi Tân Thủ
+18-19:33:13	testttt	dialog Phó Thiếu Khanh
+18-19:33:13	testttt	UseItem	Ô Truy
+18-19:33:15	testttt	UseItem	Túi Tân Thủ
+18-19:33:18	testttt	AddItem	Vô Hạn Truyền Tống Phù(1752841998)	Way100	Value150000
+18-19:33:20	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:33:23	testttt	Exchange 10
+18-19:29:27	TCQGaming	login 241
+18-19:29:27	TCQGaming	xboyhd	192.168.1.100:52963	LoginHwId_2539837046	639324413
+18-19:29:27	TCQGaming	NewWorld 241
+18-19:29:27	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:27	TCQGaming	Exchange 8
+18-19:29:28	TCQGaming	login 8
+18-19:29:28	TCQGaming	xboyhd	192.168.1.100:53219	LoginHwId_2539837046	639324413
+18-19:29:29	testttt	login 10
+18-19:29:29	testttt	xboyhd2	192.168.1.100:53475	LoginHwId_1513724674	639324413
+18-19:29:29	testttt	xboyhd2	1513724674	1677830336	SetForbitCode0
+18-19:29:29	testttt	Exchange 8
+18-19:29:29	testttt	login 8
+18-19:29:30	testttt	xboyhd2	192.168.1.100:53731	LoginHwId_1513724674	639324413
+18-19:29:31	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:34	TCQGaming	NewWorld 22
+18-19:29:36	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:39	testttt	Exchange 10
+18-19:29:39	testttt	login 10
+18-19:29:39	testttt	xboyhd2	192.168.1.100:54755	LoginHwId_1513724674	639324413
+18-19:29:43	testttt	UseItem	Táo Hồng
+18-19:29:45	testttt	UseItem	Lệnh bài Uy danh giang hồ
+18-19:29:45	testttt	RemoveItem	Lệnh bài Uy danh giang hồ(1752841984)	Way5	Value100000
+18-19:29:58	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:02	TCQGaming	Exchange 241
+18-19:30:02	TCQGaming	login 241
+18-19:30:02	TCQGaming	xboyhd	192.168.1.100:55267	LoginHwId_2539837046	639324413
+18-19:30:02	TCQGaming	NewWorld 241
+18-19:30:13	testttt	dialog Hoàn Nhan Tương
+18-19:30:15	testttt	NewWorld 241
+18-19:30:15	testttt	NewWorld 241
+18-19:31:12	TCQGaming	UseItem	Thẻ GM
+18-19:29:35	TCQGaming	login 241
+18-19:29:35	TCQGaming	xboyhd	192.168.1.100:40932	LoginHwId_2539837046	639324413
+18-19:29:35	TCQGaming	NewWorld 241
+18-19:29:35	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:35	TCQGaming	Exchange 8
+18-19:29:36	TCQGaming	login 8
+18-19:29:36	TCQGaming	xboyhd	192.168.1.100:41188	LoginHwId_2539837046	639324413
+18-19:29:40	TCQGaming	dialog Sứ Giả Sự Kiện
+18-19:29:40	testttt	login 241
+18-19:29:41	testttt	xboyhd2	192.168.1.100:41444	LoginHwId_1513724674	639324413
+18-19:29:41	testttt	NewWorld 241
+18-19:29:41	testttt	xboyhd2	1513724674	1677830336	SetForbitCode0
+18-19:29:41	testttt	Exchange 8
+18-19:29:41	testttt	login 8
+18-19:29:41	testttt	xboyhd2	192.168.1.100:41700	LoginHwId_1513724674	639324413
+18-19:29:42	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:45	TCQGaming	NewWorld 22
+18-19:29:48	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:51	testttt	NewWorld 22
+18-19:30:02	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:05	TCQGaming	Exchange 241
+18-19:30:06	TCQGaming	login 241
+18-19:30:06	TCQGaming	xboyhd	192.168.1.100:41956	LoginHwId_2539837046	639324413
+18-19:30:06	TCQGaming	NewWorld 241
+18-19:30:09	testttt	dialog Dương Thiết Tâm
+18-19:30:11	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:14	testttt	Exchange 10
+18-19:30:15	testttt	login 10
+18-19:30:15	testttt	xboyhd2	192.168.1.100:42468	LoginHwId_1513724674	639324413
+18-19:30:44	testttt	dialog Hoàn Nhan Tương
+18-19:30:46	testttt	NewWorld 241
+18-19:30:46	testttt	NewWorld 241
+18-19:37:12	TCQGaming	dialog Quan Ghi Danh
+18-19:37:15	TCQGaming	NewWorld 9
+18-19:37:16	TCQGaming	dialog Huyền Từ
+18-19:37:18	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:37:20	TCQGaming	Exchange 22
+18-19:37:21	TCQGaming	login 22
+18-19:37:21	TCQGaming	xboyhd	192.168.1.100:56036	LoginHwId_2539837046	639324413
+18-19:37:31	TCQGaming	dialog Dương Thiết Tâm
+18-19:37:38	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:37:40	TCQGaming	NewWorld 8
+18-19:37:59	TCQGaming	dialog Lễ Quan
+18-19:29:49	TCQGaming	login 22
+18-19:29:49	TCQGaming	xboyhd	192.168.1.100:7653	LoginHwId_2539837046	639324413
+18-19:29:49	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:49	TCQGaming	NewWorld 8
+18-19:29:55	testttt	login 10
+18-19:29:55	testttt	xboyhd2	192.168.1.100:7909	LoginHwId_1513724674	639324413
+18-19:29:55	testttt	xboyhd2	1513724674	1677830336	SetForbitCode0
+18-19:29:55	testttt	Exchange 8
+18-19:29:55	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:55	testttt	login 8
+18-19:29:56	testttt	xboyhd2	192.168.1.100:8165	LoginHwId_1513724674	639324413
+18-19:29:59	TCQGaming	NewWorld 22
+18-19:30:11	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:13	TCQGaming	Exchange 241
+18-19:30:13	TCQGaming	login 241
+18-19:30:14	TCQGaming	xboyhd	192.168.1.100:8421	LoginHwId_2539837046	639324413
+18-19:30:14	TCQGaming	NewWorld 241
+18-19:30:19	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:23	testttt	Exchange 10
+18-19:30:23	testttt	login 10
+18-19:30:24	testttt	xboyhd2	192.168.1.100:8933	LoginHwId_1513724674	639324413
+18-19:29:40	TCQGaming	login 241
+18-19:29:40	TCQGaming	xboyhd	192.168.1.100:57573	LoginHwId_2539837046	639324413
+18-19:29:40	TCQGaming	Exchange 242
+18-19:29:40	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:40	TCQGaming	Exchange 8
+18-19:29:41	TCQGaming	login 8
+18-19:29:41	TCQGaming	xboyhd	192.168.1.100:57829	LoginHwId_2539837046	639324413
+18-19:29:43	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:47	TCQGaming	NewWorld 22
+18-19:29:52	testttt	login 10
+18-19:29:52	testttt	xboyhd2	192.168.1.100:58085	LoginHwId_1513724674	639324413
+18-19:29:52	testttt	xboyhd2	1513724674	1677830336	SetForbitCode0
+18-19:29:52	testttt	Exchange 8
+18-19:29:52	testttt	login 8
+18-19:29:53	testttt	xboyhd2	192.168.1.100:58341	LoginHwId_1513724674	639324413
+18-19:29:55	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:59	testttt	Exchange 10
+18-19:30:00	testttt	login 10
+18-19:30:00	testttt	xboyhd2	192.168.1.100:58597	LoginHwId_1513724674	639324413
+18-19:30:04	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:06	TCQGaming	NewWorld 242
+18-19:31:25	testttt	dialog Hoàn Nhan Tương
+18-19:31:28	testttt	NewWorld 248
+18-19:41:14	TCQGaming	dialog Chủ Tiệm Tạp Hóa
+18-19:29:50	TCQGaming	login 242
+18-19:29:51	TCQGaming	xboyhd	192.168.1.100:35302	LoginHwId_2539837046	639324413
+18-19:29:51	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:51	TCQGaming	NewWorld 8
+18-19:29:55	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:55	testttt	login 248
+18-19:29:55	testttt	xboyhd2	192.168.1.100:35558	LoginHwId_1513724674	639324413
+18-19:29:55	testttt	xboyhd2	1513724674	1677830336	SetForbitCode0
+18-19:29:55	testttt	Exchange 8
+18-19:29:55	testttt	login 8
+18-19:29:56	testttt	xboyhd2	192.168.1.100:35814	LoginHwId_1513724674	639324413
+18-19:29:57	TCQGaming	NewWorld 22
+18-19:30:01	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:03	testttt	Exchange 10
+18-19:30:04	testttt	login 10
+18-19:30:04	testttt	xboyhd2	192.168.1.100:36582	LoginHwId_1513724674	639324413
+18-19:30:27	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:29	TCQGaming	NewWorld 242
+18-19:29:29	TCQGaming	login 242
+18-19:29:29	TCQGaming	xboyhd	192.168.1.100:55270	LoginHwId_2539837046	639324413
+18-19:29:29	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:29	TCQGaming	NewWorld 8
+18-19:29:30	testttt	login 10
+18-19:29:30	testttt	xboyhd2	192.168.1.100:55526	LoginHwId_1513724674	639324413
+18-19:29:30	testttt	xboyhd2	1513724674	1677830336	SetForbitCode0
+18-19:29:30	testttt	Exchange 8
+18-19:29:31	testttt	login 8
+18-19:29:31	testttt	xboyhd2	192.168.1.100:55782	LoginHwId_1513724674	639324413
+18-19:29:33	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:37	TCQGaming	NewWorld 22
+18-19:29:38	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:41	testttt	Exchange 10
+18-19:29:41	testttt	login 10
+18-19:29:42	testttt	xboyhd2	192.168.1.100:56294	LoginHwId_1513724674	639324413
+18-19:30:22	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:24	TCQGaming	NewWorld 242
+18-19:29:46	testttt	login 10
+18-19:29:46	testttt	xboyhd2	192.168.1.100:10471	LoginHwId_1513724674	639324413
+18-19:29:46	testttt	xboyhd2	1513724674	1677830336	SetForbitCode0
+18-19:29:46	testttt	Exchange 8
+18-19:29:47	testttt	login 8
+18-19:29:47	testttt	xboyhd2	192.168.1.100:10727	LoginHwId_1513724674	639324413
+18-19:29:48	TCQGaming	login 242
+18-19:29:48	TCQGaming	xboyhd	192.168.1.100:10983	LoginHwId_2539837046	639324413
+18-19:29:48	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:48	TCQGaming	NewWorld 8
+18-19:29:51	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:53	TCQGaming	NewWorld 22
+18-19:29:55	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:58	testttt	Exchange 10
+18-19:29:59	testttt	login 10
+18-19:29:59	testttt	xboyhd2	192.168.1.100:11751	LoginHwId_1513724674	639324413
+18-19:30:27	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:30	TCQGaming	NewWorld 242
+18-19:30:36	testttt	dialog Hoàn Nhan Tương
+18-19:30:38	testttt	NewWorld 248
+18-19:31:50	thieulamne	login 8
+18-19:31:51	thieulamne	xboyhd5	192.168.1.100:13031	LoginHwId_2520388098	639324413
+18-19:31:51	thieulamne	NewWorld 8
+18-19:31:51	thieulamne	AddItem	Túi Tân Thủ(1752841911)	Way100	Value2821109
+18-19:31:51	thieulamne	LevelUp	2
+18-19:31:51	thieulamne	LevelUp	3
+18-19:31:51	thieulamne	LevelUp	4
+18-19:31:51	thieulamne	LevelUp	5
+18-19:31:51	thieulamne	LevelUp	6
+18-19:31:51	thieulamne	LevelUp	7
+18-19:31:51	thieulamne	LevelUp	8
+18-19:31:51	thieulamne	LevelUp	9
+18-19:31:51	thieulamne	LevelUp	10
+18-19:31:51	thieulamne	LevelUp	11
+18-19:31:51	thieulamne	LevelUp	12
+18-19:31:51	thieulamne	LevelUp	13
+18-19:31:51	thieulamne	LevelUp	14
+18-19:31:51	thieulamne	LevelUp	15
+18-19:31:51	thieulamne	LevelUp	16
+18-19:31:51	thieulamne	LevelUp	17
+18-19:31:51	thieulamne	LevelUp	18
+18-19:31:51	thieulamne	LevelUp	19
+18-19:31:51	thieulamne	LevelUp	20
+18-19:31:51	thieulamne	LevelUp	21
+18-19:31:51	thieulamne	LevelUp	22
+18-19:31:51	thieulamne	LevelUp	23
+18-19:31:51	thieulamne	LevelUp	24
+18-19:31:51	thieulamne	LevelUp	25
+18-19:31:51	thieulamne	LevelUp	26
+18-19:31:51	thieulamne	LevelUp	27
+18-19:31:51	thieulamne	LevelUp	28
+18-19:31:51	thieulamne	LevelUp	29
+18-19:31:51	thieulamne	LevelUp	30
+18-19:31:51	thieulamne	LevelUp	31
+18-19:31:51	thieulamne	LevelUp	32
+18-19:31:51	thieulamne	LevelUp	33
+18-19:31:51	thieulamne	LevelUp	34
+18-19:31:51	thieulamne	LevelUp	35
+18-19:31:51	thieulamne	LevelUp	36
+18-19:31:51	thieulamne	LevelUp	37
+18-19:31:51	thieulamne	LevelUp	38
+18-19:31:51	thieulamne	LevelUp	39
+18-19:31:51	thieulamne	LevelUp	40
+18-19:31:51	thieulamne	LevelUp	41
+18-19:31:51	thieulamne	LevelUp	42
+18-19:31:51	thieulamne	LevelUp	43
+18-19:31:51	thieulamne	LevelUp	44
+18-19:31:51	thieulamne	LevelUp	45
+18-19:31:51	thieulamne	LevelUp	46
+18-19:31:51	thieulamne	LevelUp	47
+18-19:31:51	thieulamne	LevelUp	48
+18-19:31:51	thieulamne	LevelUp	49
+18-19:31:51	thieulamne	LevelUp	50
+18-19:31:51	thieulamne	LevelUp	51
+18-19:31:51	thieulamne	LevelUp	52
+18-19:31:51	thieulamne	LevelUp	53
+18-19:31:51	thieulamne	LevelUp	54
+18-19:31:51	thieulamne	LevelUp	55
+18-19:31:51	thieulamne	LevelUp	56
+18-19:31:51	thieulamne	LevelUp	57
+18-19:31:51	thieulamne	LevelUp	58
+18-19:31:51	thieulamne	LevelUp	59
+18-19:31:51	thieulamne	LevelUp	60
+18-19:31:51	thieulamne	LevelUp	61
+18-19:31:51	thieulamne	LevelUp	62
+18-19:31:51	thieulamne	LevelUp	63
+18-19:31:51	thieulamne	LevelUp	64
+18-19:31:51	thieulamne	LevelUp	65
+18-19:31:51	thieulamne	LevelUp	66
+18-19:31:51	thieulamne	LevelUp	67
+18-19:31:51	thieulamne	LevelUp	68
+18-19:31:51	thieulamne	LevelUp	69
+18-19:31:51	thieulamne	LevelUp	70
+18-19:31:51	thieulamne	LevelUp	71
+18-19:31:51	thieulamne	LevelUp	72
+18-19:31:51	thieulamne	LevelUp	73
+18-19:31:51	thieulamne	LevelUp	74
+18-19:31:51	thieulamne	LevelUp	75
+18-19:31:51	thieulamne	LevelUp	76
+18-19:31:51	thieulamne	LevelUp	77
+18-19:31:51	thieulamne	LevelUp	78
+18-19:31:51	thieulamne	LevelUp	79
+18-19:31:51	thieulamne	LevelUp	80
+18-19:31:51	thieulamne	AddItem	Túi Khởi La(1752841911)	Way100	Value1050000
+18-19:31:51	thieulamne	AddItem	Túi Khởi La(1752841911)	Way100	Value1050000
+18-19:31:51	thieulamne	AddItem	Lệnh bài Uy danh giang hồ(1752841911)	Way100	Value100000
+18-19:31:51	thieulamne	AddItem	Huyền Tinh Cấp 5(1752841911)	Way100	Value67184
+18-19:31:51	thieulamne	AddItem	Ngọc Trúc Mai Hoa 50 (tháng)(1752841911)	Way100	Value100000
+18-19:31:51	thieulamne	AddBindCoin	AddWay100	Count	150000
+18-19:31:51	thieulamne	AddBindMoney	AddWay100	Count	2000000
+18-19:31:51	thieulamne	AddItem	Ngũ Hành Hồn Thạch(1752841911)	Way100	Value999000
+18-19:31:51	thieulamne	xboyhd5	2520388098	1677830336	SetForbitCode0
+18-19:31:51	thieulamne	NewWorld 8
+18-19:31:54	thieulamne	UseItem	Túi Tân Thủ
+18-19:31:55	thieulamne	UseItem	Ngọc Trúc Mai Hoa 50 (tháng)
+18-19:31:55	thieulamne	RemoveItem	Ngọc Trúc Mai Hoa 50 (tháng)(1752841911)	Way5	Value100000
+18-19:31:58	thieulamne	UseItem	Ô Truy
+18-19:31:59	thieulamne	UseItem	Lệnh bài Uy danh giang hồ
+18-19:31:59	thieulamne	RemoveItem	Lệnh bài Uy danh giang hồ(1752841911)	Way5	Value100000
+18-19:31:59	thieulamne	UseItem	Túi Khởi La
+18-19:32:00	thieulamne	UseItem	Túi Khởi La
+18-19:32:00	thieulamne	UseItem	Túi Tân Thủ
+18-19:32:03	thieulamne	AddItem	Vô Hạn Truyền Tống Phù(1752841923)	Way100	Value150000
+18-19:32:04	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:32:06	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:32:08	thieulamne	Exchange 9
+18-19:32:09	thieulamne	login 9
+18-19:32:09	thieulamne	xboyhd5	192.168.1.100:13287	LoginHwId_2520388098	639324413
+18-19:32:18	thieulamne	dialog Huyền Từ
+18-19:32:19	thieulamne	NewWorld 241
+18-19:32:19	thieulamne	NewWorld 241
+18-19:29:49	TCQGaming	login 242
+18-19:29:50	TCQGaming	xboyhd	192.168.1.100:35815	LoginHwId_2539837046	639324413
+18-19:29:50	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:50	TCQGaming	NewWorld 8
+18-19:29:53	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:01	TCQGaming	NewWorld 22
+18-19:30:06	testttt	login 8
+18-19:30:06	testttt	xboyhd2	192.168.1.100:36839	LoginHwId_1513724674	639324413
+18-19:30:08	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:12	testttt	Exchange 10
+18-19:30:16	thieulamne	login 8
+18-19:30:17	thieulamne	xboyhd5	192.168.1.100:37607	LoginHwId_2520388098	639324413
+18-19:30:17	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:19	TCQGaming	NewWorld 242
+18-19:30:49	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:51	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:53	thieulamne	Exchange 9
+18-19:29:38	thieulamne	login 9
+18-19:29:38	thieulamne	xboyhd5	192.168.1.100:19944	LoginHwId_2520388098	639324413
+18-19:29:38	thieulamne	xboyhd5	2520388098	1677830336	SetForbitCode0
+18-19:29:38	thieulamne	Exchange 8
+18-19:29:39	thieulamne	login 8
+18-19:29:39	thieulamne	xboyhd5	192.168.1.100:20200	LoginHwId_2520388098	639324413
+18-19:29:44	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:46	TCQGaming	login 241
+18-19:29:46	TCQGaming	xboyhd	192.168.1.100:20456	LoginHwId_2539837046	639324413
+18-19:29:46	TCQGaming	Exchange 242
+18-19:29:46	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:46	TCQGaming	Exchange 8
+18-19:29:46	TCQGaming	login 8
+18-19:29:47	TCQGaming	xboyhd	192.168.1.100:20712	LoginHwId_2539837046	639324413
+18-19:29:47	thieulamne	Exchange 9
+18-19:29:47	thieulamne	login 9
+18-19:29:47	thieulamne	xboyhd5	192.168.1.100:20968	LoginHwId_2520388098	639324413
+18-19:29:50	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:52	TCQGaming	NewWorld 22
+18-19:30:03	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:05	TCQGaming	NewWorld 242
+18-19:30:08	thieulamne	dialog Huyền Từ
+18-19:30:10	thieulamne	NewWorld 241
+18-19:30:10	thieulamne	NewWorld 241
+18-19:29:52	TCQGaming	login 8
+18-19:29:53	TCQGaming	xboyhd	192.168.1.100:43752	LoginHwId_2539837046	639324413
+18-19:29:53	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:53	TCQGaming	NewWorld 8
+18-19:29:55	thieulamne	login 9
+18-19:29:55	thieulamne	xboyhd5	192.168.1.100:44008	LoginHwId_2520388098	639324413
+18-19:29:55	thieulamne	xboyhd5	2520388098	1677830336	SetForbitCode0
+18-19:29:55	thieulamne	Exchange 8
+18-19:29:56	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:56	thieulamne	login 8
+18-19:29:56	thieulamne	xboyhd5	192.168.1.100:44264	LoginHwId_2520388098	639324413
+18-19:29:58	TCQGaming	NewWorld 22
+18-19:29:59	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:01	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:03	thieulamne	Exchange 9
+18-19:30:03	thieulamne	login 9
+18-19:30:03	thieulamne	xboyhd5	192.168.1.100:44520	LoginHwId_2520388098	639324413
+18-19:30:57	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:58	TCQGaming	NewWorld 242
+18-19:31:00	thieulamne	dialog Huyền Từ
+18-19:31:01	thieulamne	dialog Huyền Từ
+18-19:31:02	thieulamne	NewWorld 241
+18-19:31:02	thieulamne	NewWorld 241
+18-19:29:00	TCQGaming	login 8
+18-19:29:00	TCQGaming	xboyhd	192.168.1.100:64488	LoginHwId_2539837046	639324413
+18-19:29:00	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:00	TCQGaming	NewWorld 8
+18-19:29:03	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:05	TCQGaming	NewWorld 22
+18-19:29:08	thieulamne	login 9
+18-19:29:08	thieulamne	xboyhd5	192.168.1.100:64744	LoginHwId_2520388098	639324413
+18-19:29:08	thieulamne	xboyhd5	2520388098	1677830336	SetForbitCode0
+18-19:29:08	thieulamne	Exchange 8
+18-19:29:08	thieulamne	login 8
+18-19:29:08	thieulamne	xboyhd5	192.168.1.100:65000	LoginHwId_2520388098	639324413
+18-19:29:10	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:13	thieulamne	Exchange 9
+18-19:29:13	thieulamne	login 9
+18-19:29:14	thieulamne	xboyhd5	192.168.1.100:65512	LoginHwId_2520388098	639324413
+18-19:29:28	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:03	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:05	TCQGaming	NewWorld 242
+18-19:30:12	thieulamne	dialog Huyền Từ
+18-19:30:14	thieulamne	NewWorld 241
+18-19:30:14	thieulamne	NewWorld 241
+18-19:29:35	thieulamne	login 9
+18-19:29:35	thieulamne	xboyhd5	192.168.1.100:19433	LoginHwId_2520388098	639324413
+18-19:29:35	thieulamne	xboyhd5	2520388098	1677830336	SetForbitCode0
+18-19:29:35	thieulamne	Exchange 8
+18-19:29:35	thieulamne	login 8
+18-19:29:35	thieulamne	xboyhd5	192.168.1.100:19689	LoginHwId_2520388098	639324413
+18-19:29:37	TCQGaming	login 8
+18-19:29:38	TCQGaming	xboyhd	192.168.1.100:19945	LoginHwId_2539837046	639324413
+18-19:29:38	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:38	TCQGaming	NewWorld 8
+18-19:29:39	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:43	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:45	thieulamne	Exchange 9
+18-19:29:45	thieulamne	login 9
+18-19:29:46	thieulamne	xboyhd5	192.168.1.100:20457	LoginHwId_2520388098	639324413
+18-19:29:46	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:49	TCQGaming	NewWorld 22
+18-19:30:26	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:28	TCQGaming	NewWorld 242
+18-19:29:42	TCQGaming	login 8
+18-19:29:43	TCQGaming	xboyhd	192.168.1.100:37353	LoginHwId_2539837046	639324413
+18-19:29:43	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:43	TCQGaming	NewWorld 8
+18-19:29:43	thieulamne	login 9
+18-19:29:43	thieulamne	xboyhd5	192.168.1.100:37609	LoginHwId_2520388098	639324413
+18-19:29:43	thieulamne	xboyhd5	2520388098	1677830336	SetForbitCode0
+18-19:29:43	thieulamne	Exchange 8
+18-19:29:43	thieulamne	login 8
+18-19:29:43	thieulamne	xboyhd5	192.168.1.100:37865	LoginHwId_2520388098	639324413
+18-19:29:44	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:46	TCQGaming	NewWorld 22
+18-19:29:47	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:49	thieulamne	Exchange 9
+18-19:29:49	thieulamne	login 9
+18-19:29:49	thieulamne	xboyhd5	192.168.1.100:38121	LoginHwId_2520388098	639324413
+18-19:30:09	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:11	TCQGaming	NewWorld 242
+18-19:30:57	thieulamne	dialog Huyền Từ
+18-19:30:59	thieulamne	NewWorld 241
+18-19:30:59	thieulamne	NewWorld 241
+18-19:29:39	TCQGaming	login 8
+18-19:29:39	TCQGaming	xboyhd	192.168.1.100:56297	LoginHwId_2539837046	639324413
+18-19:29:39	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:39	TCQGaming	NewWorld 8
+18-19:29:40	thieulamne	login 9
+18-19:29:41	thieulamne	xboyhd5	192.168.1.100:56553	LoginHwId_2520388098	639324413
+18-19:29:41	thieulamne	xboyhd5	2520388098	1677830336	SetForbitCode0
+18-19:29:41	thieulamne	Exchange 8
+18-19:29:41	thieulamne	login 8
+18-19:29:41	thieulamne	xboyhd5	192.168.1.100:56809	LoginHwId_2520388098	639324413
+18-19:29:42	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:45	TCQGaming	NewWorld 22
+18-19:29:47	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:51	thieulamne	Exchange 9
+18-19:29:51	thieulamne	login 9
+18-19:29:51	thieulamne	xboyhd5	192.168.1.100:57065	LoginHwId_2520388098	639324413
+18-19:30:05	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:06	TCQGaming	NewWorld 242
+18-19:30:10	thieulamne	dialog Huyền Từ
+18-19:30:11	thieulamne	NewWorld 241
+18-19:30:11	thieulamne	NewWorld 241
+18-19:30:28	TCQGaming	login 242
+18-19:30:28	TCQGaming	xboyhd	192.168.1.100:58345	LoginHwId_2539837046	639324413
+18-19:30:28	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:30:28	TCQGaming	NewWorld 8
+18-19:30:32	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:34	TCQGaming	NewWorld 22
+18-19:30:42	thieulamne	login 241
+18-19:30:43	thieulamne	xboyhd5	192.168.1.100:58601	LoginHwId_2520388098	639324413
+18-19:30:43	thieulamne	NewWorld 241
+18-19:30:43	thieulamne	xboyhd5	2520388098	1677830336	SetForbitCode0
+18-19:30:43	thieulamne	Exchange 8
+18-19:30:43	thieulamne	login 8
+18-19:30:43	thieulamne	xboyhd5	192.168.1.100:58857	LoginHwId_2520388098	639324413
+18-19:30:48	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:50	TCQGaming	NewWorld 242
+18-19:30:54	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:58	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:59	thieulamne	Exchange 9
+18-19:31:00	thieulamne	login 9
+18-19:31:00	thieulamne	xboyhd5	192.168.1.100:59113	LoginHwId_2520388098	639324413
+18-19:31:08	thieulamne	dialog Huyền Từ
+18-19:31:12	thieulamne	dialog Huyền Từ
+18-19:29:47	TCQGaming	login 242
+18-19:29:47	TCQGaming	xboyhd	192.168.1.100:26602	LoginHwId_2539837046	639324413
+18-19:29:47	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:47	TCQGaming	NewWorld 8
+18-19:29:48	thieulamne	login 9
+18-19:29:48	thieulamne	xboyhd5	192.168.1.100:26858	LoginHwId_2520388098	639324413
+18-19:29:48	thieulamne	xboyhd5	2520388098	1677830336	SetForbitCode0
+18-19:29:48	thieulamne	Exchange 8
+18-19:29:48	thieulamne	login 8
+18-19:29:49	thieulamne	xboyhd5	192.168.1.100:27114	LoginHwId_2520388098	639324413
+18-19:29:50	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:53	TCQGaming	NewWorld 22
+18-19:29:55	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:58	thieulamne	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:00	thieulamne	Exchange 9
+18-19:30:00	thieulamne	login 9
+18-19:30:00	thieulamne	xboyhd5	192.168.1.100:27370	LoginHwId_2520388098	639324413
+18-19:30:11	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:13	TCQGaming	NewWorld 242
+18-19:31:34	thieulamne	dialog Huyền Từ
+18-19:29:40	TCQGaming	login 242
+18-19:29:40	TCQGaming	xboyhd	192.168.1.100:6379	LoginHwId_2539837046	639324413
+18-19:29:40	TCQGaming	Exchange 241
+18-19:29:40	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:40	TCQGaming	NewWorld 8
+18-19:29:41	TCQGaming	login 241
+18-19:29:41	thieulamne	login 9
+18-19:29:41	TCQGaming	xboyhd	192.168.1.100:6635	LoginHwId_2539837046	639324413
+18-19:29:41	TCQGaming	NewWorld 241
+18-19:29:41	thieulamne	xboyhd5	192.168.1.100:6891	LoginHwId_2520388098	639324413
+18-19:29:41	thieulamne	xboyhd5	2520388098	1677830336	SetForbitCode0
+18-19:29:41	thieulamne	Exchange 8
+18-19:29:41	thieulamne	login 8
+18-19:29:42	thieulamne	xboyhd5	192.168.1.100:7147	LoginHwId_2520388098	639324413
+18-19:29:50	TCQGaming	UseItem	Thẻ GM
+18-19:29:56	TCQGaming	dialog Quan Ghi Danh
+18-19:29:57	TCQGaming	dialog Quan Ghi Danh
+18-19:29:58	TCQGaming	NewWorld 9
+18-19:29:59	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:03	TCQGaming	Exchange 22
+18-19:30:03	TCQGaming	login 22
+18-19:30:04	TCQGaming	xboyhd	192.168.1.100:7915	LoginHwId_2539837046	639324413
+18-19:30:15	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:16	TCQGaming	Exchange 241
+18-19:30:17	TCQGaming	login 241
+18-19:30:17	TCQGaming	xboyhd	192.168.1.100:9963	LoginHwId_2539837046	639324413
+18-19:30:17	TCQGaming	NewWorld 241
+18-19:29:49	TCQGaming	login 241
+18-19:29:50	TCQGaming	xboyhd	192.168.1.100:50923	LoginHwId_2539837046	639324413
+18-19:29:50	TCQGaming	Exchange 242
+18-19:29:50	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:50	TCQGaming	Exchange 8
+18-19:29:50	TCQGaming	login 8
+18-19:29:50	TCQGaming	xboyhd	192.168.1.100:51179	LoginHwId_2539837046	639324413
+18-19:29:53	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:56	TCQGaming	NewWorld 22
+18-19:30:08	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:10	TCQGaming	NewWorld 242
+18-19:30:10	TCQGaming	NewWorld 242
+18-19:30:45	tessssssst	login 8
+18-19:30:45	tessssssst	xboyhd1	192.168.1.100:54763	LoginHwId_3867965182	639324413
+18-19:30:45	tessssssst	xboyhd1	3867965182	1677830336	SetForbitCode0
+18-19:30:45	tessssssst	NewWorld 8
+18-19:30:48	tessssssst	UseItem	Vô Hạn Truyền Tống Phù
+18-19:30:50	tessssssst	NewWorld 22
+18-19:31:01	tessssssst	dialog Dương Thiết Tâm
+18-19:29:23	TCQGaming	login 241
+18-19:29:24	TCQGaming	xboyhd	192.168.1.100:26860	LoginHwId_2539837046	639324413
+18-19:29:24	TCQGaming	Exchange 242
+18-19:29:24	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:24	TCQGaming	Exchange 8
+18-19:29:24	TCQGaming	login 8
+18-19:29:24	TCQGaming	xboyhd	192.168.1.100:27116	LoginHwId_2539837046	639324413
+18-19:29:25	tessssssst	login 241
+18-19:29:25	tessssssst	xboyhd1	192.168.1.100:27372	LoginHwId_3867965182	639324413
+18-19:29:25	tessssssst	Exchange 242
+18-19:29:25	tessssssst	xboyhd1	3867965182	1677830336	SetForbitCode0
+18-19:29:25	tessssssst	Exchange 8
+18-19:29:25	tessssssst	login 8
+18-19:29:26	tessssssst	xboyhd1	192.168.1.100:27628	LoginHwId_3867965182	639324413
+18-19:29:27	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:29	TCQGaming	NewWorld 22
+18-19:29:35	tessssssst	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:38	tessssssst	NewWorld 22
+18-19:29:45	testttt	login 10
+18-19:29:45	testttt	xboyhd2	192.168.1.100:27884	LoginHwId_3861681070	639324413
+18-19:29:45	testttt	xboyhd2	3861681070	1677830336	SetForbitCode0
+18-19:29:45	testttt	Exchange 8
+18-19:29:46	testttt	login 8
+18-19:29:46	testttt	xboyhd2	192.168.1.100:28140	LoginHwId_3861681070	639324413
+18-19:29:46	testttt	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:49	testttt	Exchange 10
+18-19:29:50	testttt	login 10
+18-19:29:50	testttt	xboyhd2	192.168.1.100:30700	LoginHwId_3861681070	639324413
+18-19:29:58	tessssssst	UseItem	Lệnh bài Uy danh giang hồ
+18-19:29:58	tessssssst	RemoveItem	Lệnh bài Uy danh giang hồ(1752841839)	Way5	Value100000
+18-19:30:03	tessssssst	dialog Dương Thiết Tâm
+18-19:30:04	tessssssst	NewWorld 242
+18-19:30:04	tessssssst	NewWorld 242
+18-19:30:06	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:07	TCQGaming	NewWorld 242
+18-19:30:07	TCQGaming	NewWorld 242
+18-19:30:20	testttt	dialog Hoàn Nhan Tương
+18-19:30:21	testttt	NewWorld 248
+18-19:30:21	testttt	NewWorld 248
+18-19:31:00	TCQGaming	NewWorld 242
+18-19:31:00	tessssssst	NewWorld 242
+18-19:31:30	TCQGaming	UseItem	Túi Tân Thủ
+18-19:31:31	TCQGaming	AddItem	Rương trang bị Tân Thủ(1752841891)	Way100	Value100000
+18-19:31:33	TCQGaming	UseItem	Rương trang bị Tân Thủ
+18-19:31:39	TCQGaming	UseItem	Rương trang bị Tân Thủ
+18-19:31:40	TCQGaming	AddItem	Kim Qua Chùy-Thương Lang(1752841900)	Way100	Value4406000
+18-19:31:40	TCQGaming	AddItem	Tỏa Tử Hoàng Kim Giáp-Nghịch Thủy(1752841900)	Way100	Value1038255
+18-19:31:40	TCQGaming	AddItem	Thôn Long Khôi-Chu Thiềm(1752841900)	Way100	Value1031446
+18-19:31:40	TCQGaming	AddItem	Ngọa Hổ Thúc Yêu-Diên Dương(1752841900)	Way100	Value1044355
+18-19:31:40	TCQGaming	AddItem	Tuyệt Hỏa Ngoa-Việt Quang(1752841900)	Way100	Value1064362
+18-19:31:40	TCQGaming	AddItem	Võ Thần Hộ Uyển-Cự Mộc(1752841900)	Way100	Value1032329
+18-19:31:40	TCQGaming	AddItem	Bắc Thần Liên-Nghịch Thủy(1752841900)	Way100	Value1569624
+18-19:31:40	TCQGaming	AddItem	Thương Khung Giới-Diên Dương(1752841900)	Way100	Value1588129
+18-19:31:40	TCQGaming	AddItem	Long Thủ Bội-Cự Mộc(1752841900)	Way100	Value1548493
+18-19:31:40	TCQGaming	AddItem	Thiên Ma Phù-Việt Quang(1752841900)	Way100	Value1594668
+18-19:31:40	TCQGaming	RemoveItem	Rương trang bị Tân Thủ(1752841891)	Way100	Value100000
+18-19:31:41	TCQGaming	UseItem	Kim Qua Chùy-Thương Lang
+18-19:31:41	TCQGaming	UseItem	Võ Thần Hộ Uyển-Cự Mộc
+18-19:31:42	TCQGaming	UseItem	Bắc Thần Liên-Nghịch Thủy
+18-19:31:42	TCQGaming	UseItem	Thương Khung Giới-Diên Dương
+18-19:31:42	TCQGaming	UseItem	Long Thủ Bội-Cự Mộc
+18-19:31:42	TCQGaming	UseItem	Thiên Ma Phù-Việt Quang
+18-19:31:43	TCQGaming	UseItem	Tuyệt Hỏa Ngoa-Việt Quang
+18-19:31:43	TCQGaming	UseItem	Ngọa Hổ Thúc Yêu-Diên Dương
+18-19:31:43	TCQGaming	UseItem	Thôn Long Khôi-Chu Thiềm
+18-19:31:44	TCQGaming	UseItem	Tỏa Tử Hoàng Kim Giáp-Nghịch Thủy
+18-19:29:23	TCQGaming	login 242
+18-19:29:23	TCQGaming	xboyhd	192.168.1.100:48620	LoginHwId_2539837046	639324413
+18-19:29:23	TCQGaming	NewWorld 242
+18-19:29:23	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:23	TCQGaming	NewWorld 8
+18-19:29:25	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:28	TCQGaming	NewWorld 22
+18-19:29:30	tessssssst	login 8
+18-19:29:30	tessssssst	xboyhd1	192.168.1.100:48876	LoginHwId_3867965182	639324413
+18-19:29:30	tessssssst	xboyhd1	3867965182	1677830336	SetForbitCode0
+18-19:29:30	tessssssst	NewWorld 8
+18-19:29:35	tessssssst	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:38	tessssssst	NewWorld 22
+18-19:29:43	TCQGaming	dialog Dương Thiết Tâm
+18-19:29:45	TCQGaming	dialog Dương Thiết Tâm
+18-19:29:49	tessssssst	dialog Dương Thiết Tâm
+18-19:30:01	tessssssst	dialog Dương Thiết Tâm
+18-19:30:03	tessssssst	NewWorld 242
+18-19:30:03	tessssssst	NewWorld 242
+18-19:30:04	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:06	TCQGaming	NewWorld 242
+18-19:30:06	TCQGaming	NewWorld 242
+18-19:30:59	TCQGaming	NewWorld 242
+18-19:30:59	tessssssst	NewWorld 242
+18-19:31:59	TCQGaming	NewWorld 242
+18-19:31:59	tessssssst	NewWorld 242
+18-19:32:59	TCQGaming	NewWorld 242
+18-19:32:59	tessssssst	NewWorld 242
+18-19:33:59	TCQGaming	NewWorld 242
+18-19:33:59	tessssssst	NewWorld 242
+18-19:34:59	TCQGaming	NewWorld 242
+18-19:34:59	tessssssst	NewWorld 242
+18-19:44:34	TCQGaming	dialog Cờ Tầm Bảo
+18-19:44:59	TCQGaming	NewWorld 242
+18-19:44:59	tessssssst	NewWorld 242
+18-19:45:37	tessssssst	NewWorld 242
+18-19:45:37	TCQGaming	NewWorld 242
+18-19:45:49	TCQGaming	dialog Cờ Quán Quân
+18-19:45:51	TCQGaming	dialog Cờ Quán Quân
+18-19:45:53	TCQGaming	dialog Cờ Quán Quân
+18-19:45:57	TCQGaming	dialog Cờ Quán Quân
+18-19:46:00	TCQGaming	NewWorld 242
+18-19:46:11	TCQGaming	NewWorld 242
+18-19:46:12	TCQGaming	dialog Cờ Quán Quân
+18-19:46:19	TCQGaming	NewWorld 242
+18-19:46:37	TCQGaming	NewWorld 242
+18-19:46:38	TCQGaming	dialog Cờ Quán Quân
+18-19:46:52	tessssssst	dialog Quan Ghi Danh
+18-19:46:55	tessssssst	NewWorld 22
+18-19:46:57	tessssssst	dialog Dương Thiết Tâm
+18-19:47:03	tessssssst	AddItem	Huyền Tinh thường (cấp 7)(1752842823)	Way100	Value217678
+18-19:47:03	tessssssst	AddItem	Huyền Tinh thường (cấp 7)(1752842823)	Way100	Value217678
+18-19:47:03	tessssssst	AddItem	Huyền Tinh thường (cấp 7)(1752842823)	Way100	Value217678
+18-19:47:03	tessssssst	AddItem	Huyền Tinh thường (cấp 7)(1752842823)	Way100	Value217678
+18-19:47:03	tessssssst	AddItem	Rương Ngọc (vỡ) (cấp 1)(1752842823)	Way100	Value6
+18-19:47:21	tessssssst	UseItem	Bảo rương
+18-19:47:21	tessssssst	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752842841)	Way100	Value60466
+18-19:47:21	tessssssst	UseItem	Bảo rương
+18-19:47:22	tessssssst	AddItem	Huyền Tinh Cấp 5(1752841839)	Way100	Value16796
+18-19:47:22	tessssssst	UseItem	Bảo rương
+18-19:47:23	tessssssst	UseItem	Bảo rương
+18-19:47:27	tessssssst	UseItem	Lệnh bài thi đấu môn phái (trung)
+18-19:47:35	TCQGaming	dialog Quan Ghi Danh
+18-19:47:36	TCQGaming	NewWorld 22
+18-19:47:39	TCQGaming	UseItem	Túi Tân Thủ
+18-19:47:44	TCQGaming	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1752618362)	Way100	Value2350923
+18-19:47:44	TCQGaming	RemoveItem	Huyền Tinh Cấp 5(1752618325)	Way100	Value83980
+18-19:47:44	TCQGaming	RemoveItem	Huyền Tinh thường (cấp 7)(1752842036)	Way100	Value217678
+18-19:47:46	TCQGaming	dialog Dương Thiết Tâm
+18-19:48:24	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1752842904)	Way100	Value783641
+18-19:48:24	TCQGaming	AddItem	Rương Ngọc (vỡ) (cấp 1)(1752842904)	Way100	Value9
+18-19:48:48	TCQGaming	dialog Dương Thiết Tâm
+18-19:48:53	TCQGaming	UseItem	Túi Tân Thủ
+18-19:29:21	TCQGaming	login 22
+18-19:29:21	TCQGaming	xboyhd	192.168.1.100:52205	LoginHwId_2539837046	639324413
+18-19:29:21	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-19:29:21	TCQGaming	NewWorld 8
+18-19:29:23	tessssssst	login 241
+18-19:29:23	tessssssst	xboyhd1	192.168.1.100:52461	LoginHwId_3867965182	639324413
+18-19:29:23	tessssssst	Exchange 242
+18-19:29:23	tessssssst	xboyhd1	3867965182	1677830336	SetForbitCode0
+18-19:29:23	tessssssst	Exchange 8
+18-19:29:23	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:24	tessssssst	login 8
+18-19:29:24	tessssssst	xboyhd1	192.168.1.100:52717	LoginHwId_3867965182	639324413
+18-19:29:26	TCQGaming	NewWorld 22
+18-19:29:28	tessssssst	UseItem	Vô Hạn Truyền Tống Phù
+18-19:29:31	tessssssst	NewWorld 22
+18-19:29:40	TCQGaming	UseItem	Túi Tân Thủ
+18-19:29:48	TCQGaming	RemoveItem	Huyền Tinh có tì vết (cấp 8)(1752842904)	Way100	Value1567282
+18-19:29:48	TCQGaming	RemoveItem	Ngũ Hành Hồn Thạch(1752618325)	Way100	Value1000000
+18-19:29:48	TCQGaming	RemoveItem	Huyền Tinh thường (cấp 7)(1752583653)	Way100	Value435356
+18-19:29:48	TCQGaming	RemoveItem	Huyền Tinh Cấp 5(1752583653)	Way100	Value67184
+18-19:29:48	TCQGaming	RemoveItem	Huyền Tinh có vết nứt (cấp 6)(1752583655)	Way100	Value60466
+18-19:29:51	tessssssst	UseItem	Túi Tân Thủ
+18-19:29:57	tessssssst	RemoveItem	Huyền Tinh thường (cấp 7)(1752842823)	Way100	Value870712
+18-19:29:57	tessssssst	RemoveItem	Ngũ Hành Hồn Thạch(1752841839)	Way100	Value1000000
+18-19:29:57	tessssssst	RemoveItem	Lệnh bài Uy danh giang hồ(1752841839)	Way100	Value100000
+18-19:29:58	tessssssst	UseItem	Túi Khởi La
+18-19:29:59	tessssssst	UseItem	Túi Khởi La
+18-19:30:03	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:03	TCQGaming	dialog Dương Thiết Tâm
+18-19:30:06	TCQGaming	NewWorld 242
+18-19:30:06	TCQGaming	NewWorld 242
+18-19:30:08	tessssssst	dialog Dương Thiết Tâm
+18-19:30:10	tessssssst	NewWorld 242
+18-19:30:10	tessssssst	NewWorld 242
+18-19:31:00	TCQGaming	NewWorld 242
+18-19:31:00	tessssssst	NewWorld 242
+18-19:32:00	TCQGaming	NewWorld 242
+18-19:32:00	tessssssst	NewWorld 242
+18-19:33:00	TCQGaming	NewWorld 242
+18-19:33:00	tessssssst	NewWorld 242
+18-19:34:00	TCQGaming	NewWorld 242
+18-19:34:00	tessssssst	NewWorld 242
+18-19:35:00	TCQGaming	NewWorld 242
+18-19:35:00	tessssssst	NewWorld 242
+18-19:45:00	TCQGaming	NewWorld 242
+18-19:45:00	tessssssst	NewWorld 242
+18-19:46:00	TCQGaming	NewWorld 242
+18-19:46:00	tessssssst	NewWorld 242
+18-20:12:58	TCQGaming	UseItem	Thẻ GM
+18-20:13:03	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1752844383)	Way100	Value217678
+18-20:13:03	TCQGaming	UseItem	Thẻ GM
+18-20:13:05	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1752844383)	Way100	Value217678
+18-20:13:05	TCQGaming	UseItem	Thẻ GM

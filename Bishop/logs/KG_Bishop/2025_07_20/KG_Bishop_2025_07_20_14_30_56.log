@@ -1,0 +1,7 @@
+20250720-143056<INFO :00003ADC>: [Bishop] Begin to start ... ...
+20250720-143056<INFO :00003ADC>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20250720-143056<INFO :00003ADC>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 00677300
+20250720-143056<INFO :00003ADC>: [Goddess] Login() nResult = 1
+20250720-143056<INFO :00003ADC>: [Relay] Init() Acceptor Open(: 5632), nRetCode = 1
+20250720-143056<INFO :00003ADC>: [PlayerManager] Init() Acceptor Open(: 1231), nRetCode = 1
+20250720-143056<INFO :00003ADC>: [Report] Init() Acceptor Open(: 5636), nRetCode = 1

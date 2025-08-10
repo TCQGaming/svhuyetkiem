@@ -1,0 +1,77 @@
+20250719-035123<DEBUG:00002D0C>: [PrevInitCore]:1, start tickers = 638308117360050
+20250719-035124<DEBUG:00003DC0>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 4033513254
+20250719-035124<DEBUG:00002D0C>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 4081501608
+20250719-035124<ERROR:00003DC0>: GetInteger(38, 1) failed !
+20250719-035124<ERROR:00002D0C>: GetInteger(38, 1) failed !
+20250719-035127<WARN :00003DC0>: LostFps: 93 (+93)
+20250719-035128<WARN :00003DC0>: LostFps: 50 (-43)
+20250719-035128<WARN :00002D0C>: LostFps: 109 (+109)
+20250719-035129<WARN :00003DC0>: LostFps: 5 (-45)
+20250719-035129<WARN :00002D0C>: LostFps: 64 (-45)
+20250719-035130<WARN :00003DC0>: LostFps: 0 (-5)
+20250719-035130<WARN :00002D0C>: LostFps: 19 (-45)
+20250719-035131<WARN :00002D0C>: LostFps: 0 (-19)
+20250719-042638<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-042648<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-042653<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-042703<INFO :00003DC0>: [Player]tessssssst Excute Save Data
+20250719-044001<INFO :00003DC0>: [Player]TVCSanBox Apply Save Data By Reason 30 min TimeOut
+20250719-044011<INFO :00003DC0>: [Player]TVCSanBox Excute Save Data
+20250719-045648<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-045658<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-045703<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-045713<INFO :00003DC0>: [Player]tessssssst Excute Save Data
+20250719-051011<INFO :00003DC0>: [Player]TVCSanBox Apply Save Data By Reason 30 min TimeOut
+20250719-051021<INFO :00003DC0>: [Player]TVCSanBox Excute Save Data
+20250719-052658<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-052708<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-052713<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-052724<INFO :00003DC0>: [Player]tessssssst Excute Save Data
+20250719-054021<INFO :00003DC0>: [Player]TVCSanBox Apply Save Data By Reason 30 min TimeOut
+20250719-054031<INFO :00003DC0>: [Player]TVCSanBox Excute Save Data
+20250719-055708<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-055718<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-055724<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-055734<INFO :00003DC0>: [Player]tessssssst Excute Save Data
+20250719-061031<INFO :00003DC0>: [Player]TVCSanBox Apply Save Data By Reason 30 min TimeOut
+20250719-061041<INFO :00003DC0>: [Player]TVCSanBox Excute Save Data
+20250719-062718<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-062728<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-062734<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-062744<INFO :00003DC0>: [Player]tessssssst Excute Save Data
+20250719-065729<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-065739<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-065744<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-065754<INFO :00003DC0>: [Player]tessssssst Excute Save Data
+20250719-072739<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-072749<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-072754<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-072804<INFO :00003DC0>: [Player]tessssssst Excute Save Data
+20250719-075749<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-075759<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-075804<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-075814<INFO :00003DC0>: [Player]tessssssst Excute Save Data
+20250719-082759<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-082809<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-082814<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-082824<INFO :00003DC0>: [Player]tessssssst Excute Save Data
+20250719-085809<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-085819<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-085824<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-085834<INFO :00003DC0>: [Player]tessssssst Excute Save Data
+20250719-092819<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-092829<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-092834<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-092844<INFO :00003DC0>: [Player]tessssssst Excute Save Data
+20250719-095829<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-095839<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-095844<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-095855<INFO :00003DC0>: [Player]tessssssst Excute Save Data
+20250719-102839<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-102849<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-102855<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-102905<INFO :00003DC0>: [Player]tessssssst Excute Save Data
+20250719-105849<INFO :00003DC0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250719-105859<INFO :00003DC0>: [Player]TCQGaming Excute Save Data
+20250719-105905<INFO :00003DC0>: [Player]tessssssst Apply Save Data By Reason 30 min TimeOut
+20250719-105915<INFO :00003DC0>: [Player]tessssssst Excute Save Data

@@ -1,0 +1,2 @@
+Tên Nhân Vật	nNum	Mã Máy
+TCQGaming	1	1631151206

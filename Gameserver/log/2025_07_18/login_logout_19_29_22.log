@@ -1,0 +1,4 @@
+[2025-07-18 19:29:22]	INFO	Login AddCharacter: Account[xboyhd1], Role[tessssssst]
+[2025-07-18 19:29:23]	INFO	xboyhd1(tessssssst) login
+[2025-07-18 19:29:23]	INFO	LoadPlayerData OK: Account[xboyhd1], RoleName[tessssssst], CRC[EDFF6B79], LastSaveTime[2025-07-15 19:30:14]
+[2025-07-18 19:29:23]	INFO	SendPlayerSave OK: Account[xboyhd1], RoleName[tessssssst], CRC[A3B73B86]

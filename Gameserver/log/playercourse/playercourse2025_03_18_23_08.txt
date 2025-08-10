@@ -1,0 +1,50 @@
+18-23:08:02	TCQGaming	login 8
+18-23:08:02	TCQGaming	xboyhd	192.168.1.100:43667	LoginHwId_1400849469	639324413
+18-23:08:02	TCQGaming	xboyhd	1400849469	1677830336	SetForbitCode0
+18-23:08:02	TCQGaming	NewWorld 8
+18-23:08:02	TCQGaming	LevelUp	101
+18-23:08:02	TCQGaming	LevelUp	102
+18-23:08:02	TCQGaming	LevelUp	103
+18-23:08:02	TCQGaming	LevelUp	104
+18-23:08:02	TCQGaming	LevelUp	105
+18-23:08:02	TCQGaming	LevelUp	106
+18-23:08:02	TCQGaming	LevelUp	107
+18-23:08:02	TCQGaming	LevelUp	108
+18-23:08:02	TCQGaming	LevelUp	109
+18-23:08:02	TCQGaming	LevelUp	110
+18-23:08:02	TCQGaming	LevelUp	111
+18-23:08:02	TCQGaming	LevelUp	112
+18-23:08:02	TCQGaming	LevelUp	113
+18-23:08:02	TCQGaming	LevelUp	114
+18-23:08:02	TCQGaming	LevelUp	115
+18-23:08:02	TCQGaming	LevelUp	116
+18-23:08:02	TCQGaming	LevelUp	117
+18-23:08:02	TCQGaming	LevelUp	118
+18-23:08:02	TCQGaming	LevelUp	119
+18-23:08:59	TCQGaming	dialog Long Ngũ Thái Gia
+18-23:09:09	TCQGaming	UseItem	Thẻ GM
+18-23:09:19	TCQGaming	dialog Tịch Huyễn
+18-23:09:46	TCQGaming	Exchange 25
+18-23:10:10	TCQGaming	login 9
+18-23:10:10	TCQGaming	xboyhd	192.168.1.100:46739	LoginHwId_1400849469	639324413
+18-23:10:16	TCQGaming	dialog Huyền Từ
+18-23:10:20	TCQGaming	NewWorld 9
+18-23:10:23	TCQGaming	UseItem	Thẻ GM
+18-23:10:27	TCQGaming	dialog Trừng Quang
+18-23:10:29	TCQGaming	UseItem	Thẻ GM
+18-23:10:33	TCQGaming	AddItem	Ngũ Hành Hồn Thạch(1742314233)	Way100	Value4999000
+18-23:10:33	TCQGaming	AddItem	Ngũ Hành Hồn Thạch(1742314233)	Way100	Value4999000
+18-23:10:36	TCQGaming	AddItem	Ngũ Hành Hồn Thạch(1742314236)	Way17	Value800000
+18-23:10:39	TCQGaming	AddItem	Ngũ Hành Hồn Thạch(1742314239)	Way17	Value1600000
+18-23:10:40	TCQGaming	dialog Trừng Quang
+18-23:10:43	TCQGaming	RemoveItem	Ngũ Hành Hồn Thạch(1742314236)	Way100	Value800000
+18-23:10:46	TCQGaming	NewWorld 9
+18-23:10:50	TCQGaming	dialog Huyền Từ
+18-23:10:53	TCQGaming	NewWorld 9
+18-23:11:00	TCQGaming	dialog Trừng Quang
+18-23:11:04	TCQGaming	RemoveItem	Ngũ Hành Hồn Thạch(1742314239)	Way100	Value1600000
+18-23:11:08	TCQGaming	NewWorld 9
+18-23:11:12	TCQGaming	dialog Huyền Từ
+18-23:11:28	TCQGaming	UseItem	Thẻ GM
+18-23:11:29	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-23:11:31	TCQGaming	Exchange 30

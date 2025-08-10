@@ -1,0 +1,4 @@
+20250718-192858<DEBUG:00003830>: [PrevInitCore]:1, start tickers = 18824710721147
+20250718-192859<DEBUG:00003830>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3853447398
+20250718-192900<ERROR:00003830>: GetInteger(38, 1) failed !
+20250718-193405<DEBUG:00003830>: nSocket = 832, nSendFlag = 0, Error = 10054

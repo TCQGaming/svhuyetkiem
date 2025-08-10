@@ -1,0 +1,33 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		1	3	2	5	1500		5cấp nam giáp 
+		1	3	3	5	1500		5cấp nam áo da 
+		1	3	4	5	1500		5cấp nam bố y 
+		1	3	6	5	750		5cấp nữ giáp 
+		1	3	7	5	750		5cấp nữ áo da 
+		1	3	8	5	750		5cấp nữ bố y 
+		1	7	1	5	5000		5cấp nam giầy 
+		1	7	2	5	2000		5cấp nữ giầy 
+		1	10	1	5	5000		5cấp bao cổ tay 
+		1	10	2	5	2000		5cấp thủ trạc 
+		1	8	1	5	5000		5cấp đai lưng 
+		1	8	2	5	2000		5cấp đai lưng 
+		1	9	2	5	1500		5cấp nam mũ giáp 
+		1	9	3	5	1500		5cấp nam da mạo 
+		1	9	4	5	1500		5cấp nam bố mạo 
+		1	9	6	5	750		5cấp nữ mũ giáp 
+		1	9	7	5	750		5cấp nữ da mạo 
+		1	9	8	5	750		5cấp nữ bố mạo 
+		1	1	1	5	400		5cấp gay go 
+		1	1	2	5	400		5cấp kiếm 
+		1	1	3	5	400		5cấp đao 
+		1	1	4	5	400		5cấp côn 
+		1	1	5	5	400		5cấp thương 
+		1	1	6	5	400		5cấp chuy 
+		1	2	2	5	200		5cấp phi đao 
+		1	2	3	5	200		5cấp Tụ Tiễn 
+		1	4	1	5	2250		5cấp nhẫn 
+		1	5	1	5	2250		5cấp hạng liên 
+		1	6	1	5	2250		5cấp bùa hộ mệnh 
+		1	11	1	5	1500		5cấp ngọc bội 
+		1	11	2	5	750		5cấp hương nang 
+		17	3	1	5	300000		ngũ Hoa ngọc lộ hoàn 

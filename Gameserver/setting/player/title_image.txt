@@ -1,0 +1,143 @@
+ID	ImageName	Des
+1	image\effect\other\guanxian_title_1a_vn.spr	Trí Sự
+2	image\effect\other\guanxian_title_2a_vn.spr	Tư Mã
+3	image\effect\other\guanxian_title_3a_vn.spr	Thái Thú
+4	image\effect\other\guanxian_title_4a_vn.spr	Thiếu Khanh
+5	image\effect\other\guanxian_title_5a_vn.spr	Thượng Khanh
+6	image\effect\other\guanxian_title_6a_vn.spr	Quốc Công
+7	image\effect\other\guanxian_title_7a_vn.spr	Thừa Tướng
+8	image\effect\other\guanxian_title_8a_vn.spr	Hoàng Đế
+9	\image\ui\002a\queuebadge\EM01_1.spr	Huy Chương Gia Tộc cấp 1
+10	\image\ui\002a\queuebadge\EM02_1.spr	Huy Chương Gia Tộc cấp 1
+11	\image\ui\002a\queuebadge\EM03_1.spr	Huy Chương Gia Tộc cấp 1
+12	\image\ui\002a\queuebadge\EM04_1.spr	Huy Chương Gia Tộc cấp 1
+13	\image\ui\002a\queuebadge\EM05_1.spr	Huy Chương Gia Tộc cấp 1
+14	\image\ui\002a\queuebadge\EM06_1.spr	Huy Chương Gia Tộc cấp 1
+15	\image\ui\002a\queuebadge\EM07_1.spr	Huy Chương Gia Tộc cấp 1
+16	\image\ui\002a\queuebadge\EM08_1.spr	Huy Chương Gia Tộc cấp 1
+17	\image\ui\002a\queuebadge\EM09_1.spr	Huy Chương Gia Tộc cấp 1
+18	\image\ui\002a\queuebadge\EM10_1.spr	Huy Chương Gia Tộc cấp 1
+19	\image\ui\002a\queuebadge\EM11_1.spr	Huy Chương Gia Tộc cấp 1
+20	\image\ui\002a\queuebadge\EM12_1.spr	Huy Chương Gia Tộc cấp 1
+21	\image\ui\002a\queuebadge\EM13_1.spr	Huy Chương Gia Tộc cấp 1
+22	\image\ui\002a\queuebadge\EM14_1.spr	Huy Chương Gia Tộc cấp 1
+23	\image\ui\002a\queuebadge\EM15_1.spr	Huy Chương Gia Tộc cấp 1
+24	\image\ui\002a\queuebadge\EM16_1.spr	Huy Chương Gia Tộc cấp 1
+25	\image\ui\002a\queuebadge\EM17_1.spr	Huy Chương Gia Tộc cấp 1
+26	\image\ui\002a\queuebadge\EM18_1.spr	Huy Chương Gia Tộc cấp 1
+27	\image\ui\002a\queuebadge\EM19_1.spr	Huy Chương Gia Tộc cấp 1
+28	\image\ui\002a\queuebadge\EM20_1.spr	Huy Chương Gia Tộc cấp 1
+29	\image\ui\002a\queuebadge\EM21_1.spr	Huy Chương Gia Tộc cấp 1
+30	\image\ui\002a\queuebadge\EM22_1.spr	Huy Chương Gia Tộc cấp 1
+31	\image\ui\002a\queuebadge\EM23_1.spr	Huy Chương Gia Tộc cấp 1
+32	\image\ui\002a\queuebadge\EM24_1.spr	Huy Chương Gia Tộc cấp 1
+33	\image\ui\002a\queuebadge\EM25_1.spr	Huy Chương Gia Tộc cấp 1
+34	\image\ui\002a\queuebadge\EM26_1.spr	Huy Chương Gia Tộc cấp 1
+35	\image\ui\002a\queuebadge\EM27_1.spr	Huy Chương Gia Tộc cấp 1
+36	\image\ui\002a\queuebadge\EM28_1.spr	Huy Chương Gia Tộc cấp 1
+37	\image\ui\002a\queuebadge\EM29_1.spr	Huy Chương Gia Tộc cấp 1
+38	\image\ui\002a\queuebadge\EM30_1.spr	Huy Chương Gia Tộc cấp 1
+39	\image\ui\002a\queuebadge\EM01_2.spr	Huy Chương Gia Tộc cấp 2
+40	\image\ui\002a\queuebadge\EM02_2.spr	Huy Chương Gia Tộc cấp 2
+41	\image\ui\002a\queuebadge\EM03_2.spr	Huy Chương Gia Tộc cấp 2
+42	\image\ui\002a\queuebadge\EM04_2.spr	Huy Chương Gia Tộc cấp 2
+43	\image\ui\002a\queuebadge\EM05_2.spr	Huy Chương Gia Tộc cấp 2
+44	\image\ui\002a\queuebadge\EM06_2.spr	Huy Chương Gia Tộc cấp 2
+45	\image\ui\002a\queuebadge\EM07_2.spr	Huy Chương Gia Tộc cấp 2
+46	\image\ui\002a\queuebadge\EM08_2.spr	Huy Chương Gia Tộc cấp 2
+47	\image\ui\002a\queuebadge\EM09_2.spr	Huy Chương Gia Tộc cấp 2
+48	\image\ui\002a\queuebadge\EM10_2.spr	Huy Chương Gia Tộc cấp 2
+49	\image\ui\002a\queuebadge\EM11_2.spr	Huy Chương Gia Tộc cấp 2
+50	\image\ui\002a\queuebadge\EM12_2.spr	Huy Chương Gia Tộc cấp 2
+51	\image\ui\002a\queuebadge\EM13_2.spr	Huy Chương Gia Tộc cấp 2
+52	\image\ui\002a\queuebadge\EM14_2.spr	Huy Chương Gia Tộc cấp 2
+53	\image\ui\002a\queuebadge\EM15_2.spr	Huy Chương Gia Tộc cấp 2
+54	\image\ui\002a\queuebadge\EM16_2.spr	Huy Chương Gia Tộc cấp 2
+55	\image\ui\002a\queuebadge\EM17_2.spr	Huy Chương Gia Tộc cấp 2
+56	\image\ui\002a\queuebadge\EM18_2.spr	Huy Chương Gia Tộc cấp 2
+57	\image\ui\002a\queuebadge\EM19_2.spr	Huy Chương Gia Tộc cấp 2
+58	\image\ui\002a\queuebadge\EM20_2.spr	Huy Chương Gia Tộc cấp 2
+59	\image\ui\002a\queuebadge\EM21_2.spr	Huy Chương Gia Tộc cấp 2
+60	\image\ui\002a\queuebadge\EM22_2.spr	Huy Chương Gia Tộc cấp 2
+61	\image\ui\002a\queuebadge\EM23_2.spr	Huy Chương Gia Tộc cấp 2
+62	\image\ui\002a\queuebadge\EM24_2.spr	Huy Chương Gia Tộc cấp 2
+63	\image\ui\002a\queuebadge\EM25_2.spr	Huy Chương Gia Tộc cấp 2
+64	\image\ui\002a\queuebadge\EM26_2.spr	Huy Chương Gia Tộc cấp 2
+65	\image\ui\002a\queuebadge\EM27_2.spr	Huy Chương Gia Tộc cấp 2
+66	\image\ui\002a\queuebadge\EM28_2.spr	Huy Chương Gia Tộc cấp 2
+67	\image\ui\002a\queuebadge\EM29_2.spr	Huy Chương Gia Tộc cấp 2
+68	\image\ui\002a\queuebadge\EM30_2.spr	Huy Chương Gia Tộc cấp 2
+69	\image\ui\002a\queuebadge\EM01_3.spr	Huy Chương Gia Tộc cấp 3
+70	\image\ui\002a\queuebadge\EM02_3.spr	Huy Chương Gia Tộc cấp 3
+71	\image\ui\002a\queuebadge\EM03_3.spr	Huy Chương Gia Tộc cấp 3
+72	\image\ui\002a\queuebadge\EM04_3.spr	Huy Chương Gia Tộc cấp 3
+73	\image\ui\002a\queuebadge\EM05_3.spr	Huy Chương Gia Tộc cấp 3
+74	\image\ui\002a\queuebadge\EM06_3.spr	Huy Chương Gia Tộc cấp 3
+75	\image\ui\002a\queuebadge\EM07_3.spr	Huy Chương Gia Tộc cấp 3
+76	\image\ui\002a\queuebadge\EM08_3.spr	Huy Chương Gia Tộc cấp 3
+77	\image\ui\002a\queuebadge\EM09_3.spr	Huy Chương Gia Tộc cấp 3
+78	\image\ui\002a\queuebadge\EM10_3.spr	Huy Chương Gia Tộc cấp 3
+79	\image\ui\002a\queuebadge\EM11_3.spr	Huy Chương Gia Tộc cấp 3
+80	\image\ui\002a\queuebadge\EM12_3.spr	Huy Chương Gia Tộc cấp 3
+81	\image\ui\002a\queuebadge\EM13_3.spr	Huy Chương Gia Tộc cấp 3
+82	\image\ui\002a\queuebadge\EM14_3.spr	Huy Chương Gia Tộc cấp 3
+83	\image\ui\002a\queuebadge\EM15_3.spr	Huy Chương Gia Tộc cấp 3
+84	\image\ui\002a\queuebadge\EM16_3.spr	Huy Chương Gia Tộc cấp 3
+85	\image\ui\002a\queuebadge\EM17_3.spr	Huy Chương Gia Tộc cấp 3
+86	\image\ui\002a\queuebadge\EM18_3.spr	Huy Chương Gia Tộc cấp 3
+87	\image\ui\002a\queuebadge\EM19_3.spr	Huy Chương Gia Tộc cấp 3
+88	\image\ui\002a\queuebadge\EM20_3.spr	Huy Chương Gia Tộc cấp 3
+89	\image\ui\002a\queuebadge\EM21_3.spr	Huy Chương Gia Tộc cấp 3
+90	\image\ui\002a\queuebadge\EM22_3.spr	Huy Chương Gia Tộc cấp 3
+91	\image\ui\002a\queuebadge\EM23_3.spr	Huy Chương Gia Tộc cấp 3
+92	\image\ui\002a\queuebadge\EM24_3.spr	Huy Chương Gia Tộc cấp 3
+93	\image\ui\002a\queuebadge\EM25_3.spr	Huy Chương Gia Tộc cấp 3
+94	\image\ui\002a\queuebadge\EM26_3.spr	Huy Chương Gia Tộc cấp 3
+95	\image\ui\002a\queuebadge\EM27_3.spr	Huy Chương Gia Tộc cấp 3
+96	\image\ui\002a\queuebadge\EM28_3.spr	Huy Chương Gia Tộc cấp 3
+97	\image\ui\002a\queuebadge\EM29_3.spr	Huy Chương Gia Tộc cấp 3
+98	\image\ui\002a\queuebadge\EM30_3.spr	Huy Chương Gia Tộc cấp 3
+99	image\effect\other\keju_title_1a.spr	Ngự Ban Trạng Nguyên
+100	image\effect\other\keju_title_2a.spr	Ngự Ban Bảng Nhãn
+101	image\effect\other\keju_title_3a.spr	Ngự Ban Thám Hoa
+102	image\effect\other\keju_title_4a.spr	Xuất thân tiến sĩ
+103	image\effect\other\meinv1_1.spr	Khuynh quốc khuynh thành
+104	image\effect\other\meinv1_2.spr	Thướt tha yêu kiều
+105	image\effect\other\meinv1_3.spr	Bảo bối hot
+106	image\effect\other\tianxiadiyi_chanshou.spr	Thiên Hạ Đệ Nhất Chưởng
+107	image\effect\other\tianxiadiyi_jian.spr	Thiên Hạ Đệ Nhất Kiếm
+108	image\effect\other\tianxiadiyi_dao.spr	Thiên Hạ Đệ Nhất Đao
+109	image\effect\other\tianxiadiyi_gun.spr	Thiên Hạ Đệ Nhất Côn
+110	image\effect\other\tianxiadiyi_qiang.spr	Thiên Hạ Đệ Nhất Thương
+111	image\effect\other\tianxiadiyi_chui.spr	Thiên Hạ Đệ Nhất Chùy
+112	image\effect\other\tianxiadiyi_feidao.spr	Thiên Hạ Nhất Phi Đao
+113	image\effect\other\tianxiadiyi_xiujian.spr	Thiên Hạ Nhất Tụ Tiễn
+114	image\effect\other\chenshazhizhu.spr	Chủ Thần Sa
+115	image\effect\other\jidaotianjiao.spr	Cực Đạo Thiên Kiêu
+116	image\effect\other\jiuzhouwangzhe.spr	Cửu Châu Vương Giả
+117	image\effect\other\shifangzhene.spr	Thập Phương Trấn Ác
+118	image\effect\other\jingzhongbaoguo.spr	Tinh Trung Báo Quốc
+119	image\effect\other\jidaotianjiao.spr	Nhất Đại Tôn Sư
+128	image\title\tichluynapthe\ThanThiet.spr	Thành Viên Thân Thiết
+129	image\title\tichluynapthe\taitrodong.spr	Nhà Tài Trợ Đồng
+130	image\title\tichluynapthe\taitrobac.spr	Nhà Trài Trợ Bạc
+131	image\title\tichluynapthe\Vang.spr	Nhà Trài Trợ Vàng
+132	image\title\tichluynapthe\BachKim.spr	Nhà Trài Trợ Bạch Kim
+133	image\title\tichluynapthe\KimCuong1.spr	Tài Trợ Kim Cương 1
+134	image\title\tichluynapthe\KimCuong2.spr	Nhà Tài Trợ Kim Cương 2
+139	image\effect\other\tianxiadiyi_jian.spr	Danh hiệu ngũ hành môn phái
+20000	image\title\bxh\QuanQuan.spr	Quán quân tỷ võ
+20001	image\title\bxh\AQuan.spr	Á Quân Tỷ Võ
+20002	image\effect\other\tianxiadiyi_dao_vn.spr	vnThiên Hạ Đệ Nhất Đao
+20003	image\effect\other\tianxiadiyi_gun_vn.spr	vnThiên Hạ Đệ Nhất Côn
+20004	image\effect\other\tianxiadiyi_qiang_vn.spr	vnThiên Hạ Đệ Nhất Thương
+20005	image\effect\other\tianxiadiyi_chui_vn.spr	vnThiên Hạ Nhất Phi Đao
+20006	image\effect\other\tianxiadiyi_feidao_vn.spr	vnThiên Hạ Đệ Nhất Chưởng
+20007	image\effect\other\tianxiadiyi_xiujian_vn.spr	vnThiên Hạ Nhất Tu Tiễn
+20008	image\effect\other\vn_feilongchengzhu.spr	vn Phi Long Thành Chủ
+20009	image\effect\other\vn_feilongjiang.spr	vn Phi Long Tướng
+20010	image\effect\other\vn_tianxiawushuang.spr	vnThiên Hạ Vô Song
+20011	image\ui\003a\customladder\img_captain_vn.spr	Chưởng môn Tông Môn tự tạo Danh hieu Chuong Mon
+20012	image\ui\003a\customladder\img_firstmember_vn.spr	Đại đệ tử Tông Môn tự tạo Danh hieu Tinh Anh
+20013	image\danhhieuvip\thienton.spr	Danh Hiệu Thiên Tôn VIP
+20014	image\danhhieuvip\maton.spr	Danh Hiệu Ma Tôn VIP

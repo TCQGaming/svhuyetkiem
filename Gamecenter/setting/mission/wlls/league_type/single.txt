@@ -1,0 +1,14 @@
+Name	MapLinkType	MemberCount	PlayerCount	Sex	Camp	Series	Faction	Teacher	Time_Weekend	Time_Common	Time_AdvMatch	ReadyTime_Common	PKTime_Common	ReadyTime_Adv	PKTime_Adv	PriIntoMap	PriReadyMap	PriMacthMap	PriMacthMapPatch	AdvIntoMap	AdvReadyMap	AdvMacthMap	AdvMacthMapPatch	Desc
+Tên Loại Hình	Bản Đồ	Số đội	Số lượng người chơi	Giới tính	Màu	Hệ Phái	Môn Phái	Sự phán xét của Thầy và Trò	Cuối tuần	Hàng ngày	Tứ Kết	Thời gian chuẩn bị (giây)	Thời gian chiến đấu(giây)	Thời gian chuẩn bị (tứ kết) (giây)	Thời gian thi đấu tứ kết	Bản đồ	初级准备场地图	初级比赛场地图	初级比赛后备图	高级会场地图	高级准备场地图	高级比赛场地图	高级比赛场后备图	描述
+Đơn Đấu	1	1	1	0	0	0	0	0	1200	2300	1900	280	600	280	600	1401	1413	1425	1508	1437	1452	1464	1523	<color=red>Võ Lâm Liên Đấu<color>  lần nay là: <color=yellow>1vs1-[Tự Do 1 Đội có 1 thành viên]<color>
+									1215	2315	1915					1402	1415	1427	1510	1438	1454	1466	1525	
+									1230	2330	1930					1403	1417	1429	1512	1439	1455	1467	1526	
+									1245	2345	1945					1404				1440				
+									1800		2000					1405				1441				
+									1815							1406				1442				
+									1830							1407				1443				
+									1845															
+									2300															
+									2315															
+									2330															
+									2345															

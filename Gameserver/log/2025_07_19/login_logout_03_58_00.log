@@ -1,0 +1,9 @@
+[2025-07-19 03:58:00]	INFO	Exchange AddCharacter Account[xboyhd2], Role[testttt]
+[2025-07-19 03:58:01]	INFO	xboyhd2(testttt) login
+[2025-07-19 03:58:01]	INFO	LoadPlayerData OK: Account[xboyhd2], RoleName[testttt], CRC[37FA968E], LastSaveTime[2025-07-19 03:58:00]
+[2025-07-19 03:58:04]	INFO	SendPlayerSave OK: Account[xboyhd2], RoleName[testttt], CRC[1875AEBE]
+[2025-07-19 03:58:05]	INFO	xboyhd2(testttt) transfer
+[2025-07-19 04:00:34]	INFO	Login AddCharacter: Account[sanbox], Role[TVCSanBox]
+[2025-07-19 04:00:36]	INFO	sanbox(TVCSanBox) login
+[2025-07-19 04:00:36]	INFO	LoadPlayerData OK: Account[sanbox], RoleName[TVCSanBox], CRC[880CD6B5], LastSaveTime[1970-01-01 07:00:00]
+[2025-07-19 04:00:54]	INFO	SendPlayerSave OK: Account[sanbox], RoleName[TVCSanBox], CRC[1635E272]

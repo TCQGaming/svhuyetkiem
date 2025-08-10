@@ -1,0 +1,10 @@
+[Server]
+Ip=103.92.25.43
+Port=8000
+
+[Mysql]
+DatabaseIP=127.0.0.1
+Database=jxaccount
+User=root
+Passwd=123@Aa123
+ 

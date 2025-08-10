@@ -1,0 +1,164 @@
+20250720-143649<INFO :00002448>: [Bishop] Begin to start ... ...
+20250720-143649<INFO :00002448>: [Bishop] Log level is set to "KGLOG_DEBUG"
+20250720-143649<INFO :00002448>: [Goddess] Connect to (127.0.0.1: 5001) SocketStream = 00C17270
+20250720-143649<INFO :00002448>: [Goddess] Login() nResult = 1
+20250720-143649<INFO :00002448>: [Relay] Init() Acceptor Open(: 5632), nRetCode = 1
+20250720-143649<INFO :00002448>: [PlayerManager] Init() Acceptor Open(: 1231), nRetCode = 1
+20250720-143649<INFO :00002448>: [Report] Init() Acceptor Open(: 5636), nRetCode = 1
+20250720-143725<INFO :00006AF0>: [Relay] ThreadFunction() Accept from (127.0.0.1: 5366) SocketStream = 00C17588
+20250720-143725<INFO :00006AF0>: [Relay] ThreadFunction() RelayConnectedInit nRetCode = 1
+20250720-143725<DEBUG:00006AF0>: [Relay] ReceivePackagesFromRelay() RecvPackage From Relay Protocol = 50; Size = 9; Key = 36
+20250720-143734<INFO :00003C74>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 5373) SocketStream = 00C175D0
+20250720-143734<INFO :000007C0>: [GameServer 0]  === Start ===
+20250720-143734<INFO :000007C0>: [GameServer 0] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6041, protocol version (79-->79)
+20250720-143738<DEBUG:000007C0>: [GameServer 0] GameServerConnectedInit() nResult = 1
+20250720-143738<DEBUG:00006AF0>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 397; Key = 1
+20250720-143740<INFO :00003C74>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 5391) SocketStream = 00C17618
+20250720-143740<INFO :0000679C>: [GameServer 1]  === Start ===
+20250720-143740<INFO :0000679C>: [GameServer 1] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6042, protocol version (79-->79)
+20250720-143740<INFO :00003C74>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 5393) SocketStream = 00C17660
+20250720-143740<INFO :00006990>: [GameServer 2]  === Start ===
+20250720-143740<INFO :00006990>: [GameServer 2] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6043, protocol version (79-->79)
+20250720-143740<INFO :00003C74>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 5395) SocketStream = 00C17108
+20250720-143740<INFO :00004A6C>: [GameServer 3]  === Start ===
+20250720-143740<INFO :00004A6C>: [GameServer 3] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6044, protocol version (79-->79)
+20250720-143740<INFO :00003C74>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 5397) SocketStream = 00C176A8
+20250720-143740<INFO :00003040>: [GameServer 4]  === Start ===
+20250720-143740<INFO :00003040>: [GameServer 4] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6045, protocol version (79-->79)
+20250720-143743<DEBUG:0000679C>: [GameServer 1] GameServerConnectedInit() nResult = 1
+20250720-143743<DEBUG:00006AF0>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 397; Key = 2
+20250720-143744<DEBUG:00004A6C>: [GameServer 3] GameServerConnectedInit() nResult = 1
+20250720-143744<DEBUG:00006AF0>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 337; Key = 3
+20250720-143745<DEBUG:00006990>: [GameServer 2] GameServerConnectedInit() nResult = 1
+20250720-143745<DEBUG:00006AF0>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 581; Key = 4
+20250720-143745<DEBUG:00003040>: [GameServer 4] GameServerConnectedInit() nResult = 1
+20250720-143745<DEBUG:00006AF0>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 421; Key = 5
+20250720-143752<DEBUG:00000424>: [Player 0] ThreadFunction() Accept from (192.168.1.100 : 5400) SocketStream = 00C176F0
+20250720-143757<DEBUG:00000424>: [Player 0] Account xboyhd login bishop ... ... [OK]
+20250720-143757<DEBUG:00000424>: [InterlockedAccountStateTable] xboyhd, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250720-143757<DEBUG:0000636C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 1
+20250720-143757<DEBUG:0000636C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 11; Key = 1
+20250720-143757<DEBUG:00000424>: [Player 0] ProcessRoleList() RoleCount = 0!
+20250720-143757<DEBUG:00000424>: [Player 0] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250720-143757<DEBUG:0000636C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 2
+20250720-143758<DEBUG:0000636C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 15; Key = 2
+20250720-143758<DEBUG:00000424>: [Player 0] QueryRoleListInZone() Role Count In Zone = 0!
+20250720-143806<DEBUG:00000424>: [Player 0] ReadPlayerRequest() Protocol = 33, Size = 37!
+20250720-143806<DEBUG:00000424>: [Player 0] Account xboyhd create role TCQGaming to goddess ... ... [OK]
+20250720-143806<DEBUG:0000636C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 35; Size = 80; Key = 3
+20250720-143806<DEBUG:0000636C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 12; Size = 366; Key = 3
+20250720-143806<DEBUG:00000424>: KGLOG_PROCESS_ERROR(pair1.first != pair1.second) at line 528 in KG_BishopGameServerManager::QueryGameServer
+20250720-143806<DEBUG:00000424>: KGLOG_PROCESS_ERROR(m_pKG_BishopGameServer) at line 2493 in KG_BishopPlayer::EnterGame_AskForPermission
+20250720-143806<DEBUG:00000424>: [Player 0] Request enter game: ask for permission, account = xboyhd, role name = TCQGaming ... ... [Failed]
+20250720-143806<DEBUG:00000424>: [Player 0] Ask for enter game failed, unlock role data, send msg to goddess, result = 1
+20250720-143806<DEBUG:00000424>: KGLOG_PROCESS_ERROR(nRetCode) at line 590 in KG_BishopPlayer::OnPlayerRequest
+20250720-143806<DEBUG:00000424>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = NONE, Comperand = NONE
+20250720-143806<DEBUG:00000424>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = NONE, Comperand = INGAETWAY
+20250720-143807<DEBUG:0000636C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 39; Size = 42; Key = 4
+20250720-143814<INFO :00003C74>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 5411) SocketStream = 00C176F0
+20250720-143814<INFO :00005BEC>: [GameServer 5]  === Start ===
+20250720-143814<INFO :00005BEC>: [GameServer 5] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6047, protocol version (79-->79)
+20250720-143814<INFO :00003C74>: [GameServerManager] ThreadFunction() Accept from (127.0.0.1: 5413) SocketStream = 00C172B8
+20250720-143814<INFO :00000F4C>: [GameServer 6]  === Start ===
+20250720-143814<INFO :00000F4C>: [GameServer 6] Connected from 255.255.255.255, internet address = 255.255.255.255, open port = 6046, protocol version (79-->79)
+20250720-143816<DEBUG:000067A8>: [Player 65] ThreadFunction() Accept from (192.168.1.100 : 5415) SocketStream = 00C17030
+20250720-143817<DEBUG:000067A8>: [Player 65] Account xboyhd login bishop ... ... [OK]
+20250720-143817<DEBUG:000067A8>: [InterlockedAccountStateTable] xboyhd, Orign = NONE, Exchange = INGAETWAY, Comperand = NONE
+20250720-143817<DEBUG:0000636C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 33; Size = 18; Key = 5
+20250720-143817<DEBUG:0000636C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 33; Size = 65; Key = 5
+20250720-143817<DEBUG:000067A8>: [Player 65] ProcessRoleList() RoleCount = 1!
+20250720-143817<DEBUG:000067A8>: [Player 65] ReadPlayerRequest() Protocol = 37, Size = 5!
+20250720-143817<DEBUG:0000636C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 46; Size = 17; Key = 6
+20250720-143817<DEBUG:0000636C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 41; Size = 79; Key = 6
+20250720-143818<DEBUG:00000F4C>: [GameServer 6] GameServerConnectedInit() nResult = 1
+20250720-143818<DEBUG:00006AF0>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 433; Key = 6
+20250720-143818<DEBUG:00005BEC>: [GameServer 5] GameServerConnectedInit() nResult = 1
+20250720-143818<DEBUG:00006AF0>: [Relay] SendRequests() SendPackage to Relay Protocol = 32; Size = 497; Key = 7
+20250720-143818<DEBUG:000067A8>: [Player 65] QueryRoleListInZone() Role Count In Zone = 1!
+20250720-143819<DEBUG:000067A8>: [Player 65] ReadPlayerRequest() Protocol = 35, Size = 33!
+20250720-143819<DEBUG:000067A8>: [Player 65] EnterGame_QueryRoleData() RoleName = TCQGaming
+20250720-143819<DEBUG:0000636C>: [Goddess] SendRequests() SendPackage to Goddess Protocol = 34; Size = 20; Key = 7
+20250720-143819<DEBUG:0000636C>: [Goddess] ReceivePackages() RecvPackage From Goddess Protocol = 11; Size = 366; Key = 7
+20250720-143820<DEBUG:000067A8>: [InterlockedAccountStateTable] xboyhd, Orign = INGAETWAY, Exchange = INGAMESERVER, Comperand = INGAETWAY
+20250720-143820<DEBUG:000067A8>: [Player 65] Request enter game: ask for permission, account = xboyhd, role name = TCQGaming ... ... [OK]
+20250720-143820<DEBUG:00005BEC>: [GameServer 5] SendRequestsFromPlayer() SendPackage to GameServer Protocol = 11; Size = 498; Key = 1
+20250720-143820<DEBUG:00005BEC>: [GameServer 5] g2b_player_login_permission() , Account = xboyhd, Role = TCQGaming, Permit = true
+20250720-143822<DEBUG:000067A8>: [Player 65] Notify player login game: ip = 255.255.255.255, port = 6047, account = xboyhd, role = TCQGaming
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 0 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 1 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 2 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 3 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 4 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 5 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 6 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 7 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 8 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 9 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 10 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 11 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 12 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 13 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 14 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 15 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 16 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 17 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 18 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 19 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 20 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 21 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 22 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 23 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 24 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 25 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 26 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 27 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 28 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 29 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 30 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 31 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 32 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 33 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 34 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 35 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 36 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 37 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 38 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 39 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 40 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 41 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 42 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 43 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 44 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 45 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 46 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 47 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 48 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 49 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 50 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 51 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 52 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 53 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 54 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 55 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 56 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 57 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 58 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 59 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] Player change ext point: Account = xboyhd , PlayerDataIndex = 60 ... ... [OK]
+20250720-143822<DEBUG:00005BEC>: [GameServer 5] g2b_player_enter_game() AccountName = xboyhd
+20250720-153150<DEBUG:00003040>: [GameServer 4] g2b_pre_transfer_server() AccountName = xboyhd
+20250720-153150<DEBUG:00005BEC>: [GameServer 5] g2b_player_leave_game() , Account xboyhd 
+20250720-153150<DEBUG:00005BEC>: [GameServer 5] Unregister account xboyhd in game server ... ... [OK]
+20250720-153150<DEBUG:00005BEC>: [GameServer 5] Account xboyhd leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20250720-153158<DEBUG:0000679C>: [GameServer 1] g2b_pre_transfer_server() AccountName = xboyhd
+20250720-153158<DEBUG:00003040>: [GameServer 4] g2b_player_leave_game() , Account xboyhd 
+20250720-153158<DEBUG:00003040>: [GameServer 4] Unregister account xboyhd in game server ... ... [OK]
+20250720-153158<DEBUG:00003040>: [GameServer 4] Account xboyhd leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20250720-153335<DEBUG:00003040>: [GameServer 4] g2b_pre_transfer_server() AccountName = xboyhd
+20250720-153335<DEBUG:0000679C>: [GameServer 1] g2b_player_leave_game() , Account xboyhd 
+20250720-153335<DEBUG:0000679C>: [GameServer 1] Unregister account xboyhd in game server ... ... [OK]
+20250720-153335<DEBUG:0000679C>: [GameServer 1] Account xboyhd leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1
+20250720-154631<DEBUG:00005BEC>: [GameServer 5] g2b_pre_transfer_server() AccountName = xboyhd
+20250720-154631<DEBUG:00003040>: [GameServer 4] g2b_player_leave_game() , Account xboyhd 
+20250720-154631<DEBUG:00003040>: [GameServer 4] Unregister account xboyhd in game server ... ... [OK]
+20250720-154631<DEBUG:00003040>: [GameServer 4] Account xboyhd leave game with HOLDACC_LEAVEGAME flag, UnRegisterAccountInGameServer(), nRetCode = 1

@@ -1,0 +1,40 @@
+WareId	WareName	WareType	nGenre	nDetailType	nParticular	nLevel	nSeries	nCurrencyType	nUseType	nOrgPrice	nWareUseStyle	nDiscount	nRecommend	timeSaleStart	timeSaleClose	DiscountStart	DiscountClose	dwTimeout	nTimeFrameStartSale	nTimeFrameEndSale	Consumed
+90	Thỏi vàng (đại)	102	18	1	118	2	1	0		100000								0			0
+91	Thỏi vàng	102	18	1	118	1	1	0		10000								0			0
+3	Thùng rượu (5 bình)	102	18	1	189	1	1	0		50								0			0
+4	Thùng rượu (50 bình)	102	18	1	189	2	1	0		500								0			0
+5	Cửu Chuyển Tục Mệnh Hoàn	102	18	1	24	1	1	0		50			1					43200			50
+6	Rương Nguyệt Ảnh Thạch	102	18	1	1339	1	1	0		50000			1					0			
+7	Càn Khôn Phù (10)	102	18	1	85	1	1	0		200								0			0
+9	Lệnh bài Tẩy Tủy Đảo	102	18	1	79	1	1	0		5000								0			100
+13	Chìa khóa đồng	102	18	1	77	1	1	0		30								0			100
+14	Chìa khóa bạc	102	18	1	82	1	1	0		60								0			100
+15	Chìa khóa vàng	102	18	1	187	1	1	0		100								0			100
+97	Đồng hành Tẩy Tủy Kinh (đặc biệt)	103	18	1	563	1	0	0		2000000								0			
+17	Tinh phách thần kỳ (cấp 4)	102	18	1	544	4	0	0		300000								0			
+18	Ngọc Trúc Mai Hoa	102	17	3	2	7	0	2		100000			1					0			
+19	Thùng rượu (5 bình)	102	18	1	189	1	1	2		50								0			0
+20	Thùng rượu (50 bình)	102	18	1	189	2	1	2		500								0			0
+22	Càn Khôn Phù (10)	102	18	1	85	1	1	2		10000								0			0
+98	Lệnh bài chúc phúc (Trung)	103	18	1	212	2	1	2		600000								0			100
+999	Rương Hồn Thạch (1000 cái)	101	18	1	244	2	0	2		800000			1					0			0
+25	Rương Linh Chi Tục Mệnh Hoàn	102	18	1	241	1	1	0		30000			1					0			0
+26	Rương Tuyết Sam Phản Khí Hoàn	102	18	1	242	1	1	0		30000			1					0			0
+27	Rương Diêu Trì Đại Hoàn Đơn	102	18	1	243	1	1	0		30000			1					0			0
+28	Ốc biển truyền thanh (đại)	102	18	1	113	3	1	2		10000								0			
+29	Tu Luyện Đơn	102	18	1	258	1	0	2		2000			1					0			
+322	Cửu Chuyển Tục Mệnh Hoàn (tự động sử dụng)	102	18	1	268	1	1	2		100								43200			
+31	Bổ Tu Lệnh	103	18	1	479	1	0	0		15000000								0			
+32	Kim Tê (cấp 4)	102	18	1	2	4	1	2		100000								43200			
+33	Bản đồ Bí Cảnh	102	18	1	251	1	0	0		20000			1					43200			
+99	Bí kíp đồng hành đặc biệt	102	18	1	554	4	0	0		3000000			1					43200			
+35	Thùng rượu (5 bình)	102	18	1	189	1	1	2		50								0			0
+36	Thùng rượu (50 bình)	102	18	1	189	2	1	2		500								0			0
+37	Càn Khôn Phù (10)	102	18	1	85	1	1	2		200								0			0
+39	Tu Luyện Đơn	102	18	1	258	1	0	0		2000			1					0			
+53	Cửu Chuyển Tục Mệnh Hoàn (tự động sử dụng)	102	18	1	218	1	1	0		50	2							43200			
+325	Kim Tê (cấp 4)	102	18	1	2	4	1	0		5800								43200			
+70	Ngọc Trúc Mai Hoa (tháng)	103	19	3	1	7	1	0		100000								43200			
+71	Vạn Niên Trân Lộ	103	18	1	1326	1	1	0		50000											
+72	Sách Kinh Nghiệm Đồng Hành	103	18	1	543	1	1	0		10000											
+73	Dạ Minh Châu-Rương (100)	103	18	1	382	1	1	0		50000											

@@ -1,0 +1,345 @@
+20250718-192913<INFO :00004B7C>: [KG_Goddess] starting ...
+20250718-192913<INFO :00004B7C>: [KG_Goddess] Loading kg_goddess.ini
+20250718-192913<INFO :00004B7C>: [KG_Goddess] Loaded KG_Angel, version 2.5
+20250718-192913<INFO :00004B7C>: [KG_Goddess] Initializing role database ...
+20250718-192913<DEBUG:00004B7C>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250718-192913<INFO :00004B7C>: [KG_Goddess] Initializing role statistic ...
+20250718-192913<INFO :00004B7C>: [KG_Goddess] Initializing server manager ...
+20250718-192913<INFO :00004B7C>: [KG_Goddess] Initializing Sequence ...
+20250718-192913<INFO :00004B7C>: [KG_Goddess] Initializing NameServer ...
+20250718-192913<DEBUG:00004B7C>: [Database] character set switch to latin1
+20250718-192913<INFO :00004B7C>: [ServerManager] Listening at 127.0.0.1:5001
+20250718-192913<INFO :00004B7C>: [KG_Goddess] RoleLock disable
+20250718-192913<INFO :00004B7C>: [KG_Goddess] Set log level to DEBUG
+20250718-192913<INFO :00004B7C>: [KG_Goddess] Start success
+20250718-192916<INFO :00003C48>: [ServerManager] Accept from (127.0.0.1: 60129) SocketStream = 010474F8
+20250718-192916<INFO :00004974>: [Goddess Server 00] Started, service for 127.0.0.1:60129
+20250718-192916<DEBUG:00004974>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250718-192917<INFO :00003C48>: [ServerManager] Accept from (127.0.0.1: 60134) SocketStream = 01046FE8
+20250718-192917<INFO :000052AC>: [Goddess Server 01] Started, service for 127.0.0.1:60134
+20250718-192917<DEBUG:000052AC>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250718-192922<INFO :00003C48>: [ServerManager] Accept from (127.0.0.1: 60146) SocketStream = 01047390
+20250718-192922<INFO :00001E30>: [Goddess Server 02] Started, service for 127.0.0.1:60146
+20250718-192922<DEBUG:00001E30>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250718-192922<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_query_statistic_info()
+20250718-192922<DEBUG:00001E30>: KGLOG_PROCESS_ERROR(piStatistic) at line 2189 in KG_GoddessServer::_query_statistic_info
+20250718-192922<DEBUG:00001E30>: [Goddess Server 02] Leave KG_GoddessServer::_query_statistic_info()
+20250718-192922<INFO :00003C48>: [ServerManager] Accept from (127.0.0.1: 60151) SocketStream = 010472B8
+20250718-192922<INFO :000023E8>: [Goddess Server 03] Started, service for 127.0.0.1:60151
+20250718-192922<DEBUG:000023E8>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250718-192922<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_query_statistic_info()
+20250718-192922<DEBUG:000023E8>: KGLOG_PROCESS_ERROR(piStatistic) at line 2189 in KG_GoddessServer::_query_statistic_info
+20250718-192922<DEBUG:000023E8>: [Goddess Server 03] Leave KG_GoddessServer::_query_statistic_info()
+20250718-192922<INFO :00003C48>: [ServerManager] Accept from (127.0.0.1: 60156) SocketStream = 010476A8
+20250718-192922<INFO :00003EA0>: [Goddess Server 04] Started, service for 127.0.0.1:60156
+20250718-192922<DEBUG:00003EA0>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250718-192922<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_query_statistic_info()
+20250718-192922<DEBUG:00003EA0>: KGLOG_PROCESS_ERROR(piStatistic) at line 2189 in KG_GoddessServer::_query_statistic_info
+20250718-192922<DEBUG:00003EA0>: [Goddess Server 04] Leave KG_GoddessServer::_query_statistic_info()
+20250718-192922<INFO :00003C48>: [ServerManager] Accept from (127.0.0.1: 60161) SocketStream = 010473D8
+20250718-192922<INFO :00003754>: [Goddess Server 05] Started, service for 127.0.0.1:60161
+20250718-192922<DEBUG:00003754>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250718-192922<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_query_statistic_info()
+20250718-192922<DEBUG:00003754>: KGLOG_PROCESS_ERROR(piStatistic) at line 2189 in KG_GoddessServer::_query_statistic_info
+20250718-192922<DEBUG:00003754>: [Goddess Server 05] Leave KG_GoddessServer::_query_statistic_info()
+20250718-192922<INFO :00003C48>: [ServerManager] Accept from (127.0.0.1: 60166) SocketStream = 01047780
+20250718-192922<INFO :00001C9C>: [Goddess Server 06] Started, service for 127.0.0.1:60166
+20250718-192922<DEBUG:00001C9C>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250718-192922<INFO :00003C48>: [ServerManager] Accept from (127.0.0.1: 60169) SocketStream = 01047198
+20250718-192922<INFO :0000391C>: [Goddess Server 07] Started, service for 127.0.0.1:60169
+20250718-192922<DEBUG:0000391C>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250718-192922<INFO :00003C48>: [ServerManager] Accept from (127.0.0.1: 60172) SocketStream = 01047540
+20250718-192922<INFO :00001FA4>: [Goddess Server 08] Started, service for 127.0.0.1:60172
+20250718-192922<DEBUG:00001FA4>: [KGD] Success connect to localhost:3306, character set switch to latin1
+20250718-192922<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_query_statistic_info()
+20250718-192922<DEBUG:00001FA4>: KGLOG_PROCESS_ERROR(piStatistic) at line 2189 in KG_GoddessServer::_query_statistic_info
+20250718-192922<DEBUG:00001FA4>: [Goddess Server 08] Leave KG_GoddessServer::_query_statistic_info()
+20250718-192923<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_query_statistic_info()
+20250718-192923<DEBUG:00001C9C>: KGLOG_PROCESS_ERROR(piStatistic) at line 2189 in KG_GoddessServer::_query_statistic_info
+20250718-192923<DEBUG:00001C9C>: [Goddess Server 06] Leave KG_GoddessServer::_query_statistic_info()
+20250718-192923<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_query_statistic_info()
+20250718-192923<DEBUG:0000391C>: KGLOG_PROCESS_ERROR(piStatistic) at line 2189 in KG_GoddessServer::_query_statistic_info
+20250718-192923<DEBUG:0000391C>: [Goddess Server 07] Leave KG_GoddessServer::_query_statistic_info()
+20250718-192929<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-192929<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-192930<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-192930<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-192931<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-192932<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-192933<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-192933<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250718-192934<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_query_role_list()
+20250718-192934<INFO :00004974>: [Goddess Server 00] Query roles list of account "xboyhd"
+20250718-192934<DEBUG:00004974>: [Goddess Server 00] Leave KG_GoddessServer::_query_role_list()
+20250718-192934<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_query_role_list_in_zone()
+20250718-192934<DEBUG:00004974>: [Goddess Server 00] Leave KG_GoddessServer::_query_role_list_in_zone()
+20250718-192935<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_query_role_list()
+20250718-192935<INFO :00004974>: [Goddess Server 00] Query roles list of account "xboyhd5"
+20250718-192935<DEBUG:00004974>: [Goddess Server 00] Leave KG_GoddessServer::_query_role_list()
+20250718-192936<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_query_role_list_in_zone()
+20250718-192936<DEBUG:00004974>: [Goddess Server 00] Leave KG_GoddessServer::_query_role_list_in_zone()
+20250718-192937<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_query_role_data()
+20250718-192937<INFO :00004974>: [Goddess Server 00] PacketID : 5, Get role "TCQGaming" of Account "xboyhd", Result = 1
+20250718-192937<DEBUG:00004974>: [Goddess Server 00] Leave KG_GoddessServer::_query_role_data()
+20250718-192938<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_query_role_data()
+20250718-192938<INFO :00004974>: [Goddess Server 00] PacketID : 6, Get role "thieulamne" of Account "xboyhd5", Result = 1
+20250718-192938<DEBUG:00004974>: [Goddess Server 00] Leave KG_GoddessServer::_query_role_data()
+20250718-192938<DEBUG:00001FA4>: [Goddess Server 08] Unsupported protocol: 38
+20250718-192939<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-192939<DEBUG:00001E30>: [Goddess Server 02] Unsupported protocol: 38
+20250718-192939<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-192940<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-192940<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-192940<DEBUG:00001FA4>: [Goddess Server 08] Unsupported protocol: 37
+20250718-192940<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_save_role_data()
+20250718-192940<INFO :00001FA4>: [Goddess Server 08] PacketID : 1, Save role "TCQGaming" of Account "xboyhd", LeaveFlag = 1, Result = 1
+20250718-192940<DEBUG:00001FA4>: [Goddess Server 08] Leave KG_GoddessServer::_save_role_data()
+20250718-192940<DEBUG:00001E30>: [Goddess Server 02] Unsupported protocol: 38
+20250718-192941<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-192941<DEBUG:00001E30>: [Goddess Server 02] Unsupported protocol: 37
+20250718-192941<DEBUG:00001E30>: [Goddess Server 02] Unsupported protocol: 37
+20250718-192941<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_save_role_data()
+20250718-192941<INFO :00001E30>: [Goddess Server 02] PacketID : 1, Save role "thieulamne" of Account "xboyhd5", LeaveFlag = 1, Result = 1
+20250718-192941<DEBUG:00001E30>: [Goddess Server 02] Leave KG_GoddessServer::_save_role_data()
+20250718-192941<DEBUG:00001FA4>: [Goddess Server 08] Unsupported protocol: 38
+20250718-192942<DEBUG:00001FA4>: [Goddess Server 08] Unsupported protocol: 37
+20250718-192942<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-192943<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-192944<DEBUG:000052AC>: [Goddess Server 01] Enter KG_GoddessServer::_ping()
+20250718-192949<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-192949<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-192949<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-192949<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-192950<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-192950<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-192950<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-192950<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-192951<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-192951<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-192952<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-192952<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-192953<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-192953<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-192958<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250718-192959<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-192959<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193000<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193000<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193001<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193002<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193003<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193003<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_save_role_data()
+20250718-193003<INFO :00001E30>: [Goddess Server 02] PacketID : 2, Save role "TCQGaming" of Account "xboyhd", LeaveFlag = 1, Result = 1
+20250718-193003<DEBUG:00001E30>: [Goddess Server 02] Leave KG_GoddessServer::_save_role_data()
+20250718-193003<DEBUG:00001FA4>: [Goddess Server 08] Unsupported protocol: 38
+20250718-193004<DEBUG:00001FA4>: [Goddess Server 08] Unsupported protocol: 37
+20250718-193009<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193009<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193010<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193010<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193011<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193012<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193013<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193014<DEBUG:000052AC>: [Goddess Server 01] Enter KG_GoddessServer::_ping()
+20250718-193016<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_save_role_data()
+20250718-193016<INFO :00001FA4>: [Goddess Server 08] PacketID : 2, Save role "TCQGaming" of Account "xboyhd", LeaveFlag = 1, Result = 1
+20250718-193016<DEBUG:00001FA4>: [Goddess Server 08] Leave KG_GoddessServer::_save_role_data()
+20250718-193016<DEBUG:00001E30>: [Goddess Server 02] Unsupported protocol: 38
+20250718-193017<DEBUG:00001E30>: [Goddess Server 02] Unsupported protocol: 37
+20250718-193018<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250718-193019<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193019<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193019<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193019<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193020<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193020<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193020<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193020<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193021<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193021<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193022<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193022<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193023<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193023<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193029<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193029<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193030<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193030<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193031<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193032<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193033<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193038<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250718-193039<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193039<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193040<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193040<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193041<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193042<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193043<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193044<DEBUG:000052AC>: [Goddess Server 01] Enter KG_GoddessServer::_ping()
+20250718-193049<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193049<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193049<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193050<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193050<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193050<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193050<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193050<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193051<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193051<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193052<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193052<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193053<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193053<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193058<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250718-193059<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193059<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193100<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193100<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193101<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193102<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193103<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193109<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193109<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193110<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193110<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193111<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193112<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193113<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193114<DEBUG:000052AC>: [Goddess Server 01] Enter KG_GoddessServer::_ping()
+20250718-193118<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250718-193119<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193119<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193119<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193120<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193120<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193120<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193120<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193120<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193121<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193121<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193122<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193123<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193123<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193123<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193129<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193129<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193130<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193130<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193131<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193132<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193133<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193138<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250718-193139<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193139<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193140<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193140<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193141<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193142<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193143<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193144<DEBUG:000052AC>: [Goddess Server 01] Enter KG_GoddessServer::_ping()
+20250718-193149<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193149<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193149<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193150<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193150<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193150<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193150<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193150<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193151<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193151<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193152<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193153<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193153<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193153<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193158<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250718-193159<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193159<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193200<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193200<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193201<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193202<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193203<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193209<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193209<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193210<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193210<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193211<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193212<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193213<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193214<DEBUG:000052AC>: [Goddess Server 01] Enter KG_GoddessServer::_ping()
+20250718-193218<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250718-193219<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193219<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193219<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193220<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193220<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193220<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193220<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193220<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193221<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193221<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193222<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193223<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193223<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193223<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193229<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193229<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193230<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193230<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193231<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193232<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193233<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193238<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250718-193239<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193239<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193240<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193240<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193241<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193242<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193243<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193244<DEBUG:000052AC>: [Goddess Server 01] Enter KG_GoddessServer::_ping()
+20250718-193249<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193249<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193249<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193250<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193250<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193250<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193250<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193250<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193251<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193251<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193252<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193253<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193253<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193253<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193258<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250718-193259<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193259<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193300<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193300<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193301<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193302<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193303<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193309<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193309<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193310<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193310<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193311<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193312<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193313<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193314<DEBUG:000052AC>: [Goddess Server 01] Enter KG_GoddessServer::_ping()
+20250718-193318<DEBUG:00004974>: [Goddess Server 00] Enter KG_GoddessServer::_ping()
+20250718-193319<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193319<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193319<DEBUG:00001E30>: [Goddess Server 02] Enter KG_GoddessServer::_ping()
+20250718-193320<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193320<DEBUG:000023E8>: [Goddess Server 03] Enter KG_GoddessServer::_ping()
+20250718-193320<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193320<DEBUG:00003EA0>: [Goddess Server 04] Enter KG_GoddessServer::_ping()
+20250718-193320<DEBUG:00003754>: [Goddess Server 05] Enter KG_GoddessServer::_ping()
+20250718-193321<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193321<DEBUG:00001FA4>: [Goddess Server 08] Enter KG_GoddessServer::_ping()
+20250718-193322<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()
+20250718-193323<DEBUG:0000391C>: [Goddess Server 07] Enter KG_GoddessServer::_ping()
+20250718-193323<DEBUG:00001C9C>: [Goddess Server 06] Enter KG_GoddessServer::_ping()

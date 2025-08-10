@@ -1,0 +1,9 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	114	4	56100		Huyền Tinh 4
+		18	1	114	4	800		Huyền Tinh 5
+		18	1	114	4	80		Huyền Tinh 6
+		18	1	114	4	800		Huyền Tinh 7
+		18	1	114	4	100		Huyền Tinh 8
+		22	1	73	1	200000		Mảnh Dạ Minh Châu
+		18	1	370	1	15		Vật liệu túi 20 ô
+		22	1	75	1	150000		Vật liệu 1-Trường Minh Đăng

@@ -1,0 +1,16 @@
+ROUND_ID	MAPPATTERN_1	MAPPATTERN_2	MAPPATTERN_3	MAPPATTERN_4	MAPPATTERN_5	MAPPATTERN_6	MAPPATTERN_7	MAPPATTERN_8	MAPPATTERN_9	MAPPATTERN_10	FOLLOWING_ROUND_1	FOLLOWING_ROUND_2	FOLLOWING_ROUND_3	FOLLOWING_ROUND_4
+1	1	2	3								2	3		
+2	1	2	3								4	5		
+3	1	2	3								6	7		
+4	1	2	3								8	9		
+5	1	2	3								10	11		
+6	1	2	3								12	13		
+7	1	2	3								14	15		
+8	1	2	3								1	1		
+9	1	2	3								1	1		
+10	1	2	3								1	1		
+11	1	2	3								1	1		
+12	1	2	3								1	1		
+13	1	2	3								1	1		
+14	1	2	3								1	1		
+15	1	2	3								1	1		

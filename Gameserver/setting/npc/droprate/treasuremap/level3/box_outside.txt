@@ -1,0 +1,9 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+2000						200000		
+5000						20000		
+		18	1	114	3	562000		2级玄晶
+		18	1	114	3	100000		3级玄晶
+		18	1	114	2	20000		4级玄晶
+		18	1	114	3	3000		5级玄晶
+		18	1	114	3	15000		金钥匙
+		18	1	114	3	80000		上锁的金箱子

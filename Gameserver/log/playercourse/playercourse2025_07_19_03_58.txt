@@ -1,0 +1,109 @@
+19-03:58:00	testttt	login 10
+19-03:58:00	testttt	xboyhd2	192.168.1.100:47355	LoginHwId_2248007984	639324413
+19-03:58:00	testttt	xboyhd2	2248007984	1677830336	SetForbitCode0
+19-03:58:00	testttt	Exchange 8
+19-03:58:01	testttt	login 8
+19-03:58:01	testttt	xboyhd2	192.168.1.100:47611	LoginHwId_2248007984	639324413
+19-03:58:02	testttt	UseItem	Vô Hạn Truyền Tống Phù
+19-03:58:04	testttt	Exchange 184
+19-04:00:36	TVCSanBox	login 8
+19-04:00:36	TVCSanBox	sanbox	192.168.1.100:52475	LoginHwId_2248007984	639324413
+19-04:00:36	TVCSanBox	NewWorld 8
+19-04:00:36	TVCSanBox	AddItem	Túi Tân Thủ(1752872436)	Way100	Value2821109
+19-04:00:36	TVCSanBox	LevelUp	2
+19-04:00:36	TVCSanBox	LevelUp	3
+19-04:00:36	TVCSanBox	LevelUp	4
+19-04:00:36	TVCSanBox	LevelUp	5
+19-04:00:36	TVCSanBox	LevelUp	6
+19-04:00:36	TVCSanBox	LevelUp	7
+19-04:00:36	TVCSanBox	LevelUp	8
+19-04:00:36	TVCSanBox	LevelUp	9
+19-04:00:36	TVCSanBox	LevelUp	10
+19-04:00:36	TVCSanBox	LevelUp	11
+19-04:00:36	TVCSanBox	LevelUp	12
+19-04:00:36	TVCSanBox	LevelUp	13
+19-04:00:36	TVCSanBox	LevelUp	14
+19-04:00:36	TVCSanBox	LevelUp	15
+19-04:00:36	TVCSanBox	LevelUp	16
+19-04:00:36	TVCSanBox	LevelUp	17
+19-04:00:36	TVCSanBox	LevelUp	18
+19-04:00:36	TVCSanBox	LevelUp	19
+19-04:00:36	TVCSanBox	LevelUp	20
+19-04:00:36	TVCSanBox	LevelUp	21
+19-04:00:36	TVCSanBox	LevelUp	22
+19-04:00:36	TVCSanBox	LevelUp	23
+19-04:00:36	TVCSanBox	LevelUp	24
+19-04:00:36	TVCSanBox	LevelUp	25
+19-04:00:36	TVCSanBox	LevelUp	26
+19-04:00:36	TVCSanBox	LevelUp	27
+19-04:00:36	TVCSanBox	LevelUp	28
+19-04:00:36	TVCSanBox	LevelUp	29
+19-04:00:36	TVCSanBox	LevelUp	30
+19-04:00:36	TVCSanBox	LevelUp	31
+19-04:00:36	TVCSanBox	LevelUp	32
+19-04:00:36	TVCSanBox	LevelUp	33
+19-04:00:36	TVCSanBox	LevelUp	34
+19-04:00:36	TVCSanBox	LevelUp	35
+19-04:00:36	TVCSanBox	LevelUp	36
+19-04:00:36	TVCSanBox	LevelUp	37
+19-04:00:36	TVCSanBox	LevelUp	38
+19-04:00:36	TVCSanBox	LevelUp	39
+19-04:00:36	TVCSanBox	LevelUp	40
+19-04:00:36	TVCSanBox	LevelUp	41
+19-04:00:36	TVCSanBox	LevelUp	42
+19-04:00:36	TVCSanBox	LevelUp	43
+19-04:00:36	TVCSanBox	LevelUp	44
+19-04:00:36	TVCSanBox	LevelUp	45
+19-04:00:36	TVCSanBox	LevelUp	46
+19-04:00:36	TVCSanBox	LevelUp	47
+19-04:00:36	TVCSanBox	LevelUp	48
+19-04:00:36	TVCSanBox	LevelUp	49
+19-04:00:36	TVCSanBox	LevelUp	50
+19-04:00:36	TVCSanBox	LevelUp	51
+19-04:00:36	TVCSanBox	LevelUp	52
+19-04:00:36	TVCSanBox	LevelUp	53
+19-04:00:36	TVCSanBox	LevelUp	54
+19-04:00:36	TVCSanBox	LevelUp	55
+19-04:00:36	TVCSanBox	LevelUp	56
+19-04:00:36	TVCSanBox	LevelUp	57
+19-04:00:36	TVCSanBox	LevelUp	58
+19-04:00:36	TVCSanBox	LevelUp	59
+19-04:00:36	TVCSanBox	LevelUp	60
+19-04:00:36	TVCSanBox	LevelUp	61
+19-04:00:36	TVCSanBox	LevelUp	62
+19-04:00:36	TVCSanBox	LevelUp	63
+19-04:00:36	TVCSanBox	LevelUp	64
+19-04:00:36	TVCSanBox	LevelUp	65
+19-04:00:36	TVCSanBox	LevelUp	66
+19-04:00:36	TVCSanBox	LevelUp	67
+19-04:00:36	TVCSanBox	LevelUp	68
+19-04:00:36	TVCSanBox	LevelUp	69
+19-04:00:36	TVCSanBox	LevelUp	70
+19-04:00:36	TVCSanBox	LevelUp	71
+19-04:00:36	TVCSanBox	LevelUp	72
+19-04:00:36	TVCSanBox	LevelUp	73
+19-04:00:36	TVCSanBox	LevelUp	74
+19-04:00:36	TVCSanBox	LevelUp	75
+19-04:00:36	TVCSanBox	LevelUp	76
+19-04:00:36	TVCSanBox	LevelUp	77
+19-04:00:36	TVCSanBox	LevelUp	78
+19-04:00:36	TVCSanBox	LevelUp	79
+19-04:00:36	TVCSanBox	LevelUp	80
+19-04:00:36	TVCSanBox	AddItem	Túi Khởi La(1752872436)	Way100	Value1050000
+19-04:00:36	TVCSanBox	AddItem	Túi Khởi La(1752872436)	Way100	Value1050000
+19-04:00:36	TVCSanBox	AddItem	Lệnh bài Uy danh giang hồ(1752872436)	Way100	Value100000
+19-04:00:36	TVCSanBox	AddItem	Huyền Tinh Cấp 5(1752872436)	Way100	Value67184
+19-04:00:36	TVCSanBox	AddItem	Ngọc Trúc Mai Hoa 50 (tháng)(1752872436)	Way100	Value100000
+19-04:00:36	TVCSanBox	AddBindCoin	AddWay100	Count	150000
+19-04:00:36	TVCSanBox	AddBindMoney	AddWay100	Count	2000000
+19-04:00:36	TVCSanBox	AddItem	Ngũ Hành Hồn Thạch(1752872436)	Way100	Value999000
+19-04:00:36	TVCSanBox	sanbox	2248007984	1677830336	SetForbitCode0
+19-04:00:36	TVCSanBox	NewWorld 8
+19-04:00:38	TVCSanBox	UseItem	Túi Tân Thủ
+19-04:00:40	TVCSanBox	UseItem	Ngọc Trúc Mai Hoa 50 (tháng)
+19-04:00:40	TVCSanBox	RemoveItem	Ngọc Trúc Mai Hoa 50 (tháng)(1752872436)	Way5	Value100000
+19-04:00:43	TVCSanBox	UseItem	Túi Tân Thủ
+19-04:00:45	TVCSanBox	AddItem	Vô Hạn Truyền Tống Phù(1752872445)	Way100	Value150000
+19-04:00:47	TVCSanBox	UseItem	Ô Truy
+19-04:00:52	TVCSanBox	UseItem	Vô Hạn Truyền Tống Phù
+19-04:00:54	TVCSanBox	Exchange 184

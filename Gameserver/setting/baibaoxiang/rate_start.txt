@@ -1,0 +1,14 @@
+Type	Level	Rate
+Huyền Tinh	1	1875
+Huyền Tinh	2	190
+Huyền Tinh	3	45
+Bạc khóa	1	2405
+Bạc khóa	2	265
+Bạc khóa	3	60
+Tinh hoạt lực	1	2300
+Tinh hoạt lực	2	245
+Tinh hoạt lực	3	55
+Bạc	1	2205
+Bạc	2	250
+Bạc	3	60
+Bảo rương	1	40

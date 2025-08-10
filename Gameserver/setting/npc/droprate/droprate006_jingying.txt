@@ -1,0 +1,46 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	675					250000		
+		1	3	2	6	6000		6cấp nam giáp y 
+		1	3	3	6	6000		6cấp nam áo da 
+		1	3	4	6	6000		6cấp nam bố y 
+		1	3	6	6	3000		6cấp nữ giáp y 
+		1	3	7	6	3000		6cấp nữ áo da 
+		1	3	8	6	3000		6cấp nữ bố y 
+		1	7	1	6	18000		6cấp nam giày 
+		1	7	2	6	9000		6cấp nữ giày 
+		1	8	1	6	18000		6cấp nam đai lưng 
+		1	8	2	6	9000		6cấp nữ đai lưng 
+		1	9	2	6	6000		6cấp nam giáp mạo 
+		1	9	3	6	6000		6cấp nam da mạo 
+		1	9	4	6	6000		6cấp nam bố mạo 
+		1	9	6	6	3000		6cấp nữ giáp mạo 
+		1	9	7	6	3000		6cấp nữ da mạo 
+		1	9	8	6	3000		6cấp nữ bố mạo 
+		1	1	1	6	2000		6cấp gay go 
+		1	1	2	6	2000		6cấp kiếm 
+		1	1	3	6	2000		6cấp đao 
+		1	1	4	6	2000		6cấp côn 
+		1	1	5	6	2000		6cấp thương 
+		1	1	6	6	2000		6cấp chuy 
+		1	2	2	6	1000		6cấp phi đao 
+		1	2	3	6	1000		6cấp tên nỏ 
+		1	4	1	6	18000		6cấp nhẫn 
+		1	6	1	6	18000		6cấp bùa hộ mệnh 
+		1	11	1	6	12000		6cấp ngọc bội 
+		1	11	2	6	6000		6cấp hương nang 
+		1	3	2	5	9000		5cấp nam giáp y 
+		1	3	3	5	9000		5cấp nam áo da 
+		1	3	4	5	9000		5cấp nam bố y 
+		1	3	6	5	4500		5cấp nữ giáp y 
+		1	3	7	5	4500		5cấp nữ áo da 
+		1	3	8	5	4500		5cấp nữ bố y 
+		1	4	1	5	27000		5cấp nhẫn 
+		1	5	1	5	27000		5cấp hạng liên 
+		1	6	1	5	27000		5cấp bùa hộ mệnh 
+		1	7	1	5	27000		5cấp nam giày 
+		1	7	2	5	13500		5cấp nữ giày 
+		1	8	1	5	27000		5cấp nam đai lưng 
+		1	8	2	5	13500		5cấp nữ đai lưng 
+		1	10	1	5	27000		5cấp bao cổ tay 
+		1	10	2	5	13500		5cấp thủ trạc 
+		18	1	80	1	40000		phúc túi 

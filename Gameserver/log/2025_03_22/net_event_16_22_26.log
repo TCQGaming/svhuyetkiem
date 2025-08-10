@@ -1,0 +1,23 @@
+[2025-03-22 16:22:26]	INFO	linkid:0 connect, free linkid count:998
+[2025-03-22 16:22:26]	INFO	Send syncend OK: Account[aducbva], Role[aaaaaâ], linkid:0, PlayerIndex:1
+[2025-03-22 16:22:32]	INFO	linkid:1 connect, free linkid count:997
+[2025-03-22 16:22:32]	INFO	Send syncend OK: Account[xboyhd], Role[TCQGaming], linkid:1, PlayerIndex:2
+[2025-03-22 16:25:39]	INFO	Send data error, connection(0)
+
+[2025-03-22 16:25:39]	INFO	Send data error, connection(0)
+
+[2025-03-22 16:25:39]	INFO	Send data error, connection(0)
+
+[2025-03-22 16:25:39]	INFO	Send data error, connection(0)
+
+[2025-03-22 16:25:39]	INFO	Send data error, connection(0)
+
+[2025-03-22 16:25:39]	INFO	Send data error, connection(0)
+
+[2025-03-22 16:25:39]	INFO	Send data error, connection(0)
+
+[2025-03-22 16:25:39]	INFO	aducbva(aaaaaâ) linkid:0, disconnect: Normal
+[2025-03-22 16:25:39]	INFO	linkid:0 disconnect, free linkid count:998
+[2025-03-22 16:25:42]	INFO	Flush send data error, shutdown(1)
+[2025-03-22 16:25:42]	INFO	shutdown linkid:1, game status:2
+[2025-03-22 16:25:42]	INFO	xboyhd(TCQGaming) linkid:1, disconnect: Normal

@@ -1,0 +1,6 @@
+20250718-192930<DEBUG:00002EA0>: [PrevInitCore]:1, start tickers = 263592786823822
+20250718-192931<DEBUG:00002EA0>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 4181178690
+20250718-192932<ERROR:00002EA0>: GetInteger(38, 1) failed !
+20250718-194002<DEBUG:00002EA0>: nSocket = 260, nSendFlag = 0, Error = 10054
+20250718-194002<DEBUG:00002EA0>: KGLOG_PROCESS_ERROR(DatabaseIsGood()) at line 2239 in KSwordOnLineSever::SendSavePlayerData
+20250718-194002<DEBUG:00002EA0>: main thread exit

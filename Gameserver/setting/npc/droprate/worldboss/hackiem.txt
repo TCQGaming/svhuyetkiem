@@ -1,0 +1,5 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		22	1	81	1	555600		htn
+		18	1	547	2	102500		đồng hành năm mới
+		18	1	554	4	50000		đồng hành đặt biệt
+		18	1	1	7	50000		HT9

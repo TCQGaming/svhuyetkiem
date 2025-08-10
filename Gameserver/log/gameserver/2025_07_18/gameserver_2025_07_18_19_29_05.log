@@ -1,0 +1,11 @@
+20250718-192905<DEBUG:000020C0>: [PrevInitCore]:1, start tickers = 269581192141729
+20250718-192905<DEBUG:000020C0>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 4077645071
+20250718-192905<ERROR:000020C0>: GetInteger(38, 1) failed !
+20250718-193004<DEBUG:000020C0>: KGLOG_PROCESS_ERROR(dwLockCode == m_dwLockCode) at line 3927 in KPlayer::UnlockAction
+20250718-193007<DEBUG:000020C0>: KGLOG_PROCESS_ERROR(dwLockCode == m_dwLockCode) at line 3927 in KPlayer::UnlockAction
+20250718-193140<INFO :000020C0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250718-193150<INFO :000020C0>: [Player]TCQGaming Excute Save Data
+20250718-193357<DEBUG:000020C0>: nSocket = 760, nSendFlag = 0, Error = 10054
+20250718-193357<ERROR:000020C0>: Gamecenter Disconnect!!
+20250718-193357<DEBUG:000020C0>: nSocket = 840, nSendFlag = 0, Error = 10054
+20250718-193357<DEBUG:000020C0>: main thread exit

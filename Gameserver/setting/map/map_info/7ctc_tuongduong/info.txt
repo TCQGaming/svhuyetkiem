@@ -1,0 +1,5 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+Đi Thành Đô	0	2525	4	5	1	1	20	20	20	20	20	1		47232	106144		1		
+Đi Đại Lý	0	2525	4	5	1	1	20	20	20	20	20	1		56800	95136		1		
+to_thanhdo	1															\setting\map\map_info\7ctc_tuongduong\trap\to_thanhdo.txt			
+to_daily	1															\setting\map\map_info\7ctc_tuongduong\trap\to_daily.txt			

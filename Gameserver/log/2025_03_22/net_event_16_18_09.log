@@ -1,0 +1,11 @@
+[2025-03-22 16:18:09]	INFO	linkid:0 connect, free linkid count:600
+[2025-03-22 16:18:09]	INFO	Send syncend OK: Account[xboyhd], Role[TCQGaming], linkid:0, PlayerIndex:1
+[2025-03-22 16:19:00]	INFO	linkid:1 connect, free linkid count:599
+[2025-03-22 16:19:00]	INFO	Send syncend OK: Account[aducbva], Role[aaaaaâ], linkid:1, PlayerIndex:2
+[2025-03-22 16:19:47]	INFO	() linkid:1, disconnect: Normal
+[2025-03-22 16:19:47]	INFO	linkid:1 disconnect, free linkid count:600
+[2025-03-22 16:19:52]	INFO	() linkid:0, disconnect: Normal
+[2025-03-22 16:19:52]	INFO	linkid:0 disconnect, free linkid count:601
+[2025-03-22 16:21:12]	INFO	linkid:0 connect, free linkid count:600
+[2025-03-22 16:21:12]	INFO	Send syncend OK: Account[aducbva], Role[aaaaaâ], linkid:0, PlayerIndex:1
+[2025-03-22 16:21:59]	INFO	() linkid:0, disconnect: Normal

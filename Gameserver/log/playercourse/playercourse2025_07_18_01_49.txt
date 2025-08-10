@@ -1,0 +1,66 @@
+18-01:49:46	TCQGaming	login 242
+18-01:49:46	TCQGaming	xboyhd	192.168.1.100:26862	LoginHwId_2539837046	639324413
+18-01:49:46	TCQGaming	NewWorld 242
+18-01:49:46	TCQGaming	xboyhd	2539837046	1677830336	SetForbitCode0
+18-01:49:46	TCQGaming	NewWorld 8
+18-01:49:52	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-01:49:52	TCQGaming	UseItem	Thẻ GM
+18-01:50:07	TCQGaming	UseItem	Túi Tân Thủ
+18-01:50:30	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-01:50:30	TCQGaming	UseItem	Thẻ GM
+18-01:50:32	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-01:50:32	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-01:50:32	TCQGaming	UseItem	Thẻ GM
+18-01:51:03	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-01:51:03	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-01:51:03	TCQGaming	UseItem	Thẻ GM
+18-01:51:06	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-01:51:06	TCQGaming	UseItem	Thẻ GM
+18-01:52:05	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-01:52:05	TCQGaming	UseItem	Thẻ GM
+18-01:52:07	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-01:52:07	TCQGaming	UseItem	Thẻ GM
+18-01:52:12	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-01:52:12	TCQGaming	UseItem	Thẻ GM
+18-01:52:57	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-01:52:57	TCQGaming	UseItem	Thẻ GM
+18-01:53:01	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-01:53:01	TCQGaming	UseItem	Thẻ GM
+18-01:53:06	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1752778386)	Way100	Value217678
+18-01:53:06	TCQGaming	UseItem	Thẻ GM
+18-01:53:52	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1752778386)	Way100	Value217678
+18-01:53:52	TCQGaming	UseItem	Thẻ GM
+18-01:53:55	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1752778386)	Way100	Value217678
+18-01:53:55	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1752778386)	Way100	Value217678
+18-01:53:55	TCQGaming	UseItem	Thẻ GM
+18-01:55:32	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-01:55:33	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1752778386)	Way100	Value217678
+18-01:55:33	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1752778386)	Way100	Value217678
+18-01:55:33	TCQGaming	UseItem	Thẻ GM
+18-01:55:38	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1752778386)	Way100	Value217678
+18-01:55:38	TCQGaming	UseItem	Thẻ GM
+18-02:02:16	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-02:02:18	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1752778386)	Way100	Value217678
+18-02:02:18	TCQGaming	UseItem	Thẻ GM
+18-02:02:19	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-02:02:19	TCQGaming	AddItem	Tiền Du Long(1752778939)	Way100	Value50000
+18-02:02:19	TCQGaming	AddItem	Tiền Du Long(1752778939)	Way100	Value4950000
+18-02:02:19	TCQGaming	AddBindCoin	AddWay100	Count	25000
+18-02:02:19	TCQGaming	AddBindMoney	AddWay100	Count	25000
+18-02:02:19	TCQGaming	UseItem	Thẻ GM
+18-02:02:39	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-02:02:41	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-02:02:41	TCQGaming	AddItem	Tiền Du Long(1752778939)	Way100	Value50000
+18-02:02:41	TCQGaming	AddItem	Tiền Du Long(1752778939)	Way100	Value4950000
+18-02:02:41	TCQGaming	AddBindCoin	AddWay100	Count	25000
+18-02:02:41	TCQGaming	AddBindMoney	AddWay100	Count	25000
+18-02:02:41	TCQGaming	UseItem	Thẻ GM
+18-02:02:44	TCQGaming	AddItem	Huyền Tinh có vết nứt (cấp 6)(1752778192)	Way100	Value60466
+18-02:02:44	TCQGaming	AddItem	Tiền Du Long(1752778939)	Way100	Value50000
+18-02:02:44	TCQGaming	AddItem	Tiền Du Long(1752778939)	Way100	Value4950000
+18-02:02:44	TCQGaming	AddBindCoin	AddWay100	Count	25000
+18-02:02:44	TCQGaming	AddBindMoney	AddWay100	Count	25000
+18-02:02:44	TCQGaming	UseItem	Thẻ GM
+18-02:03:13	TCQGaming	dialog Thi Đấu Ngũ Hành Phái
+18-02:49:33	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+18-02:49:36	TCQGaming	Exchange 184

@@ -1,0 +1,8 @@
+20250318-230515<DEBUG:00004AE0>: [PrevInitCore]:1, start tickers = 74794054235495
+20250318-230516<DEBUG:00004AE0>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3922600622
+20250318-230518<ERROR:00004AE0>: GetInteger(38, 1) failed !
+20250318-230625<INFO :00004AE0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250318-230635<INFO :00004AE0>: [Player]TCQGaming Excute Save Data
+20250318-230647<INFO :00004AE0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250318-230655<INFO :00004AE0>: [Player]TCQGaming Apply Save Data By Reason Value
+20250318-230705<INFO :00004AE0>: [Player]TCQGaming Excute Save Data

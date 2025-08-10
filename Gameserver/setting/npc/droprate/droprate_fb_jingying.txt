@@ -1,0 +1,6 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	300					250000		bảng định ngân lượng 
+		18	1	114	4	60000		4cấp huyền tinh 
+		18	1	114	5	6000		5cấp huyền tinh 
+		18	1	80	1	50000		phúc túi 
+		18	1	543	1	30000		đồng bạn kinh nghiệm thư 

@@ -1,0 +1,34 @@
+Index	Name	Id	BindType	Timeout	Rate	Weight	Level	TaskCountNoUse	TaskCountUse	ServerCountUse	ChangeCoin	SystemMsg	TongMsg	FriendMsg
+1	Du long danh vọng lệnh [Phù]	18,1,528,1			0	1	2	1000	0	100000	1	1		
+2	Du long danh vọng lệnh [Nón]	18,1,528,1			0	1	2	1000	0	100000	1	1		
+3	Du long danh vọng lệnh [Áo]	18,1,528,1			0	1	2	1000	0	100000	1	1		
+4	Du long danh vọng lệnh [Yêu đái]	18,1,528,1			0	1	2	1000	0	100000	1	1		
+5	Du long danh vọng lệnh [Giày]	18,1,528,1			0	1	2	1000	0	100000	1	1		
+6	Huyền tinh (cấp 10)	18,1,114,5			5	2	2	500	0	0	1	1	1	1
+7	Huyền tinh (cấp 9)	18,1,114,9			30	5	4	0	0	0	1	1	1	1
+8	Câu Hồn Ngọc Cao	18,1,114,5			10	5	2	0	0	0	120	1		
+9	Mã bài (Bôn Tiêu)	18,1,528,1		259200	300	2	2	0	0	0	2	1		
+10	Huyền tinh (cấp 8)	18,1,114,8			300	15	4	0	0	0	30		1	1
+11	Thái Vân Truy Nguyệt	18,1,464,1			50	10	4	0	0	0	100		1	1
+12	Thương Hải Nguyệt Minh	18,1,465,1			50	10	4	0	0	0	100		1	1
+13	Du long tu luyện phù	18,1,526,1			50	10	2	0	0	0	1			1
+14	Huyền tinh (cấp 7)	18,1,114,7			2000	50	3	0	0	0	10			
+15	Lb chúc phúc sơ (khóa)	18,1,212,1	1		1000	30	3	0	0	0	18			
+16	Bản đồ bí cảnh	18,1,251,1	1		1000	33	3	0	0	0	18			
+17	Đĩnh vàng du long	18,1,527,2			800	30	3	0	0	0	10			
+18	Thiệp bạc (khóa)	18,1,528,1	1		1000	30	2	0	0	0	1			
+19	Bách luyện hoàn (khóa)	18,1,468,1	1		2000	40	3	0	0	0	5			
+20	Huyền tinh (cấp 6)	18,1,114,6			12000	40	3	0	0	0	2			
+21	Linh chi tục mệnh hoàn-rương	18,1,241,1	1		2000	40	3	0	0	0	3			
+22	Lục thao tập chú	18,1,320,2			100	30	3	0	0	0	5			
+23	Thùng rượu (50 bình)	18,1,189,2	1		2000	30	2	0	0	0	1			
+24	Trứng du long	18,1,525,1			8000	80	3	0	0	0	4			1
+25	Huyền tinh (cấp 5)	18,1,114,5			10000	60	2	0	0	0	1			
+26	Càn khôn phù	18,1,85,1			500	50	2	0	0	0	1			
+27	Huyền tinh (cấp 5)	18,1,114,5			12000	60	1	0	0	0	1			
+28	Du long tinh khí hoàn	18,1,532,1			3000	50	2	0	0	0	2			
+29	Du long hoạt khí hoàn	18,1,531,1			3000	50	2	0	0	0	2			
+30	Du long tu luyện phù	18,1,526,1			15000	60	1	0	0	0	1			
+31	Tiền du long	18,1,85,1			12097	60	1	0	0	0	1			
+32	Tinh phách thường (khóa)	18,1,544,1	1		4000	60	1	0	0	0	1			
+33	Sách kinh nghiệm đồng hành	18,1,543,1			8000	60	1	0	0	0	1			

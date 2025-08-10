@@ -1,0 +1,7 @@
+20250720-143447<INFO :00005050>: [KG_CSLogServer] starting ...
+20250720-143447<INFO :00005050>: [KG_CSLogServer] Loading KG_CSLogServer.ini
+20250720-143447<INFO :00005050>: [KG_CSLogServer] Init Socket thread ...
+20250720-143447<DEBUG:00005050>: KGLOG_PROCESS_ERROR(nRetCode && "m_SocketServer->Init") at line 68 in KG_SocketThread::Init
+20250720-143447<DEBUG:00005050>: KGLOG_PROCESS_ERROR(nRetCode) at line 287 in KG_CSLogServer::Init
+20250720-143447<INFO :00005050>: [KG_CSLogServer] start fail
+20250720-143447<DEBUG:00005050>: KGLOG_PROCESS_ERROR(nRetCode) at line 223 in main

@@ -1,0 +1,6 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	114	3	587500		Huyền Tinh 5
+		18	1	114	4	100000		Huyền Tinh 6
+		18	1	114	3	10000		Huyền Tinh 7
+		18	1	114	4	1000		Huyền Tinh 8
+		18	1	114	3	301500		Huyền Tinh 4

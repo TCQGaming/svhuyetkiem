@@ -1,0 +1,3 @@
+20250322-160515<DEBUG:000016DC>: [PrevInitCore]:1, start tickers = 1258988498971713
+20250322-160516<DEBUG:000016DC>: [PrevInitCore]:1->[PrevInitCore]:0 timeout, tickers = 3203271666
+20250322-160517<ERROR:000016DC>: GetInteger(38, 1) failed !

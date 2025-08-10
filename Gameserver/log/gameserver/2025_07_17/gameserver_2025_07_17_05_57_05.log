@@ -1,0 +1,15 @@
+20250717-055705<INFO :000001A0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250717-055715<INFO :000001A0>: [Player]TCQGaming Excute Save Data
+20250717-062715<INFO :000001A0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250717-062725<INFO :000001A0>: [Player]TCQGaming Excute Save Data
+20250717-065726<INFO :000001A0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250717-065736<INFO :000001A0>: [Player]TCQGaming Excute Save Data
+20250717-072736<INFO :000001A0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250717-072746<INFO :000001A0>: [Player]TCQGaming Excute Save Data
+20250717-075746<INFO :000001A0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250717-075756<INFO :000001A0>: [Player]TCQGaming Excute Save Data
+20250717-082756<INFO :000001A0>: [Player]TCQGaming Apply Save Data By Reason 30 min TimeOut
+20250717-082806<INFO :000001A0>: [Player]TCQGaming Excute Save Data
+20250717-082943<DEBUG:000001A0>: nSocket = 776, nSendFlag = 0, Error = 10054
+20250717-082943<DEBUG:000001A0>: KGLOG_PROCESS_ERROR(DatabaseIsGood()) at line 2239 in KSwordOnLineSever::SendSavePlayerData
+20250717-082943<DEBUG:000001A0>: main thread exit

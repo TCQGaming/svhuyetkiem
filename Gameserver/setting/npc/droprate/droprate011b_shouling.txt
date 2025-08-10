@@ -1,0 +1,53 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	1200					250000		
+		1	1	1	10	4000		10cấp gay go 
+		1	1	2	10	4000		10cấp kiếm 
+		1	1	3	10	4000		10cấp đao 
+		1	1	4	10	4000		10cấp côn 
+		1	1	5	10	4000		10cấp thương 
+		1	1	6	10	4000		10cấp chuy 
+		1	2	2	10	2000		10cấp phi đao 
+		1	2	3	10	2000		10cấp tên nỏ 
+		1	3	2	10	12000		10cấp nam giáp y 
+		1	3	3	10	12000		10cấp nam áo da 
+		1	3	4	10	12000		10cấp nam bố y 
+		1	3	6	10	6000		10cấp nữ giáp y 
+		1	3	7	10	6000		10cấp nữ áo da 
+		1	3	8	10	6000		10cấp nữ bố y 
+		1	4	1	10	36000		10cấp nhẫn 
+		1	5	1	10	36000		10cấp hạng liên 
+		1	7	1	10	36000		10cấp nam giày 
+		1	7	2	10	18000		10cấp nữ giày 
+		1	9	2	10	12000		10cấp nam giáp mạo 
+		1	9	3	10	12000		10cấp nam da mạo 
+		1	9	4	10	12000		10cấp nam bố mạo 
+		1	9	6	10	6000		10cấp nữ giáp mạo 
+		1	9	7	10	6000		10cấp nữ da mạo 
+		1	9	8	10	6000		10cấp nữ bố mạo 
+		1	10	1	10	36000		10cấp bao cổ tay 
+		1	10	2	10	18000		10cấp thủ trạc 
+		1	11	1	10	24000		10cấp ngọc bội 
+		1	11	2	10	12000		10cấp hương nang 
+		18	1	114	4	5000		4cấp huyền tinh 
+		18	1	114	5	500		5cấp huyền tinh 
+		2	7	212	10	20		Tuyệt Hỏa giày tử trang PVP_kim hệ 
+		2	7	232	10	20		Tuyệt Hỏa giày tử trang PVP_mộc hệ 
+		2	7	252	10	20		Tuyệt Hỏa giày tử trang PVP_thủy hệ 
+		2	7	272	10	20		Tuyệt Hỏa giày tử trang PVP_hỏa hệ 
+		2	7	292	10	20		Tuyệt Hỏa giày tử trang PVP_thổ hệ 
+		2	7	222	10	12		khinh vân giày tử trang PVP_kim hệ 
+		2	7	242	10	12		khinh vân giày tử trang PVP_mộc hệ 
+		2	7	262	10	12		khinh vân giày tử trang PVP_thủy hệ 
+		2	7	282	10	12		khinh vân giày tử trang PVP_hỏa hệ 
+		2	7	302	10	12		khinh vân giày tử trang PVP_thổ hệ 
+		2	7	412	10	2		Tuyệt Hỏa giày chanh trang PVP_kim hệ 
+		2	7	432	10	2		Tuyệt Hỏa giày chanh trang PVP_mộc hệ 
+		2	7	452	10	2		Tuyệt Hỏa giày chanh trang PVP_thủy hệ 
+		2	7	472	10	2		Tuyệt Hỏa giày chanh trang PVP_hỏa hệ 
+		2	7	492	10	2		Tuyệt Hỏa giày chanh trang PVP_thổ hệ 
+		2	7	422	10	2		khinh vân giày chanh trang PVP_kim hệ 
+		2	7	442	10	2		khinh vân giày chanh trang PVP_mộc hệ 
+		2	7	462	10	2		khinh vân giày chanh trang PVP_thủy hệ 
+		2	7	482	10	2		khinh vân giày chanh trang PVP_hỏa hệ 
+		2	7	502	10	2		khinh vân giày chanh trang PVP_thổ hệ 
+		18	1	80	1	40000		phúc túi 

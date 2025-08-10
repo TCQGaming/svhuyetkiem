@@ -1,0 +1,18 @@
+ID vật phẩm	Miêu tả vật phẩm
+90	Thỏi vàng
+91	Thỏi vàng (đại)
+3	Thùng rượu (5 bình)
+4	Thùng rượu (50 bình)
+7	Càn Khôn Phù (10)
+5	cửu chuyển
+9	Lệnh bài Tẩy Tủy Đảo
+33	Bản đồ bí cảnh
+97	Đồng hành Tẩy Tủy Kinh (đặc biệt)
+6	Rương Nguyệt Ảnh Thạch
+17	Tinh phách thần kỳ (cấp 4)
+39	Tu Luyện Đơn
+325	Kim Tê
+70	Ngọc Trúc Hoa Mai Thang
+71	Vạn Niên Trân Lộ
+72	Sách Kinh Nghiệm Đồng Hành
+73	Dạ Minh Châu-Rương (100)

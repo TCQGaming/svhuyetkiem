@@ -1,0 +1,8 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	114	2	200000		2cấp huyền tinh 
+		18	1	114	3	40000		3cấp huyền tinh 
+		18	1	114	4	20000		4cấp huyền tinh 
+		18	1	114	5	2000		5cấp huyền tinh 
+		18	1	626	1	200000		tiểu cái cuốc 
+		18	1	627	1	400000		nước tiểu hồ 
+		18	1	80	1	100000		phúc túi 

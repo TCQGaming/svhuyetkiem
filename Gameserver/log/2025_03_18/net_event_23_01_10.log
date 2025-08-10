@@ -1,0 +1,4 @@
+[2025-03-18 23:01:10]	INFO	linkid:0 connect, free linkid count:998
+[2025-03-18 23:01:10]	INFO	shutdown linkid:0, game status:0
+[2025-03-18 23:01:10]	INFO	PlayerDbLoading[0] failed in step(4)
+[2025-03-18 23:01:10]	ERR!	xboyhd(GameMaster) linkid:0, disconnect: Login_fail
