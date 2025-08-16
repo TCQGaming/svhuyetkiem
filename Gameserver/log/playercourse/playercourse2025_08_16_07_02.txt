@@ -1,0 +1,37 @@
+16-07:02:51	TCQGaming	login 182
+16-07:02:51	TCQGaming	xboyhd	192.168.1.100:44096	LoginHwId_2068200986	639324413
+16-07:02:51	TCQGaming	xboyhd	2068200986	1677830336	SetForbitCode0
+16-07:02:55	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-07:03:00	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-07:03:01	TCQGaming	NewWorld 1638
+16-07:03:20	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-07:03:22	TCQGaming	NewWorld 182
+16-07:03:23	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-07:03:29	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-07:03:32	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-07:04:12	HOHOHO	login 182
+16-07:04:12	HOHOHO	xboyhda123	192.168.1.100:45376	LoginHwId_2068200986	639324413
+16-07:04:12	HOHOHO	xboyhda123	2068200986	1677830336	SetForbitCode0
+16-07:04:16	HOHOHO	dialog Hiệu Úy Mộ Binh (Tống)
+16-07:04:21	HOHOHO	dialog Hiệu Úy Mộ Binh (Tống)
+16-07:04:25	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-07:10:22	HOHOHO	dialog Hiệu Úy Mộ Binh (Tống)
+16-07:10:23	HOHOHO	NewWorld 1638
+16-07:10:27	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-07:12:59	HOHOHO	NewWorld 1638
+16-07:18:07	TCQGaming	UseItem	Thẻ GM
+16-07:18:09	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-07:18:10	TCQGaming	UseItem	Thẻ GM
+16-07:18:12	TCQGaming	UseItem	Thẻ GM
+16-07:18:15	TCQGaming	UseItem	Thẻ GM
+16-07:18:16	TCQGaming	UseItem	Thẻ GM
+16-07:18:28	TCQGaming	UseItem	Thẻ GM
+16-07:18:29	TCQGaming	UseItem	Thẻ GM
+16-07:18:47	TCQGaming	UseItem	Thẻ GM
+16-07:18:49	TCQGaming	UseItem	Thẻ GM
+16-07:18:49	TCQGaming	UseItem	Thẻ GM
+16-07:18:55	HOHOHO	NewWorld 182
+16-07:19:22	TCQGaming	UseItem	Thẻ GM
+16-07:19:22	TCQGaming	UseItem	Thẻ GM
+16-07:20:44	TCQGaming	UseItem	Túi Tân Thủ
+16-07:20:47	TCQGaming	UseItem	Túi Tân Thủ

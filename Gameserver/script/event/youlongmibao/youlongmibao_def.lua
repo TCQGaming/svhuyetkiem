@@ -14,7 +14,7 @@ Youlongmibao.TASK_YOULONG_HAPPY_EGG		= 6;	-- 是否已经拿过开心蛋；0为未拿
 Youlongmibao.TaskId_Day                     = 13;    -- ????4?
 Youlongmibao.TaskId_Count                     = 14;    -- ????4?
 
-Youlongmibao.MAX_FIGHT_TIME                     = 15;    ---So lan khieu chien
+Youlongmibao.MAX_FIGHT_TIME                     = 50;    ---So lan khieu chien
 Youlongmibao.MAX_TIMES 					= 4;	-- 最多进行4次
 Youlongmibao.MAX_GRID					= 25;	-- 格子数量
 Youlongmibao.MAX_INTERVAL				= 20;	-- 挑战间隔20秒

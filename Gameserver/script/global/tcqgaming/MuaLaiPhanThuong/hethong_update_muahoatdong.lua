@@ -11,7 +11,7 @@ function MuaLai_TCQGaming:Update_Gs()
 	local nTDC = KGblTask.SCGetDbTaskInt(DBTASD_UPDATE_MUALAIHOATDONGTDC);
 	local nTK = KGblTask.SCGetDbTaskInt(DBTASD_UPDATE_MUALAIHOATDONGTK);
 	local nQD = KGblTask.SCGetDbTaskInt(DBTASD_UPDATE_MUALAIHOATDONGQD);
-	local nNhiemVuNgay = KGblTask.SCGetDbTaskInt(DBTASD_UPDATE_MUALAIHOATDONGNVHN);
+	-- local nNhiemVuNgay = KGblTask.SCGetDbTaskInt(DBTASD_UPDATE_MUALAIHOATDONGNVHN);
 	local nTichQuaHuyHoang = KGblTask.SCGetDbTaskInt(DBTASD_UPDATE_QUAHUYHOANG);
 	print("--- DA UPDATE MUA LAI HOAT DONG BVD BHD TDC TK QD NVN ---");
 	KGblTask.SCSetDbTaskInt(DBTASD_UPDATE_MUALAIHOATDONGBHD, (nBHD+1));
@@ -19,6 +19,18 @@ function MuaLai_TCQGaming:Update_Gs()
 	KGblTask.SCSetDbTaskInt(DBTASD_UPDATE_MUALAIHOATDONGTDC, (nTDC+1));
 	KGblTask.SCSetDbTaskInt(DBTASD_UPDATE_MUALAIHOATDONGTK, (nTK+4));
 	KGblTask.SCSetDbTaskInt(DBTASD_UPDATE_MUALAIHOATDONGQD, (nQD+1));
-	KGblTask.SCSetDbTaskInt(DBTASD_UPDATE_MUALAIHOATDONGNVHN, (nNhiemVuNgay+3));
+	-- KGblTask.SCSetDbTaskInt(DBTASD_UPDATE_MUALAIHOATDONGNVHN, (nNhiemVuNgay+3));
 	KGblTask.SCSetDbTaskInt(DBTASD_UPDATE_QUAHUYHOANG, (nTichQuaHuyHoang+3));
 end
+
+function MuaLai_TCQGaming:Update_NhiemVuTuan_Gs()
+		local nMapIndex = SubWorldID2Idx(1);
+	if nMapIndex < 0 then
+		return;
+	end
+	local nNhiemVuTuan = KGblTask.SCGetDbTaskInt(DBTASD_UPDATE_NHIEMVUTUAN);
+
+	print("--- DA UPDATE MUA LAI NHIEM VU TUAN---");
+	KGblTask.SCSetDbTaskInt(DBTASD_UPDATE_NHIEMVUTUAN, (nNhiemVuTuan+1));
+end
+

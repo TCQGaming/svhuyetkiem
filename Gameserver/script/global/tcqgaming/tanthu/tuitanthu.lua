@@ -149,7 +149,7 @@ local nQuaUyDanhTuan = me.GetTask(9191,3)
 				local nFanCungT11 = me.GetTask(9175,11)
 				local nFanCungT12 = me.GetTask(9175,12)
     local tbOpt =     {} 
-				table.insert(tbOpt, {"<bclr=red><color=yellow>Thử nghiệm AlphaTest<color>",SpecialEvent.NewTest.OnDialog,SpecialEvent.NewTest});
+				-- table.insert(tbOpt, {"<bclr=red><color=yellow>Thử nghiệm AlphaTest<color>",SpecialEvent.NewTest.OnDialog,SpecialEvent.NewTest});
 				
 	if me.nFaction == 0 then
 			table.insert(tbOpt, {"<color=yellow>Gia nhập môn phái (12 phái)<color>", "Npc.tbMenPaiNpc:FactionDialog", Npc.tbMenPaiNpc.DialogMaster});
@@ -186,6 +186,7 @@ if (nTop4Den20TKTest == 0) and (
     me.szAccount == "bminha" or
     me.szAccount == "volamhke" or
     me.szAccount == "chianha" or
+    me.szAccount == "quoctuan" or
     me.szAccount == "hoangkieux" or
     me.szAccount == "hoangkieuc"
 ) then
@@ -198,6 +199,7 @@ if (nTopThuongTongKimTest_Dat6k == 0) and (
     me.szAccount == "huyhoang" or
     me.szAccount == "toanmkkkkkk" or
     me.szAccount == "hoangnamft" or
+    me.szAccount == "latkhe" or
     me.szAccount == "taikhoan" or
     me.szAccount == "thanghp"
 ) then

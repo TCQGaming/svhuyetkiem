@@ -1,1 +1,1 @@
-ThietLap.capdo = 119;
+ThietLap.capdo = 89;

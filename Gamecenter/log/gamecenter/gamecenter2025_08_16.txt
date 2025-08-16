@@ -1840,3 +1840,892 @@ OnGCExcute	Map:GCUpdateForbidenInfo
 06:29:21	OnGCExcute	PlayerHonor:SetPlayerHonor	2	8	0	0
 06:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
 06:30:00	[ScheduleTask]	Execute Task: Tran BHD Tiep Theo
+07:02:04	**********************   ∞Ê  »®  …˘  √˜   ************************
+07:02:04	
+07:02:04	                  °æΩ£ ¿…Ω◊Ø°øΩ£œ¿ ¿ΩÁ∑˛ŒÒ∂À
+07:02:04	
+07:02:04	ºº ıΩª¡˜£∫http://www.web-jx.com
+07:02:04	
+07:02:04	    ±æœµ¡–≥Ã–Ú÷ª◊˜—ßœ∞Ωª¡˜ π”√£¨Ωˆπ©∏ˆ»À—–æø÷Æ”√£¨«Î∞≤◊∞∫Û‘⁄24–° ±ƒ⁄…æ≥˝£¨«ÎŒ”√”⁄…Ã“µ“‘º∞∑«∑®”√Õæ£¨»Á”…¥À“˝∆µƒœ‡πÿ∑®¬…∑®πÊ‘»Œ£¨”ÎŒ“√«Œﬁπÿ£°
+07:02:04	
+07:02:04	–ﬁ∏ƒƒ⁄»›£∫
+07:02:04	1°¢‘ˆº”Ω±“ªÒ»°Ω≈±æAddJbCoin(d),eg:AddJbCoin(10000)‘ˆº”1ÕÚΩ±“°£
+07:02:04	2°¢–ﬁ∏ƒ…Ã≥«Ω±“Ω”ø⁄£¨ µœ÷ π”√Ω±“π∫¬Ú…Ã≥«µ¿æﬂ°£
+07:02:04	3°¢±æ∂À”¶∏√÷ß≥÷120ººƒ‹£¨»Á≤‚ ‘Õ®π˝œ£Õ˚ø…“‘¡¨Õ¨ƒ˙µƒººƒ‹Ω≈±æ…œ¥´µΩŒ“√«¬€Ã≥£¨π©¥Ûº“—–æø°£
+07:02:04	4°¢±æ∂À√ª”–»Œ∫Œπ¶ƒ‹œﬁ÷∆°£
+07:02:04	********************** GameCenter Startup ************************
+07:02:04	OS Time: 08/16/25 07:02:04
+07:02:04	Game Init ..
+07:02:04	Loading Script...
+07:02:04	Begin load script files...
+07:02:04	begin load vfactory.lua
+07:02:04	Preload gc script files...
+07:02:04	21 loaded!
+07:02:04	Loading Scripts In Path \script\
+07:02:04	308 loaded!
+07:02:04	Create DBShare Table
+07:02:04	LoadDBShare...
+07:02:04	Current Data Version : 10
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[GBLVALUE]	ModuleInit..
+07:02:04	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+07:02:04	Create RDS Table: tblGblValueSet
+07:02:04	Create RDS Table: tblGblVIntInt
+07:02:04	Create RDS Table: tblGblVIntBuf
+07:02:04	Create RDS Table: tblGblVStrInt
+07:02:04	Create RDS Table: tblGblVStrBuf
+07:02:04	[GBLVALUE]	Base Data Init, Create RootTree...
+07:02:04	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+07:02:04	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+07:02:04	[GBLVALUE]	Base Data Init, Create RootTree...
+07:02:04	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+07:02:04	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+07:02:04	[GBLVALUE]	Base Data Init, Create RootTree...
+07:02:04	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+07:02:04	Create SaveBuffer DB Table
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[TRANSFER]	ModuleInit..
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[TimerTask]	ModuleInit..
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[ScheduleTask]	ModuleInit..
+07:02:04	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+07:02:04	[ScheduleTask]	Schedule Task Loaded, Task Count = 68
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[LEAGUE]	ModuleInit..
+07:02:04	[LEAGUE]	Base Data Init, Root Branch ID: 11
+07:02:04	Create RDS Table: tblLeagueSet
+07:02:04	Create RDS Table: tblMemberLea
+07:02:04	Create RDS Table: tblLeague
+07:02:04	Create RDS Table: tblLeagueTask
+07:02:04	Create RDS Table: tblLeagueMember
+07:02:04	Create RDS Table: tblLeaMemberTask
+07:02:04	[LEAGUE]	Base Data Init, Create RootTree...
+07:02:04	[LEAGUE]	Base Data Init, Create DataTree Completed!
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[KIN]	ModuleInit..
+07:02:04	[KIN]	Base Data Init, Root Branch ID: 14
+07:02:04	Create RDS Table: tblKin
+07:02:04	Create RDS Table: tblKinTask
+07:02:04	Create RDS Table: tblKinBufTask
+07:02:04	Create RDS Table: tblKinMember
+07:02:04	Create RDS Table: tblKinMemberTask
+07:02:04	[KIN]	Base Data Init, Create RootTree...
+07:02:04	[KIN]	Base Data Init, Create DataTree Completed!
+07:02:04	Create Player Kin-Tong DB Table
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[TONG]	ModuleInit..
+07:02:04	[TONG]	Base Data Init, Root Branch ID: 16
+07:02:04	Create RDS Table: tblTong
+07:02:04	Create RDS Table: tblTongTask
+07:02:04	Create RDS Table: tblTongBufTask
+07:02:04	Create RDS Table: tblTongKin
+07:02:04	Create RDS Table: tblTongDomain
+07:02:04	Create RDS Table: tblTongDomainTask
+07:02:04	Create RDS Table: tblTongDomainTaskBuf
+07:02:04	[TONG]	Base Data Init, Create RootTree...
+07:02:04	[TONG]	Base Data Init, Create DataTree Completed!
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[UNION]	ModuleInit..
+07:02:04	[UNION]	Base Data Init, Root Branch ID: 18
+07:02:04	Create RDS Table: tblUnion
+07:02:04	Create RDS Table: tblUnionTask
+07:02:04	Create RDS Table: tblUnionBufTask
+07:02:04	Create RDS Table: tblUnionTong
+07:02:04	Create RDS Table: tblUnionDomain
+07:02:04	[UNION]	Base Data Init, Create RootTree...
+07:02:04	[UNION]	Base Data Init, Create DataTree Completed!
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[PLAYERMAN]	ModuleInit..
+07:02:04	LoadCoZoneSubPlayerNameId TimeOut Del
+07:02:04	Create Player Data DB Table
+07:02:04	Loading All Players ...
+07:02:04	Referenced Players in <PlayerData> Table: 2
+07:02:04	<PlayerData> Table: Simple Player Count[0], Normal Player Count [2].
+07:02:04	Loading Players Kin Info in <PlayerKin> Table ...
+07:02:04	Referenced Players in <PlayerKin> Table: 0
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[TEAM]	ModuleInit..
+07:02:04	[TEAM]	Base Data Init, Root Branch ID: 20
+07:02:04	[TEAM]	Base Data Init, Create RootTree...
+07:02:04	[TEAM]	Base Data Init, Create DataTree Completed!
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[Map]	ModuleInit..
+07:02:04	Loading World Setting...
+07:02:04	Gameserver Count = 3
+07:02:04	[Gameserver0]
+07:02:04	ID = 1
+07:02:04	MapCount = 251
+07:02:04	[Gameserver1]
+07:02:04	ID = 2
+07:02:04	MapCount = 253
+07:02:04	[Gameserver2]
+07:02:04	ID = 3
+07:02:04	MapCount = 239
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[CHAT]	ModuleInit..
+07:02:04	Create OfflineMsg DB Table
+07:02:04	Load All OfflineMsg
+07:02:04	Referenced OfflineMsg 0
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[RELATION]	ModuleInit..
+07:02:04	Create Player Relay DB Table
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[MAIL]	ModuleInit..
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[IBSHOP]	ModuleInit..
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[GMBOARD]	ModuleInit..
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[JBEXCHANGE]	ModuleInit..
+07:02:04	[JBEXCHANGE]	Base Data Init, Root Branch ID: 22
+07:02:04	Create RDS Table: tblJbExchangeBill
+07:02:04	Create RDS Table: tblJbExchangeTask
+07:02:04	[JBEXCHANGE]	Base Data Init, Create RootTree...
+07:02:04	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[LADDER]	ModuleInit..
+07:02:04	[LADDER]	Base Data Init, Root Branch ID: 24
+07:02:04	Create RDS Table: tblLadder
+07:02:04	Create RDS Table: tblPlayerLadder
+07:02:04	Create RDS Table: tblAllTotalLadder
+07:02:04	Create RDS Table: tblTotalLadder
+07:02:04	[LADDER]	Base Data Init, Create RootTree...
+07:02:04	[LADDER]	Base Data Init, Create DataTree Completed!
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[GBLBUF]	ModuleInit..
+07:02:04	[GBLBUF]	Base Data Init, Root Branch ID: 72
+07:02:04	Create RDS Table: tblGblBufSet
+07:02:04	Create RDS Table: tblGblBuf
+07:02:04	[GBLBUF]	Base Data Init, Create RootTree...
+07:02:04	[GBLBUF]	Base Data Init, Create DataTree Completed!
+07:02:04	[GBLBUF]	Base Data Init, Root Branch ID: 86
+07:02:04	Create RDS Table: tblGblBufSet
+07:02:04	Create RDS Table: tblGblBuf
+07:02:04	[GBLBUF]	Base Data Init, Create RootTree...
+07:02:04	[GBLBUF]	Base Data Init, Create DataTree Completed!
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[PROFILE]	ModuleInit..
+07:02:04	[PROFILE]	Base Data Init, Root Branch ID: 100
+07:02:04	Create RDS Table: tblProfile
+07:02:04	Create RDS Table: tblProfileTask
+07:02:04	Create RDS Table: tblProfileBuff
+07:02:04	[PROFILE]	Base Data Init, Create RootTree...
+07:02:04	[PROFILE]	Base Data Init, Create DataTree Completed!
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[AUCTION]	ModuleInit..
+07:02:04	Create Auction Table
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[NORMAL]	ModuleInit..
+07:02:04	-------------------------------------------------------------------------------
+07:02:04	[SPORT]	ModuleInit..
+07:02:04	[SPORT]	Base Data Init, Root Branch ID: 101
+07:02:04	Create RDS Table: tblSportPlayer
+07:02:04	[SPORT]	Base Data Init, Create RootTree...
+07:02:04	[SPORT]	Base Data Init, Create DataTree Completed!
+07:02:04	[LOG]	2	[Player]	Cap cao nhat 119
+07:02:05	Xep hang danh sach
+07:02:05	Hoan Thanh Xep Hang
+07:02:05	Den Bu Online qua thoi gian thanh tru	So Luong thanh tru:	0
+07:02:05	Khong Co So Lieu ,Tu Tra Ve
+07:02:05	Connect to logserver(127.0.0.1:5101) OK!
+07:02:05	Connect to Goddess(127.0.0.1:5001) OK!
+07:02:05	Connect Gateway....
+07:02:05	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09CF6BF8
+07:02:05	Game Startup Completed!
+07:02:11	[CenServer] Accept from 127.0.0.1 Port = 38976
+07:02:11	Connection Created! Connection ID = 1
+07:02:11	Domain	Statuary	tbStatuary:OnRecConnectEvent	1
+07:02:11	[CenServer] Accept from 127.0.0.1 Port = 40256
+07:02:11	Connection Created! Connection ID = 2
+07:02:11	Domain	Statuary	tbStatuary:OnRecConnectEvent	2
+07:02:11	[CenServer] Accept from 127.0.0.1 Port = 40768
+07:02:11	Connection Created! Connection ID = 3
+07:02:11	Domain	Statuary	tbStatuary:OnRecConnectEvent	3
+07:02:11	[CenServer] Accept from 127.0.0.1 Port = 41280
+07:02:11	Connection Created! Connection ID = 4
+07:02:11	Domain	Statuary	tbStatuary:OnRecConnectEvent	4
+07:02:11	[GCError] KMapArrangeCentre::RegisterHost(111) 4
+07:02:11	[CenServer] Accept from 127.0.0.1 Port = 41792
+07:02:11	OnGCExcute	Map:GCUpdateForbidenInfo
+07:02:11	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+07:02:11	So den khong co ban dau hoa, truc tiep tro ve
+07:02:11	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	4
+07:02:11	Connection Created! Connection ID = 5
+07:02:11	Domain	Statuary	tbStatuary:OnRecConnectEvent	5
+07:02:11	[GCError] KMapArrangeCentre::RegisterHost(111) 5
+07:02:11	[CenServer] Accept from 127.0.0.1 Port = 42304
+07:02:11	Connection Created! Connection ID = 6
+07:02:11	Domain	Statuary	tbStatuary:OnRecConnectEvent	6
+07:02:11	[GCError] KMapArrangeCentre::RegisterHost(111) 6
+07:02:11	OnGCExcute	Map:GCUpdateForbidenInfo
+07:02:11	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+07:02:11	So den khong co ban dau hoa, truc tiep tro ve
+07:02:11	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	5
+07:02:11	[CenServer] Accept from 127.0.0.1 Port = 42816
+07:02:11	Connection Created! Connection ID = 7
+07:02:11	Domain	Statuary	tbStatuary:OnRecConnectEvent	7
+07:02:11	[GCError] KMapArrangeCentre::RegisterHost(111) 7
+07:02:11	OnGCExcute	Map:GCUpdateForbidenInfo
+07:02:11	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+07:02:11	So den khong co ban dau hoa, truc tiep tro ve
+07:02:11	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	6
+07:02:11	OnGCExcute	Map:GCUpdateForbidenInfo
+07:02:11	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+07:02:11	So den khong co ban dau hoa, truc tiep tro ve
+07:02:11	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	7
+07:02:17	Do Daily Backup 15
+07:02:17	OnGCExcute	Map:GCUpdateForbidenInfo
+07:02:17	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+07:02:17	So den khong co ban dau hoa, truc tiep tro ve
+07:02:17	OnGCExcute	XoyoGame:CreateManager_GC	342
+07:02:17	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+07:02:17	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	2
+07:02:18	KGC_PlayerModule Breath Player Save Task 1, TCQGaming
+07:02:18	OnGCExcute	Map:GCUpdateForbidenInfo
+07:02:18	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+07:02:18	So den khong co ban dau hoa, truc tiep tro ve
+07:02:18	OnGCExcute	Map:GCUpdateForbidenInfo
+07:02:18	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+07:02:18	So den khong co ban dau hoa, truc tiep tro ve
+07:02:18	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+07:02:18	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	3
+07:02:18	OnGCExcute	XoyoGame:CreateManager_GC	341
+07:02:18	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+07:02:18	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+07:02:52	TCQGaming	2068200986	LoginMul_1	IpMul1
+07:04:12	HOHOHO	2068200986	LoginMul_2	IpMul2
+07:18:55	HOHOHO	2068200986	LogoutMul_1	IpMul_1
+07:30:00	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+07:30:00	[ScheduleTask]	Execute Task: Ket Thuc Bach Ho Duong 
+07:45:09	TCQGaming	2068200986	LogoutMul_0	IpMul_0
+08:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+08:00:01	[ScheduleTask]	Execute Task: Pho ban quan doanh
+08:00:01	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+08:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+08:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+08:00:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+08:08:29	OnGCExcute	Battle:RoundEnd_GC	1	2	0	table: 0xa7eb268
+08:08:29	-------------------------------------------------------------------------------
+08:08:29	[2025-08-16 08:08:29]	BATTLE ROUND END
+08:08:29	BattleLevel: 2
+08:08:29	-------------------------------------------------------------------------------
+08:08:29	OnGCExcute	Battle:RoundEnd_GC	1	2	0	table: 0xa7eb6e8
+08:08:29	-------------------------------------------------------------------------------
+08:08:29	[2025-08-16 08:08:29]	BATTLE ROUND END
+08:08:29	BattleLevel: 2
+08:08:29	-------------------------------------------------------------------------------
+08:08:29	OnGCExcute	Battle:RoundEnd_GC	1	3	0	table: 0xa7eba78
+08:08:29	-------------------------------------------------------------------------------
+08:08:29	[2025-08-16 08:08:29]	BATTLE ROUND END
+08:08:29	BattleLevel: 3
+08:08:29	-------------------------------------------------------------------------------
+08:08:29	OnGCExcute	Battle:RoundEnd_GC	1	3	0	table: 0xa7eba48
+08:08:29	-------------------------------------------------------------------------------
+08:08:29	[2025-08-16 08:08:29]	BATTLE ROUND END
+08:08:29	BattleLevel: 3
+08:08:29	-------------------------------------------------------------------------------
+09:45:39	**********************   ∞Ê  »®  …˘  √˜   ************************
+09:45:39	
+09:45:39	                  °æΩ£ ¿…Ω◊Ø°øΩ£œ¿ ¿ΩÁ∑˛ŒÒ∂À
+09:45:39	
+09:45:39	ºº ıΩª¡˜£∫http://www.web-jx.com
+09:45:39	
+09:45:39	    ±æœµ¡–≥Ã–Ú÷ª◊˜—ßœ∞Ωª¡˜ π”√£¨Ωˆπ©∏ˆ»À—–æø÷Æ”√£¨«Î∞≤◊∞∫Û‘⁄24–° ±ƒ⁄…æ≥˝£¨«ÎŒ”√”⁄…Ã“µ“‘º∞∑«∑®”√Õæ£¨»Á”…¥À“˝∆µƒœ‡πÿ∑®¬…∑®πÊ‘»Œ£¨”ÎŒ“√«Œﬁπÿ£°
+09:45:39	
+09:45:39	–ﬁ∏ƒƒ⁄»›£∫
+09:45:39	1°¢‘ˆº”Ω±“ªÒ»°Ω≈±æAddJbCoin(d),eg:AddJbCoin(10000)‘ˆº”1ÕÚΩ±“°£
+09:45:39	2°¢–ﬁ∏ƒ…Ã≥«Ω±“Ω”ø⁄£¨ µœ÷ π”√Ω±“π∫¬Ú…Ã≥«µ¿æﬂ°£
+09:45:39	3°¢±æ∂À”¶∏√÷ß≥÷120ººƒ‹£¨»Á≤‚ ‘Õ®π˝œ£Õ˚ø…“‘¡¨Õ¨ƒ˙µƒººƒ‹Ω≈±æ…œ¥´µΩŒ“√«¬€Ã≥£¨π©¥Ûº“—–æø°£
+09:45:39	4°¢±æ∂À√ª”–»Œ∫Œπ¶ƒ‹œﬁ÷∆°£
+09:45:39	********************** GameCenter Startup ************************
+09:45:39	OS Time: 08/16/25 09:45:39
+09:45:39	Game Init ..
+09:45:39	Loading Script...
+09:45:39	Begin load script files...
+09:45:39	begin load vfactory.lua
+09:45:39	Preload gc script files...
+09:45:39	21 loaded!
+09:45:39	Loading Scripts In Path \script\
+09:45:39	...llLamPatch\BichHuyetKiemS1_FULL\Gamecenter\script\eventCop\gc_update.lua:13: ')' expected near 'then'
+09:45:39	
+Can't load file '\script\eventCop\gc_update.lua', please check it!
+09:45:39	308 loaded!
+09:45:39	Create DBShare Table
+09:45:39	LoadDBShare...
+09:45:39	Current Data Version : 11
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[GBLVALUE]	ModuleInit..
+09:45:39	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+09:45:39	Create RDS Table: tblGblValueSet
+09:45:39	Create RDS Table: tblGblVIntInt
+09:45:39	Create RDS Table: tblGblVIntBuf
+09:45:39	Create RDS Table: tblGblVStrInt
+09:45:39	Create RDS Table: tblGblVStrBuf
+09:45:39	[GBLVALUE]	Base Data Init, Create RootTree...
+09:45:39	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+09:45:39	[GBLVALUE]	Base Data Init, Root Branch ID: 7
+09:45:39	[GBLVALUE]	Base Data Init, Create RootTree...
+09:45:39	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+09:45:39	[GBLVALUE]	Base Data Init, Root Branch ID: 9
+09:45:39	[GBLVALUE]	Base Data Init, Create RootTree...
+09:45:39	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+09:45:39	Create SaveBuffer DB Table
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[TRANSFER]	ModuleInit..
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[TimerTask]	ModuleInit..
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[ScheduleTask]	ModuleInit..
+09:45:39	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+09:45:39	[ScheduleTask]	Schedule Task Loaded, Task Count = 68
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[LEAGUE]	ModuleInit..
+09:45:39	[LEAGUE]	Base Data Init, Root Branch ID: 11
+09:45:39	Create RDS Table: tblLeagueSet
+09:45:39	Create RDS Table: tblMemberLea
+09:45:39	Create RDS Table: tblLeague
+09:45:39	Create RDS Table: tblLeagueTask
+09:45:39	Create RDS Table: tblLeagueMember
+09:45:39	Create RDS Table: tblLeaMemberTask
+09:45:39	[LEAGUE]	Base Data Init, Create RootTree...
+09:45:39	[LEAGUE]	Base Data Init, Create DataTree Completed!
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[KIN]	ModuleInit..
+09:45:39	[KIN]	Base Data Init, Root Branch ID: 14
+09:45:39	Create RDS Table: tblKin
+09:45:39	Create RDS Table: tblKinTask
+09:45:39	Create RDS Table: tblKinBufTask
+09:45:39	Create RDS Table: tblKinMember
+09:45:39	Create RDS Table: tblKinMemberTask
+09:45:39	[KIN]	Base Data Init, Create RootTree...
+09:45:39	[KIN]	Base Data Init, Create DataTree Completed!
+09:45:39	Create Player Kin-Tong DB Table
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[TONG]	ModuleInit..
+09:45:39	[TONG]	Base Data Init, Root Branch ID: 16
+09:45:39	Create RDS Table: tblTong
+09:45:39	Create RDS Table: tblTongTask
+09:45:39	Create RDS Table: tblTongBufTask
+09:45:39	Create RDS Table: tblTongKin
+09:45:39	Create RDS Table: tblTongDomain
+09:45:39	Create RDS Table: tblTongDomainTask
+09:45:39	Create RDS Table: tblTongDomainTaskBuf
+09:45:39	[TONG]	Base Data Init, Create RootTree...
+09:45:39	[TONG]	Base Data Init, Create DataTree Completed!
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[UNION]	ModuleInit..
+09:45:39	[UNION]	Base Data Init, Root Branch ID: 18
+09:45:39	Create RDS Table: tblUnion
+09:45:39	Create RDS Table: tblUnionTask
+09:45:39	Create RDS Table: tblUnionBufTask
+09:45:39	Create RDS Table: tblUnionTong
+09:45:39	Create RDS Table: tblUnionDomain
+09:45:39	[UNION]	Base Data Init, Create RootTree...
+09:45:39	[UNION]	Base Data Init, Create DataTree Completed!
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[PLAYERMAN]	ModuleInit..
+09:45:39	LoadCoZoneSubPlayerNameId TimeOut Del
+09:45:39	Create Player Data DB Table
+09:45:39	Loading All Players ...
+09:45:39	Referenced Players in <PlayerData> Table: 2
+09:45:39	<PlayerData> Table: Simple Player Count[0], Normal Player Count [2].
+09:45:39	Loading Players Kin Info in <PlayerKin> Table ...
+09:45:39	Referenced Players in <PlayerKin> Table: 0
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[TEAM]	ModuleInit..
+09:45:39	[TEAM]	Base Data Init, Root Branch ID: 20
+09:45:39	[TEAM]	Base Data Init, Create RootTree...
+09:45:39	[TEAM]	Base Data Init, Create DataTree Completed!
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[Map]	ModuleInit..
+09:45:39	Loading World Setting...
+09:45:39	Gameserver Count = 3
+09:45:39	[Gameserver0]
+09:45:39	ID = 1
+09:45:39	MapCount = 251
+09:45:39	[Gameserver1]
+09:45:39	ID = 2
+09:45:39	MapCount = 253
+09:45:39	[Gameserver2]
+09:45:39	ID = 3
+09:45:39	MapCount = 239
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[CHAT]	ModuleInit..
+09:45:39	Create OfflineMsg DB Table
+09:45:39	Load All OfflineMsg
+09:45:39	Referenced OfflineMsg 0
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[RELATION]	ModuleInit..
+09:45:39	Create Player Relay DB Table
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[MAIL]	ModuleInit..
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[IBSHOP]	ModuleInit..
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[GMBOARD]	ModuleInit..
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[JBEXCHANGE]	ModuleInit..
+09:45:39	[JBEXCHANGE]	Base Data Init, Root Branch ID: 22
+09:45:39	Create RDS Table: tblJbExchangeBill
+09:45:39	Create RDS Table: tblJbExchangeTask
+09:45:39	[JBEXCHANGE]	Base Data Init, Create RootTree...
+09:45:39	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[LADDER]	ModuleInit..
+09:45:39	[LADDER]	Base Data Init, Root Branch ID: 24
+09:45:39	Create RDS Table: tblLadder
+09:45:39	Create RDS Table: tblPlayerLadder
+09:45:39	Create RDS Table: tblAllTotalLadder
+09:45:39	Create RDS Table: tblTotalLadder
+09:45:39	[LADDER]	Base Data Init, Create RootTree...
+09:45:39	[LADDER]	Base Data Init, Create DataTree Completed!
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[GBLBUF]	ModuleInit..
+09:45:39	[GBLBUF]	Base Data Init, Root Branch ID: 72
+09:45:39	Create RDS Table: tblGblBufSet
+09:45:39	Create RDS Table: tblGblBuf
+09:45:39	[GBLBUF]	Base Data Init, Create RootTree...
+09:45:39	[GBLBUF]	Base Data Init, Create DataTree Completed!
+09:45:39	[GBLBUF]	Base Data Init, Root Branch ID: 86
+09:45:39	Create RDS Table: tblGblBufSet
+09:45:39	Create RDS Table: tblGblBuf
+09:45:39	[GBLBUF]	Base Data Init, Create RootTree...
+09:45:39	[GBLBUF]	Base Data Init, Create DataTree Completed!
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[PROFILE]	ModuleInit..
+09:45:39	[PROFILE]	Base Data Init, Root Branch ID: 100
+09:45:39	Create RDS Table: tblProfile
+09:45:39	Create RDS Table: tblProfileTask
+09:45:39	Create RDS Table: tblProfileBuff
+09:45:39	[PROFILE]	Base Data Init, Create RootTree...
+09:45:39	[PROFILE]	Base Data Init, Create DataTree Completed!
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[AUCTION]	ModuleInit..
+09:45:39	Create Auction Table
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[NORMAL]	ModuleInit..
+09:45:39	-------------------------------------------------------------------------------
+09:45:39	[SPORT]	ModuleInit..
+09:45:39	[SPORT]	Base Data Init, Root Branch ID: 101
+09:45:39	Create RDS Table: tblSportPlayer
+09:45:39	[SPORT]	Base Data Init, Create RootTree...
+09:45:39	[SPORT]	Base Data Init, Create DataTree Completed!
+09:45:39	[LOG]	2	[Player]	Cap cao nhat 119
+09:45:40	Xep hang danh sach
+09:45:40	Hoan Thanh Xep Hang
+09:45:40	Den Bu Online qua thoi gian thanh tru	So Luong thanh tru:	0
+09:45:40	Khong Co So Lieu ,Tu Tra Ve
+09:45:40	Connect to logserver(127.0.0.1:5101) OK!
+09:45:40	Connect to Goddess(127.0.0.1:5001) OK!
+09:45:40	Connect Gateway....
+09:45:40	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09B74478
+09:45:40	Game Startup Completed!
+09:45:52	[CenServer] Accept from 127.0.0.1 Port = 48195
+09:45:52	Connection Created! Connection ID = 1
+09:45:52	Domain	Statuary	tbStatuary:OnRecConnectEvent	1
+09:45:52	[CenServer] Accept from 127.0.0.1 Port = 49475
+09:45:52	Connection Created! Connection ID = 2
+09:45:52	Domain	Statuary	tbStatuary:OnRecConnectEvent	2
+09:45:52	[CenServer] Accept from 127.0.0.1 Port = 49987
+09:45:52	Connection Created! Connection ID = 3
+09:45:52	Domain	Statuary	tbStatuary:OnRecConnectEvent	3
+09:45:52	[CenServer] Accept from 127.0.0.1 Port = 50499
+09:45:52	Connection Created! Connection ID = 4
+09:45:52	Domain	Statuary	tbStatuary:OnRecConnectEvent	4
+09:45:52	[GCError] KMapArrangeCentre::RegisterHost(111) 4
+09:45:52	[CenServer] Accept from 127.0.0.1 Port = 51011
+09:45:52	Connection Created! Connection ID = 5
+09:45:52	Domain	Statuary	tbStatuary:OnRecConnectEvent	5
+09:45:52	[GCError] KMapArrangeCentre::RegisterHost(111) 5
+09:45:52	[CenServer] Accept from 127.0.0.1 Port = 51523
+09:45:52	Connection Created! Connection ID = 6
+09:45:52	Domain	Statuary	tbStatuary:OnRecConnectEvent	6
+09:45:52	[GCError] KMapArrangeCentre::RegisterHost(111) 6
+09:45:52	[CenServer] Accept from 127.0.0.1 Port = 52035
+09:45:52	Connection Created! Connection ID = 7
+09:45:52	Domain	Statuary	tbStatuary:OnRecConnectEvent	7
+09:45:52	[GCError] KMapArrangeCentre::RegisterHost(111) 7
+09:45:52	Do Daily Backup 15
+09:45:53	KGC_PlayerModule Breath Player Save Task 1, TCQGaming
+09:46:14	[CenServer] Receive packet failed!
+09:46:14	Connection Lost:127.0.0.1 ID = 7
+09:46:14	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 52035 Protocol = 11 Size = 6
+09:46:15	[CenServer] Receive packet failed!
+09:46:15	Connection Lost:127.0.0.1 ID = 6
+09:46:15	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 51523 Protocol = 11 Size = 6
+09:46:15	[CenServer] Receive packet failed!
+09:46:15	Connection Lost:127.0.0.1 ID = 5
+09:46:15	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 51011 Protocol = 11 Size = 6
+09:46:15	[CenServer] Receive packet failed!
+09:46:15	Connection Lost:127.0.0.1 ID = 4
+09:46:15	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 50499 Protocol = 11 Size = 6
+09:46:16	[CenServer] Receive packet failed!
+09:46:16	Connection Lost:127.0.0.1 ID = 3
+09:46:16	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 49987 Protocol = 11 Size = 6
+09:46:16	[CenServer] Receive packet failed!
+09:46:16	Connection Lost:127.0.0.1 ID = 2
+09:46:16	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 49475 Protocol = 11 Size = 6
+09:46:17	[CenServer] Receive packet failed!
+09:46:17	Connection Lost:127.0.0.1 ID = 1
+09:46:17	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 48195 Protocol = 11 Size = 6
+09:46:23	[CenServer] Accept from 127.0.0.1 Port = 54083
+09:46:23	Connection Created! Connection ID = 8
+09:46:23	Domain	Statuary	tbStatuary:OnRecConnectEvent	8
+09:46:29	[CenServer] Accept from 127.0.0.1 Port = 60739
+09:46:29	Connection Created! Connection ID = 9
+09:46:29	Domain	Statuary	tbStatuary:OnRecConnectEvent	9
+09:46:29	[CenServer] Accept from 127.0.0.1 Port = 61251
+09:46:29	Connection Created! Connection ID = 10
+09:46:29	Domain	Statuary	tbStatuary:OnRecConnectEvent	10
+09:46:29	[CenServer] Accept from 127.0.0.1 Port = 61763
+09:46:29	Connection Created! Connection ID = 11
+09:46:29	Domain	Statuary	tbStatuary:OnRecConnectEvent	11
+09:46:29	[GCError] KMapArrangeCentre::RegisterHost(111) 4
+09:46:29	[CenServer] Accept from 127.0.0.1 Port = 62275
+09:46:29	Connection Created! Connection ID = 12
+09:46:29	Domain	Statuary	tbStatuary:OnRecConnectEvent	12
+09:46:29	[GCError] KMapArrangeCentre::RegisterHost(111) 5
+09:46:29	OnGCExcute	Map:GCUpdateForbidenInfo
+09:46:29	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:46:29	So den khong co ban dau hoa, truc tiep tro ve
+09:46:29	[CenServer] Accept from 127.0.0.1 Port = 62787
+09:46:29	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	4
+09:46:29	Connection Created! Connection ID = 13
+09:46:29	Domain	Statuary	tbStatuary:OnRecConnectEvent	13
+09:46:29	[GCError] KMapArrangeCentre::RegisterHost(111) 6
+09:46:29	OnGCExcute	Map:GCUpdateForbidenInfo
+09:46:29	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:46:29	So den khong co ban dau hoa, truc tiep tro ve
+09:46:29	[CenServer] Accept from 127.0.0.1 Port = 63299
+09:46:29	[CenServer] Accept from 127.0.0.1 Port = 63299
+OnGCExcute	GCEvent:OnRecConnectGsStartEvent	5
+09:46:29	Connection Created! Connection ID = 14
+09:46:29	Domain	Statuary	tbStatuary:OnRecConnectEvent	14
+09:46:29	[GCError] KMapArrangeCentre::RegisterHost(111) 7
+09:46:29	OnGCExcute	Map:GCUpdateForbidenInfo
+09:46:29	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:46:29	So den khong co ban dau hoa, truc tiep tro ve
+09:46:29	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	6
+09:46:29	OnGCExcute	Map:GCUpdateForbidenInfo
+09:46:29	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:46:29	So den khong co ban dau hoa, truc tiep tro ve
+09:46:29	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	7
+09:46:30	OnGCExcute	Map:GCUpdateForbidenInfo
+09:46:30	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:46:30	So den khong co ban dau hoa, truc tiep tro ve
+09:46:30	OnGCExcute	XoyoGame:CreateManager_GC	341
+09:46:30	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+09:46:30	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+09:46:35	OnGCExcute	Map:GCUpdateForbidenInfo
+09:46:35	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:46:35	So den khong co ban dau hoa, truc tiep tro ve
+09:46:35	OnGCExcute	XoyoGame:CreateManager_GC	342
+09:46:35	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+09:46:35	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	2
+09:46:36	OnGCExcute	Map:GCUpdateForbidenInfo
+09:46:36	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:46:36	So den khong co ban dau hoa, truc tiep tro ve
+09:46:36	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+09:46:36	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	3
+09:47:06	**********************   ∞Ê  »®  …˘  √˜   ************************
+09:47:06	
+09:47:06	                  °æΩ£ ¿…Ω◊Ø°øΩ£œ¿ ¿ΩÁ∑˛ŒÒ∂À
+09:47:06	
+09:47:06	ºº ıΩª¡˜£∫http://www.web-jx.com
+09:47:06	
+09:47:06	    ±æœµ¡–≥Ã–Ú÷ª◊˜—ßœ∞Ωª¡˜ π”√£¨Ωˆπ©∏ˆ»À—–æø÷Æ”√£¨«Î∞≤◊∞∫Û‘⁄24–° ±ƒ⁄…æ≥˝£¨«ÎŒ”√”⁄…Ã“µ“‘º∞∑«∑®”√Õæ£¨»Á”…¥À“˝∆µƒœ‡πÿ∑®¬…∑®πÊ‘»Œ£¨”ÎŒ“√«Œﬁπÿ£°
+09:47:06	
+09:47:06	–ﬁ∏ƒƒ⁄»›£∫
+09:47:06	1°¢‘ˆº”Ω±“ªÒ»°Ω≈±æAddJbCoin(d),eg:AddJbCoin(10000)‘ˆº”1ÕÚΩ±“°£
+09:47:06	2°¢–ﬁ∏ƒ…Ã≥«Ω±“Ω”ø⁄£¨ µœ÷ π”√Ω±“π∫¬Ú…Ã≥«µ¿æﬂ°£
+09:47:06	3°¢±æ∂À”¶∏√÷ß≥÷120ººƒ‹£¨»Á≤‚ ‘Õ®π˝œ£Õ˚ø…“‘¡¨Õ¨ƒ˙µƒººƒ‹Ω≈±æ…œ¥´µΩŒ“√«¬€Ã≥£¨π©¥Ûº“—–æø°£
+09:47:06	4°¢±æ∂À√ª”–»Œ∫Œπ¶ƒ‹œﬁ÷∆°£
+09:47:06	********************** GameCenter Startup ************************
+09:47:06	OS Time: 08/16/25 09:47:06
+09:47:06	Game Init ..
+09:47:06	Loading Script...
+09:47:06	Begin load script files...
+09:47:06	begin load vfactory.lua
+09:47:06	Preload gc script files...
+09:47:06	21 loaded!
+09:47:06	Loading Scripts In Path \script\
+09:47:06	...llLamPatch\BichHuyetKiemS1_FULL\Gamecenter\script\eventCop\gc_update.lua:13: ')' expected near 'then'
+09:47:06	
+Can't load file '\script\eventCop\gc_update.lua', please check it!
+09:47:06	308 loaded!
+09:47:06	Create DBShare Table
+09:47:06	LoadDBShare...
+09:47:06	Current Data Version : 1
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[GBLVALUE]	ModuleInit..
+09:47:06	[GBLVALUE]	Base Data Init, Root Branch ID: 1
+09:47:06	Create RDS Table: tblGblValueSet
+09:47:06	Create RDS Table: tblGblVIntInt
+09:47:06	Create RDS Table: tblGblVIntBuf
+09:47:06	Create RDS Table: tblGblVStrInt
+09:47:06	Create RDS Table: tblGblVStrBuf
+09:47:06	[GBLVALUE]	Base Data Init, Create RootTree...
+09:47:06	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+09:47:06	[GBLVALUE]	Base Data Init, Root Branch ID: 3
+09:47:06	[GBLVALUE]	Base Data Init, Create RootTree...
+09:47:06	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+09:47:06	[GBLVALUE]	Base Data Init, Root Branch ID: 5
+09:47:06	[GBLVALUE]	Base Data Init, Create RootTree...
+09:47:06	[GBLVALUE]	Base Data Init, Create DataTree Completed!
+09:47:06	Create SaveBuffer DB Table
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[TRANSFER]	ModuleInit..
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[TimerTask]	ModuleInit..
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[ScheduleTask]	ModuleInit..
+09:47:06	[ScheduleTask]	Loading Schedule Task xxxxxxxxxxxxxxxxxxxx
+09:47:06	[ScheduleTask]	Schedule Task Loaded, Task Count = 68
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[LEAGUE]	ModuleInit..
+09:47:06	[LEAGUE]	Base Data Init, Root Branch ID: 7
+09:47:06	Create RDS Table: tblLeagueSet
+09:47:06	Create RDS Table: tblMemberLea
+09:47:06	Create RDS Table: tblLeague
+09:47:06	Create RDS Table: tblLeagueTask
+09:47:06	Create RDS Table: tblLeagueMember
+09:47:06	Create RDS Table: tblLeaMemberTask
+09:47:06	[LEAGUE]	Base Data Init, Create RootTree...
+09:47:06	[LEAGUE]	Base Data Init, Create DataTree Completed!
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[KIN]	ModuleInit..
+09:47:06	[KIN]	Base Data Init, Root Branch ID: 9
+09:47:06	Create RDS Table: tblKin
+09:47:06	Create RDS Table: tblKinTask
+09:47:06	Create RDS Table: tblKinBufTask
+09:47:06	Create RDS Table: tblKinMember
+09:47:06	Create RDS Table: tblKinMemberTask
+09:47:06	[KIN]	Base Data Init, Create RootTree...
+09:47:06	[KIN]	Base Data Init, Create DataTree Completed!
+09:47:06	Create Player Kin-Tong DB Table
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[TONG]	ModuleInit..
+09:47:06	[TONG]	Base Data Init, Root Branch ID: 11
+09:47:06	Create RDS Table: tblTong
+09:47:06	Create RDS Table: tblTongTask
+09:47:06	Create RDS Table: tblTongBufTask
+09:47:06	Create RDS Table: tblTongKin
+09:47:06	Create RDS Table: tblTongDomain
+09:47:06	Create RDS Table: tblTongDomainTask
+09:47:06	Create RDS Table: tblTongDomainTaskBuf
+09:47:06	[TONG]	Base Data Init, Create RootTree...
+09:47:06	[TONG]	Base Data Init, Create DataTree Completed!
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[UNION]	ModuleInit..
+09:47:06	[UNION]	Base Data Init, Root Branch ID: 13
+09:47:06	Create RDS Table: tblUnion
+09:47:06	Create RDS Table: tblUnionTask
+09:47:06	Create RDS Table: tblUnionBufTask
+09:47:06	Create RDS Table: tblUnionTong
+09:47:06	Create RDS Table: tblUnionDomain
+09:47:06	[UNION]	Base Data Init, Create RootTree...
+09:47:06	[UNION]	Base Data Init, Create DataTree Completed!
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[PLAYERMAN]	ModuleInit..
+09:47:06	LoadCoZoneSubPlayerNameId TimeOut Del
+09:47:06	Create Player Data DB Table
+09:47:06	Loading All Players ...
+09:47:06	Referenced Players in <PlayerData> Table: 0
+09:47:06	<PlayerData> Table: Simple Player Count[0], Normal Player Count [0].
+09:47:06	Loading Players Kin Info in <PlayerKin> Table ...
+09:47:06	Referenced Players in <PlayerKin> Table: 0
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[TEAM]	ModuleInit..
+09:47:06	[TEAM]	Base Data Init, Root Branch ID: 15
+09:47:06	[TEAM]	Base Data Init, Create RootTree...
+09:47:06	[TEAM]	Base Data Init, Create DataTree Completed!
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[Map]	ModuleInit..
+09:47:06	Loading World Setting...
+09:47:06	Gameserver Count = 3
+09:47:06	[Gameserver0]
+09:47:06	ID = 1
+09:47:06	MapCount = 251
+09:47:06	[Gameserver1]
+09:47:06	ID = 2
+09:47:06	MapCount = 253
+09:47:06	[Gameserver2]
+09:47:06	ID = 3
+09:47:06	MapCount = 239
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[CHAT]	ModuleInit..
+09:47:06	Create OfflineMsg DB Table
+09:47:06	Load All OfflineMsg
+09:47:06	Referenced OfflineMsg 0
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[RELATION]	ModuleInit..
+09:47:06	Create Player Relay DB Table
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[MAIL]	ModuleInit..
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[IBSHOP]	ModuleInit..
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[GMBOARD]	ModuleInit..
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[JBEXCHANGE]	ModuleInit..
+09:47:06	[JBEXCHANGE]	Base Data Init, Root Branch ID: 17
+09:47:06	Create RDS Table: tblJbExchangeBill
+09:47:06	Create RDS Table: tblJbExchangeTask
+09:47:06	[JBEXCHANGE]	Base Data Init, Create RootTree...
+09:47:06	[JBEXCHANGE]	Base Data Init, Create DataTree Completed!
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[LADDER]	ModuleInit..
+09:47:06	[LADDER]	Base Data Init, Root Branch ID: 19
+09:47:06	Create RDS Table: tblLadder
+09:47:06	Create RDS Table: tblPlayerLadder
+09:47:06	Create RDS Table: tblAllTotalLadder
+09:47:06	Create RDS Table: tblTotalLadder
+09:47:06	[LADDER]	Base Data Init, Create RootTree...
+09:47:06	[LADDER]	Base Data Init, Create DataTree Completed!
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[GBLBUF]	ModuleInit..
+09:47:06	[GBLBUF]	Base Data Init, Root Branch ID: 22
+09:47:06	Create RDS Table: tblGblBufSet
+09:47:06	Create RDS Table: tblGblBuf
+09:47:06	[GBLBUF]	Base Data Init, Create RootTree...
+09:47:06	[GBLBUF]	Base Data Init, Create DataTree Completed!
+09:47:06	[GBLBUF]	Base Data Init, Root Branch ID: 24
+09:47:06	Create RDS Table: tblGblBufSet
+09:47:06	Create RDS Table: tblGblBuf
+09:47:06	[GBLBUF]	Base Data Init, Create RootTree...
+09:47:06	[GBLBUF]	Base Data Init, Create DataTree Completed!
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[PROFILE]	ModuleInit..
+09:47:06	[PROFILE]	Base Data Init, Root Branch ID: 26
+09:47:06	Create RDS Table: tblProfile
+09:47:06	Create RDS Table: tblProfileTask
+09:47:06	Create RDS Table: tblProfileBuff
+09:47:06	[PROFILE]	Base Data Init, Create RootTree...
+09:47:06	[PROFILE]	Base Data Init, Create DataTree Completed!
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[AUCTION]	ModuleInit..
+09:47:06	Create Auction Table
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[NORMAL]	ModuleInit..
+09:47:06	-------------------------------------------------------------------------------
+09:47:06	[SPORT]	ModuleInit..
+09:47:06	[SPORT]	Base Data Init, Root Branch ID: 27
+09:47:06	Create RDS Table: tblSportPlayer
+09:47:06	[SPORT]	Base Data Init, Create RootTree...
+09:47:06	[SPORT]	Base Data Init, Create DataTree Completed!
+09:47:06	[LOG]	2	[Player]	Cap cao nhat 119
+09:47:06	Xep hang danh sach
+09:47:06	Xep hang bat dau
+09:47:06	RefreshHonorLadderData start 262656
+09:47:06	Hoan Thanh Xep Hang
+09:47:06	RefreshHonorLadderData start 131585
+09:47:06	[LOG]	2	[SpecialEvent.CollectCard]	ÁõõÂ§èÊ¥ªÂä®Âç°Êî∂ÈõÜ	SetLuckCardNews08Êúà16Êó•ÂõΩÂ∫ÜÊ¥ªÂä®Âπ∏ËøêÂç°Ê∞ëÊóè08Êúà16Êó•ËíôÂè§Êóè    
+09:47:06	Den Bu Online qua thoi gian thanh tru	So Luong thanh tru:	0
+09:47:06	Khong Co So Lieu ,Tu Tra Ve
+09:47:06	Xep hang Vo Lam Lien Dau bat dau
+09:47:06	RefreshHonorLadderData start 197376
+09:47:06	PlayerHonor:GetHonorStatInfo() start 	wllshonor
+09:47:06	Xep hang Vo Lam Lien Dau ket thuc
+09:47:06	Connect to logserver(127.0.0.1:5101) OK!
+09:47:06	Connect to Goddess(127.0.0.1:5001) OK!
+09:47:06	Connect Gateway....
+09:47:06	[CenServer] Connected ! IP: 127.0.0.1 SocketStream = 09B6C020
+09:47:06	UnSave Database Type, Saving emDATABASE_TYPE_NORMAL
+09:47:06	Game Startup Completed!
+09:47:13	[CenServer] Accept from 127.0.0.1 Port = 13124
+09:47:13	Connection Created! Connection ID = 1
+09:47:13	Domain	Statuary	tbStatuary:OnRecConnectEvent	1
+09:47:13	[CenServer] Accept from 127.0.0.1 Port = 13636
+09:47:13	Connection Created! Connection ID = 2
+09:47:13	Domain	Statuary	tbStatuary:OnRecConnectEvent	2
+09:47:13	[CenServer] Accept from 127.0.0.1 Port = 14148
+09:47:13	Connection Created! Connection ID = 3
+09:47:13	Domain	Statuary	tbStatuary:OnRecConnectEvent	3
+09:47:13	[CenServer] Accept from 127.0.0.1 Port = 14660
+09:47:13	Connection Created! Connection ID = 4
+09:47:13	Domain	Statuary	tbStatuary:OnRecConnectEvent	4
+09:47:13	[GCError] KMapArrangeCentre::RegisterHost(111) 4
+09:47:13	[CenServer] Accept from 127.0.0.1 Port = 15172
+09:47:13	Connection Created! Connection ID = 5
+09:47:13	Domain	Statuary	tbStatuary:OnRecConnectEvent	5
+09:47:13	OnGCExcute	Map:GCUpdateForbidenInfo
+09:47:13	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:47:13	So den khong co ban dau hoa, truc tiep tro ve
+09:47:13	[GCError] KMapArrangeCentre::RegisterHost(111) 5
+09:47:13	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	4
+09:47:13	[CenServer] Accept from 127.0.0.1 Port = 15684
+09:47:13	Connection Created! Connection ID = 6
+09:47:13	Domain	Statuary	tbStatuary:OnRecConnectEvent	6
+09:47:13	[GCError] KMapArrangeCentre::RegisterHost(111) 6
+09:47:13	OnGCExcute	Map:GCUpdateForbidenInfo
+09:47:13	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:47:13	So den khong co ban dau hoa, truc tiep tro ve
+09:47:13	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	5
+09:47:13	[CenServer] Accept from 127.0.0.1 Port = 16196
+09:47:13	OnGCExcute	Map:GCUpdateForbidenInfo
+09:47:13	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:47:13	So den khong co ban dau hoa, truc tiep tro ve
+09:47:13	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	6
+09:47:13	Connection Created! Connection ID = 7
+09:47:13	Domain	Statuary	tbStatuary:OnRecConnectEvent	7
+09:47:13	[GCError] KMapArrangeCentre::RegisterHost(111) 7
+09:47:13	OnGCExcute	Map:GCUpdateForbidenInfo
+09:47:13	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:47:13	So den khong co ban dau hoa, truc tiep tro ve
+09:47:13	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	7
+09:47:19	Do Daily Backup 15
+09:47:20	OnGCExcute	Map:GCUpdateForbidenInfo
+09:47:20	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:47:20	So den khong co ban dau hoa, truc tiep tro ve
+09:47:20	OnGCExcute	XoyoGame:CreateManager_GC	342
+09:47:20	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+09:47:20	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	2
+09:47:21	OnGCExcute	Map:GCUpdateForbidenInfo
+09:47:21	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:47:21	So den khong co ban dau hoa, truc tiep tro ve
+09:47:21	OnGCExcute	Map:GCUpdateForbidenInfo
+09:47:21	OnGCExcute	SpecialEvent.HoleSolution:LoadDataFromDataBase_GC	1
+09:47:21	So den khong co ban dau hoa, truc tiep tro ve
+09:47:21	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+09:47:21	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	3
+09:47:21	OnGCExcute	XoyoGame:CreateManager_GC	341
+09:47:21	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+09:47:21	OnGCExcute	GCEvent:OnRecConnectGsStartEvent	1
+09:50:55	TCQGaming	1247991614	LoginMul_1	IpMul1
+09:50:55	OnGCExcute	Task.tbHelp:SetDynamicNews	1	TCQGaming ƒë·∫°t c·∫•p 69 ƒë·∫ßu ti√™n!	V√µ l√¢m cao th·ªß ƒë·∫°t c·∫•p 69 ƒë·∫ßu ti√™n ƒë√£ xu·∫•t hi·ªán
+H·ªç t√™n: <color=gold>TCQGaming<color>
+Gi·ªõi t√≠nh: <color=gold>Nam<color>
+Nh√°nh m√¥n ph√°i: <color=gold>Ch∆∞a<color>
+T·ªïng th·ªùi gian l√™n m·∫°ng: <color=gold>0.0<color> gi·ªù	1755571855	1755312655
+09:50:55	OnGCExcute	XoaUD:CongTaskGlobal_UyDanh
+09:50:55	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	0
+09:51:02	OnGCExcute	PlayerHonor:SetPlayerHonor	1	8	0	0
+10:00:01	[ScheduleTask]	Execute Task: Merchant_Call_Npc
+10:00:01	[ScheduleTask]	Execute Task: Pho ban quan doanh
+10:00:01	[ScheduleTask]	Execute Task: Bat Dau PK Bach Ho Duong 
+10:00:01	[ScheduleTask]	Execute Task: Mo Tieu Dao Coc
+10:00:22	OnGCExcute	XoyoGame:SyncGameData_GC	26	0
+10:00:22	OnGCExcute	XoyoGame:SyncGameData_GC	27	0
+10:00:22	OnGCExcute	XoyoGame:SyncGameData_GC	25	0
+10:15:37	[CenServer] Receive packet failed!
+10:15:37	Connection Lost:127.0.0.1 ID = 7
+10:15:37	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 16196 Protocol = 11 Size = 6
+10:15:37	[CenServer] Receive packet failed!
+10:15:37	Connection Lost:127.0.0.1 ID = 6
+10:15:37	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 15684 Protocol = 11 Size = 6
+10:15:38	[CenServer] Receive packet failed!
+10:15:38	Connection Lost:127.0.0.1 ID = 5
+10:15:38	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 15172 Protocol = 11 Size = 6
+10:15:38	[CenServer] Receive packet failed!
+10:15:38	Connection Lost:127.0.0.1 ID = 4
+10:15:38	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 14660 Protocol = 11 Size = 6
+10:15:38	[CenServer] Receive packet failed!
+10:15:38	Connection Lost:127.0.0.1 ID = 2
+10:15:38	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 13636 Protocol = 11 Size = 6
+10:15:39	[CenServer] Receive packet failed!
+10:15:39	Connection Lost:127.0.0.1 ID = 1
+10:15:39	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 13124 Protocol = 11 Size = 6
+10:15:39	[CenServer] Receive packet failed!
+10:15:39	Connection Lost:127.0.0.1 ID = 3
+10:15:39	[GCError] KCenServerConnect::SendPacket(421) Send Error! Ret Code = -1 Remote IP = 127.0.0.1Port = 14148 Protocol = 4 Size = 10

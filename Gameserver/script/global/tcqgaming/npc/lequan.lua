@@ -49,37 +49,49 @@ local nTime = tonumber(os.date("%H%M", GetTime()));
 end
 
 function tbLiGuan:nhiemvutuan()	
+	local nSoLanNhiemVuTuan = KGblTask.SCGetDbTaskInt(DBTASD_UPDATE_NHIEMVUTUAN);
+	local nCount = me.GetTask(9192,7)   -- đếm số lần đã nhận/mua
+	local nLuotMuaConLai = nSoLanNhiemVuTuan - nCount
+	
 	 local nTuan    = tonumber(GetLocalDate("%W%y"));
 	if me.GetTask(9192,5) ~= nTuan then
 	-- me.SetTask(9192, 5, 0); 
 	me.SetTask(9192, 6, 0); 
 	end 
-local nTK = me.GetTask(9192,4)
-local nQD = me.GetTask(9192,3)
-local nTDC = me.GetTask(9192,2)
-local nBHD = me.GetTask(9192,1)
-local TaskNhiemVuTuan = me.GetTask(9192,6)
-local szMsg = ""
-if TaskNhiemVuTuan == 0 then 
- szMsg = "Bạn chưa nhận nhiệm vụ tuần này hãy nhận nhiệm vụ đi"
-elseif TaskNhiemVuTuan == 1 then 
-	-- local szMsg = "Nhiệm vụ tuần yêu cầu\n:<color><color=cyan>*Tống Kim"..nTK.." /16\n*Vượt Ải BHĐ"..nBHD.."/5\n*Vượt Ải Tiêu Dao Cốc"..nTDC.."/5\n*Quân Doanh "..nQD.."/6<color>";
-	 szMsg = "Nhiệm vụ tuần yêu cầu\n<color=cyan>Tống Kim:<color=green> "..nTK.."/16<color>\n<color=cyan>Vượt Ải BHĐ:<color><color=green> "..nBHD.."/10<color>\n<color=cyan>Vượt Ải Tiêu Dao Cốc:<color><color=green> "..nTDC.."/15<color>\n<color=gold>Thưởng 500 Vạn Tích Nạp + 2 HT8<color>";
-else 
- szMsg = "Bạn đã nhận thưởng tuần này vui lòng gặp lại ta vào tuần sau"
-end 
-	    local tbOpt =     {}
-if nTK >= 16 and nTDC >= 15 and nBHD >= 10 then 
-			table.insert(tbOpt, {"<color=orange>Nhận Thưởng Nhiệm Vụ Tuần<color>",self.nhanthuongnhiemvutuan,self});
-end 
-if TaskNhiemVuTuan == 0 then 
-			table.insert(tbOpt, {"<color=orange>Nhận nhiệm vụ tuần<color>",self.nhannhiemvutuan,self});
-end 
-            table.insert(tbOpt, {"Kết thúc đối thoại"});
-    Dialog:Say(szMsg, tbOpt)
+
+	local nTK  = me.GetTask(9192,4)
+	local nQD  = me.GetTask(9192,3)
+	local nTDC = me.GetTask(9192,2)
+	local nBHD = me.GetTask(9192,1)
+	local nTrangThai = me.GetTask(9192,6)
+
+	local szMsg = ""
+	if nTrangThai == 0 then 
+		szMsg = "Bạn chưa nhận nhiệm vụ tuần này hãy nhận nhiệm vụ đi\n<color=red>Tích lũy nhiệm vụ tuần hiện nay:<color=cyan> \n"..nCount.." / "..nSoLanNhiemVuTuan.." nhiệm vụ"
+	elseif nTrangThai == 1 then 
+		szMsg = "Nhiệm vụ tuần yêu cầu\n<color=cyan>Tống Kim:<color=green> "..nTK.."/16<color>\n<color=cyan>Vượt Ải BHĐ:<color=green> "..nBHD.."/10<color>\n<color=cyan>Vượt Ải Tiêu Dao Cốc:<color=green> "..nTDC.."/15<color>\n<color=gold>Thưởng 500 Vạn Tích Nạp + 2 HT8<color>\nTích lũy nhiệm vụ tuần hiện nay: "..nCount.." / "..nSoLanNhiemVuTuan.." nhiệm vụ";
+	elseif nTrangThai == 2 then 
+		szMsg = "Bạn đã nhận thưởng tuần này vui lòng gặp lại ta vào tuần sau\nTổng Nhiệm vụ tuần hiện nay: "..nCount.." \ "..nSoLanNhiemVuTuan.." nhiệm vụ"
+	end 
+
+	local tbOpt = {}
+	if nTrangThai == 1 and nTK >= 16 and nTDC >= 15 and nBHD >= 10 then 
+		table.insert(tbOpt, {"<color=orange>Nhận Thưởng Nhiệm Vụ Tuần<color>", self.nhanthuongnhiemvutuan, self});
+	end 
+
+	if nTrangThai == 0 then 
+		table.insert(tbOpt, {"<color=orange>Nhận nhiệm vụ tuần<color>", self.nhannhiemvutuan, self});
+	end 
+	if nTrangThai == 0 and nLuotMuaConLai > 0 then 
+		table.insert(tbOpt, {"<color=gold>Mua lại nhiệm vụ tuần<color>", self.muanhiemvutuan, self});
+	end 
+	table.insert(tbOpt, {"Kết thúc đối thoại"});
+	Dialog:Say(szMsg, tbOpt)
 end
 
+-- Nhận nhiệm vụ tuần
 function tbLiGuan:nhannhiemvutuan()	
+
 	 local nTuan    = tonumber(GetLocalDate("%W%y"));
 	if me.GetTask(9192,5) ~= nTuan then
 		me.SetTask(9192,5, nTuan);
@@ -89,17 +101,44 @@ function tbLiGuan:nhannhiemvutuan()
 		 me.SetTask(9192, 4, 0);
 		 -- me.SetTask(9192, 5, 0);
 		 me.SetTask(9192, 6, 1); -- task nhận nhiệm vụ tuần
+				Dialog:Say("Bạn đã nhận nhiệm vụ tuần thành công!")
+				else 
+						Dialog:Say("Có lỗi xảy ra báo ADM để fix")		
 	end 
 
-			Dialog:Say("Bạn đã nhận thành công")
-			-- tbLiGuan:nhiemvutuan()	
 end 
 
+-- Mua lại nhiệm vụ tuần
+function tbLiGuan:muanhiemvutuan()
+	local nCount_NhiemVuTuan = me.GetTask(9192,7)
+	local nSoLanNhiemVuTuan = KGblTask.SCGetDbTaskInt(DBTASD_UPDATE_NHIEMVUTUAN);
+	if nCount_NhiemVuTuan >= nSoLanNhiemVuTuan then
+		Dialog:Say("Bạn đã hết lượt mua lại nhiệm vụ tuần rồi.");
+		return 0;
+	end
+
+	local nMocNap = me.GetTask(3028,1);
+	me.SetTask(3028,1, nMocNap + 300);
+	me.AddStackItem(18, 1, 114, 8, {bForceBind=1}, 1); -- 2 HT8
+
+	me.SetTask(9192,1,0);
+	me.SetTask(9192,2,0);
+	me.SetTask(9192,3,0);
+	me.SetTask(9192,4,0);
+	me.SetTask(9192,6,1); -- trạng thái: đang làm
+	me.SetTask(9192,7,nCount_NhiemVuTuan+1); -- tăng số lần đã nhận/mua
+
+	Dialog:Say("Bạn đã mua lại nhiệm vụ tuần thành công!")
+end
+
+-- Nhận thưởng
 function tbLiGuan:nhanthuongnhiemvutuan()	
+	local nCount_NhiemVuTuan = me.GetTask(9192,7)
     local nMocNap = me.GetTask(3028,1);
     me.SetTask(3028,1, nMocNap + 500);
 	 me.AddStackItem(18, 1, 114, 8, {bForceBind=1}, 2); -- Huyền Tinh
- me.SetTask(9192, 6, 0);
+ 	me.SetTask(9192,7,nCount_NhiemVuTuan+1);
+	 me.SetTask(9192, 6, 2);
  			Dialog:Say("Bạn đã nhận thưởng thành công tuần sau gặp lại!!")
 end 
 

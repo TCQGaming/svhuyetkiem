@@ -1,0 +1,196 @@
+16-09:50:55	TCQGaming	login 2
+16-09:50:55	TCQGaming	xboyhd	192.168.1.100:29508	LoginHwId_1247991614	639324413
+16-09:50:55	TCQGaming	Exchange 24
+16-09:50:55	TCQGaming	AddItem	Túi Tân Thủ(1755312655)	Way100	Value2821109
+16-09:50:55	TCQGaming	LevelUp	2
+16-09:50:55	TCQGaming	LevelUp	3
+16-09:50:55	TCQGaming	LevelUp	4
+16-09:50:55	TCQGaming	LevelUp	5
+16-09:50:55	TCQGaming	LevelUp	6
+16-09:50:55	TCQGaming	LevelUp	7
+16-09:50:55	TCQGaming	LevelUp	8
+16-09:50:55	TCQGaming	LevelUp	9
+16-09:50:55	TCQGaming	LevelUp	10
+16-09:50:55	TCQGaming	LevelUp	11
+16-09:50:55	TCQGaming	LevelUp	12
+16-09:50:55	TCQGaming	LevelUp	13
+16-09:50:55	TCQGaming	LevelUp	14
+16-09:50:55	TCQGaming	LevelUp	15
+16-09:50:55	TCQGaming	LevelUp	16
+16-09:50:55	TCQGaming	LevelUp	17
+16-09:50:55	TCQGaming	LevelUp	18
+16-09:50:55	TCQGaming	LevelUp	19
+16-09:50:55	TCQGaming	LevelUp	20
+16-09:50:55	TCQGaming	LevelUp	21
+16-09:50:55	TCQGaming	LevelUp	22
+16-09:50:55	TCQGaming	LevelUp	23
+16-09:50:55	TCQGaming	LevelUp	24
+16-09:50:55	TCQGaming	LevelUp	25
+16-09:50:55	TCQGaming	LevelUp	26
+16-09:50:55	TCQGaming	LevelUp	27
+16-09:50:55	TCQGaming	LevelUp	28
+16-09:50:55	TCQGaming	LevelUp	29
+16-09:50:55	TCQGaming	LevelUp	30
+16-09:50:55	TCQGaming	LevelUp	31
+16-09:50:55	TCQGaming	LevelUp	32
+16-09:50:55	TCQGaming	LevelUp	33
+16-09:50:55	TCQGaming	LevelUp	34
+16-09:50:55	TCQGaming	LevelUp	35
+16-09:50:55	TCQGaming	LevelUp	36
+16-09:50:55	TCQGaming	LevelUp	37
+16-09:50:55	TCQGaming	LevelUp	38
+16-09:50:55	TCQGaming	LevelUp	39
+16-09:50:55	TCQGaming	LevelUp	40
+16-09:50:55	TCQGaming	LevelUp	41
+16-09:50:55	TCQGaming	LevelUp	42
+16-09:50:55	TCQGaming	LevelUp	43
+16-09:50:55	TCQGaming	LevelUp	44
+16-09:50:55	TCQGaming	LevelUp	45
+16-09:50:55	TCQGaming	LevelUp	46
+16-09:50:55	TCQGaming	LevelUp	47
+16-09:50:55	TCQGaming	LevelUp	48
+16-09:50:55	TCQGaming	LevelUp	49
+16-09:50:55	TCQGaming	LevelUp	50
+16-09:50:55	TCQGaming	LevelUp	51
+16-09:50:55	TCQGaming	LevelUp	52
+16-09:50:55	TCQGaming	LevelUp	53
+16-09:50:55	TCQGaming	LevelUp	54
+16-09:50:55	TCQGaming	LevelUp	55
+16-09:50:55	TCQGaming	LevelUp	56
+16-09:50:55	TCQGaming	LevelUp	57
+16-09:50:55	TCQGaming	LevelUp	58
+16-09:50:55	TCQGaming	LevelUp	59
+16-09:50:55	TCQGaming	LevelUp	60
+16-09:50:55	TCQGaming	LevelUp	61
+16-09:50:55	TCQGaming	LevelUp	62
+16-09:50:55	TCQGaming	LevelUp	63
+16-09:50:55	TCQGaming	LevelUp	64
+16-09:50:55	TCQGaming	LevelUp	65
+16-09:50:55	TCQGaming	LevelUp	66
+16-09:50:55	TCQGaming	LevelUp	67
+16-09:50:55	TCQGaming	LevelUp	68
+16-09:50:55	TCQGaming	LevelUp	69
+16-09:50:55	TCQGaming	LevelUp	70
+16-09:50:55	TCQGaming	LevelUp	71
+16-09:50:55	TCQGaming	LevelUp	72
+16-09:50:55	TCQGaming	LevelUp	73
+16-09:50:55	TCQGaming	LevelUp	74
+16-09:50:55	TCQGaming	LevelUp	75
+16-09:50:55	TCQGaming	LevelUp	76
+16-09:50:55	TCQGaming	LevelUp	77
+16-09:50:55	TCQGaming	LevelUp	78
+16-09:50:55	TCQGaming	LevelUp	79
+16-09:50:55	TCQGaming	LevelUp	80
+16-09:50:55	TCQGaming	AddItem	Túi Khởi La(1755312655)	Way100	Value1050000
+16-09:50:55	TCQGaming	AddItem	Túi Khởi La(1755312655)	Way100	Value1050000
+16-09:50:55	TCQGaming	AddItem	Lệnh bài Uy danh giang hồ(1755312655)	Way100	Value100000
+16-09:50:55	TCQGaming	AddItem	Huyền Tinh Cấp 5(1755312655)	Way100	Value67184
+16-09:50:55	TCQGaming	AddItem	Ngọc Trúc Mai Hoa 50 (tháng)(1755312655)	Way100	Value100000
+16-09:50:55	TCQGaming	AddBindCoin	AddWay100	Count	150000
+16-09:50:55	TCQGaming	AddBindMoney	AddWay100	Count	2000000
+16-09:50:55	TCQGaming	AddItem	Ngũ Hành Hồn Thạch(1755312655)	Way100	Value999000
+16-09:50:55	TCQGaming	AddItem	Bùa chuyển cường hóa(1755312655)	Way100	Value11
+16-09:50:55	TCQGaming	AddItem	Vô Hạn Truyền Tống Phù(1755312655)	Way100	Value150000
+16-09:50:55	TCQGaming	xboyhd	1247991614	1677830336	SetForbitCode0
+16-09:50:55	TCQGaming	Exchange 24
+16-09:50:56	TCQGaming	login 24
+16-09:50:56	TCQGaming	xboyhd	192.168.1.100:29764	LoginHwId_1247991614	639324413
+16-09:50:59	TCQGaming	UseItem	Ngọc Trúc Mai Hoa 50 (tháng)
+16-09:50:59	TCQGaming	RemoveItem	Ngọc Trúc Mai Hoa 50 (tháng)(1755312655)	Way5	Value100000
+16-09:51:02	TCQGaming	UseItem	Ô Truy
+16-09:51:07	TCQGaming	dialog Lễ Quan
+16-09:51:42	TCQGaming	UseItem	Túi Tân Thủ
+16-09:51:45	TCQGaming	UseItem	Túi Tân Thủ
+16-09:51:46	TCQGaming	AddItem	Đại Kim Nguyên Bảo(1755312706)	Way100	Value0
+16-09:51:47	TCQGaming	UseItem	Túi Tân Thủ
+16-09:51:50	TCQGaming	UseItem	Túi Tân Thủ
+16-09:51:56	TCQGaming	UseItem	Thẻ GM
+16-09:52:03	TCQGaming	UseItem	Thẻ GM
+16-09:52:05	TCQGaming	UseItem	Thẻ GM
+16-09:52:09	TCQGaming	dialog Lễ Quan
+16-09:52:37	TCQGaming	UseItem	Thẻ GM
+16-09:52:38	TCQGaming	dialog Lễ Quan
+16-09:52:46	TCQGaming	UseItem	Thẻ GM
+16-09:52:47	TCQGaming	dialog Lễ Quan
+16-09:52:54	TCQGaming	dialog Lễ Quan
+16-09:54:05	TCQGaming	UseItem	Thẻ GM
+16-09:54:07	TCQGaming	dialog Lễ Quan
+16-09:54:44	TCQGaming	UseItem	Thẻ GM
+16-09:54:46	TCQGaming	dialog Lễ Quan
+16-09:54:53	TCQGaming	dialog Lễ Quan
+16-09:55:16	TCQGaming	dialog Lễ Quan
+16-09:55:33	TCQGaming	dialog Lễ Quan
+16-09:55:35	TCQGaming	UseItem	Thẻ GM
+16-09:56:09	TCQGaming	UseItem	Thẻ GM
+16-09:56:18	TCQGaming	UseItem	Thẻ GM
+16-09:56:19	TCQGaming	dialog Lễ Quan
+16-09:56:22	TCQGaming	dialog Lễ Quan
+16-09:56:24	TCQGaming	UseItem	Thẻ GM
+16-10:00:36	TCQGaming	UseItem	Thẻ GM
+16-10:00:37	TCQGaming	dialog Lễ Quan
+16-10:00:41	TCQGaming	dialog Lễ Quan
+16-10:00:51	TCQGaming	UseItem	Thẻ GM
+16-10:00:52	TCQGaming	dialog Lễ Quan
+16-10:00:55	TCQGaming	dialog Lễ Quan
+16-10:00:59	TCQGaming	dialog Lễ Quan
+16-10:02:26	TCQGaming	UseItem	Thẻ GM
+16-10:02:28	TCQGaming	dialog Lễ Quan
+16-10:02:30	TCQGaming	dialog Lễ Quan
+16-10:02:49	TCQGaming	UseItem	Thẻ GM
+16-10:02:51	TCQGaming	dialog Lễ Quan
+16-10:03:04	TCQGaming	UseItem	Thẻ GM
+16-10:03:13	TCQGaming	dialog Lễ Quan
+16-10:03:20	TCQGaming	UseItem	Thẻ GM
+16-10:03:30	TCQGaming	dialog Lễ Quan
+16-10:03:34	TCQGaming	dialog Lễ Quan
+16-10:03:41	TCQGaming	dialog Lễ Quan
+16-10:03:50	TCQGaming	UseItem	Thẻ GM
+16-10:03:52	TCQGaming	dialog Lễ Quan
+16-10:03:56	TCQGaming	dialog Lễ Quan
+16-10:04:29	TCQGaming	UseItem	Thẻ GM
+16-10:04:30	TCQGaming	dialog Lễ Quan
+16-10:04:38	TCQGaming	UseItem	Thẻ GM
+16-10:04:44	TCQGaming	dialog Lễ Quan
+16-10:04:48	TCQGaming	dialog Lễ Quan
+16-10:04:52	TCQGaming	dialog Lễ Quan
+16-10:07:20	TCQGaming	UseItem	Thẻ GM
+16-10:07:22	TCQGaming	dialog Lễ Quan
+16-10:07:38	TCQGaming	UseItem	Thẻ GM
+16-10:07:46	TCQGaming	dialog Lễ Quan
+16-10:07:56	TCQGaming	UseItem	Thẻ GM
+16-10:08:08	TCQGaming	UseItem	Thẻ GM
+16-10:08:20	TCQGaming	dialog Lễ Quan
+16-10:08:33	TCQGaming	UseItem	Thẻ GM
+16-10:08:38	TCQGaming	dialog Lễ Quan
+16-10:08:41	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1755313721)	Way100	Value783641
+16-10:08:41	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1755313721)	Way100	Value783641
+16-10:08:43	TCQGaming	dialog Lễ Quan
+16-10:08:48	TCQGaming	dialog Lễ Quan
+16-10:10:12	TCQGaming	UseItem	Túi Tân Thủ
+16-10:10:15	TCQGaming	UseItem	Túi Tân Thủ
+16-10:10:16	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1755313721)	Way100	Value783641
+16-10:10:16	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1755313721)	Way100	Value783641
+16-10:10:16	TCQGaming	AddBindCoin	AddWay100	Count	200000
+16-10:10:16	TCQGaming	AddBindMoney	AddWay100	Count	500000
+16-10:10:16	TCQGaming	AddItem	Ngũ Hành Hồn Thạch(1755312655)	Way100	Value1000
+16-10:10:16	TCQGaming	AddItem	Ngũ Hành Hồn Thạch(1755312655)	Way100	Value3999000
+16-10:10:16	TCQGaming	AddItem	Ngũ Hành Hồn Thạch(1755313816)	Way100	Value999000
+16-10:10:17	TCQGaming	UseItem	Túi Tân Thủ
+16-10:10:19	TCQGaming	AddItem	Rương trang bị Tân Thủ(1755313819)	Way100	Value100000
+16-10:10:20	TCQGaming	UseItem	Túi Tân Thủ
+16-10:10:21	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1755313721)	Way100	Value783641
+16-10:10:21	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1755313721)	Way100	Value783641
+16-10:10:21	TCQGaming	AddItem	Túi Thiên Tàm(1755313821)	Way100	Value3200000
+16-10:10:21	TCQGaming	AddBindCoin	AddWay100	Count	200000
+16-10:10:21	TCQGaming	AddBindMoney	AddWay100	Count	500000
+16-10:10:22	TCQGaming	UseItem	Túi Tân Thủ
+16-10:10:24	TCQGaming	UseItem	Túi Tân Thủ
+16-10:14:17	TCQGaming	LevelUp	81
+16-10:14:17	TCQGaming	LevelUp	82
+16-10:14:17	TCQGaming	LevelUp	83
+16-10:14:17	TCQGaming	LevelUp	84
+16-10:14:17	TCQGaming	LevelUp	85
+16-10:14:17	TCQGaming	LevelUp	86
+16-10:14:17	TCQGaming	LevelUp	87
+16-10:14:17	TCQGaming	LevelUp	88
+16-10:14:17	TCQGaming	LevelUp	89

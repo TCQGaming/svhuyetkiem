@@ -6,7 +6,7 @@ function ThongBao:AddThongBaoBaoTri_GS()
 	if nMapIndex < 0 then
 	return;
 	end
-	local szMsg = "\n\n\n<color=cyan>Bảo trì máy chủ định kỳ  hàng ngày\n\n<color=yellow> 18:50 - 18:55<color>\n\nCác bạn chú ý không giao dịch và gửi thư trong thời gian này<color>";
+	local szMsg = "\n\n\n<color=cyan>Bảo trì máy chủ định kỳ  hàng ngày\n\n<color=yellow> 18:00 - 18:05<color>\n\nCác bạn chú ý không giao dịch và gửi thư trong thời gian này<color>";
 	KDialog.MsgToGlobal(szMsg);
 end
 

@@ -510,7 +510,7 @@ function tbTuiGuangYuan:muadaiknb()
 	local tbOpt = {
 	{"Mua<color=yellow> Tiểu Kim Nguyên Bảo<color><enter><color=green>Giá  1 Tiểu KNB = 1 vạn Đồng",self.doitieukim,self};
 	{"Mua<color=yellow> Đại Kim Nguyên Bảo<color><enter><color=green>Giá  1 Đại KNB = 100 vạn Đồng",self.doidaikim,self};
-	{"Mua<color=yellow> 80 vạn đồng khóa<color><enter><color=green>Giá 80 vạn Đồng",self.doidongkhoane,self};
+	-- {"Mua<color=yellow> 80 vạn đồng khóa<color><enter><color=green>Giá 80 vạn Đồng",self.doidongkhoane,self};
 	{"Bán<color=yellow> Tiểu Kim Nguyên Bảo<color>",self.bankimthoi,self};
    	{"Hiện tại ta chưa muốn"}
 	};

@@ -20,7 +20,8 @@ ConfigAll.ThongBaoDuaTOP = "Sự Kiện <color=yellow>Đua TOP Tháng 6 Đã K�
 												--										Mở cấp giai đoạn						  --
 --============================================================================================================--
 
-ThietLap.capdo = 119;
+ThietLap.capdo = 89;
+ConfigAll.GioiHanEXP = 89
 
 ConfigAll.SoLuongTocTrongBangHoi = 4           -- số tộc trong bang
 ConfigAll.GioiHanThanhVienToc = 36           -- số thành viên trong tộc
@@ -42,9 +43,13 @@ ConfigAll.GioiHanSoAccHoatDong = 12           -- 1 là 1 acc tham gia
 --============================================================================================================--
 
 
-ConfigAll.Boss_55 = 60375000
-ConfigAll.Boss_75 = 150000000
-ConfigAll.Boss_95 = 450000000
+-- ConfigAll.Boss_55 = 60375000
+-- ConfigAll.Boss_75 = 150000000
+-- ConfigAll.Boss_95 = 450000000
+
+ConfigAll.Boss_55 = 30375000
+ConfigAll.Boss_75 = 100000000
+ConfigAll.Boss_95 = 250000000
 
 ------Sau khi X8
 -- ConfigAll.Boss_55 = 140875000
@@ -138,18 +143,17 @@ end
 --============================================================================================================--
 												--										Đóng Mở Tính Năng - 0 là đóng 1 là mở									  --
 --============================================================================================================--
-ConfigAll.VanTieu = 1
-ConfigAll.HoatDongNguHanh = 1
+ConfigAll.VanTieu = 0
+ConfigAll.HoatDongNguHanh = 0
 ConfigAll.HoatDongLoiDai16 = 0
 ConfigAll.NpcMinhChuVoLam = 0
 ConfigAll.TieuDuLong = 0-- Tiểu Du Long 0 là đóng , 1 là mở bán thương gia tiêu dao
 ConfigAll.XuatHienBossDacBiet_BHD = 0 ---- 0 là sơ , 1 là cao
-ConfigAll.GioiHanEXP = 119
 --============================================================================================================--
 												--										Liên quan Event Nguyên Liệu Ra Tống Kim	18,1,2034,3								  --
 --============================================================================================================--
 
-ConfigAll.KhoiDong_NL_Event_TongKim	= 1 ----- 0 là đóng --- 1 là mở ra nguyên liệu event trong top TK
+ConfigAll.KhoiDong_NL_Event_TongKim	= 0 ----- 0 là đóng --- 1 là mở ra nguyên liệu event trong top TK
 ConfigAll.KhoiDong_VatPham_DuaTOP_TongKim	= 0 ----- 0 là đóng --- 1 là mở ra nguyên liệu đua top event trong top TK
 ConfigAll.NguyenLieu_Event = {18,1,2023,2} ----- Nguyên liệu này phát thưởng top tống kim các trận
 ConfigAll.VatPham_DuaTOP = {18, 1, 2033, 9} ----- Vật Phẩm Đua TOP
@@ -201,7 +205,7 @@ ConfigAll.GioiHanTaiPhu_TanLang	= 6 -----6 là hỗn thiên
 --============================================================================================================--
 												--										Cấp Độ Tân Thủ Login 										  --
 --============================================================================================================--
-ConfigAll.CapDoTanThu	= 119 ------player.lua
+ConfigAll.CapDoTanThu	= 80 ------player.lua
 function ConfigAll.playerevent_login()
 	-- me.AddItem(1,27,1,1).Bind(1);-----Long hồn rồng
 	me.AddStackItem(21,8,1,1,{bForceBind = 1},2);---Túi Da Chồn
