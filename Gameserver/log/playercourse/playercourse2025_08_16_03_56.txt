@@ -1,0 +1,15 @@
+16-03:56:17	TCQGaming	login 182
+16-03:56:17	TCQGaming	xboyhd	192.168.1.100:44181	LoginHwId_3556176590	639324413
+16-03:56:22	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-03:56:22	TCQGaming	NewWorld 1638
+16-03:56:24	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:56:28	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:56:30	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:56:32	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:56:35	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:56:39	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:57:31	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:57:34	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:57:36	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:57:42	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:57:44	TCQGaming	dialog Quan Quân Nhu (Tống)

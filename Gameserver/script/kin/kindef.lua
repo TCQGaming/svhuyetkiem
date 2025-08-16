@@ -74,7 +74,7 @@ REQUEST_REST_BEGIN		= 100; -- 预留了唯一申请的索引，不唯一申请�
 
 KICK_RESPOND_TIME = 5 * 60 * 18 --踢人响应的时限
 
-CONF_VALUE2REPUTE = 100	--1江湖威望相当多少价值量
+CONF_VALUE2REPUTE = 100	--Giá trị của danh vọng Giang Hồ là bao nhiêu?
 
 MEMBER_LIMITED = 36;-- gioi han thanh vien toc
 INDUCTEE_LIMITED = 6;
@@ -82,9 +82,9 @@ INDUCTEE_LIMITED = 6;
 CONF_DEC_REPUTE_QUIT = 0.8	--退出家族时剩余多少威望
 CONF_DEC_REPUTE_KICK = 0.9	--被踢时...
 
-CONF_REPUTE_DEC = 0.02 --家族威望日衰减（后剩余威望）系数
+CONF_REPUTE_DEC = 0.02 --he so giam uy danh hang ngay ( chua biet co tac dung hay khong )
 
-CONF_REPUTE_DEC_MAX = 200 --家族威望日衰减最大值
+CONF_REPUTE_DEC_MAX = 200 --Sự suy thoái tối đa hàng ngày của uy tín gia đình
 
 -- 排序方法
 KIN_MEMBER_SORT_FIGURE 	= 0

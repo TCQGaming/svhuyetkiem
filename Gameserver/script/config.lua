@@ -1,4 +1,4 @@
-Config.Mission_Battle_CheckNumAccount = 0;--Tắt mở chức năng 0 là tắt,1 là mở
+Config.Mission_Battle_CheckNumAccount = 1;--Tắt mở chức năng 0 là tắt,1 là mở
 Config.Mission_Battle_HardWare_Folder = "\\script\\Sesshomaru2017\\battle\\HardWareId\\"; -- Đường dẫn folder Ổ cứng
 Config.Mission_Battle_HardWare_List = "list.txt"; -- Đường dẫn folder Ổ cứng
 Config.Mission_Battle_HardWare_Max = 6;--Số lượng tài khoản tối đa đăng nhập trên 1 máy
@@ -26,7 +26,7 @@ function Battle:CheckHardWare(pPlayer)
 			for nIndex, tbRow  in ipairs(tbFile) do
 				if ((nHardWareId_p == tonumber(tbRow.nHardWareId)) and (tonumber(tbRow.nNum) >= nSoNguoi)) then
 				OldNum		= nSoNguoi;
-				Msg = "Tối đa chỉ có thể tham gia "..nSoNguoi.." nhân vật";				-- break;
+				Msg = "<color=yellow>Tối đa chỉ có thể tham gia "..nSoNguoi.." nhân vật";				-- break;
 				elseif ((nHardWareId_p == tonumber(tbRow.nHardWareId)) and (tonumber(tbRow.nNum) < nSoNguoi)) then
 				OldNum		= tonumber(tbRow.nNum);
 				Msg = "Thành công";				-- break;

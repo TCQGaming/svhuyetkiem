@@ -1456,8 +1456,8 @@
 	</genre>
 	<genre id="53" name="Danh hiệu Kiếm Thế">
 		<detailtype id="1" name="Tân Thủ" save_mode="1" exclude_mode="0" param_replace_rule="1" level_replace_rule="1">
-			<level id="1" rank="1" name="&lt;color=yellow&gt;Kiếm Hiệp Truyền Kỳ&lt;color&gt;" description="Danh hiệu đặc biệt" duration="43200" graph="0" feature="0"/>
-			<level id="2" rank="1" name="&lt;color=yellow&gt;Kiếm Hiệp Truyền Kỳ&lt;color&gt;" description="Danh hiệu đặc biệt" duration="43200" graph="0" feature="0"/>
+			<level id="1" rank="1" name="&lt;color=yellow&gt;Tân Thủ Kiếm Thế&lt;color&gt;" description="Danh hiệu đặc biệt" duration="43200" graph="0" feature="0"/>
+			<level id="2" rank="1" name="&lt;color=yellow&gt;Tân Thủ Kiếm Thế&lt;color&gt;" description="Danh hiệu đặc biệt" duration="43200" graph="0" feature="0"/>
 		</detailtype>
 	</genre>
 	<genre id="54" name="Danh Hiệu Đặc Biệt">

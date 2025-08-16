@@ -27,7 +27,8 @@ end
 
 -- 买药
 function tbNpc:OnBuyYaoBind()
-	me.OpenShop(14,7);
+	--me.OpenShop(14,7);
+	CTC_7_Thanh:MuaMauNhanh()
 end
 
 function tbNpc:OnBuyYao()

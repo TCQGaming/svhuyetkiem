@@ -179,12 +179,12 @@ function Kin:CreateKin(anPlayerId, anStoredRepute, szKinName, nCamp, nCreateTime
 		if i == 1 then
 			cMember.SetFigure(self.FIGURE_CAPTAIN)
 			if MODULE_GC_SERVER then
-				KGCPlayer.SetPlayerPrestige(nPlayerId, KGCPlayer.GetPlayerPrestige(nPlayerId) + 20);
+				-- KGCPlayer.SetPlayerPrestige(nPlayerId, KGCPlayer.GetPlayerPrestige(nPlayerId) + 20);// uy danh lap toc
 			end
 		else
 			cMember.SetFigure(self.FIGURE_REGULAR)
 			if MODULE_GC_SERVER then
-					KGCPlayer.SetPlayerPrestige(nPlayerId, KGCPlayer.GetPlayerPrestige(nPlayerId) + 5);
+					-- KGCPlayer.SetPlayerPrestige(nPlayerId, KGCPlayer.GetPlayerPrestige(nPlayerId) + 5);// uy danh lap toc
 			end
 		end
 	end

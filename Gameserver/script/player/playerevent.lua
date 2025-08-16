@@ -208,7 +208,7 @@ function PlayerEvent:OnFirstLogin()
 	-- local nFollowUid = KGblTask.SCGetDbTaskInt(DBTASD_UPDATE_TRUUYDANH);
 	-- KGblTask.SCSetDbTaskInt(DBTASD_UPDATE_TRUUYDANH, (nFollowUid+1));
 	
-	GCExcute{"SpecialEvent.XoaUD:CongTaskGlobal_UyDanh"};
+	GCExcute{"XoaUD:CongTaskGlobal_UyDanh"};
 	--------------------------------------------------------------------------------------------------------------------------------------------
 end
 

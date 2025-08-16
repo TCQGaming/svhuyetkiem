@@ -551,83 +551,80 @@ function CTC_7_Thanh:DelAllNPC()
 	ClearMapNpc(2169);
 end
 function CTC_7_Thanh:MuaMauNhanh()
-    local tbMember = KTeam.GetTeamMemberList(me.nTeamId); -- Đây là thông tin tổ đội
+    local MAX_BLOOD = 100
+    local tbBloodItems = {
+        [9] = { -- Faction 9
+            {17, 3, 1, 3}, -- 50-69
+            {17, 3, 1, 4}, -- 70-89
+            {17, 3, 1, 5}, -- 90-99
+            {17, 3, 1, 6}, -- >=100
+        },
+        ["default"] = {
+            {17, 1, 1, 3}, -- 50-69
+            {17, 1, 1, 4}, -- 70-89
+            {17, 1, 1, 5}, -- 90-99
+            {17, 1, 1, 6}, -- >=100
+        }
+    }
+
+    local tbMember = KTeam.GetTeamMemberList(me.nTeamId)
     if not tbMember then
         Dialog:Say("Bạn chưa tổ đội!")
         return 0
     end
-
     if me.nId ~= tbMember[1] then
-        Dialog:Say("Hãy bảo đội trưởng đến gặp ta!")
+        Dialog:Say("Ngươi không phải đội trưởng!")
+        return 0
+    end
+    if me.GetCamp() == 0 then
+        Dialog:Say("Ngươi chưa vào phái.")
         return 0
     end
 
-    for i = 1, #tbMember do
-	    local nMapId, nPosX, nPosY = me.GetWorldPos()
-        local nPlayerId = tbMember[i]
+    local nMapId = me.nMapId
+    for _, nPlayerId in ipairs(tbMember) do
         local pPlayer = KPlayer.GetPlayerObjById(nPlayerId)
-        local playerName = pPlayer and pPlayer.szName or "ID: " .. nPlayerId
-
-        if not pPlayer then
-            local szMsg = "Đội trưởng vừa mua máu toàn tổ đội , ai không ở cùng map không thể mua máu"
-					KTeam.Msg2Team(me.nTeamId, szMsg);	
+        if not pPlayer or pPlayer.nMapId ~= nMapId then
+            Dialog:Say("Có thành viên không cùng bản đồ, không thể mở máu.")
             return 0
         end
-
         if pPlayer.GetCamp() == 0 then
-            Dialog:Say("Có người chưa vào phái, hãy gia nhập môn phái rồi đến tìm ta")
+            Dialog:Say(pPlayer.szName .. " chưa vào phái.")
             return 0
         end
-
-        if pPlayer.nMapId ~= nMapId then
-            me.Msg("<color=yellow>Trong đội các ngươi " .. playerName .. " không ở gần đây, không thể mua máu cho họ")
-            return 0
-        end
-		
-
-        local nSoLuongHanhTrang = pPlayer.CountFreeBagCell()
-		local nSoLuong = nSoLuongHanhTrang - 5
-		
-	local nMyMoney = pPlayer.GetBindMoney();
-	if (nMyMoney < 4*nSoLuong) then
-    Dialog:Say("" .. playerName .. " không đủ bạc khóa, hãy thu thập thêm bạc khóa để mua", {"Kết thúc đối thoại !"}); 
-    return 0; 
-	end
-if pPlayer.nFaction == 9 then
-	if	pPlayer.nLevel >= 50 and pPlayer.nLevel < 70 then 
-		pPlayer.CostBindMoney(3*nSoLuong,0);
-		pPlayer.AddStackItem(17,3,1,3,{bForceBind=1},nSoLuong)
-		end 
-    	if	pPlayer.nLevel >= 70 and pPlayer.nLevel < 90 then 
-			pPlayer.CostBindMoney(4*nSoLuong,0);
-            pPlayer.AddStackItem(17, 3, 1, 4, {bForceBind = 1}, nSoLuong)
-		end 
-				if	pPlayer.nLevel >= 90 and pPlayer.nLevel < 100 then 
-				pPlayer.CostBindMoney(5*nSoLuong,0);
-            pPlayer.AddStackItem(17, 3, 1, 5, {bForceBind = 1}, nSoLuong)
-			end 
-			   if  pPlayer.nLevel >= 100 then 
-				pPlayer.CostBindMoney(5*nSoLuong,0);
-            pPlayer.AddStackItem(17, 3, 1, 6, {bForceBind = 1}, nSoLuong)
-        end 
-else 
-		if	pPlayer.nLevel >= 50 and pPlayer.nLevel < 70 then 
-		pPlayer.CostBindMoney(3*nSoLuong,0);
-		pPlayer.AddStackItem(17,1,1,3,{bForceBind=1},nSoLuong)
-		end 
-    	if	pPlayer.nLevel >= 70 and pPlayer.nLevel < 90 then 
-			pPlayer.CostBindMoney(4*nSoLuong,0);
-            pPlayer.AddStackItem(17, 1, 1, 4, {bForceBind = 1}, nSoLuong)
-		end 
-				if	pPlayer.nLevel >= 90 and pPlayer.nLevel < 100 then 
-			pPlayer.CostBindMoney(5*nSoLuong,0);
-            pPlayer.AddStackItem(17, 1, 1, 5, {bForceBind = 1}, nSoLuong)
-			end 
-        if  pPlayer.nLevel >= 100 then 
-				pPlayer.CostBindMoney(5*nSoLuong,0);
-            pPlayer.AddStackItem(17, 1, 1, 6, {bForceBind = 1}, nSoLuong)
-        end 
     end
-	end 
+
+    for _, nPlayerId in ipairs(tbMember) do
+        local pPlayer = KPlayer.GetPlayerObjById(nPlayerId)
+        if pPlayer then
+            local list = tbBloodItems[pPlayer.nFaction] or tbBloodItems["default"]
+            local genre, detail, particular, level
+            if pPlayer.nLevel >= 50 and pPlayer.nLevel < 70 then
+                genre, detail, particular, level = unpack(list[1])
+            elseif pPlayer.nLevel >= 70 and pPlayer.nLevel < 90 then
+                genre, detail, particular, level = unpack(list[2])
+            elseif pPlayer.nLevel >= 90 and pPlayer.nLevel < 100 then
+                genre, detail, particular, level = unpack(list[3])
+            else
+                genre, detail, particular, level = unpack(list[4])
+            end
+
+            local nCurrent = pPlayer.GetItemCountInBags(genre, detail, particular, level)
+            if nCurrent > MAX_BLOOD then
+                -- Xóa số dư
+                local nRemove = nCurrent - MAX_BLOOD
+                local tbItemId = {genre, detail, particular, level, 0, 0}
+                Task:DelItem(pPlayer, tbItemId, nRemove)
+            elseif nCurrent < MAX_BLOOD then
+                local nNeed = MAX_BLOOD - nCurrent
+                pPlayer.AddStackItem(genre, detail, particular, level, {bForceBind = 1}, nNeed)
+                local szMsg = string.format("Đã cấp %d bình máu cho <color=yellow>%s<color> (hiện đủ %d/100)", nNeed, pPlayer.szName, MAX_BLOOD)
+                KTeam.Msg2Team(pPlayer.nTeamId, szMsg)
+            else
+                local szMsg = string.format("<color=yellow>%s<color> đã đủ %d bình máu", pPlayer.szName, MAX_BLOOD)
+                KTeam.Msg2Team(pPlayer.nTeamId, szMsg)
+            end
+        end
+    end
     return 1
 end

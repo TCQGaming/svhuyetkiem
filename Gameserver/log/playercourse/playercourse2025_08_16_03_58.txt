@@ -1,0 +1,51 @@
+16-03:58:08	TCQGaming	login 182
+16-03:58:08	TCQGaming	xboyhd	192.168.1.100:55701	LoginHwId_3556176590	639324413
+16-03:58:08	TCQGaming	xboyhd	3556176590	1677830336	SetForbitCode0
+16-03:58:12	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-03:58:13	TCQGaming	NewWorld 1638
+16-03:58:14	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:58:17	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:58:20	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:58:24	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:58:30	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:58:33	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755291361)	Way5	Value0
+16-03:58:33	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755291361)	Way5	Value0
+16-03:58:35	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:58:35	TCQGaming	AddItem	Linh Chi Tục Mệnh Hoàn(1755291361)	Way100	Value0
+16-03:58:35	TCQGaming	AddItem	Linh Chi Tục Mệnh Hoàn(1755291361)	Way100	Value0
+16-03:58:51	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-03:58:53	TCQGaming	NewWorld 182
+16-03:59:04	TCQGaming	UseItem	Túi Tân Thủ
+16-03:59:07	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1755291547)	Way100	Value783641
+16-03:59:07	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1755291547)	Way100	Value783641
+16-03:59:07	TCQGaming	AddBindCoin	AddWay100	Count	200000
+16-03:59:07	TCQGaming	AddBindMoney	AddWay100	Count	500000
+16-03:59:07	TCQGaming	AddItem	Ngũ Hành Hồn Thạch(1755291547)	Way100	Value4999000
+16-03:59:09	TCQGaming	UseItem	Túi Tân Thủ
+16-03:59:16	TCQGaming	UseItem	Túi Tân Thủ
+16-04:00:53	TCQGaming	AddItem	Đại Kim Nguyên Bảo(1755291653)	Way100	Value0
+16-04:00:56	TCQGaming	UseItem	Túi Tân Thủ
+16-04:01:20	TCQGaming	UseItem	Túi Tân Thủ
+16-04:01:39	TCQGaming	UseItem	Thẻ GM
+16-04:01:47	TCQGaming	UseItem	Thẻ GM
+16-04:04:09	TCQGaming	UseItem	Túi Tân Thủ
+16-04:05:04	TCQGaming	UseItem	Túi Tân Thủ
+16-04:05:08	TCQGaming	UseItem	Túi Tân Thủ
+16-04:05:11	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1755291547)	Way100	Value783641
+16-04:05:11	TCQGaming	AddItem	Huyền Tinh có tì vết (cấp 8)(1755291547)	Way100	Value783641
+16-04:05:11	TCQGaming	AddItem	Túi Thiên Tàm(1755291911)	Way100	Value3200000
+16-04:05:11	TCQGaming	AddBindCoin	AddWay100	Count	200000
+16-04:05:11	TCQGaming	AddBindMoney	AddWay100	Count	500000
+16-04:05:11	TCQGaming	UseItem	Túi Tân Thủ
+16-04:05:15	TCQGaming	AddItem	Huyền Tinh thường (cấp 7)(1755291915)	Way100	Value217678
+16-04:05:15	TCQGaming	AddBindCoin	AddWay100	Count	150000
+16-04:05:15	TCQGaming	AddBindMoney	AddWay100	Count	200000
+16-04:05:17	TCQGaming	UseItem	Túi Tân Thủ
+16-04:05:38	TCQGaming	UseItem	Thẻ GM
+16-04:05:40	TCQGaming	UseItem	Túi Tân Thủ
+16-04:05:46	TCQGaming	UseItem	Túi Tân Thủ
+16-04:06:00	TCQGaming	UseItem	Thẻ GM
+16-04:12:34	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-04:12:35	TCQGaming	NewWorld 1638
+16-04:12:39	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-04:12:44	TCQGaming	UseItem	Túi Tân Thủ

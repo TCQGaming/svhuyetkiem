@@ -1,0 +1,219 @@
+16-02:55:50	TCQGaming	login 8
+16-02:55:51	TCQGaming	xboyhd	192.168.1.100:42643	LoginHwId_3556176590	639324413
+16-02:55:51	TCQGaming	xboyhd	3556176590	1677830336	SetForbitCode0
+16-02:55:51	TCQGaming	Exchange 24
+16-02:55:51	TCQGaming	LevelUp	81
+16-02:55:51	TCQGaming	LevelUp	82
+16-02:55:51	TCQGaming	LevelUp	83
+16-02:55:51	TCQGaming	LevelUp	84
+16-02:55:51	TCQGaming	LevelUp	85
+16-02:55:51	TCQGaming	LevelUp	86
+16-02:55:51	TCQGaming	LevelUp	87
+16-02:55:51	TCQGaming	LevelUp	88
+16-02:55:51	TCQGaming	LevelUp	89
+16-02:55:51	TCQGaming	LevelUp	90
+16-02:55:51	TCQGaming	LevelUp	91
+16-02:55:51	TCQGaming	LevelUp	92
+16-02:55:51	TCQGaming	LevelUp	93
+16-02:55:51	TCQGaming	LevelUp	94
+16-02:55:51	TCQGaming	LevelUp	95
+16-02:55:51	TCQGaming	LevelUp	96
+16-02:55:51	TCQGaming	LevelUp	97
+16-02:55:51	TCQGaming	LevelUp	98
+16-02:55:51	TCQGaming	LevelUp	99
+16-02:55:51	TCQGaming	LevelUp	100
+16-02:55:51	TCQGaming	LevelUp	101
+16-02:55:51	TCQGaming	LevelUp	102
+16-02:55:51	TCQGaming	LevelUp	103
+16-02:55:51	TCQGaming	LevelUp	104
+16-02:55:51	TCQGaming	LevelUp	105
+16-02:55:51	TCQGaming	LevelUp	106
+16-02:55:51	TCQGaming	LevelUp	107
+16-02:55:51	TCQGaming	LevelUp	108
+16-02:55:51	TCQGaming	LevelUp	109
+16-02:55:51	TCQGaming	LevelUp	110
+16-02:55:51	TCQGaming	LevelUp	111
+16-02:55:51	TCQGaming	LevelUp	112
+16-02:55:51	TCQGaming	LevelUp	113
+16-02:55:51	TCQGaming	LevelUp	114
+16-02:55:51	TCQGaming	LevelUp	115
+16-02:55:51	TCQGaming	LevelUp	116
+16-02:55:51	TCQGaming	LevelUp	117
+16-02:55:51	TCQGaming	LevelUp	118
+16-02:55:51	TCQGaming	LevelUp	119
+16-02:55:51	TCQGaming	login 24
+16-02:55:51	TCQGaming	xboyhd	192.168.1.100:42899	LoginHwId_3556176590	639324413
+16-02:55:58	TCQGaming	dialog Thủ Khố
+16-02:56:34	TCQGaming	dialog Trương Trảm Kinh
+16-02:57:28	TCQGaming	login 24
+16-02:57:28	TCQGaming	xboyhd	192.168.1.100:45715	LoginHwId_3556176590	639324413
+16-02:57:28	TCQGaming	xboyhd	3556176590	1677830336	SetForbitCode0
+16-02:57:28	TCQGaming	NewWorld 24
+16-02:57:45	TCQGaming	dialog Trương Trảm Kinh
+16-02:58:25	TCQGaming	UseItem	Thẻ GM
+16-02:58:29	TCQGaming	UseItem	Thẻ GM
+16-02:58:35	TCQGaming	AddItem	Hồi Thiên Đơn(1755287915)	Way100	Value0
+16-02:58:41	TCQGaming	dialog Trương Trảm Kinh
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287923)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:58:46	TCQGaming	AddItem	Hồi Thiên Đơn(1755287926)	Way2	Value0
+16-02:59:35	TCQGaming	dialog Trương Trảm Kinh
+16-02:59:37	TCQGaming	dialog Trương Trảm Kinh
+16-02:59:40	TCQGaming	dialog Trương Trảm Kinh
+16-03:00:00	TCQGaming	dialog Trương Trảm Kinh
+16-03:00:10	TCQGaming	dialog Trương Trảm Kinh
+16-03:01:59	TCQGaming	AddItem	Hồi Thiên Đơn(1755288117)	Way2	Value0
+16-03:02:28	TCQGaming	dialog Trương Trảm Kinh
+16-03:05:18	TCQGaming	dialog Trương Trảm Kinh
+16-03:15:31	TCQGaming	dialog Trương Trảm Kinh
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288117)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:15:37	TCQGaming	AddItem	Hồi Thiên Đơn(1755288937)	Way2	Value0
+16-03:30:18	TCQGaming	login 24
+16-03:30:18	TCQGaming	xboyhd	192.168.1.100:27796	LoginHwId_3556176590	639324413
+16-03:30:18	TCQGaming	xboyhd	3556176590	1677830336	SetForbitCode0
+16-03:30:18	TCQGaming	NewWorld 24
+16-03:30:36	TCQGaming	UseItem	Thẻ GM
+16-03:32:45	TCQGaming	login 24
+16-03:32:45	TCQGaming	xboyhd	192.168.1.100:30100	LoginHwId_3556176590	639324413
+16-03:32:45	TCQGaming	xboyhd	3556176590	1677830336	SetForbitCode0
+16-03:32:45	TCQGaming	NewWorld 24
+16-03:32:51	TCQGaming	UseItem	Thẻ GM
+16-03:32:52	TCQGaming	UseItem	Thẻ GM
+16-03:32:52	TCQGaming	UseItem	Thẻ GM

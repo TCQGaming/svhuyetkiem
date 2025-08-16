@@ -1530,3 +1530,6 @@ HoiUcKT	Thanh Long Triền Thủ-Chích Viêm	16	8	Ngưng Ngọc Triền Thủ-N
 HoiUcKT	Ngưng Ngọc Triền Thủ-Nghiệp Hỏa	16	9	Càn Khôn Hoài Đao-Chích Viêm
 KẻMangTâmSự	Thiên Ngoại Phi Tiên-Hàn Băng	16	16	Càn Khôn Hoài Đao-Hàn Băng
 zXznuquaizXz	Long Diên Hương Nang-Phục Thạch	14	8	Tiêu Dao Băng Nguyệt Hương Nang
+BaoThanhThien	Kiếp Diệm Hoan Kiếm-Hoàng Long	16	0	Kiếp Diệm Hoan Kiếm-Nghịch Thủy
+TàĐế	Liệt Hồn Kích-Bạch Hổ	16	0	Kiếp Diệm Hoan Kiếm-Phục Thạch
+SiêuPhàm	Đoạn Quang Tà Nhẫn-Chu Tước	16	0	Kiếp Diệm Hoan Kiếm-Việt Quang

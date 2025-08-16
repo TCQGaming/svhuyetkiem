@@ -118,7 +118,8 @@ end
 
 -- 买药
 function tbYaoShang:OnBuyYaoBind()
-	me.OpenShop(14,7);
+	--me.OpenShop(14,7);
+	CTC_7_Thanh:MuaMauNhanh()
 end
 
 function tbYaoShang:OnBuyYao()

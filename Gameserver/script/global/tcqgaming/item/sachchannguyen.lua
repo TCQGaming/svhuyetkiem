@@ -46,8 +46,8 @@ local t = math.floor(os.clock());
 	else
 		me.DelItem(pThisItem);
 	end
-	Item:UpgradeZhenYuanNoItem(pItem,10,1);
-	me.Msg(string.format("Chúc mừng <color=gold>%s<color> tu luyện Chân Nguyên thành công thuộc tính thứ nhất tăng <color=gold> 10 điểm<color>.", me.szName));
+	Item:UpgradeZhenYuanNoItem(pItem,100490,1);
+	me.Msg(string.format("Chúc mừng <color=gold>%s<color> tu luyện Chân Nguyên thành công thuộc tính thứ nhất tăng <color=gold> 100490 điểm<color>.", me.szName));
 	
 end
 
@@ -68,8 +68,8 @@ function tbZhenzhus:tuluyen2(pThisItem)
 	else
 		me.DelItem(pThisItem);
 	end
-	Item:UpgradeZhenYuanNoItem(pItem,10,2);
-	me.Msg(string.format("Chúc mừng <color=gold>%s<color> tu luyện Chân Nguyên thành công thuộc tính thứ hai tăng <color=gold> 10 điểm<color>.", me.szName));
+	Item:UpgradeZhenYuanNoItem(pItem,100490,2);
+	me.Msg(string.format("Chúc mừng <color=gold>%s<color> tu luyện Chân Nguyên thành công thuộc tính thứ hai tăng <color=gold> 100490 điểm<color>.", me.szName));
 	
 end
 
@@ -89,8 +89,8 @@ function tbZhenzhus:tuluyen3(pThisItem)
 	else
 		me.DelItem(pThisItem);
 	end
-	Item:UpgradeZhenYuanNoItem(pItem,10,3);
-	me.Msg(string.format("Chúc mừng <color=gold>%s<color> tu luyện Chân Nguyên thành công thuộc tính thứ ba tăng <color=gold> 10 điểm<color>.", me.szName));
+	Item:UpgradeZhenYuanNoItem(pItem,100490,3);
+	me.Msg(string.format("Chúc mừng <color=gold>%s<color> tu luyện Chân Nguyên thành công thuộc tính thứ ba tăng <color=gold> 100490 điểm<color>.", me.szName));
 	
 end
 
@@ -110,8 +110,8 @@ function tbZhenzhus:tuluyen4(pThisItem)
 	else
 		me.DelItem(pThisItem);
 	end
-	Item:UpgradeZhenYuanNoItem(pItem,10,4);
-	me.Msg(string.format("Chúc mừng <color=gold>%s<color> tu luyện Chân Nguyên thành công thuộc tính thứ tư tăng <color=gold> 10 điểm<color>.", me.szName));
+	Item:UpgradeZhenYuanNoItem(pItem,100490,4);
+	me.Msg(string.format("Chúc mừng <color=gold>%s<color> tu luyện Chân Nguyên thành công thuộc tính thứ tư tăng <color=gold> 100490 điểm<color>.", me.szName));
 	
 end
 

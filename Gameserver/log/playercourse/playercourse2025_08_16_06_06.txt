@@ -1,0 +1,23 @@
+16-06:06:51	TCQGaming	login 182
+16-06:06:52	TCQGaming	xboyhd	192.168.1.100:7320	LoginHwId_3484585818	639324413
+16-06:06:52	TCQGaming	xboyhd	3484585818	1677830336	SetForbitCode0
+16-06:06:57	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-06:06:58	TCQGaming	NewWorld 1638
+16-06:08:08	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-06:08:09	TCQGaming	NewWorld 182
+16-06:08:11	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-06:08:13	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-06:08:39	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-06:08:40	TCQGaming	NewWorld 1638
+16-06:08:53	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-06:08:55	TCQGaming	NewWorld 182
+16-06:08:57	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-06:09:40	TCQGaming	UseItem	Thẻ GM
+16-06:09:41	TCQGaming	UseItem	Thẻ GM
+16-06:09:43	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-06:09:43	TCQGaming	NewWorld 1638
+16-06:10:00	TCQGaming	dialog Quan Quân Nhu (Tống)
+16-06:10:02	TCQGaming	NewWorld 182
+16-06:10:03	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-06:10:42	TCQGaming	dialog Hiệu Úy Mộ Binh (Tống)
+16-06:10:42	TCQGaming	NewWorld 1638

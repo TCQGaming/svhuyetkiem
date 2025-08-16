@@ -12,7 +12,8 @@ tbAdd_DanhHieuTP.Top_GT = 1;
 
 tbAdd_DanhHieuTP.nType = 1; -- 1 là tai phu, 2 la vo lam, 3 la thu linh
 
-tbAdd_DanhHieuTP.ToaDoNpc = {8, 1748, 3407};-- 13 là ID MAP, 1703,3280 là toa do
+-- tbAdd_DanhHieuTP.ToaDoNpc = {8, 1748, 3407};-- 13 là ID MAP, 1703,3280 là toa do
+tbAdd_DanhHieuTP.ToaDoNpc = {24, 1761, 3499};-- 13 là ID MAP, 1703,3280 là toa do
 
 function tbAdd_DanhHieuTP:StartEvent()
 	if tbAdd_DanhHieuTP.nStart == 1 then

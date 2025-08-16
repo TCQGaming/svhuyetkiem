@@ -185,12 +185,12 @@ local tb	= {
 		dynamicmagicshield_v={{{1,30},{10,90},{12,99}},30},
 	},
 	jinyumantang={ --金玉满堂_20
-		appenddamage_p= {{{1,65},{10,75},{20,80},{21,80*FightSkill.tbParam.nSadd}}},
+		appenddamage_p= {{{1,50},{10,60},{20,65},{21,65*FightSkill.tbParam.nSadd}}},
 		colddamage_v={
 			[1]={{1,500*0.9},{10,680*0.9},{20,780*0.9},{21,780*FightSkill.tbParam.nSadd*0.9}},
 			[3]={{1,500*1.1},{10,680*1.1},{20,780*1.1},{21,780*FightSkill.tbParam.nSadd*1.1}}
 		},
-		state_slowall_attack={{{1,15},{10,45},{20,50},{21,51}},{{1,45},{20,45}}},
+		state_slowall_attack={{{1,5},{10,35},{20,40},{21,41}},{{1,35},{20,35}}},
 		seriesdamage_r={{{1,100},{20,250},{21,250}}},
 		skill_cost_v={{{1,50},{20,150},{21,150}}},
 		addskilldamagep={232, {{1,2},{20,30},{21,35}},1},
@@ -198,7 +198,7 @@ local tb	= {
 		addskilldamagep3={869, {{1,2},{20,30},{21,35}}},
 		addskilldamagep4={870, {{1,2},{20,30},{21,35}}},
 		addskilldamagep5={871, {{1,2},{20,30},{21,35}}},
-		addskilldamagep6={866, {{1,2},{20,40},{21,40}}},
+		addskilldamagep6={872, {{1,2},{20,30},{21,35}}},
 		missile_hitcount={{{1,4},{2,4}}},
 		skill_missilenum_v={{{1,2},{10,3},{15,4},{20,5},{21,5}},1},
 		missile_speed_v={40},

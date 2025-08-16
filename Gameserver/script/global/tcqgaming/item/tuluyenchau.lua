@@ -134,7 +134,7 @@ function tbItem:OnUse()
 		
 		end
 	end
-	table.insert(tbOpt, {"Nhận thưởng hàng ngày", SpecialEvent.PhanThuong.OnDialog, SpecialEvent.PhanThuong});	
+	-- table.insert(tbOpt, {"Nhận thưởng hàng ngày", SpecialEvent.PhanThuong.OnDialog, SpecialEvent.PhanThuong});	
 
 	--table.insert(tbOpt, 2, {"Linh Hồn Tu Luyện Bảo", self.thanhlinhluyen, self});
 	

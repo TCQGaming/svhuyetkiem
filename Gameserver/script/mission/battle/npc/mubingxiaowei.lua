@@ -117,6 +117,8 @@ function tbNpcBase:OnDialog()
         Dialog:Say("Bạn chưa chọn hệ phái võ công");
         return 0;
     end
+
+
 --------Giới hạn hệ nhân vật / PC--------
 local nHardWareId = me.dwHardWareId;
 

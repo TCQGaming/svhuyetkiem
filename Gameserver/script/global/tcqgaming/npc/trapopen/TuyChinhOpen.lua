@@ -20,7 +20,7 @@ ConfigAll.ThongBaoDuaTOP = "Sự Kiện <color=yellow>Đua TOP Tháng 6 Đã K�
 												--										Mở cấp giai đoạn						  --
 --============================================================================================================--
 
-ThietLap.capdo = 80;
+ThietLap.capdo = 119;
 
 ConfigAll.SoLuongTocTrongBangHoi = 4           -- số tộc trong bang
 ConfigAll.GioiHanThanhVienToc = 36           -- số thành viên trong tộc
@@ -34,6 +34,7 @@ ConfigAll.GioiHanKhongTrungPhai_TongKim = 1           -- 1 là có chặn , 0 l�
 ConfigAll.GioiHanKhongTrungPhai_ThiDauMonPhai = 1           -- 1 là có chặn , 0 là bỏ 
 ConfigAll.GioiHanKhongTrungPhaiCTC_Ngai = 1           -- 1 là có chặn , 0 là bỏ 
 ConfigAll.GioiHanMonPhai = 1           -- 1 là 1 nhân vật cho 1 môn phái
+ConfigAll.GioiHanTongAccPC = 6           -- 6 là 6 nhân vật cho 1 PC
 ConfigAll.GioiHanSoAccHoatDong = 12           -- 1 là 1 acc tham gia
 
 --============================================================================================================--
@@ -143,7 +144,7 @@ ConfigAll.HoatDongLoiDai16 = 0
 ConfigAll.NpcMinhChuVoLam = 0
 ConfigAll.TieuDuLong = 0-- Tiểu Du Long 0 là đóng , 1 là mở bán thương gia tiêu dao
 ConfigAll.XuatHienBossDacBiet_BHD = 0 ---- 0 là sơ , 1 là cao
-ConfigAll.GioiHanEXP = 89
+ConfigAll.GioiHanEXP = 119
 --============================================================================================================--
 												--										Liên quan Event Nguyên Liệu Ra Tống Kim	18,1,2034,3								  --
 --============================================================================================================--
@@ -200,7 +201,7 @@ ConfigAll.GioiHanTaiPhu_TanLang	= 6 -----6 là hỗn thiên
 --============================================================================================================--
 												--										Cấp Độ Tân Thủ Login 										  --
 --============================================================================================================--
-ConfigAll.CapDoTanThu	= 80 ------player.lua
+ConfigAll.CapDoTanThu	= 119 ------player.lua
 function ConfigAll.playerevent_login()
 	-- me.AddItem(1,27,1,1).Bind(1);-----Long hồn rồng
 	me.AddStackItem(21,8,1,1,{bForceBind = 1},2);---Túi Da Chồn

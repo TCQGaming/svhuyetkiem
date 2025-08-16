@@ -1,0 +1,15 @@
+16-03:55:39	TCQGaming	login 24
+16-03:55:39	TCQGaming	xboyhd	192.168.1.100:43925	LoginHwId_3556176590	639324413
+16-03:55:39	TCQGaming	xboyhd	3556176590	1677830336	SetForbitCode0
+16-03:55:39	TCQGaming	NewWorld 24
+16-03:55:46	TCQGaming	dialog Trương Trảm Kinh
+16-03:55:47	TCQGaming	AddItem	Linh Chi Tục Mệnh Hoàn(1755289832)	Way100	Value0
+16-03:55:47	TCQGaming	AddItem	Linh Chi Tục Mệnh Hoàn(1755289832)	Way100	Value0
+16-03:55:52	TCQGaming	dialog Bất Động Tiên Sinh
+16-03:55:55	TCQGaming	dialog Bất Động Tiên Sinh
+16-03:55:58	TCQGaming	dialog Trương Trảm Kinh
+16-03:56:00	TCQGaming	dialog Trương Trảm Kinh
+16-03:56:01	TCQGaming	AddItem	Linh Chi Tục Mệnh Hoàn(1755291361)	Way100	Value0
+16-03:56:02	TCQGaming	dialog Trương Trảm Kinh
+16-03:56:12	TCQGaming	UseItem	Vô Hạn Truyền Tống Phù
+16-03:56:17	TCQGaming	Exchange 182

@@ -1,0 +1,41 @@
+16-03:34:21	TCQGaming	login 24
+16-03:34:21	TCQGaming	xboyhd	192.168.1.100:45460	LoginHwId_3556176590	639324413
+16-03:34:21	TCQGaming	xboyhd	3556176590	1677830336	SetForbitCode0
+16-03:34:21	TCQGaming	NewWorld 24
+16-03:34:40	TCQGaming	dialog Thẩm Hà Diệp
+16-03:34:50	TCQGaming	AddItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way100	Value0
+16-03:34:59	TCQGaming	AddItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way100	Value0
+16-03:34:59	TCQGaming	AddItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way100	Value0
+16-03:34:59	TCQGaming	AddItem	Linh Chi Tục Mệnh Hoàn(1755290099)	Way100	Value0
+16-03:35:03	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:35:04	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:35:11	TCQGaming	dialog Trương Trảm Kinh
+16-03:36:03	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:04	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:04	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:05	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:05	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:05	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:06	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:06	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:06	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:07	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:07	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:08	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:08	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:08	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:09	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:09	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:09	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:10	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:10	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:36:11	TCQGaming	RemoveItem	Linh Chi Tục Mệnh Hoàn(1755290090)	Way5	Value0
+16-03:40:29	TCQGaming	UseItem	Thẻ GM
+16-03:40:33	TCQGaming	UseItem	Thẻ GM
+16-03:40:38	TCQGaming	UseItem	Thẻ GM
+16-03:40:39	TCQGaming	UseItem	Thẻ GM
+16-03:42:05	TCQGaming	UseItem	Thẻ GM
+16-03:42:24	TCQGaming	UseItem	Thẻ GM
+16-03:42:26	TCQGaming	dialog Trương Trảm Kinh
+16-03:42:27	TCQGaming	AddItem	Linh Chi Tục Mệnh Hoàn(1755290547)	Way100	Value0
+16-03:42:29	TCQGaming	dialog Trương Trảm Kinh

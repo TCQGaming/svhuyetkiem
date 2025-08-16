@@ -76,11 +76,13 @@ end
 
 -- 买药
 function tbF1_Npc_1:OnBuyYaoByBind()
-	me.OpenShop(14,7);
+	--me.OpenShop(14,7);
+	CTC_7_Thanh:MuaMauNhanh()
 end
 
 function tbF2_Npc_1:OnBuyYaoByBind()
-	me.OpenShop(14,7);
+--	me.OpenShop(14,7);
+	CTC_7_Thanh:MuaMauNhanh()
 end
 
 -- 买菜

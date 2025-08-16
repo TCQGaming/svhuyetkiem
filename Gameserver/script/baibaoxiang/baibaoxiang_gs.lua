@@ -618,7 +618,7 @@ function Baibaoxiang:GetAward(pPlayer, nType)
 		pPlayer.AddStackItem(18, 1, 325, 1, nil, nAward * nAwardNum);
 					local szThongBaoTheGioi = string.format("<color=green>"..pPlayer.szName.."<color> tại <color=green>Bách Bảo Rương :<color> nhận được<bclr=red><color=yellow> "
 					..(nAward * nAwardNum).." Vỏ Sò Vàng<color>");
-			KDialog.MsgToGlobal(szThongBaoTheGioi);
+			-- KDialog.MsgToGlobal(szThongBaoTheGioi);
 
 		self:_Log(pPlayer,"Nhan duoc".. (nAward * nAwardNum).."vo so vang");		
 			
@@ -666,7 +666,7 @@ function Baibaoxiang:GetCoin_GS(nPlayerID, nCoin)
 	local szThongBaoTheGioi = string.format("Người chơi <color=green>%s<color> tại <color=green>Bách Bảo Rương :<color> nhận được<color=yellow> %s<color> vỏ sò vàng! Thật may mắn", pPlayer.szName, nCoin);
 	local szMsg = string.format("Người chơi <color=green>%s<color> tham gia bách bảo rương nhận được %s vỏ sò vàng! Thật may mắn.", pPlayer.szName, nCoin);
 	KDialog.NewsMsg(1, Env.NEWSMSG_NORMAL, szMsg);
-	KDialog.MsgToGlobal(szThongBaoTheGioi);
+	-- KDialog.MsgToGlobal(szThongBaoTheGioi);
 	pPlayer.SendMsgToFriend("Hảo hữu [<color=green>"..pPlayer.szName.."<color>] tham gia bách bảo rương nhận được <color=yellow>"
 		..nCoin.."<color> vỏ sò vàng!");
 		-- me.SetTask(9154, 1, 0)

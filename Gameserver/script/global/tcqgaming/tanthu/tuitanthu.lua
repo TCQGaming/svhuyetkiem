@@ -123,8 +123,8 @@ end
 		local nTop1TKTest = me.GetTask(9179,1)
 		local nTop2TKTest = me.GetTask(9179,3)
 		local nTop3TKTest = me.GetTask(9179,5)
-		local nTop4Den10TKTest = me.GetTask(9179,9)
-		local nTop1120TKTest_Ngay1 = me.GetTask(9179,7)
+		local nTop4Den20TKTest = me.GetTask(9179,9)
+		local nTopThuongTongKimTest_Dat6k = me.GetTask(9179,7)
 		
 		local nTop1TKTestNgay2 = me.GetTask(9179,2)
 		local nTop2TKTestNgay2 = me.GetTask(9179,4)
@@ -136,7 +136,21 @@ end
 local nTanThu79 = me.GetTask(9172,5)
 local nQuaLag = me.GetTask(9191,1)
 local nQuaUyDanhTuan = me.GetTask(9191,3)
+				local nTichNap50kTanThu119 = me.GetTask(9173,1)
+				local nTrangBiTanThu = me.GetTask(3022,1)
+				local nFanCungT1 = me.GetTask(9175,1)
+				local nFanCungT2 = me.GetTask(9175,2)
+				local nFanCungT3 = me.GetTask(9175,3)
+				local nFanCungT4 = me.GetTask(9175,4)
+				local nFanCungT6 = me.GetTask(9175,6)
+				local nFanCungT7 = me.GetTask(9175,7)
+				local nFanCungT8 = me.GetTask(9175,8)
+				local nFanCungT10 = me.GetTask(9175,10)
+				local nFanCungT11 = me.GetTask(9175,11)
+				local nFanCungT12 = me.GetTask(9175,12)
     local tbOpt =     {} 
+				table.insert(tbOpt, {"<bclr=red><color=yellow>Thử nghiệm AlphaTest<color>",SpecialEvent.NewTest.OnDialog,SpecialEvent.NewTest});
+				
 	if me.nFaction == 0 then
 			table.insert(tbOpt, {"<color=yellow>Gia nhập môn phái (12 phái)<color>", "Npc.tbMenPaiNpc:FactionDialog", Npc.tbMenPaiNpc.DialogMaster});
 			end
@@ -152,9 +166,50 @@ local nQuaUyDanhTuan = me.GetTask(9191,3)
 			-- end 
 				-- if nQuaUyDanhTuan < 1 then 
 									-- table.insert(tbOpt, {"Nhận <color=gold>Nhận hỗ trợ 30 Uy Danh hàng tuần",self.nhanhotro60uydanh,self});
-			-- end 		
+			-- end 
+
+if (nTop1TKTest == 0) and (me.szAccount == "volamhk" or me.szAccount == "xboyhd") then
+					table.insert(tbOpt, {"<color=yellow>Nhận Thưởng Top 1 Tống Kim Test<color>",self.top1tongkim,self});	
+end 
+if (nTop2TKTest == 0) and  (me.szAccount == "hoangkieu")  then 
+					table.insert(tbOpt, {"<color=yellow>Nhận Thưởng Top 2 Tống Kim Test<color>",self.top2tongkimngay1,self});	
+end 
+if (nTop3TKTest == 0) and  (me.szAccount == "minhdang")  then 
+					table.insert(tbOpt, {"<color=yellow>Nhận Thưởng Top 3 Tống Kim Test<color>",self.top3tongkimngay1,self});	
+end
+
+
+if (nTop4Den20TKTest == 0) and (
+    me.szAccount == "baokhanga" or
+    me.szAccount == "kshoptq" or
+    me.szAccount == "kshoptw" or
+    me.szAccount == "bminha" or
+    me.szAccount == "volamhke" or
+    me.szAccount == "chianha" or
+    me.szAccount == "hoangkieux" or
+    me.szAccount == "hoangkieuc"
+) then
+    table.insert(tbOpt, {"<color=yellow>Nhận Thưởng Top 4-20 Tống Kim Test<color>", self.top4den20TKTest_ngay1, self});
+end
+
+if (nTopThuongTongKimTest_Dat6k == 0) and (
+    me.szAccount == "lesauvjem" or
+    me.szAccount == "duysociu" or
+    me.szAccount == "huyhoang" or
+    me.szAccount == "toanmkkkkkk" or
+    me.szAccount == "hoangnamft" or
+    me.szAccount == "taikhoan" or
+    me.szAccount == "thanghp"
+) then
+    table.insert(tbOpt, {"<color=yellow>Nhận Thưởng Đạt 6000 tích lũy Tống Kim Test<color>", self.thuong6ktongkimtest, self});
+end
+
+
 
 			table.insert(tbOpt, {"<bclr=blue><color=yellow>Nhận đồng nạp thẻ<color>",self.rutdongvamoc,self});
+			if nFanCungT8 < 1 then 
+			table.insert(tbOpt, {"<color=yellow>Nhận Thưởng Fan Cứng Tháng 8<color>",self.codefcthang8,self});
+			end 
 			-- table.insert(tbOpt, {"<color=yellow>Bấm vào đây Nạp Thẻ<color>",self.xemspr,self});
 						-- table.insert(tbOpt, {"Xem<color=gold> hướng dẫn tính năng bằng video<color>",self.huongdanbangvideo,self});
 			 -- table.insert(tbOpt, {"<color=green>Bảng Xếp Hạng Bang Hội Công Trạng Tuần<color>",self.CongTrang,self});
@@ -163,147 +218,22 @@ local nQuaUyDanhTuan = me.GetTask(9191,3)
 			-- table.insert(tbOpt, {"<color=yellow>Bấm vào đây để truy cập FANPAGE<color>",self.BinhLuan,self});
 			table.insert(tbOpt, {"<color=yellow>Giải Trừ PK10<color>\n(2 Vạn Đồng)",self.xoapk10_ok,self});
 			-- table.insert(tbOpt, {"<color=yellow>Đổi trang bị đồng hành mới",self.doitrangbipetnew,self});
-				local nTichNap50kTanThu119 = me.GetTask(9173,1)
-				local nTrangBiTanThu = me.GetTask(3022,1)
-				local nFanCungT1 = me.GetTask(9175,1)
-				local nFanCungT2 = me.GetTask(9175,2)
-				local nFanCungT3 = me.GetTask(9175,3)
-				local nFanCungT4 = me.GetTask(9175,4)
-				local nFanCungT6 = me.GetTask(9175,6)
-				local nFanCungT7 = me.GetTask(9175,7)
-				local nFanCungT8 = me.GetTask(9175,8)
-				local nFanCungT10 = me.GetTask(9175,10)
-				local nFanCungT11 = me.GetTask(9175,11)
-				local nFanCungT12 = me.GetTask(9175,12)
+
 				if nTrangBiTanThu < 1 then
 				table.insert(tbOpt, {"Nhận <color=gold>Trang Bị Tân Thủ<color>",self.lanhdotanthutuyetdinh,self});
 				end
 			local nCode = me.GetTask(3020,1);
 			if nCode < 1 then
-			table.insert(tbOpt, {"<color=yellow>Kích Hoạt GIFTCODE TÂN THỦ<color>",self.codefanpage,self});
+			table.insert(tbOpt, {"<color=yellow>Nhận Thưởng Tân Thủ<color>",self.codefanpage,self});
 			end
 			local nCode = me.GetTask(3138,1);
 			if nCode < 1 then
 				 table.insert(tbOpt, {"<color=pink>Loan Tin S1 Bích Huyết Kiếm<color>\n(Click là nhận không cần nhập CODE)",self.codetruyentin,self});
 			end
-			-- if nTanThuVIP_89 == 1 then 
-						-- if nTrangBiTanThu < 1 then
-						-- table.insert(tbOpt, {"Nhận <color=gold>Nhận quà Trang Bị Tân Thủ Mới VIP<color>",self.lanhdotanthutuyetdinh,self});
-						-- end 
-			 -- table.insert(tbOpt, {"<color=gold>Nhận quà Code Tân Thủ Mới VIP<color>",self.tanthucodemoi80,self});
-			-- end
 			if (me.szAccount == "xboyhd") or  (me.szAccount == "kimnhung")  then
 			table.insert(tbOpt, {"<color=pink>Chỉ Admin Mới Thấy<color>" , self.nhanthead, self});
-			-- table.insert(tbOpt, {"<color=pink>Tesst<color>" , self.testtdc, self});
 			end 
-			
-			-- if (me.szAccount == "cuocdoi") or (me.szAccount == "cuocdoia") or (me.szAccount == "cuocdoib") or (me.szAccount == "cuocdoic") or (me.szAccount == "cuocdoid") or (me.szAccount == "cuocdoie") or (me.szAccount == "conmua") or (me.szAccount == "conmuaa") or (me.szAccount == "conmuab") or (me.szAccount == "conmuac") or (me.szAccount == "conmuad") or (me.szAccount == "conmuae") then
-			-- table.insert(tbOpt, {"<color=pink>Ahihi<color>" , self.testtdc, self});
-			-- end 
-			
-			
 			table.insert(tbOpt, {"<color=yellow>Ta muốn mua Tinh Hoạt<color>", TinhHoat.TinhHoatLp.OnDialog,TinhHoat.TinhHoatLp});
--- if nThuongDuaCap_150 == 0 then 
--- if (me.szName == "zzKieMzz") or (me.szName == "KẻMangTâmSự") or (me.szName == "TCQGaming") then 
-    -- table.insert(tbOpt, {"<color=gold>Nhận quà Đua Top Cấp TOP 4-10<color>",self.thuongduacap150_Top4_10,self});
--- end 
-
--- if (me.szName == "GiaNghi") or (me.szName == "KhoáiNhìnGái") or (me.szName == "LâmTriềuAnh") or (me.szName == "ĐangTậpCHơi") or (me.szName == "TướngQII") or (me.szName == "MớiTậpCHơi") or (me.szName == "TiểuLongTiên") or (me.szName == "TiểuLongNhi") or (me.szName == "TiểuLongBao") or (me.szName == "TiểuLongTinh") or (me.szName == "TCQGaming") then 
-    -- table.insert(tbOpt, {"<color=gold>Nhận quà Đua Top Cấp Hạng 11-20<color>",self.thuongduacap150_hang11_20,self});
--- end 
-
--- if (me.szName == "TiểuLongNhân") or (me.szName == "NgaMyy") or (me.szName == "DoatMenh") or (me.szName == "SpLine") or (me.szName == "OhOooo") or (me.szName == "ĐườngMôn") or (me.szName == "ThiênNhẫn") or (me.szName == "BaKich") or (me.szName == "BồTát") or (me.szName == "MinhGiáo") or (me.szName == "TCQGaming") then 
-    -- table.insert(tbOpt, {"<color=gold>Nhận quà Đua Top Cấp Hạng 21-30<color>",self.thuongduacap150_hang21_30,self});
--- end 
-
--- end 
-
-									-- if nFanCungT10 == 0 then
-			-- table.insert(tbOpt, {"<color=gold>Nhận quà Fan Cứng Tháng 10<color>",self.codefcthang10,self});
-									-- end
-									-- if nFanCungT11 == 0 then
-			-- table.insert(tbOpt, {"<color=gold>Nhận quà Fan Cứng Tháng 11<color>",self.codefcthang11,self});
-									-- end
-									-- if nFanCungT12 == 0 then
-			-- table.insert(tbOpt, {"<color=gold>Nhận quà Fan Cứng Tháng 12<color>",self.codefcthang12,self});
-									-- end
-									-- if nFanCungT1 == 0 then
-			-- table.insert(tbOpt, {"<color=gold>Nhận quà Fan Cứng Tháng 1<color>",self.codefcthang1,self});
-									-- end
-									-- if nFanCungT2 == 0 then
-			-- table.insert(tbOpt, {"<color=gold>Nhận quà Fan Cứng Tháng 2<color>",self.codefcthang2,self});
-									-- end
-								-- if nFanCungT3 == 0 then
-			-- table.insert(tbOpt, {"<color=gold>Nhận quà Fan Cứng Tháng 3<color>",self.codefcthang3,self});
-									-- end
-								-- if nFanCungT4 == 0 then
-			-- table.insert(tbOpt, {"<color=gold>Nhận quà Fan Cứng Tháng 4<color>",self.codefcthang4,self});
-									-- end
-						-- if nFanCungT6 == 0 then
-			-- table.insert(tbOpt, {"<color=gold>Nhận quà Fan Cứng Tháng 6<color>",self.codefcthang6,self});
-						-- end
-						-- if nFanCungT7 == 0 then
-			-- table.insert(tbOpt, {"<color=gold>Nhận quà Fan Cứng Tháng 7<color>",self.codefcthang7,self});
-						-- end
-						-- if nFanCungT8 == 0 then
-			-- table.insert(tbOpt, {"<color=gold>Nhận quà Fan Cứng Tháng 8<color>",self.codefcthang8,self});
-						-- end
-				------------------Sau 1 ngày mở------------------------------------------------------------------------------------------------------------------------------
-		-- if nTop1TKTest == 0 then 
-			-- if  (me.szAccount == "tungpv") then
-				-- table.insert(tbOpt, {"<color=gold>TOP 1 Tống Kim AlPhaTest Ngày 1",self.top1tongkim,self});
-			-- end 
-		-- end 
-		-- if nTop2TKTest == 0 then 
-			-- if (me.szAccount == "bolosali") then
-				-- table.insert(tbOpt, {"<color=gold>TOP 2 Tống Kim AlPhaTest Ngày 1",self.top2tongkimngay1,self});
-			-- end 
-		-- end 
-		-- if nTop3TKTest == 0 then 
-			-- if    (me.szAccount == "minhhieu") then
-				-- table.insert(tbOpt, {"<color=gold>TOP 3 Tống Kim AlPhaTest Ngày 1",self.top3tongkimngay1,self});
-			-- end 
-		-- end 
-		
-				-- if nTop4Den10TKTest == 0 then 
-			-- if    (me.szAccount == "nhankiem") or  (me.szAccount == "cuocdoi") or  (me.szAccount == "aducbva") or  (me.szAccount == "binhanhm") or  (me.szAccount == "dinhvuong") then
-				-- table.insert(tbOpt, {"<color=gold>TOP 4 Đến 10 Tống Kim AlPhaTest Ngày 1",self.top4den10TKTest_ngay1,self});
-			-- end 
-		-- end 
-		
-		-- if nTop1120TKTest_Ngay1 == 0 then 
-			-- if    (me.szAccount == "kimanh") or  (me.szAccount == "nhankien") or  (me.szAccount == "duagang")  then
-				-- table.insert(tbOpt, {"<color=gold>TOP 11 đến 20 Tống Kim AlPhaTest Ngày 1",self.top1120tongkimngay1,self});
-			-- end 
-		-- end 
-		
-		-- if nTop1TKTestNgay2 == 0 then 
-			-- if    (me.szAccount == "minhhieu") then
-				-- table.insert(tbOpt, {"<color=gold>TOP 1 Tống Kim AlPhaTest Ngày 2",self.top1tongkimngay2,self});
-			-- end 
-		-- end 
-		-- if nTop2TKTestNgay2 == 0 then 
-			-- if  (me.szAccount == "phamkeke") then
-				-- table.insert(tbOpt, {"<color=gold>TOP 2 Tống Kim AlPhaTest Ngày 2",self.top2tongkimngay2,self});
-			-- end 
-		-- end 
-		-- if nTop3TKTestNgay2 == 0 then 
-			-- if (me.szAccount == "vinhkendy") then
-				-- table.insert(tbOpt, {"<color=gold>TOP 3 Tống Kim AlPhaTest Ngày 2",self.top3tongkimngay2,self});
-			-- end 
-		-- end 
-				-- if ntop4den10tongkimngay2 == 0 then 
-			-- if  (me.szAccount == "dinhvuong") or  (me.szAccount == "aducbva") or  (me.szAccount == "cuocdoi") or  (me.szAccount == "abacmeo") or  (me.szAccount == "nnhoang") or  (me.szAccount == "duagang") or  (me.szAccount == "tuchihai") then
-				-- table.insert(tbOpt, {"<color=gold>TOP 4 đến 10 Tống Kim AlPhaTest Ngày 2",self.top4den11tongkimngay2,self});
-			-- end 
-		-- end 
-		
-		-- if nTop420TKTest_Ngay2 == 0 then 
-			-- if   (me.szAccount == "kimanh") or (me.szAccount == "tungpv")  then
-				-- table.insert(tbOpt, {"<color=gold>TOP 11 đến 20 Tống Kim AlPhaTest Ngày 2",self.top420tongkimngay2,self});
-			-- end 
-		-- end 
-		------------------------------------------------------------------------------------------------------------------------------
 			table.insert(tbOpt, {"Nhận thưởng thăng cấp<color>",self.menuquathangcap,self});
 			-- table.insert(tbOpt, {"Nhận vô hạn truyền tống phù<color>",self.vohantruyentongphu,self});
 			table.insert(tbOpt, {"<color=yellow>Tiêu Hủy Đạo Cụ<color>",self.tieuhuydaocu,self});
@@ -1227,7 +1157,18 @@ if nGioiHan > 0 then
         me.Msg("<color=yellow>Bạn đã sử dụng loại code này 1 lần rồi , không thể sử dụng tiếp<color>")
 		return 0
 end
-    Dialog:AskString("Nhập Mã Code", 15, self.kiemtrafancungnet_thang8, self)
+
+	KDialog.MsgToGlobal("<color=yellow>Người chơi <color=cyan>[ "..me.szName.." ]<color> đã nhận GiftCode Fan Cứng Tháng 8 Thành Công Nhận Được 2 Huyền Tinh Cấp 8, 5000 Ngũ Hành Hồn Thạch\n50 vạn bạc khóa\n20 vạn đồng khóa\n200 vạn tích nạp\nXin Chúc Mừng<color>");
+	me.SetTask(9175,8,1)
+    me.AddTitle(46,1,1,1); -- danh hieu fan cung
+	me.AddStackItem(18,1,114,8,{bForceBind=1},2)
+			 me.AddBindCoin(20*10000);-----20 vạn đồng khóa
+			 me.AddBindMoney(50*10000);--25 vạn bạc khóa
+	me.AddStackItem(18,1,205,1,{bForceBind=1},5000)---Ngũ Hành Hồn Thạch
+				local nTichLuyTong = me.GetTask(3028,1)
+			me.SetTask(3028,1,nTichLuyTong + 200)
+	
+    -- Dialog:AskString("Nhập Mã Code", 15, self.kiemtrafancungnet_thang8, self)
 end
 
 function tbGift:kiemtrafancungnet_thang8(nCode)
@@ -1857,12 +1798,6 @@ function tbGift:top1tongkim()
         Dialog:Say(szAnnouce);
         return 0;    
     end
-	local nTime = GetTime();
-	local nCurTime = tonumber(os.date("%H%M", nTime))
-if  nCurTime < 1900 or nCurTime > 2000 then 
-	Dialog:Say("Đúng <color=yellow>19h00 đến 20h00<color> hôm nay mới được nhận thưởng!!")
-return 0;
-end 
 
 	local nCheck = me.GetTask(9179,1)
 	if nCheck >= 1 then
@@ -1872,10 +1807,10 @@ end
 		local nTichLuyTong = me.GetTask(3028,1)
 		local nDiem_Hoat_Dong = me.GetTask(9177,1);
 		me.SetTask(9179,1, nCheck + 1);
-		me.AddStackItem(18,1,1338,1,nil,5);----Đại Kim Nguyên Bảo
-		-- me.SetTask(3028,1,nTichLuyTong + 500)-----Mốc nạp
+		me.AddStackItem(18,1,1338,1,nil,10);----Đại Kim Nguyên Bảo
+		me.SetTask(3028,1,nTichLuyTong + 1000)-----Mốc nạp
 		-- me.SetTask(9177,1,nDiem_Hoat_Dong + 500)-----Mốc nạp Ngày
-	KDialog.MsgToGlobal("<color=yellow>Người chơi <color=cyan>[ "..me.szName.." ]<color> đã nhận quà TOP 1 Tống Kim AlPhaTest Ngày 1 Đạt 500 Kim Nguyên Bảo xin chúc mừng<color>");
+	KDialog.MsgToGlobal("<color=yellow>Người chơi <color=cyan>[ "..me.szName.." ]<color> đã nhận quà TOP 1 Tống Kim AlPhaTest Đạt 1000 Kim Nguyên Bảo và 1000 Mốc Tích Nạp xin chúc mừng<color>");
 end
 
 function tbGift:top1tongkimngay2()
@@ -1912,12 +1847,7 @@ function tbGift:top2tongkimngay1()
         Dialog:Say(szAnnouce);
         return 0;    
     end
-		local nTime = GetTime();
-	local nCurTime = tonumber(os.date("%H%M", nTime))
-if  nCurTime < 1900 or nCurTime > 2000 then 
-	Dialog:Say("Đúng <color=yellow>19h00 đến 20h00<color> hôm nay mới được nhận thưởng!!")
-return 0;
-end 
+
 	local nCheck = me.GetTask(9179,3)
 	if nCheck >= 1 then
 		Dialog:Say(string.format("Bạn đã nhận quà rồi!"));
@@ -1926,10 +1856,10 @@ end
 		local nTichLuyTong = me.GetTask(3028,1)
 		local nDiem_Hoat_Dong = me.GetTask(9177,1);
 		me.SetTask(9179,3, nCheck + 1);
-		me.AddStackItem(18,1,1338,1,nil,4);----Đại Kim Nguyên Bảo
-		-- me.SetTask(3028,1,nTichLuyTong + 300)-----Mốc nạp
+		me.AddStackItem(18,1,1338,1,nil,5);----Đại Kim Nguyên Bảo
+		me.SetTask(3028,1,nTichLuyTong + 700)-----Mốc nạp
 		-- me.SetTask(9177,1,nDiem_Hoat_Dong + 300)-----Mốc nạp Ngày
-	KDialog.MsgToGlobal("<color=yellow>Người chơi <color=cyan>[ "..me.szName.." ]<color> đã nhận quà TOP 2 Tống Kim AlPhaTest Ngày 1 Đạt 400 Kim Nguyên Bảo xin chúc mừng<color>");
+	KDialog.MsgToGlobal("<color=yellow>Người chơi <color=cyan>[ "..me.szName.." ]<color> đã nhận quà TOP 2 Tống Kim AlPhaTest  Đạt 500 Kim Nguyên Bảo và 700 vạn tích nạp thẻ\nxin chúc mừng<color>");
 end
 
 function tbGift:top2tongkimngay2()
@@ -1961,7 +1891,7 @@ end
 
 
 
-function tbGift:top4den10TKTest_ngay1()
+function tbGift:top4den20TKTest_ngay1()
     local nNeedBag = 5;
     if me.CountFreeBagCell() < nNeedBag then
         local szAnnouce = "Hành trang yêu cầu "..nNeedBag.." ô trống";
@@ -1982,10 +1912,10 @@ end
 		-- local nTichLuyTong = me.GetTask(3028,1)
 		-- local nDiem_Hoat_Dong = me.GetTask(9177,1);
 		me.SetTask(9179,9, nCheck + 1);
-		me.AddStackItem(18,1,1338,1,nil,2);----Đại Kim Nguyên Bảo
-		-- me.SetTask(3028,1,nTichLuyTong + 200)-----Mốc nạp
+		me.AddStackItem(18,1,1338,2,nil,150);----Đại Kim Nguyên Bảo
+		me.SetTask(3028,1,nTichLuyTong + 150)-----Mốc nạp
 		-- me.SetTask(9177,1,nDiem_Hoat_Dong + 200)-----Mốc nạp Ngày
-	KDialog.MsgToGlobal("<color=yellow>Người chơi <color=cyan>[ "..me.szName.." ]<color> đã nhận quà TOP 4 Đến 10 Tống Kim AlPhaTest Ngày 1 Đạt 200 Kim Nguyên Bảo xin chúc mừng<color>");
+	KDialog.MsgToGlobal("<color=yellow>Người chơi <color=cyan>[ "..me.szName.." ]<color> đã nhận quà TOP 4 Đến 20 Tống Kim AlPhaTest Đạt 150 Kim Nguyên Bảo và 150 vạn tích nạp mốc xin chúc mừng<color>");
 end
 
 function tbGift:top3tongkimngay1()
@@ -1995,12 +1925,12 @@ function tbGift:top3tongkimngay1()
         Dialog:Say(szAnnouce);
         return 0;    
     end
-		local nTime = GetTime();
-	local nCurTime = tonumber(os.date("%H%M", nTime))
-if  nCurTime < 1900 or nCurTime > 2000 then 
-	Dialog:Say("Đúng <color=yellow>19h00 đến 20h00<color> hôm nay mới được nhận thưởng!!")
-return 0;
-end 
+		-- local nTime = GetTime();
+	-- local nCurTime = tonumber(os.date("%H%M", nTime))
+-- if  nCurTime < 1900 or nCurTime > 2000 then 
+	-- Dialog:Say("Đúng <color=yellow>19h00 đến 20h00<color> hôm nay mới được nhận thưởng!!")
+-- return 0;
+-- end 
 	local nCheck = me.GetTask(9179,5)
 	if nCheck >= 1 then
 		Dialog:Say(string.format("Bạn đã nhận quà rồi!"));
@@ -2010,9 +1940,9 @@ end
 		-- local nDiem_Hoat_Dong = me.GetTask(9177,1);
 		me.SetTask(9179,5, nCheck + 1);
 		me.AddStackItem(18,1,1338,1,nil,3);----Đại Kim Nguyên Bảo
-		-- me.SetTask(3028,1,nTichLuyTong + 200)-----Mốc nạp
+		me.SetTask(3028,1,nTichLuyTong + 300)-----Mốc nạp
 		-- me.SetTask(9177,1,nDiem_Hoat_Dong + 200)-----Mốc nạp Ngày
-	KDialog.MsgToGlobal("<color=yellow>Người chơi <color=cyan>[ "..me.szName.." ]<color> đã nhận quà TOP 3 Tống Kim AlPhaTest Ngày 1 Đạt 300 Kim Nguyên Bảo xin chúc mừng<color>");
+	KDialog.MsgToGlobal("<color=yellow>Người chơi <color=cyan>[ "..me.szName.." ]<color> đã nhận quà TOP 3 Tống Kim AlPhaTest Đạt 300 Kim Nguyên Bảo và 300 vạn mốc tích nạp thẻ xin chúc mừng<color>");
 end
 
 function tbGift:top3tongkimngay2()
@@ -2069,7 +1999,7 @@ end
 	KDialog.MsgToGlobal("<color=yellow>Người chơi <color=cyan>[ "..me.szName.." ]<color> đã nhận quà TOP 4 Đến 10 Tống Kim AlPhaTest Ngày 2 Đạt 200 Kim Nguyên Bảo xin chúc mừng<color>");
 end
 
-function tbGift:top1120tongkimngay1()
+function tbGift:thuong6ktongkimtest()
     local nNeedBag = 5;
     if me.CountFreeBagCell() < nNeedBag then
         local szAnnouce = "Hành trang yêu cầu "..nNeedBag.." ô trống";
@@ -2091,9 +2021,9 @@ end
 		local nDiem_Hoat_Dong = me.GetTask(9177,1);
 		me.SetTask(9179,7, nCheck + 1);
 		me.AddStackItem(18,1,1338,1,nil,1);----Đại Kim Nguyên Bảo
-		-- me.SetTask(3028,1,nTichLuyTong + 100)-----Mốc nạp
+		me.SetTask(3028,1,nTichLuyTong + 100)-----Mốc nạp
 		-- me.SetTask(9177,1,nDiem_Hoat_Dong + 100)-----Mốc nạp Ngày
-	KDialog.MsgToGlobal("<color=yellow>Người chơi <color=cyan>[ "..me.szName.." ]<color> đã nhận quà TOP 11 đến 20 Tống Kim AlPhaTest Ngày 1 Đạt 100 Kim Nguyên Bảo xin chúc mừng<color>");
+	KDialog.MsgToGlobal("<color=yellow>Người chơi <color=cyan>[ "..me.szName.." ]<color> đã nhận quà Tham Gia Tống Kim AlPhaTest Đạt 6000 điểm Tích Lũy nhận được :\n100 Kim Nguyên Bảo và 100 mốc tích nạp thẻ xin chúc mừng<color>");
 end
 
 function tbGift:top420tongkimngay2()
@@ -5648,7 +5578,16 @@ if nCount >= 1 then
 Dialog:Say("Bạn đã nhận Giftcode rồi, không thể nhận thêm");
 return 0; 
 end
-Dialog:AskString("Nhập Mã Code", 15, self.kiemtragc, self);
+
+me.SetTask(3020,1, nCount + 1);
+-- me.AddItem(21,9,1,1).Bind(1);---Túi 24 Ô
+ me.AddStackItem(18,1,114,7,{bForceBind = 1},1);---HT6
+ 			local nMocNap = me.GetTask(3028,1)
+			me.SetTask(3028,1, nMocNap + 250);
+me.AddBindCoin(15*10000);---Đồng Khóa
+me.AddBindMoney(20*10000);---Bạc Khóa
+
+-- Dialog:AskString("Nhập Mã Code", 15, self.kiemtragc, self);
 end
 
 function tbGift:kiemtragc(nCount1)

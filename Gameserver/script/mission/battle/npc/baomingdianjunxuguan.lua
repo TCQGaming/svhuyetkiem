@@ -194,7 +194,8 @@ function tbBaoJunXu:OnBuyDaoJu()
 end
 
 function tbBaoJunXu:OnBuyYaoByBind()
-	me.OpenShop(14,7);
+	--me.OpenShop(14,7);
+	CTC_7_Thanh:MuaMauNhanh()
 end
 
 function tbBaoJunXu:OnBuyYao()

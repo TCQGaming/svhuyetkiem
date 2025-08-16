@@ -213,12 +213,12 @@ function Tong:_AddKin2Tong(nTongId, cTong, nKinId, nCreateTime, i)
 			cKin.SetTongFigure(self.CAPTAIN_MASTER);
 			cKinMember.AddPersonalStock(self.CREATE_TONG_MONEY);		-- 建帮费用的所有资产都进帮主的口袋了
 			if MODULE_GC_SERVER then
-				KGCPlayer.SetPlayerPrestige(nPlayerId, KGCPlayer.GetPlayerPrestige(nPlayerId) + 100)
+				-- KGCPlayer.SetPlayerPrestige(nPlayerId, KGCPlayer.GetPlayerPrestige(nPlayerId) + 100)
 			end
 		elseif i > 1 then
 			cKin.SetTongFigure(self.CAPTAIN_NORMAL)
 			if MODULE_GC_SERVER then
-				KGCPlayer.SetPlayerPrestige(nPlayerId, KGCPlayer.GetPlayerPrestige(nPlayerId) + 20)
+				-- KGCPlayer.SetPlayerPrestige(nPlayerId, KGCPlayer.GetPlayerPrestige(nPlayerId) + 20)
 			end
 		else		--非创建帮会时加入帮会，族长江湖威望不涨？
 			cKin.SetTongFigure(self.CAPTAIN_NORMAL)

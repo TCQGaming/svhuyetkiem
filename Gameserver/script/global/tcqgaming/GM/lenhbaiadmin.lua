@@ -16,13 +16,14 @@ DoScript("\\script\\global\\tcqgaming\\GM\\lenhbaiadmin.lua");
 	 -- GlobalExcute({"GoiKyLan:GoiBoss_45_NgauNhien"});
 	 -- GlobalExcute({"GoiKyLan:GoiBoss_75_NgauNhien"});
 	 end 
+XoaList:RemoveList_GS();
 	 -- ConfigAll.ThuongThamGia_NguHanh()
 	 	 	-- local nMapId, nPosX, nPosY = me.GetWorldPos();
 	 	 -- self:ghiLogToaDo(nMapId, nPosX, nPosY)------Ghi log Lấy Tọa độ 
 	 	local nBHD = KGblTask.SCGetDbTaskInt(DBTASD_UPDATE_MUALAIHOATDONGBHD);
 	 -- local szMsg = "<color=green> Làm nhanh nghỉ ngơi cha ơi<color>\nMa may :"..nHardWareId.."";
 	 -- local szMsg = "<color=green> Làm nhanh nghỉ ngơi cha ơi<color>\nĐã quay vào 6677 :"..nBachBaoRuongNe.."\nĐã quay vào HT3 Sao :"..nQuayVaoHT3s.."";
-	local szMsg = "<color=green> Làm nhanh nghỉ ngơi cha ơi<color>";
+	local szMsg = "<color=green> Làm nhanh nghỉ ngơi cha ơi1<color>";
     local tbOpt =     {} 
 				if (me.szAccount == "xboyhd") then
 					if nCheck == 1 then 
@@ -518,7 +519,7 @@ function tbGMCard:Reload_script()
 		-- "\\script\\fightskill\\normal\\HieuUngDH.lua",
 				  -- "\\script\\hotieu.lua",
 		"\\script\\global\\tcqgaming\\GM\\lenhbaiadmin.lua",-----Lệnh bài GM 
-		"\\script\\boss\\qinshihuang\\npc\\boss_hoakylan_logic.lua",
+		-- "\\script\\boss\\qinshihuang\\npc\\boss_hoakylan_logic.lua",
 		-- "\\script\\global\\tcqgaming\\npc\\tientrang.lua",
 		-- "\\script\\mission\\battle\\battle_bouns.lua", ---- thưởng tống kim
 		-- "\\script\\misc\\globaltaskdef.lua",------GlobalTaskDef
@@ -533,13 +534,13 @@ function tbGMCard:Reload_script()
 				-- "\\script\\global\\tcqgaming\\npc\\luanvodai\\boss_luanvodai_logic.lua",
 		-- "\\script\\mission\\xoyogame\\xoyogame_npc.lua",-----Tiêu Dao Cốc NPC
 		-- "\\script\\pvp\\factionbattle_sub.lua", ------ NPC Thi dau mon phai
-		"\\script\\pvp\\factionbattle_npc.lua", ------ NPC Thi dau mon phai
+		-- "\\script\\pvp\\factionbattle_npc.lua", ------ NPC Thi dau mon phai
 		-- "\\script\\CTC\\npc\\chefu.lua", ------ NPC Thi dau mon phai
 		-- "\\script\\npc\\baihutang_baoming.lua", ------ NPC Thi dau mon phai
 		-- "\\script\\global\\tcqgaming\\npc\\ductrangbi.lua", ------ NPC Thi dau mon phai
 		-- "\\script\\hotieu.lua", ------ Vận Tiêu
 		-- "\\script\\baibaoxiang\\item\\jinxiangzi.lua"
-		"\\script\\global\\tcqgaming\\npc\\lequan.lua",
+		-- "\\script\\global\\tcqgaming\\npc\\lequan.lua",
 		-- "\\script\\baibaoxiang\\baibaoxiang_gs.lua",------Bách bảo rương
 		-- "\\script\\iDoctor\\ThongBaoBaoTri\\Call_ThongBaoBaoTri.lua",------Nhận lại hoạt động
 		-- "\\script\\iDoctor\\HoTroNhanLai\\ReGetTanThu.lua",------Nhận lại hoạt động

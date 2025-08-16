@@ -9,16 +9,17 @@ function tbNewTest:OnDialog()
 	local tbOpt = 
 	{
 		 {"<color=pink>Trang Sau<color>", self.testtrangsau,self},
+		{"<color=yellow>Nhận Test Full Nhanh 1 Click<color>",self.testfull_1click, self};
 		{"<color=yellow>Nhận Mốc Nạp Test Thử Nghiệm<color>",self.nhantestmocnap, self};
 		{"<color=yellow>Danh Vọng<color>",self.OnDialog_AddRepute, self};
 		{"<color=yellow>Nhận Quan Hàm Và Quan Ấn<color>",self.lsQuanHamQuanAn, self};
 		{"<color=yellow>Nhận Vũ khí +16<color>",self.vukhitest, self};
 		{"<color=yellow>Bộ Cường Hóa +16" , self.DoCuoi16, self};
-		{"<color=yellow>Lãnh Long Hồn Rồng Và Trứng Rồng" , self.longhon, self};
-		{"<color=yellow>Liên Quan Đồng Hành" , self.Donghanh, self};
+		-- {"<color=yellow>Lãnh Long Hồn Rồng Và Trứng Rồng" , self.longhon, self};
+		-- {"<color=yellow>Liên Quan Đồng Hành" , self.Donghanh, self};
 		{"<color=yellow>Liên Quan Chân Nguyên" , self.sachchannguyen, self};
-		{"<color=yellow>Nhận Huy Chương" , self.nhanhuychuong, self};
-		{"<color=yellow>Nhận Ngựa Mốc  Và Mặt Nạ Mốc" , self.nhanthutcq, self};
+		-- {"<color=yellow>Nhận Huy Chương" , self.nhanhuychuong, self};
+		{"<color=yellow>Nhận Ngựa Mốc  Và Mặt Nạ Mốc Tối Đa" , self.nhanthutcq, self};
 	    {"Túi 24 ô" , self.tui24o, self};
 	    {"Danh Bộ Lệnh" , self.DBL9k, self};
 	    {"Vỏ Sò Vàng" , self.RVSV, self};
@@ -34,6 +35,394 @@ function tbNewTest:OnDialog()
 	}
 	Dialog:Say(szMsg,tbOpt)
 end
+
+function tbNewTest:testfull_1click()
+if me.nFaction == 0 then
+Dialog:Say("<color=yellow>Chưa gia nhập môn phái không thể nhận<color>")
+return 
+end
+if me.nRouteId == 0 then
+Dialog:Say("Chưa chọn hệ phái")
+return
+end
+
+local SoCapHuyChuong = me.GetSkillLevel(1992)	
+if SoCapHuyChuong == 40 then 
+Dialog:Say("Huy Chương đã đạt cấp 40 rồi không thể nhận nữa");
+return 0;
+end 
+
+
+
+	local pSignet = me.GetItem(Item.ROOM_EQUIP, Item.EQUIPPOS_SIGNET, 0);
+	if not pSignet then
+		Dialog:Say("Ngươi chưa trang bị <color=yellow>Ngũ Hành Ấn<color> lên người, không thể tăng cấp");
+		return 0;
+	end
+	
+		-- Lấy cấp hiện tại
+	local nLevelCuong = pSignet.GetGenInfo(1 * 2 - 1, 0); -- Cường
+	local nLevelNhuoc = pSignet.GetGenInfo(2 * 2 - 1, 0); -- Nhược
+
+	-- Nếu 1 trong 2 đã max 1000 thì không được nhận
+	if nLevelCuong >= 1000 or nLevelNhuoc >= 1000 then
+		Dialog:Say("Ngũ Hành Ấn đã có 1 chỉ số đạt tối đa 1000, không thể nhận thêm.");
+		return
+	end
+	
+	local pItem = me.GetEquip(Item.EQUIPPOS_ZHENYUAN_MAIN);
+	if not pItem then
+		me.Msg("Ngươi không trang bị Chân Nguyên. Vui lòng trang bị trước khi Tu Luyện");
+		return 0;
+	end
+-----========NÂNG CHÂN NGUYÊN================
+	-- Lấy cấp từng dòng
+	local nLevel1 = pItem.GetGenInfo(1 * 2 - 1, 0);
+	local nLevel2 = pItem.GetGenInfo(2 * 2 - 1, 0);
+	local nLevel3 = pItem.GetGenInfo(3 * 2 - 1, 0);
+	local nLevel4 = pItem.GetGenInfo(4 * 2 - 1, 0);
+
+	-- Nếu 1 trong 4 dòng đã max thì không được nhận
+	if nLevel1 >= 100490 or nLevel2 >= 100490 or nLevel3 >= 100490 or nLevel4 >= 100490 then
+		Dialog:Say("Chân nguyên đã có ít nhất 1 dòng đạt tối đa, không thể tu luyện full.");
+		return 0;
+	end
+
+me.AddFightSkill(1992, 40);---Huy Chuong
+me.Msg("Bạn đã nhận được huy chương cấp bậc 40")
+
+	-- Nâng cấp cả 4 dòng
+	Item:UpgradeZhenYuanNoItem(pItem, 100490, 1);
+	Item:UpgradeZhenYuanNoItem(pItem, 100490, 2);
+	Item:UpgradeZhenYuanNoItem(pItem, 100490, 3);
+	Item:UpgradeZhenYuanNoItem(pItem, 100490, 4);
+	------------ END NÂNG CHÂN NGUYÊN
+	--======Nâng ấn ngũ hành===========
+	-- Cường
+	Item:SetSignetMagic(pSignet, 1, 1000, 0);
+	-- Nhược
+	Item:SetSignetMagic(pSignet, 2, 1000, 0);
+		--======END Nâng ấn ngũ hành===========
+		me.AddStackItem(1,12,20547,10,{bForceBind=1},1) -- ngựa
+	 	me.AddStackItem(1,13,187,10,{bForceBind=1},1)---Mặt nạ cực phẩm
+		me.AddStackItem(18,1,191,1,nil,5);
+me.AddStackItem(18,1,191,2,nil,5);
+me.AddStackItem(18,1,192,1,nil,5);
+me.AddStackItem(18,1,192,2,nil,5);
+	me.SetHonorLevel(10);
+		me.AddTitle(10, 2, 8, 8)
+		local nHe = me.nFaction
+		if nHe == 1 or  nHe == 2 then
+self:QuanAnKim8();
+		elseif  nHe == 3 or nHe == 4 or nHe == 11 then 
+self:QuanAnMoc8();
+
+		elseif  nHe == 5 or nHe == 6 or nHe == 12 then 
+self:QuanAnThuy8();
+		elseif  nHe == 7 or nHe == 8 then 
+self:QuanAnHoa8();
+		elseif  nHe == 9 or nHe == 10 then 
+self:QuanAnTho8();
+		end 
+
+	local tbInfo	= GetPlayerInfoForLadderGC(me.szName);
+	if tbInfo.nSex == 0 and (me.nFaction == 2) and (me.nRouteId == 1) then -- Thiên Vương Thương Nam
+		me.AddItem(1,17,1,10,1);-- vô song nam kim
+self:KimNgoai16()
+        local item10 = me.AddItem(2,1,1337,10,1,16);
+        item10.Bind(1);
+			end
+	if tbInfo.nSex == 1 and (me.nFaction == 2) and (me.nRouteId == 1) then -- Thiên Vương Thương Nữ
+		me.AddItem(1,17,2,10,1);-- vô song nữ kim
+self:KimNgoai161()
+        local item10 = me.AddItem(2,1,1337,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 2) and (me.nRouteId == 2) then -- Thiên Vương Chùy Nam
+				me.AddItem(1,17,1,10,1);-- vô song nam kim
+self:KimNgoai16()
+        local item10 = me.AddItem(2,1,1338,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 2) and (me.nRouteId == 2) then -- Thiên Vương Chùy Nữ
+				me.AddItem(1,17,2,10,1);-- vô song nữ kim
+self:KimNgoai161()
+        local item10 = me.AddItem(2,1,1338,10,1,16);
+        item10.Bind(1);
+		end
+		-------------
+			if tbInfo.nSex == 0 and (me.nFaction == 1) and (me.nRouteId == 1) then -- Thiếu Lâm Nam Đao
+				me.AddItem(1,17,1,10,1);-- vô song nam kim
+self:KimNgoai16()
+        local item10 = me.AddItem(2,1,1335,10,1,16);
+        item10.Bind(1);
+		end
+		    if tbInfo.nSex == 1 and (me.nFaction == 1) and (me.nRouteId == 1) then -- Thiếu Lâm Nữ Đao
+				me.AddItem(1,17,2,10,1);-- vô song nữ kim
+self:KimNgoai161()
+        local item10 = me.AddItem(2,1,1335,10,1,16);
+        item10.Bind(1);
+		end
+		    if tbInfo.nSex == 0 and (me.nFaction == 1) and (me.nRouteId == 2) then -- Thiếu Lâm Nam Bổng
+				me.AddItem(1,17,1,10,1);-- vô song nam kim
+self:KimNgoai16()
+        local item10 = me.AddItem(2,1,1336,10,1,16);
+        item10.Bind(1);
+		end
+		    if tbInfo.nSex == 1 and (me.nFaction == 1) and (me.nRouteId == 2) then -- Thiếu Lâm Nữ Bổng
+				me.AddItem(1,17,2,10,1);-- vô song nữ kim
+self:KimNgoai161()
+        local item10 = me.AddItem(2,1,1336,10,1,16);
+        item10.Bind(1);
+		end
+		---------------
+			if tbInfo.nSex == 0 and (me.nFaction == 3) and (me.nRouteId == 2) then -- ĐMTT Nam
+				me.AddItem(1,17,3,10,1);	-- vô song nam mộc
+self:KimNgoai16()
+        local item10 = me.AddItem(2,2,140,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 3) and (me.nRouteId == 2)then -- ĐMTT Nữ
+				me.AddItem(1,17,4,10,1);	-- vo song nữ Mộc
+self:KimNgoai161()
+        local item10 = me.AddItem(2,2,140,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 3) and (me.nRouteId == 1) then -- ĐMHT Nam
+				me.AddItem(1,17,3,10,1);	-- vô song nam mộc
+			
+self:MocNgoai16()
+        local item10 = me.AddItem(2,2,147,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 3) and (me.nRouteId == 1) then -- ĐMHT Nữ
+				me.AddItem(1,17,4,10,1);	-- vo song nữ Mộc
+self:MocNgoai16()
+        local item10 = me.AddItem(2,2,147,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 4) and (me.nRouteId == 1) then -- 5 Độc Đao Nam
+				me.AddItem(1,17,3,10,1);	-- vô song nam mộc
+self:MocNgoai16()
+        local item10 = me.AddItem(2,1,1339,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1  and (me.nFaction == 4) and (me.nRouteId == 1) then -- 5 Độc Đao Nữ
+				me.AddItem(1,17,4,10,1);	-- vo song nữ Mộc
+
+self:MocNgoai161()
+        local item10 = me.AddItem(2,1,1339,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 4) and (me.nRouteId == 2) then -- 5 Độc Chưởng Nam
+	me.AddItem(1,17,3,10,1);	-- vô song nam mộc
+self:MocNoi16()
+        local item10 = me.AddItem(2,1,1340,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 4) and (me.nRouteId == 2) then -- 5 Độc Chưởng Nữ
+				me.AddItem(1,17,4,10,1);	-- vo song nữ Mộc
+self:MocNoi161()
+        local item10 = me.AddItem(2,1,1340,10,1,16);
+        item10.Bind(1);
+        end
+			if tbInfo.nSex == 0 and (me.nFaction == 11) and (me.nRouteId == 2) then -- MGK Nam
+				me.AddItem(1,17,3,10,1);	-- vô song nam mộc
+self:MocNoi16()
+        local item10 = me.AddItem(2,1,1344,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 11) and (me.nRouteId == 2) then -- MGK Nữ
+				me.AddItem(1,17,4,10,1);	-- vo song nữ Mộc
+self:MocNoi161()
+        local item10 = me.AddItem(2,1,1344,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 11) and (me.nRouteId == 1) then -- Minh Giáo Chùy Nam
+				me.AddItem(1,17,1,10,1);-- vô song nam kim
+self:KimNgoai16()
+        local item10 = me.AddItem(2,1,1338,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 11) and (me.nRouteId == 1) then -- MGC Nữ
+				me.AddItem(1,17,2,10,1);-- vô song nữ kim
+self:KimNgoai161()
+        local item10 = me.AddItem(2,1,1338,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 12) and (me.nRouteId == 2) then -- ĐTK Nam
+				me.AddItem(1,17,5,10,1);	-- vo song thủy nam
+self:ThuyNoi16()
+        local item10 = me.AddItem(2,1,1344,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 12) and (me.nRouteId == 2) then -- ĐTK nữ
+				me.AddItem(1,17,6,10,1);	-- vo song thuy nu 
+self:ThuyNoi161()
+        local item10 = me.AddItem(2,1,1344,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 12) and (me.nRouteId == 1) then -- ĐTC Nam
+				me.AddItem(1,17,5,10,1);	-- vo song thủy nam
+
+self:ThuyNgoai16()
+        local item10 = me.AddItem(2,1,1342,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 12) and (me.nRouteId == 1) then -- ĐTC Nữ
+				me.AddItem(1,17,6,10,1);	-- vo song thuy nu 
+self:ThuyNgoai161()
+        local item10 = me.AddItem(2,1,1342,10,1,16);
+        item10.Bind(1);
+		end
+		if tbInfo.nSex == 0 and (me.nFaction == 5) and (me.nRouteId == 1) then -- Nam Nga Mi Chưởng
+			me.AddItem(1,17,5,10,1);	-- vo song thủy nam
+self:ThuyNoi16()
+        local item10 = me.AddItem(2,1,1343,10,1,16);
+        item10.Bind(1);
+		end
+		if tbInfo.nSex == 1 and (me.nFaction == 5) and (me.nRouteId == 1) then -- Nữ Nga Mi Chưởng
+			me.AddItem(1,17,6,10,1);	-- vo song thuy nu 
+self:ThuyNoi161()
+        local item10 = me.AddItem(2,1,1343,10,1,16);
+        item10.Bind(1);
+		end
+		if tbInfo.nSex == 0 and (me.nFaction == 5) and (me.nRouteId == 2) then -- Nam Nga Mi Kiếm
+			me.AddItem(1,17,5,10,1);	-- vo song thủy nam
+self:ThuyNoi16()
+        local item10 = me.AddItem(2,1,1344,10,1,16);
+        item10.Bind(1);
+		end
+		if tbInfo.nSex == 1 and (me.nFaction == 5) and (me.nRouteId == 2) then -- Nữ Nga Mi Kiếm
+			me.AddItem(1,17,6,10,1);	-- vo song thuy nu 
+self:ThuyNoi161()
+        local item10 = me.AddItem(2,1,1344,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 6) and (me.nRouteId == 2) then -- TYD Nam
+				me.AddItem(1,17,5,10,1);	-- vo song thủy nam
+self:ThuyNgoai16()
+        local item10 = me.AddItem(2,1,1341,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 6) and (me.nRouteId == 2) then -- TYD Nữ
+				me.AddItem(1,17,6,10,1);	-- vo song thuy nu 
+self:ThuyNgoai161()
+        local item10 = me.AddItem(2,1,1341,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 6) and (me.nRouteId == 1) then --TYK Nam
+				me.AddItem(1,17,5,10,1);	-- vo song thủy nam
+self:ThuyNoi161()
+        local item10 = me.AddItem(2,1,1344,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 6) and (me.nRouteId == 1) then --TYK Nữ
+				me.AddItem(1,17,6,10,1);	-- vo song thuy nu 
+self:ThuyNoi161()
+        local item10 = me.AddItem(2,1,1344,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 7) and (me.nRouteId == 1) then -- Cái Bang Rồng Nam
+									me.AddItem(1,17,7,10,1);-- vo song he hoa nam	
+self:HoaNoi16()
+        local item10 = me.AddItem(2,1,1347,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 7) and (me.nRouteId == 1) then -- Cái Bang Rồng Nữ
+				me.AddItem(1,17,8,10,1);-- vo song he hoa nu
+self:HoaNoi161()
+        local item10 = me.AddItem(2,1,1347,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 7) and (me.nRouteId == 2) then -- Cái Bang Bổng Nam
+									me.AddItem(1,17,7,10,1);-- vo song he hoa nam	
+self:HoaNgoai16()
+        local item10 = me.AddItem(2,1,1345,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 7) and (me.nRouteId == 2) then -- Cái Bang Bổng Nữ
+				me.AddItem(1,17,8,10,1);-- vo song he hoa nu
+self:HoaNgoai161()
+        local item10 = me.AddItem(2,1,1345,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and  (me.nFaction == 8) and (me.nRouteId == 2) then -- Ma Nhẫn Nam
+									me.AddItem(1,17,7,10,1);-- vo song he hoa nam	
+self:HoaNoi16()
+        local item10 = me.AddItem(2,1,1348,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 8) and (me.nRouteId == 2) then -- Ma Nhẫn Nữ
+				me.AddItem(1,17,8,10,1);-- vo song he hoa nu
+self:HoaNoi161()
+        local item10 = me.AddItem(2,1,1348,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 8) and (me.nRouteId == 1) then -- Thiên Nhẫn Thương Nam
+						me.AddItem(1,17,7,10,1);-- vo song he hoa nam	
+self:HoaNgoai16()
+        local item10 = me.AddItem(2,1,1346,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 8) and (me.nRouteId == 1) then -- THiên Nhẫn Kích Nữ
+				me.AddItem(1,17,8,10,1);-- vo song he hoa nu
+self:HoaNgoai161()
+        local item10 = me.AddItem(2,1,1346,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 9) and (me.nRouteId == 1) then -- Võ Đang Khí Nam
+				me.AddItem(1,17,9,10,1);	-- vo song he tho nam
+self:ThoNoi16()
+        local item10 = me.AddItem(2,1,1351,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 9) and (me.nRouteId == 1) then -- Võ Đang Khí Nữ
+				me.AddItem(1,17,10,10,1);	--vo song
+self:ThoNoi161()
+        local item10 = me.AddItem(2,1,1351,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0  and  (me.nFaction == 9) and (me.nRouteId == 2) then -- Võ đang kiếm nam
+				me.AddItem(1,17,9,10,1);	-- vo song he tho nam
+self:ThoNgoai16()
+        local item10 = me.AddItem(2,1,1351,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 9) and (me.nRouteId == 2) then  -- Võ đang kiếm nữ
+							me.AddItem(1,17,10,10,1);	--vo song
+self:ThoNgoai161()
+        local item10 = me.AddItem(2,1,1351,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 10) and (me.nRouteId == 2) then -- CLK Nam
+				me.AddItem(1,17,9,10,1);	-- vo song he tho nam
+self:ThoNoi16()
+        local item10 = me.AddItem(2,1,1352,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 10) and (me.nRouteId == 2) then -- CLK Nũ
+							me.AddItem(1,17,10,10,1);	--vo song
+self:ThoNoi161()
+        local item10 = me.AddItem(2,1,1352,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 0 and (me.nFaction == 10) and (me.nRouteId == 1) then -- CLĐ Nam
+				me.AddItem(1,17,9,10,1);	-- vo song he tho nam
+self:ThoNgoai16()
+      local item10 = me.AddItem(2,1,1349,10,1,16);
+        item10.Bind(1);
+		end
+			if tbInfo.nSex == 1 and (me.nFaction == 10) and (me.nRouteId == 1) then -- CLĐ Nữ
+							me.AddItem(1,17,10,10,1);	--vo song
+self:ThoNgoai161()
+      local item10 = me.AddItem(2,1,1349,10,1,16);
+        item10.Bind(1);
+		end
+		
+		
+end 
+
 function tbNewTest:laychuyench()
 	local luotchuyencuonghoa = me.GetTask(3130,1)
 	me.SetTask(3130,1, luotchuyencuonghoa + 10);
@@ -54,13 +443,13 @@ Dialog:Say("Lãnh thành công Huy Chương Bậc 60 Tối Đa F3 Để Xem Thu�
 end 
 
 function tbNewTest:nhanthutcq()
-me.AddItem(1,12,20524,4).Bind(1);--Mốc nạp 75tr thú cưỡi ỨC Vân KTC 150 Kỹ năng phái 1 cấp tăng exp 50% Tài phú 4320
-me.AddItem(1,13,175,10).Bind(1); --- mặt nạ 50tr quân lâm mệnh
+me.AddStackItem(1,12,20547,10,{bForceBind=1},1)
+	 	me.AddStackItem(1,13,187,10,{bForceBind=1},1)---Mặt nạ cực phẩm
 			Dialog:Say("Lãnh thành công");
 end
 
 function tbNewTest:sachchannguyen()
-	me.AddStackItem(18,1,1333,1,nil, 16); -- Đồng Hành Võ Lâm Đảnh Lễ (10 Kỹ Năng) 
+	me.AddStackItem(18,1,1333,1,nil, 4); -- Đồng Hành Võ Lâm Đảnh Lễ (10 Kỹ Năng) 
 	me.AddStackItem(1,24,1,1,nil, 1); -- Chân Nguyên Diệp Tịnh
 	me.AddStackItem(1,24,2,1,nil, 1); -- Chân Nguyên Bảo Ngọc
 	me.AddStackItem(1,24,3,1,nil, 1); -- Chân Nguyên Hạ Tiểu Sảnh
@@ -82,7 +471,7 @@ function tbNewTest:testtrangsau()
 			{"Ngũ Hành Hồn Thạch",self.nguhanhhonthach1v, self};	
 			{"Võ Lâm Mật Tịch-Tẩy Tủy Kinh",self.VLMTMenu,self};
 			{"Vạn Vật Quy Nguyên Đơn Lag 10",self.VanVatQuyNguyenDon,self};
-			{"<color=yellow>Lấy Bản Đồ Vạn Hoa Cốc , Thiên Quỳnh Cung<color>",self.bandovhc,self};
+			-- {"<color=yellow>Lấy Bản Đồ Vạn Hoa Cốc , Thiên Quỳnh Cung<color>",self.bandovhc,self};
 			{"<color=yellow>Tiêu Hủy Đạo Cụ<color>",self.tieuhuydaocu,self};
 		{"Ta Chỉ Xem Qua Thôi..."},
 	}
@@ -188,6 +577,7 @@ end
 function tbNewTest:NhanQuanAn()
 	local szMsg = "<pic=28>Xin chào \n <color=red>"..me.szName.. "<color> <pic=98> \n Bạn đang chơi tại Máy Chủ \nTuyetDinhKT2009.Com";
 	local tbOpt = {
+	
 		{"Nhận Quan ấn Kim",self.QuanAnKim,self};
 		{"Nhận Quan ấn Mộc",self.QuanAnMoc,self};
 		{"Nhận Quan ấn Thủy",self.QuanAnThuy,self};
@@ -890,15 +1280,16 @@ function tbNewTest:VLMTMenu()
 end
 
 function tbNewTest:TTK()
-me.AddStackItem(18,1,2029,2,nil,15);
+-- me.AddStackItem(18,1,2029,2,nil,15);
 me.AddStackItem(18,1,192,1,nil,5);
 me.AddStackItem(18,1,192,2,nil,5);
 end
 
 function tbNewTest:VLMT()
-me.AddStackItem(18,1,2029,1,nil,15);
+-- me.AddStackItem(18,1,2029,1,nil,15);
 me.AddStackItem(18,1,191,1,nil,5);
 me.AddStackItem(18,1,191,2,nil,5);
+
 end
 
 

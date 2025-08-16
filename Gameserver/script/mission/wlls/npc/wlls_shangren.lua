@@ -41,7 +41,8 @@ function tbNpc:OnBuyYao()
 end
 
 function tbNpc:OnBuyYaoByBind()
-	me.OpenShop(14,7);
+--	me.OpenShop(14,7);
+	CTC_7_Thanh:MuaMauNhanh()
 end
 
 -- 买菜

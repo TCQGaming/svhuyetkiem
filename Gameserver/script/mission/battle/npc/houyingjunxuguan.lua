@@ -22,13 +22,13 @@ function tbJunXu:OnDialog(szCamp)
 	
 	if not GLOBAL_AGENT then
 		tbOpt = {
-			{"<color=gold>[Bạc Khóa]<color>Dược phẩm", self.OnBuyYaoByBind, self},
+		--	{"<color=gold>[Bạc Khóa]<color>Dược phẩm", self.OnBuyYaoByBind, self},
 			{"<color=gold>[Mua máu]<color> Toàn tổ đội<color>", self.OnMuaMauNhanh, self},
-			{"Dược phẩm", self.OnBuyYao, self},
+		--	{"Dược phẩm", self.OnBuyYao, self},
 			{"<color=gold>[Bạc Khóa]<color>Thực phẩm", self.OnBuyCaiByBind, self},
 			{"Thực phẩm", self.OnBuyCai, self},
 			--{"Nhận quân nhu", tbBaoJunXu.OnGetJunXuMed, tbBaoJunXu},
-			{"Nhận Quân Nhu Free", self.quannhu,self},
+		--	{"Nhận Quân Nhu Free", self.quannhu,self},
 			{"Rời khỏi nơi đây", self.OnLeaveSay, self},
 			{"Kết thúc đối thoại"},
 		};
@@ -109,7 +109,8 @@ function tbJunXu:OnBuyYao()
 end
 
 function tbJunXu:OnBuyYaoByBind()
-	me.OpenShop(14,7);
+	---me.OpenShop(14,7);
+	CTC_7_Thanh:MuaMauNhanh()
 end
 
 -- 买菜

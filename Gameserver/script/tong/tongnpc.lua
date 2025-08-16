@@ -24,9 +24,15 @@ function Tong:DlgCreateTong(bConfirm, szTong, nCamp)
 		Dialog:Say("Bạn đã có Bang hội,không thể lập Bang")
 		return 0
 	end
-	local nCountt = me.GetTask(3028,1)
-	if nCountt < 1000 then
-		Dialog:Say(string.format("Để làm<color=yellow> Bang Chủ Các hạ phải đạt mốc tích lũy nạp đồng 1000 vạn trở lên"));
+	-- local nCountt = me.GetTask(3028,1)
+	-- if nCountt < 1000 then
+		-- Dialog:Say(string.format("Để làm<color=yellow> Bang Chủ Các hạ phải đạt mốc tích lũy nạp đồng 1000 vạn trở lên"));
+		-- return 0;
+	-- end
+		local nTichNapThucTe = me.GetTask(9173,1)
+	if (nTichNapThucTe < 1000) then
+		local szFailDesc = "Bạn chưa nạp thẻ đủ 500k VNĐ không thể làm Bang Chủ";
+		Dialog:Say(szFailDesc);
 		return 0;
 	end
 	local anKinId = {}

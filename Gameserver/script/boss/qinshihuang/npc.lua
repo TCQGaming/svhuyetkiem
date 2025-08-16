@@ -112,11 +112,7 @@ end
 
 -- mua thuốc 
 function tbF1_Npc_1:OnBuyYaoByBind()
-	me.OpenShop(14,7);
-end
-
-function tbF2_Npc_1:OnBuyYaoByBind()
-	me.OpenShop(14,7);
+CTC_7_Thanh:MuaMauNhanh()
 end
 
 -- mua thức ăn 

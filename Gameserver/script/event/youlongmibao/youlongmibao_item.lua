@@ -14,7 +14,7 @@ function tbItem:OnUse()
 	-- 城市和新手村
 	local nCount = me.GetTask(2106, 14);
 	local nNgayMoSV = DietQuai:NgayMoMayChu();
-	local nMaxDuLong = 15 * nNgayMoSV;
+	local nMaxDuLong = 50 * nNgayMoSV;
 	local szMapClass = GetMapType(me.nMapId) or "";
 	if szMapClass ~= "village" and szMapClass ~= "city" then
 		me.Msg("Chiến thư du long chỉ dùng được ở Tân Thủ Thôn và các thành thị.");
@@ -39,7 +39,7 @@ function tbItem:OnUse()
 		{"Kết thúc đối thoại"},
 	};
 	
-	Dialog:Say("Bạn muốn vào mật thất du long ?\nMỗi ngày bạn có thể khiêu chiến 15 lượt và nếu không đi sẽ tích lũy\nMáy chủ <color=yellow>S1 Bích Huyết Kiếm<color> đã mở "..nNgayMoSV.." ngày\nTổng Số lượt đã khiêu chiến <color=yellow> "..nCount.."/"..nMaxDuLong.."", tbOpt);
+	Dialog:Say("Bạn muốn vào mật thất du long ?\nMỗi ngày bạn có thể khiêu chiến 50 lượt và nếu không đi sẽ tích lũy\nMáy chủ <color=yellow>S1 Bích Huyết Kiếm<color> đã mở "..nNgayMoSV.." ngày\nTổng Số lượt đã khiêu chiến <color=yellow> "..nCount.."/"..nMaxDuLong.."", tbOpt);
 	
 	return 0;
 end
